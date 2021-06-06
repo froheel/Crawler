@@ -1,6 +1,6 @@
 # Crawler
-A Web crawler designed to download .xml files from the urls it visits. Python and it's libraries are used.
-Jupyter notebook has been used.
+A Web crawler designed to download .xml files from the urls it visits.
+Python along with Jupyter notebook is used and the relevant libraries are imported.
 
 ## URL Frontier 
 1) Takes in seed urls and implements front queue and back queues. 
