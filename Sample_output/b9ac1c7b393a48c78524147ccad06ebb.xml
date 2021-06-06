@@ -1,0 +1,448 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Developer Community Newsletters | Oracle</title>
+      	<meta name="description" content="Subscribe to Oracle Developer Community Newsletters">
+		<meta itemprop="name" content="Developer Community Newsletters | Oracle">
+		<meta itemprop="description" content="Subscribe to Oracle Developer Community Newsletters">
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:title" content="Developer Community Newsletters | Oracle">
+		<meta name="twitter:description" content="Subscribe to Oracle Developer Community Newsletters">
+		<meta name="og:title" content="Developer Community Newsletters | Oracle">
+		<meta name="og:description" content="Subscribe to Oracle Developer Community Newsletters">
+		<meta name="og:type" content="website">
+		<link id="CSS001" type="text/css" href="//www.oracle.com/webfolder/s/dm/templates/responsive-cb-v2.css" rel="stylesheet">
+		<link rel="stylesheet" href="//www.oracle.com/webfolder/s/dm/st/css/eloqua-subscription-pages.css">
+		<script type="text/javascript" src="//www.oracle.com/webfolder/s/dm/st/js/jquery-191-internal.min.js"></script>
+		<script src="//img03.en25.com/Web/OracleAmericaInc/{e5ab5497-18ba-4503-b98a-ab4bf38ce166}_cloud-GenericFormFields-Production-20180413.js"></script>
+		<script id="JSD001" type="text/javascript">var countryCode = "us"; var languageCode = "en-us";</script>
+		<script id="JS001" type="text/javascript" src="//www.oracle.com/webfolder/s/dm/templates/responsive-tb-footer.js"></script>
+		<script id="JS002" type="text/javascript" src="//img03.en25.com/i/livevalidation_standalone.compressed.js"></script>
+		<script src="//img03.en25.com/Web/OracleAmericaInc/{cbdf335a-4c83-444e-aef1-f8e3c0c362cf}_Country_LOV1.js" type="text/javascript"></script>
+		<script src="//www.oracle.com/webfolder/s/delivery_production/docs/FY16h1/doc24/optinmay12th.js" type="text/javascript"></script>
+        <!-- DTM Code Starts - Added on 18DEC17 -->
+	    <script type="text/javascript" src="https://www.oracle.com/webfolder/s/dm/templates/external-master-script.js"></script>
+        <!-- DTM Code Ends -->
+      	<style>
+          .pp-disclaimer-txt2{margin-top:0px;}
+          @media screen and (max-width: 599px) {.nl-disclaimer-txt{width: 90%;}}
+          .tp-footer{background-color: #003b4d; height: 105px;}
+      	</style>
+		<script type="text/javascript">
+			/* JAVASCRIPT - URL PARAMETER CAPTURE - STARTS */
+			function getParameterByName(name, url) {
+				if (!url) url = window.location.href;
+				name = name.replace(/[\[\]]/g, "\\$&");
+				var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)", "i"),
+				results = regex.exec(url);
+				if (!results) return null;
+				if (!results[2]) return '';
+				return decodeURIComponent(results[2].replace(/\+/g, " "));
+			}
+			var paramSRC1 = getParameterByName('src1');
+			if(paramSRC1){paramSRC1=paramSRC1.toLowerCase();}
+			  else{ paramSRC1 = "";}
+			var paramSRC2 = getParameterByName('src2');
+			if(paramSRC2){paramSRC2=paramSRC2.toLowerCase();}
+			  else {paramSRC2 = "";}
+			var paramElqCampId = getParameterByName('elqCampaignId');
+			if(paramElqCampId){paramElqCampId=paramElqCampId.toLowerCase();}
+			else {paramElqCampId = "124071";}
+			if(paramElqCampId === "38358"){paramElqCampId = "124071";}
+			var paramCMID = getParameterByName('cmid');
+			if(paramCMID){paramCMID=paramCMID.toLowerCase();}
+			  else {paramCMID = "";}
+			var paramlCode = getParameterByName('l_code');
+			if(paramlCode){paramlCode=paramlCode.toLowerCase();}
+			 else {paramlCode = "";}
+			var paramELQ = getParameterByName('elq');
+			if(paramELQ){paramELQ=paramELQ.toLowerCase();}
+			  else {paramELQ = "";}
+			var paramElqMid = getParameterByName('elq_mid');
+			if(paramElqMid){paramElqMid=paramElqMid.toLowerCase();}
+			 else{paramElqMid = "";}
+			var paramSH = getParameterByName('sh');
+			if(paramSH){paramSH=paramSH.toLowerCase();}
+			  else {paramSH = "";}
+		
+			window.onload = function() {
+			var fieldArray =["field20","field21","field22","field23","field24","field25","field26","field27","field28"];
+			var valueArray =[document.referrer,paramSRC1,paramSRC2,paramElqCampId,paramCMID,paramELQ,paramElqMid,paramSH,paramlCode];
+			for(var i=0;i<fieldArray.length;i++)
+			{
+			document.getElementById(fieldArray[i]).value = valueArray[i];
+			}
+			/*	document.getElementById('field20').value = document.referrer;
+				document.getElementById('field21').value = paramSRC1;
+				document.getElementById('field22').value = paramSRC2;
+				document.getElementById('field23').value = paramElqCampId;
+				document.getElementById('field24').value = paramCMID;
+				document.getElementById('field25').value = paramELQ;
+				document.getElementById('field26').value = paramElqMid;
+				document.getElementById('field27').value = paramSH;
+				document.getElementById('field28').value = paramlCode;*/
+			};
+			/* JAVASCRIPT - URL PARAMETER CAPTURE - ENDS */	
+			/* JAVASCRIPT - GENERATE SELECTLIST & LOAD COUNTRY_LOVS FROM JSON - STARTS */ 
+			var myLang;
+			function loadCountry(CountryLOvs) {
+				myLang="en-us";
+				var myDiv = document.getElementById("countryDiv");
+				var countryLength = CountryLOvs.Countries[myLang].length;
+				//Create and append select list
+				var selectList = document.createElement("select");
+				selectList.id = "country";
+				selectList.name = "country";
+				selectList.className = "pp-input-glow selectclass selectDiv selectDefault";
+				selectList.setAttribute("onchange", "onChangeCountry(this.options[this.selectedIndex].value,0);GetSelectedValue(this);"); // setDisclaimer();
+				myDiv.appendChild(selectList);
+				var option = document.createElement("option");
+				option.value = "";
+				option.text = "Country"
+				option.setAttribute("selected","selected")
+				selectList.appendChild(option);
+				//Create and append the options
+				for (var i = 0; i < countryLength; i++) {
+					var option = document.createElement("option");
+					option.value = CountryLOvs["Countries"][myLang][i].id;
+					option.text = CountryLOvs["Countries"][myLang][i].value;
+					if(/[a-z]/i.test(option.text)==false){
+						option.setAttribute("disabled","disabled");
+					}
+					selectList.appendChild(option);
+				}
+				$("#countryDiv").append('<span id="country-error" class="text-content select-box-error"></span>');
+			}
+			/* JAVASCRIPT - GENERATE SELECTLIST & LOAD COUNTRY_LOVS FROM JSON - ENDS */
+			/* JAVASCRIPT - LOAD DISCLAIMERS - STARTS */	
+			function RUKOlabel() {
+				document.getElementById('defaultdis').innerHTML = TranslateArr.formFields[myLang][0].gendiscField1 + ' ' + '<a href="' + TranslateArr.formFields[myLang][0].gendiscField2URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].gendiscField2 + '</a>' +TranslateArr.formFields[myLang][0].gendiscField3 + '<a href="' + TranslateArr.formFields[myLang][0].gendiscField4URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].gendiscField4 + '</a>' +TranslateArr.formFields[myLang][0].gendiscField5;
+				document.getElementById('RUtext1').innerHTML = "&nbsp;" + TranslateArr.formFields[myLang][0].RUdisc1Field1+'<a href="' + TranslateArr.formFields[myLang][0].RUdisc1Field2URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].RUdisc1Field2 + '</a>'+TranslateArr.formFields[myLang][0].RUdisc1Field3+'<a href="' + TranslateArr.formFields[myLang][0].RUdisc1Field4URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].RUdisc1Field4+ '</a>'+TranslateArr.formFields[myLang][0].RUdisc1Field5;
+				document.getElementById('RUtext2').innerHTML = "&nbsp;" + TranslateArr.formFields[myLang][0].RUdisc2Field1+'<a href="' + TranslateArr.formFields[myLang][0].RUdisc2Field2URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].RUdisc2Field2+ '</a>'+TranslateArr.formFields[myLang][0].RUdisc2Field3+'<a href="' + TranslateArr.formFields[myLang][0].RUdisc2Field4URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].RUdisc2Field4+ '</a>'+TranslateArr.formFields[myLang][0].RUdisc2Field5;
+				document.getElementById('JPtext1').innerHTML = "&nbsp;" + TranslateArr.formFields[myLang][0].JPdiscField1+'<a href="' + TranslateArr.formFields[myLang][0].JPdiscField2URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].JPdiscField2 + '</a>'+TranslateArr.formFields[myLang][0].JPdiscField3+'<a href="' + TranslateArr.formFields[myLang][0].JPdiscField4URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].JPdiscField4+ '</a>'+TranslateArr.formFields[myLang][0].JPdiscField5;
+				document.getElementById('KOtext1').innerHTML = "&nbsp;" + TranslateArr.formFields[myLang][0].KOdisc1Field1+'<a href="' +TranslateArr.formFields[myLang][0].KOdisc1Field2URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].KOdisc1Field2+ '</a>'+TranslateArr.formFields[myLang][0].KOdisc1Field3;
+				document.getElementById('KOtext2').innerHTML = "&nbsp;" + TranslateArr.formFields[myLang][0].KOdisc2Field1+'<a href="' +TranslateArr.formFields[myLang][0].KOdisc2Field2URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].KOdisc2Field2+'</a>'+TranslateArr.formFields[myLang][0].KOdisc2Field3;
+				document.getElementById('KOtext3').innerHTML = "&nbsp;" + TranslateArr.formFields[myLang][0].KOdisc3Field1+'<a href="' +TranslateArr.formFields[myLang][0].KOdisc3Field2URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].KOdisc3Field2+ '</a>'+TranslateArr.formFields[myLang][0].KOdisc3Field3;
+				document.getElementById('KOtext4').innerHTML = "&nbsp;" + TranslateArr.formFields[myLang][0].KOdisc4Field1+'<a href="' +TranslateArr.formFields[myLang][0].KOdisc4Field2URL+ '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].KOdisc4Field2+ '</a>'+TranslateArr.formFields[myLang][0].KOdisc4Field3;		
+				document.getElementById('PHtext1').innerHTML = "&nbsp;"+TranslateArr.formFields[myLang][0].PHdisc1Field1+'<a href="' +TranslateArr.formFields[myLang][0].PHdisc1Field2URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].PHdisc1Field2+ '</a>'+TranslateArr.formFields[myLang][0].PHdisc1Field3+'<a href="' +TranslateArr.formFields[myLang][0].PHdisc1Field4URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].PHdisc1Field4+ '</a>'+TranslateArr.formFields[myLang][0].PHdisc1Field5;		
+				document.getElementById('PHtext2').innerHTML = "&nbsp;"+TranslateArr.formFields[myLang][0].PHdisc2Field1+'<a href="' +TranslateArr.formFields[myLang][0].PHdisc2Field2URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].PHdisc2Field2+ '</a>'+TranslateArr.formFields[myLang][0].PHdisc2Field3+'<a href="' +TranslateArr.formFields[myLang][0].PHdisc2Field4URL + '" target="_blank" style="color:#1F4F82">' +TranslateArr.formFields[myLang][0].PHdisc2Field4+ '</a>'+TranslateArr.formFields[myLang][0].PHdisc2Field5;
+			}
+			/* JAVASCRIPT - LOAD DISCLAIMERS - ENDS */
+			function onChangeCountry(countryValue,opt){
+				var s=document.getElementById('country').value;
+				print_optinmessage(countryValue, 'OptinDIV'); 
+				if(opt==1){
+					GetSelectedValue(s);
+				}
+			} 
+			/* JAVASCRIPT - HIDE/SHOW DYNAMIC_FIELDS ON SECTION OF COUNTRY - ENDS */	
+			/* JAVASCRIPT - SHOW/HIDE RUSSIAN/KOREAN DISCLAIMERS - STARTS */
+			function GetSelectedValue(selectValue) {
+				var selectedValue = selectValue.value;
+				var div_defaultdis = document.getElementById("defaultdis");
+				var div_russia = document.getElementById("russiadis");
+				var div_japan = document.getElementById("japandis");
+                var div_ph = document.getElementById("phdis");
+				var div_korea = document.getElementById("koreadis");
+				if(selectedValue == "RU"){
+					div_defaultdis.style.display = "none";
+					div_korea.style.display = "none";
+                    div_japan.style.display="none";
+                    div_ph.style.display="none";
+					div_russia.style.display = "block";
+					$('#RU_CHK1').attr('disabled', false);
+					$('#RU_CHK2').attr('disabled', false);
+					$('#JP_CHK1').attr('disabled', true);
+					$('#KO_CHK1').attr('disabled', true);
+					$('#KO_CHK2').attr('disabled', true);
+					$('#KO_CHK3').attr('disabled', true);
+					$('#KO_CHK4').attr('disabled', true);
+				}
+				else if(selectedValue == "TR"){
+					div_defaultdis.style.display = "none";
+					div_korea.style.display = "none";
+                    div_japan.style.display="none";
+                    div_ph.style.display="none";
+					div_russia.style.display = "block";
+					$('#RU_CHK1').attr('disabled', false);
+					$('#RU_CHK2').attr('disabled', false);
+					$('#JP_CHK1').attr('disabled', true);
+					$('#KO_CHK1').attr('disabled', true);
+					$('#KO_CHK2').attr('disabled', true);
+					$('#KO_CHK3').attr('disabled', true);
+					$('#KO_CHK4').attr('disabled', true);
+				}
+				else if(selectedValue == "KR"){
+					div_defaultdis.style.display = "none";
+					div_russia.style.display = "none";
+                    div_japan.style.display="none";
+                  	div_ph.style.display="none";
+					div_korea.style.display = "block";
+					$('#RU_CHK1').attr('disabled', true);
+					$('#RU_CHK2').attr('disabled', true);
+					$('#JP_CHK1').attr('disabled', true);
+					$('#KO_CHK1').attr('disabled', false);
+					$('#KO_CHK2').attr('disabled', false);
+					$('#KO_CHK3').attr('disabled', false);
+					$('#KO_CHK4').attr('disabled', false);
+				}
+				else if(selectedValue == "JP"){
+					div_defaultdis.style.display = "none";
+					div_russia.style.display = "none";
+					div_korea.style.display = "none";
+                    div_japan.style.display="block";
+                  	div_ph.style.display="none";
+					RU_CHK1.disable();
+					RU_CHK2.disable();
+					JP_CHK1.enable();
+					KO_CHK1.disable();
+					KO_CHK2.disable();
+					KO_CHK3.disable();
+					KO_CHK4.disable();
+				}
+				else if(selectedValue == "PH"){
+					div_defaultdis.style.display = "none";
+					div_russia.style.display = "none";
+					div_korea.style.display = "none";
+                    div_japan.style.display="none";
+                  	div_ph.style.display="block";
+					RU_CHK1.disable();
+					RU_CHK2.disable();
+					JP_CHK1.disable();
+					KO_CHK1.disable();
+					KO_CHK2.disable();
+					KO_CHK3.disable();
+					KO_CHK4.disable();
+				}
+				else {
+					div_russia.style.display = "none";
+					div_korea.style.display = "none";
+                  	div_ph.style.display="none";
+                    div_japan.style.display="none";
+					div_defaultdis.style.display = "block";
+					RU_CHK1.disable();
+					RU_CHK2.disable();
+					JP_CHK1.disable();
+					KO_CHK1.disable();
+					KO_CHK2.disable();
+					KO_CHK3.disable();
+					KO_CHK4.disable();
+				}
+			}  
+			/* JAVASCRIPT - SHOW/HIDE RUSSIAN/KOREAN DISCLAIMERS - ENDS */
+			function loadOptinlabel(){
+				document.getElementById('optintxtS').innerHTML = "&nbsp;&nbsp;" + TranslateArr.formFields[myLang][0].optinField1;
+			} 
+		</script>
+	</head>
+	<body>
+		<div class="menu">
+			<img src="https://www.oracle.com/a/ocom/img/dc/logo-163x60.png" alt="oracle-logo">
+		</div>
+		<div class="content">
+			<div class="content-head">
+				<img src="//www.oracle.com/webfolder/s/dm/st/images/lp-mail-icon-plus.png" alt="email-icon">
+				<p>Subscribe to Oracle Developer Community Newsletters</p>
+			</div>
+		<div class="content-form">
+			<form method="post" name="SysOTNSubForm" action="https://go.oracle.com/e/f2" onsubmit="setTimeout(function(){if(document.querySelector){var s=document.querySelector('form#form837 input[type=submit]');if(s){s.disabled=true;}}},100);" id="form837" class="elq-form"><!--return true;-->
+				<input type="hidden" name="elqFormName" value="SysOTNSubForm">
+				<input type="hidden" name="elqSiteID" value="1973398186">
+				
+				<ul class="subscription-form-wrap">
+					<li>
+                      <label>Business Email<!--<span class="required-icon">*</span>--></label>
+						<div class="right-fields-wrap">
+							<!-- onkeyup="validateFields(this);" -->
+							<input type="text" name="emailaddress" placeholder="Business Email" id="field0" class="input-custom" autocomplete="off"><span id="innericon"></span>
+						</div><!--<span id="outericon"></span>--><span class="LV_validation_message LV_invalid" id="LV_syntax" style="display:none;"></span>
+					</li>
+					<li>
+						<label>Country<!--<span class="required-icon">*</span>--></label><div class="right-fields-wrap"><div class="column-half" id="countryDiv">
+						</div></div><script> loadCountry(CountryLOvs); </script>
+					</li>
+				</ul>
+				<div class="content-style">
+					<p class="big-text">
+                  <span style="font-weight:bold">Monthly digests of technical articles, interviews, product news, and event listings from the community management team.</span>
+				</p>
+					<ul class="subscription-form-wrap1">
+						
+						<li>
+							<input type="checkbox" name="otnDat" class="check-box" id="chkDat" value="Y" onclick="validateChks();">
+                          <label for="chkDat" class="check-box-title"><span style="color:#646464;">Database</span></label>
+							<p class="small-text">For database administrators, developers, DevOps specialists and data scientists using Oracle Database and its related software tools and development languages.</p>
+						</li>
+						<li>
+							<input type="checkbox" name="otnDev" class="check-box" id="chkDev" value="Y" onclick="validateChks();">
+                          <label for="chkDev" class="check-box-title"><span style="color:#646464;"><a href="https://www.oracle.com/us/corporate/newsletter/archive/archives-developer-3848912.html?elqTrackId=917b5fa8ca054257a704b095f120e269&elqaid=29630&elqat=2" target="_blank">Developer</a></span></label>
+                          <p class="small-text">Get the latest news and how-to articles on cloud-native development, Java and other languages, open source tools, middleware, databases, Kubernetes, APEX, DevOps, careers and conferences.</p> <!--View archives <a href="https://www.oracle.com/us/corporate/newsletter/archive/archives-developer-3848912.html?elqTrackId=917b5fa8ca054257a704b095f120e269" target="_blank">here</a>.</p>-->
+						</li>
+						<li>
+							<input type="checkbox" name="otnJav" class="check-box" id="chkJav" value="Y" onclick="validateChks();">
+                          <label for="chkJav" class="check-box-title"><span style="color:#646464;">Java</span></label>
+							<p class="small-text">For Java developers covering the Java platform and Oracle's Java-based middleware and Java IDEs.</p>
+						</li>
+						<li>
+							<input type="checkbox" name="otnSys" class="check-box" id="chkSys" value="Y" onclick="validateChks();">
+                          <label for="chkSys" class="check-box-title"><span style="color:#646464;">Systems</span></label>
+							<p class="small-text">For developers and IT solution providers of Oracle Linux and Solaris platforms including Systems Tools, Engineered Systems and hardware.</p>
+						</li>
+						<li>
+							<input type="checkbox" name="otnNet" class="check-box" id="chkNet" value="Y" onclick="validateChks();">
+                          <label for="chkNet" class="check-box-title"><span style="color:#646464;">.NET</span></label>
+							<p class="small-text">For .NET developers covering Oracle Database and Oracle Cloud-based development.</p>
+						</li>
+					</ul>
+					<span class="LV_validation_message LV_invalid" style="display:none;" id="chk-error">Please select at least one newsletter.</span>
+				</div>
+				<!-- Marketing Optin STARTS -->
+				
+              
+              <div class="form-row">
+						<div id="OptinDIV" style="display:none; padding-bottom: 0px; color:#666666;" class="pp-disclaimer-txt2 nl-disclaimer">
+							<label class="label-checkbox" for="OptIn_CHK">
+							<input type="checkbox" name="marketingOptIn" id="OptIn_CHK" value="Y" class="check-box"><label class="check-box-title" for="OptIn_CHK"></label>
+							</label><span id="optintxtS" class="nl-disclaimer-txt" style="font-size:13px; vertical-align:top;color:#646464"></span>
+						</div>
+					</div>
+              
+              
+				<!-- Marketing Optin ENDS --> 
+				<!-- DISCLAIMERS START --> 
+				<div class="form-row">
+					<div class="pp-disclaimer-txt2 nl-disclaimer">
+                     <div class="disclaimer-text">
+                        Emails are sent even if you have unsubscribed from other Oracle communications. To unsubscribe from a newsletter, click the Unsubscribe link at the bottom of the newsletter.
+                    </div><br>
+                     <div id="defaultdis" class="disclaimer-text"></div>
+                      	<div id="russiadis" class="disclaimer-text" style="display:none">  
+							<label class="label-checkbox" style="vertical-align:bottom;"><input type="checkbox" value="Y" name="RU_CHK1" id="RU_CHK1"><label class="check-box-title" for="RU_CHK1"></label></label><span id='RUtext1' class="nl-disclaimer-txt">  </span> <br> <span id="cb_err_msg1"> </span> <br>                                
+							<label class="label-checkbox" style="vertical-align:bottom;"><input type="checkbox" value="Y" name="RU_CHK2" id="RU_CHK2"><label class="check-box-title" for="RU_CHK2"></label></label><span id='RUtext2' class="nl-disclaimer-txt">  </span> <br> <span id="cb_err_msg2"> </span> <br>
+						</div>
+                      	<div id="japandis" class="disclaimer-text" style="display:none">  
+							<label class="label-checkbox" style="vertical-align:bottom;"><input type="checkbox" value="Y" name="JP_CHK1" id="JP_CHK1"><label class="check-box-title" for="JP_CHK1"></label></label><span id='JPtext1' class="nl-disclaimer-txt">  </span> <br> <span id="cb_err_msg7"> </span> <br>         
+						</div>
+						<div id="koreadis" class="disclaimer-text" style="display:none">
+							<label class="label-checkbox" style="vertical-align:bottom;"><input type="checkbox" value="Y" name="KRS_CHK" id="KO_CHK1"><label class="check-box-title" for="KO_CHK1"></label></label><span id='KOtext1' class="nl-disclaimer-txt">  </span> <br> <span id="cb_err_msg3"> </span> <br>
+							<label class="label-checkbox" style="vertical-align:bottom;"><input type="checkbox" value="Y" name="KRS_CHK" id="KO_CHK2"><label class="check-box-title" for="KO_CHK2"></label></label><span id='KOtext2' class="nl-disclaimer-txt">  </span> <br> <span id="cb_err_msg4"> </span> <br>
+							<label class="label-checkbox" style="vertical-align:bottom;"><input type="checkbox" value="Y" name="KRS_CHK" id="KO_CHK3"> <label class="check-box-title" for="KO_CHK3"></label></label><span id='KOtext3' class="nl-disclaimer-txt">  </span> <br> <span id="cb_err_msg5"> </span> <br>
+							<label class="label-checkbox" style="vertical-align:bottom;"><input type="checkbox" value="Y" name="KRS_CHK" id="KO_CHK4"> <label class="check-box-title" for="KO_CHK4"></label></label><span id='KOtext4' class="nl-disclaimer-txt">  </span> <br> <span id="cb_err_msg6"> </span> <br></div>		
+	                     <div id="phdis" style="display:none; font-family:Arial, Helvetica, sans-serif; font-weight:normal; font-size:11px; color:#666666">		
+	                        <span id='PHtext1'></span><br><br>		
+	                        <span id='PHtext2'></span><br><br>		
+						</div>
+					</div>
+				</div>
+				<!-- DISCLAIMERS END -->
+				<input type="hidden" value="" name="refURL" id="field20">
+				<input type="hidden" value="" name="src1" id="field21">
+				<input type="hidden" value="" name="src2" id="field22">
+				<input type="hidden" value="124071" name="elqCampaignId" id="field23">
+				<input type="hidden" value="" name="cmid" id="field24">
+				<input type="hidden" value="" name="elq" id="field25">
+				<input type="hidden" value="" name="elq_mid" id="field26">
+				<input type="hidden" value="" name="sh" id="field27">
+				<input type="hidden" value="" name="l_code" id="field28">
+              	<input id="field29" type="hidden" name="lpid" value="29630">
+				<div class="sub-btn">
+					<input type="submit" id="submitBtn" value="Subscribe" onclick="return validateChks();">
+				</div>
+				<script type="text/javascript">loadOptinlabel(); RUKOlabel();</script>
+			</form>
+		</div>
+		<div class="tp-footer"></div>
+		</div>
+		<script type="text/javascript">
+			$(window).load(function() {
+				DrawFooter();
+			});
+			var RU_CHK1 = new LiveValidation( 'RU_CHK1', {insertAfterWhatNode:"cb_err_msg1"} );
+			RU_CHK1.add(Validate.Acceptance, {failureMessage: TranslateArr.formFields[myLang][0].validationField3});
+			var RU_CHK2 = new LiveValidation( 'RU_CHK2', {insertAfterWhatNode:"cb_err_msg2"} );
+			RU_CHK2.add(Validate.Acceptance, {failureMessage: TranslateArr.formFields[myLang][0].validationField3});
+			var KO_CHK1 = new LiveValidation( 'KO_CHK1', {insertAfterWhatNode:"cb_err_msg3"} );
+			KO_CHK1.add(Validate.Acceptance, {failureMessage: TranslateArr.formFields[myLang][0].validationField3});
+			var KO_CHK2 = new LiveValidation( 'KO_CHK2', {insertAfterWhatNode:"cb_err_msg4"} );
+			KO_CHK2.add(Validate.Acceptance, {failureMessage: TranslateArr.formFields[myLang][0].validationField3});
+			var KO_CHK3 = new LiveValidation( 'KO_CHK3', {insertAfterWhatNode:"cb_err_msg5"} );
+			KO_CHK3.add(Validate.Acceptance, {failureMessage: TranslateArr.formFields[myLang][0].validationField3});
+			var KO_CHK4 = new LiveValidation( 'KO_CHK4', {insertAfterWhatNode:"cb_err_msg6" } );
+			KO_CHK4.add(Validate.Acceptance, {failureMessage: TranslateArr.formFields[myLang][0].validationField3});
+			var JP_CHK1 = new LiveValidation( 'JP_CHK1', {insertAfterWhatNode:"cb_err_msg7" } );
+			JP_CHK1.add(Validate.Acceptance, {failureMessage: TranslateArr.formFields[myLang][0].validationField3});
+			var dom0 = document.querySelector('#form837 #field0');
+			var field0 = new LiveValidation(dom0, {
+				validMessage: "", onlyOnBlur: false, wait: 300}
+			);
+			field0.add(Validate.Presence, {
+				failureMessage:TranslateArr.formFields[myLang][0].validationField3}
+			);
+			field0.add(Validate.Format, {
+				pattern: /^([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})$/i, failureMessage:TranslateArr.formFields[myLang][0].validationField2}
+			);
+			var dom5 = document.querySelector('#form837 #country');
+			var country = new LiveValidation(dom5, {
+				validMessage: "", onlyOnBlur: false, wait: 300}
+			);
+			country.add(Validate.Presence, {
+				failureMessage:TranslateArr.formFields[myLang][0].validationField3}
+			);	   
+			function resetSubmitButton(e){
+				var submitButtons = e.target.form.getElementsByClassName('submit-button');
+				for(var i=0;i<submitButtons.length;i++){
+					submitButtons[i].disabled = false;
+				}
+			}
+			function addChangeHandler(elements){
+				for(var i=0; i<elements.length; i++){
+					elements[i].addEventListener('change', resetSubmitButton);
+				}
+			}
+			var form = document.getElementById('form837');
+			addChangeHandler(form.getElementsByTagName('input'));
+			addChangeHandler(form.getElementsByTagName('select'));
+			$('#field0').on('keyup keypress blur change submit', function(e) {
+				// e.type is the type of event fired
+				var regex=/[<>()%;\\]/g;
+				var pattern= /^([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})$/i;
+				var value = $("#field0").val();
+				var fieldLength = value.length
+				if(regex.test(value)==true || fieldLength==0 || pattern.test(value)==false){
+					//$("#outericon").removeClass('success-icon-display' );
+					$("#innericon").addClass( 'error-icon-display' );
+					$('#LV_syntax').text("Field should not contain ()<>%;\\");
+				}
+				else{
+					$("#innericon").removeClass('error-icon-display' );
+					//$("#outericon").addClass( 'success-icon-display' );
+				}
+			});
+			
+			function validateChks(){
+              var chkIds=["chkArc","chkSys","chkDat","chkJav","chkDev","chkNet"];
+				var count=0;
+				for(var i=0;i<chkIds.length;i++){
+					count+= $("input:checkbox[id="+chkIds[i]+"]:checked").length;
+				}
+				
+				if(count > 0){	
+					document.getElementById("chk-error").style.display = 'none';
+					$("input[type=submit]").removeAttr('disabled');
+					return true;
+				}
+				else{
+					document.getElementById("chk-error").style.display = 'block';
+					$("input[type=submit]").attr('disabled','disabled');
+					return false;
+				}
+			}  
+		</script>
+		<!-- JAVASCRIPT - VALIDATIONS - ENDS -->			 	
+		<script language="javascript" type="text/javascript">var s_pageName = "Welcome Page"</script>
+		<script type="text/javascript" src="https://www.oracleimg.com/us/assets/metrics/ora_eloqua.js"></script>
+	</body>
+</html>
+<img style="display:none" src="https://s1973398186.t.eloqua.com/visitor/v200/svrGP?pps=60&siteid=1973398186&PURLSiteID=3&optin=disabled&PURLSiteAlternateDNSID=0&LandingPageID=29630&PURLRecordID=0&PURLGUID=CC8CDDE4CF2446AB88766E9FC346373F&UseRelativePath=False&elq={00000000-0000-0000-0000-000000000000}&firstPartyCookieDomain=go.oracle.com&elqGUID=cc8cdde4-cf24-46ab-8876-6e9fc346373f&elq_ck=0&elqCampaignId=124071" border=0 width=1 height=1 alt="">

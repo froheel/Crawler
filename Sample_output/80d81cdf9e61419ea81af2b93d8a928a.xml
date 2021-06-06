@@ -1,0 +1,1950 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Weka - Wikidata</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"9168fb77-a603-4c09-bbc3-ab1b14f25209","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Q115494","wgTitle":"Q115494","wgCurRevisionId":1334817963,"wgRevisionId":1334817963,"wgArticleId":118061,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikibase-item","wgRelevantPageName":"Q115494","wgRelevantArticleId":118061,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{
+"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikidata","wbIsEditView":!0,"wbEntityId":"Q115494","wgEditSubmitButtonLabelPublish":!0,"wbUserSpecifiedLanguages":[],"wbCopyright":{"version":"wikibase-1","messageHtml":"By clicking \"publish\", you agree to the \u003Ca href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" class=\"extiw\" title=\"wikimedia:Terms of Use\"\u003Eterms of use\u003C/a\u003E, and you irrevocably agree to release your contribution under the \u003Ca rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\"\u003ECreative Commons CC0 License\u003C/a\u003E."},"wbBadgeItems":{"Q17437798":"wb-badge-goodarticle","Q17437796":"wb-badge-featuredarticle","Q17559452":"wb-badge-recommendedarticle",
+"Q17506997":"wb-badge-featuredlist","Q17580674":"wb-badge-featuredportal","Q20748091":"wb-badge-notproofread","Q20748094":"wb-badge-problematic","Q20748092":"wb-badge-proofread","Q20748093":"wb-badge-validated","Q28064618":"wb-badge-digitaldocument","Q51759403":"wb-badge-goodlist","Q70893996":"wb-badge-redirect-sitelink","Q70894304":"wb-badge-redirect-intentional-sitelink"},"wbMultiLingualStringLimit":250,"wbTaintedReferencesEnabled":!0,"wgCentralAuthMobileDomain":!1,"wgULSPosition":"personal"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","wikibase.common":"ready","jquery.wikibase.toolbar.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.wikidata-org.badges":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=[
+"wikibase.entityPage.entityLoaded","wikibase.ui.entityViewInit","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.Search","ext.gadget.AuthorityControl","ext.gadget.SiteIdToInterwiki","ext.gadget.ProtectionIndicators","ext.gadget.imagelinks","ext.gadget.NewSection","ext.gadget.formWizard","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.citoid.wikibase.init","ext.eventLogging","ext.wikimediaEvents","ext.wikimediaEvents.wikibase","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","wikibase.ui.entitysearch","propertySuggester.suggestions","wikibase.quality.constraints.suggestions","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikidata-org.badges%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.wikibase.toolbar.styles%7Cskins.vector.styles.legacy%7Cwikibase.common&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:title" content="Weka"/>
+<meta name="description" content="suite of machine learning software written in Java"/>
+<meta property="og:description" content="suite of machine learning software written in Java"/>
+<meta property="og:type" content="summary"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/59/Weka-3.5.5.png"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q115494.json" type="application/json"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q115494.php" type="application/vnd.php.serialized"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q115494.n3" type="text/n3"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q115494.ttl" type="text/turtle"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q115494.nt" type="application/n-triples"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q115494.rdf" type="application/rdf+xml"/>
+<link rel="alternate" href="https://www.wikidata.org/wiki/Special:EntityData/Q115494.jsonld" type="application/ld+json"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//m.wikidata.org/wiki/Q115494"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Q115494&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=Q115494&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikidata.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikidata.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikidata (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//www.wikidata.org/w/api.php?action=rsd"/>
+<link rel="license" href="/wiki/Wikidata:Copyright"/>
+<link rel="canonical" href="https://www.wikidata.org/wiki/Q115494"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Q115494 rootpage-Q115494 skin-vector action-view skin-vector-legacy wb-entitypage wb-itempage wb-itempage-Q115494"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" ><span class="wikibase-title">
+<span class="wikibase-title-label">Weka</span>
+<span class="wikibase-title-id">(Q115494)</span>
+</span></h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikidata</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id="wb-item-Q115494" class="wikibase-entityview wb-item" lang="en" dir="ltr">
+<div class="wikibase-entityview-main"><div class="wikibase-entitytermsview">
+<div class="wikibase-entitytermsview-heading">
+<div class="wikibase-entitytermsview-heading-description ">suite of machine learning software written in Java</div><div class="wikibase-entitytermsview-heading-aliases "><ul class="wikibase-entitytermsview-aliases"><li class="wikibase-entitytermsview-aliases-alias" data-aliases-separator="|">Waikato Environment for Knowledge Analysis</li></ul></div>
+</div>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetLabelDescriptionAliases/Q115494/en" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+<div class="wikibase-entitytermsview-entitytermsforlanguagelistview "><table class="wikibase-entitytermsforlanguagelistview">
+<thead class="wikibase-entitytermsforlanguagelistview-header">
+<tr class="wikibase-entitytermsforlanguagelistview-header-row">
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-language">Language</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-label">Label</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-description">Description</th>
+<th scope="col" class="wikibase-entitytermsforlanguagelistview-cell wikibase-entitytermsforlanguagelistview-aliases">Also known as</th>
+</tr>
+</thead>
+<tbody class="wikibase-entitytermsforlanguagelistview-listview"><tr class="wikibase-entitytermsforlanguageview wikibase-entitytermsforlanguageview-en" >
+<th class="wikibase-entitytermsforlanguageview-language">English</th>
+<td class="wikibase-entitytermsforlanguageview-label"><div class="wikibase-labelview " dir="ltr" lang="en">
+<div class="wikibase-labelview-container">
+<span class="wikibase-labelview-text">Weka</span>
+
+</div>
+</div></td>
+<td class="wikibase-entitytermsforlanguageview-description"><div class="wikibase-descriptionview " dir="ltr" lang="en">
+<div class="wikibase-descriptionview-container">
+<span class="wikibase-descriptionview-text">suite of machine learning software written in Java</span>
+
+</div>
+</div></td>
+<td class="wikibase-entitytermsforlanguageview-aliases"><div class="wikibase-aliasesview ">
+<ul class="wikibase-aliasesview-list" dir="ltr" lang="en"><li class="wikibase-aliasesview-list-item">Waikato Environment for Knowledge Analysis</li></ul>
+
+</div></td>
+
+</tr></tbody>
+</table></div>
+</div><div id="toc"></div><h2 class="wb-section-heading section-heading wikibase-statements" dir="auto"><span class="mw-headline" id="claims">Statements</span></h2><div class="wikibase-statementgrouplistview"><div class="wikibase-listview"><div class="wikibase-statementgroupview" id="P31" data-property-id="P31">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P31" href="/wiki/Property:P31">instance of</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$192b9511-4ba3-09ee-8b80-f3bb02ba4afa" class="wikibase-statementview wikibase-statement-Q115494$192b9511-4ba3-09ee-8b80-f3bb02ba4afa wb-preferred">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-preferred" title="Preferred rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-4e1601d731f60e5efa0acdca0590389fa13d60fb">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q21169670" href="/wiki/Q21169670">machine learning Framework</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q115494$99B55627-FB0D-4841-BCB3-B65F070BA50A" class="wikibase-statementview wikibase-statement-Q115494$99B55627-FB0D-4841-BCB3-B65F070BA50A wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-80151d72feae178bc698c542c7d25a7496a146c5">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q341" href="/wiki/Q341">free software</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P154" data-property-id="P154">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P154" href="/wiki/Property:P154">logo image</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$5BB7E436-4384-40E2-BC3C-5CB2D1CD7B85" class="wikibase-statementview wikibase-statement-Q115494$5BB7E436-4384-40E2-BC3C-5CB2D1CD7B85 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-2f2da65ccb39212f9dac0a3d7fdc4919ff8e60a2">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><div class="thumb"><a class="image" href="https://commons.wikimedia.org/wiki/File:Weka_(software)_logo.png"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png" decoding="async" width="220" height="116" data-file-width="198" data-file-height="104" /></a></div><div class="commons-media-caption"><a href="https://commons.wikimedia.org/wiki/File:Weka_(software)_logo.png">Weka (software) logo.png</a><br/>198 × 104; 6 KB</div></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P18" data-property-id="P18">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P18" href="/wiki/Property:P18">image</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$4AB5CE53-79D9-4787-A504-5BCFEAA9209C" class="wikibase-statementview wikibase-statement-Q115494$4AB5CE53-79D9-4787-A504-5BCFEAA9209C wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-92cb9c2eb13e8a48c3114e60f8b9e3ec6d5781b3">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><div class="thumb"><a class="image" href="https://commons.wikimedia.org/wiki/File:Weka-3.5.5.png"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/220px-Weka-3.5.5.png" decoding="async" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/330px-Weka-3.5.5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/440px-Weka-3.5.5.png 2x" data-file-width="768" data-file-height="576" /></a></div><div class="commons-media-caption"><a href="https://commons.wikimedia.org/wiki/File:Weka-3.5.5.png">Weka-3.5.5.png</a><br/>768 × 576; 41 KB</div></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-288ab581e7d2d02995a26dfa8b091d96e78457fc">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-6a164248fc96bfa583bbb495cb63ae6401ec203c">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q206855" href="/wiki/Q206855">Russian Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P101" data-property-id="P101">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P101" href="/wiki/Property:P101">field of work</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$39af8be6-4894-cc23-41fb-9bf71cb7eb11" class="wikibase-statementview wikibase-statement-Q115494$39af8be6-4894-cc23-41fb-9bf71cb7eb11 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-6607cfa9e51f78121cc67e9b530deb8c7d23b030">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q2539" href="/wiki/Q2539">machine learning</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P178" data-property-id="P178">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P178" href="/wiki/Property:P178">developer</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$017F9AE3-E336-4B00-B1BB-185F776DA236" class="wikibase-statementview wikibase-statement-Q115494$017F9AE3-E336-4B00-B1BB-185F776DA236 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-284a351d00caa5c940c201dd87b4c1cdf406cb23">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q606140" href="/wiki/Q606140">University of Waikato</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P400" data-property-id="P400">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P400" href="/wiki/Property:P400">platform</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$74B16EB3-8A6A-439A-B5E7-307A4C6EE049" class="wikibase-statementview wikibase-statement-Q115494$74B16EB3-8A6A-439A-B5E7-307A4C6EE049 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-c9c06b512a8372d375b9806ffdca8956802645bb">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q193321" href="/wiki/Q193321">Java Virtual Machine</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P306" data-property-id="P306">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P306" href="/wiki/Property:P306">operating system</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$10AA97A8-E054-41A5-88FA-EBE0F09B3182" class="wikibase-statementview wikibase-statement-Q115494$10AA97A8-E054-41A5-88FA-EBE0F09B3182 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-372b598ec10a56c64b0db84314aeca97e8818e67">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q1406" href="/wiki/Q1406">Microsoft Windows</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div><div id="Q115494$83b652a9-42ee-cfda-cec6-9e824a77dc15" class="wikibase-statementview wikibase-statement-Q115494$83b652a9-42ee-cfda-cec6-9e824a77dc15 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-1dba4aba27f98c4f7fda00564816ef9de42ea2e1">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q174666" href="/wiki/Q174666">cross-platform</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1072" data-property-id="P1072">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1072" href="/wiki/Property:P1072">readable file format</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$92b8ee86-4c76-ab00-e651-1f58dabdc1e8" class="wikibase-statementview wikibase-statement-Q115494$92b8ee86-4c76-ab00-e651-1f58dabdc1e8 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-7886a0b08aef635e9f43805bf10f7f31bfa06194">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q28600412" href="/wiki/Q28600412">Attribute-Relation File Format</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P277" data-property-id="P277">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P277" href="/wiki/Property:P277">programming language</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$283F628F-34BA-44AB-BBD1-8C776762B993" class="wikibase-statementview wikibase-statement-Q115494$283F628F-34BA-44AB-BBD1-8C776762B993 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-f8e187644e5f986ce36eac40696eda21d92583ed">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q251" href="/wiki/Q251">Java</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P1324" data-property-id="P1324">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P1324" href="/wiki/Property:P1324">source code repository</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$aeaca410-48e7-c158-4fef-c9ab99977011" class="wikibase-statementview wikibase-statement-Q115494$aeaca410-48e7-c158-4fef-c9ab99977011 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-2d334e32cfb4f0b2290e21d8a6607752580d1657">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://svn.cms.waikato.ac.nz/svn/weka/">https://svn.cms.waikato.ac.nz/svn/weka/</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-acd1a3b0315819fb680b6875048f5c36cc427b7d">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P2700" href="/wiki/Property:P2700">protocol</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q46794" href="/wiki/Q46794">Subversion</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">2 references</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-6c2aadb969ce670ae5212133d52a02eacac7837c">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-db7aec5b167d2877811e1a6d0636c6c47f6bead4">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="http://www.cs.waikato.ac.nz/~ml/weka/svn.html">http://www.cs.waikato.ac.nz/~ml/weka/svn.html</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div><div class="wikibase-referenceview wikibase-referenceview-da34d8c7326d071545c49ba4593f14fe2d4aef4b">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-2354fdc43b4368725cb018ac4578ede3e98a8712">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">5 October 2016</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P348" data-property-id="P348">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P348" href="/wiki/Property:P348">software version identifier</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$EDC524E5-6EDE-4F63-A664-1E6982DB3956" class="wikibase-statementview wikibase-statement-Q115494$EDC524E5-6EDE-4F63-A664-1E6982DB3956 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-a41dbad28a8164cca5fe7ce6c3e54952a9ddb8b4">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">3.8.1</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-d4bd87b862b12d99d26e86472d44f26858dee639">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-f30cbd35620c4ea6d0633aaf0210a8916130469b">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q8447" href="/wiki/Q8447">French Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div><div id="Q115494$d1eca105-49b2-1383-c15d-5769d9c1e9cc" class="wikibase-statementview wikibase-statement-Q115494$d1eca105-49b2-1383-c15d-5769d9c1e9cc wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-0601cbf7f6a9c039a8a9dd745e9e5267d81b0dd0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">3.8.2</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-9f20e821344a012e4ccbd1f51befe3364cf47519">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P577" href="/wiki/Property:P577">publication date</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">21 December 2017</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div><div id="Q115494$39d4548a-433f-f237-7768-06ee3079d588" class="wikibase-statementview wikibase-statement-Q115494$39d4548a-433f-f237-7768-06ee3079d588 wb-preferred">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-preferred" title="Preferred rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-d44389a377e143d01679aa70d5011ea0dcc54358">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">3.8.3</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e006ea8d2fa441433e0fa85bc4132b806e0fabee">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P548" href="/wiki/Property:P548">version type</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q2804309" href="/wiki/Q2804309">stable version</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-90bcaab5ce1181b0ee759465c939fa36b86716dd">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P577" href="/wiki/Property:P577">publication date</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">22 December 2017</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-6cfbc5a4a8619c1428764b4ed11cac0723a1816b">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-6bb2c9628a0db21a6f2487aed6f4a1dbb040c36c">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://www.cs.waikato.ac.nz/~ml/weka/CHANGELOG-3-8-3">https://www.cs.waikato.ac.nz/~ml/weka/CHANGELOG-3-8-3</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-75d4e4aa4b51cf29fe81b340084506ddc73a517f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">24 September 2019</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div><div id="Q115494$d6788bf6-4682-34b4-5dff-153da0be0218" class="wikibase-statementview wikibase-statement-Q115494$d6788bf6-4682-34b4-5dff-153da0be0218 wb-preferred">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-preferred" title="Preferred rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-06aa5c58780901d4fed70db6f359d87f99bf6ec0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">3.9.3</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"><div class="wikibase-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-1adf98c90c0631d2f196dde19cc7a1c5cadc2f32">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P548" href="/wiki/Property:P548">version type</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q21727724" href="/wiki/Q21727724">unstable version</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-90bcaab5ce1181b0ee759465c939fa36b86716dd">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P577" href="/wiki/Property:P577">publication date</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">22 December 2017</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fc49196419ce21d94e899a1e581fc3d4acecae9a">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-c964eaafe36242a8b96a29b44518adc764aabf22">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://www.cs.waikato.ac.nz/~ml/weka/CHANGELOG-3-9-3">https://www.cs.waikato.ac.nz/~ml/weka/CHANGELOG-3-9-3</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-75d4e4aa4b51cf29fe81b340084506ddc73a517f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">24 September 2019</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P366" data-property-id="P366">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P366" href="/wiki/Property:P366">use</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$B8496313-6C6A-4965-8C92-714E2DCC15BE" class="wikibase-statementview wikibase-statement-Q115494$B8496313-6C6A-4965-8C92-714E2DCC15BE wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-70135c7b2ea60d4891279e4611ac62da1d5d7189">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q336" href="/wiki/Q336">science</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div><div id="Q115494$5b6ad105-4ce0-7a94-9111-8d2223e2576b" class="wikibase-statementview wikibase-statement-Q115494$5b6ad105-4ce0-7a94-9111-8d2223e2576b wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-bd12b1cb86b6a62e4eeb41db9251f2fc27552cba">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q172491" href="/wiki/Q172491">data mining</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P856" data-property-id="P856">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P856" href="/wiki/Property:P856">official website</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$2885DE69-ABCF-4911-AA19-611DFF3403F1" class="wikibase-statementview wikibase-statement-Q115494$2885DE69-ABCF-4911-AA19-611DFF3403F1 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-0c039497ed7c94a157e29d8ee55db88f70075f29">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="http://www.cs.waikato.ac.nz/~ml/weka/">http://www.cs.waikato.ac.nz/~ml/weka/</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-288ab581e7d2d02995a26dfa8b091d96e78457fc">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-6a164248fc96bfa583bbb495cb63ae6401ec203c">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q206855" href="/wiki/Q206855">Russian Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P275" data-property-id="P275">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P275" href="/wiki/Property:P275">copyright license</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$7E95C6E0-7587-46D2-BC7B-8B6F16B086EE" class="wikibase-statementview wikibase-statement-Q115494$7E95C6E0-7587-46D2-BC7B-8B6F16B086EE wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-71e4ae2c9628ff025d071fc9603457d3a55e0205">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q10513445" href="/wiki/Q10513445">GNU General Public License, version 3.0</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-ccf86a109e9e454516bf04607e2658c0c2bfa147">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-4b43c64e2de50bbd833e8ad7d8fcbe0c32ae728d">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P854" href="/wiki/Property:P854">reference URL</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a rel="nofollow" class="external free" href="https://sourceforge.net/projects/weka/">https://sourceforge.net/projects/weka/</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-1ec57d252145476557f9b441e995d7353225024f">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P813" href="/wiki/Property:P813">retrieved</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">31 December 2016</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-819f2a89bf2e8871dd6fe8a5c14924a3031ae4a9">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q165400" href="/wiki/Q165400">SourceForge</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P6216" data-property-id="P6216">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P6216" href="/wiki/Property:P6216">copyright status</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$ee248e7a-4a74-7091-31b3-4d6e0427cc50" class="wikibase-statementview wikibase-statement-Q115494$ee248e7a-4a74-7091-31b3-4d6e0427cc50 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-5570347fdc76d2a80732f51ea10ee4b144a084e0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q50423863" href="/wiki/Q50423863">copyrighted</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P373" data-property-id="P373">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P373" href="/wiki/Property:P373">Commons category</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="q115494$17F419A7-8E8D-4FDA-9B2D-11CBBF271178" class="wikibase-statementview wikibase-statement-q115494$17F419A7-8E8D-4FDA-9B2D-11CBBF271178 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-a7c6f7e5cc27d8493881602ee8e491b4bc4a31ce">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">Weka (machine learning)</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-fa278ebfc458360e5aed63d5058cca83c46134f1">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-e4f6d9441d0600513c4533c672b5ab472dc73694">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P143" href="/wiki/Property:P143">imported from Wikimedia project</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q328" href="/wiki/Q328">English Wikipedia</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div></div></div><h2 class="wb-section-heading section-heading wikibase-statements wikibase-statements-identifiers" dir="auto"><span class="mw-headline" id="identifiers">Identifiers</span></h2><div class="wikibase-statementgrouplistview"><div class="wikibase-listview"><div class="wikibase-statementgroupview" id="P4162" data-property-id="P4162">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P4162" href="/wiki/Property:P4162">AUR package</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$01b4bc85-c148-4762-a457-ea36ae04c25c" class="wikibase-statementview wikibase-statement-Q115494$01b4bc85-c148-4762-a457-ea36ae04c25c wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-df448d7060185b9c31086bc58e6c9b7427961621">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://aur.archlinux.org/packages/weka/" rel="nofollow">weka</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P3442" data-property-id="P3442">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P3442" href="/wiki/Property:P3442">Debian stable package</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$686052F1-A76D-4B1B-9442-BD84D1D5ACB0" class="wikibase-statementview wikibase-statement-Q115494$686052F1-A76D-4B1B-9442-BD84D1D5ACB0 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-05d6f7eef9fd3521f477ce319c5ecff6bdcfd811">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://packages.debian.org/stable/weka" rel="nofollow">weka</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P3463" data-property-id="P3463">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P3463" href="/wiki/Property:P3463">Fedora package</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$394111CD-38DD-441D-A2C2-0C951EAB0CA9" class="wikibase-statementview wikibase-statement-Q115494$394111CD-38DD-441D-A2C2-0C951EAB0CA9 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-f4b8c6cd3e61a0321a53449f4dc5bd2f99af8970">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://src.fedoraproject.org/rpms/weka" rel="nofollow">weka</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P646" data-property-id="P646">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P646" href="/wiki/Property:P646">Freebase ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$206DEC8E-00DE-4944-BB40-53E0E53B1EDC" class="wikibase-statementview wikibase-statement-Q115494$206DEC8E-00DE-4944-BB40-53E0E53B1EDC wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-4f400d241a29c115503af176e31356a00a55e8b1">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.google.com/search?kgmid=/m/0b2358" rel="nofollow">/m/0b2358</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-2b00cb481cddcac7623114367489b5c194901c4a">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-a94b740202b097dd33355e0e6c00e54b9395e5e0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q15241312" href="/wiki/Q15241312">Freebase Data Dumps</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-fde79ecb015112d2f29229ccc1ec514ed3e71fa2">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P577" href="/wiki/Property:P577">publication date</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak">28 October 2013</div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P7427" data-property-id="P7427">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P7427" href="/wiki/Property:P7427">FreeBSD port</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$8af4c95d-1c1a-4df0-be4f-ea08cb479b03" class="wikibase-statementview wikibase-statement-Q115494$8af4c95d-1c1a-4df0-be4f-ea08cb479b03 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-9e8fa22e9a153f141a20f110ef1c09f02bd25880">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.freshports.org/textproc/weka" rel="nofollow">textproc/weka</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P3499" data-property-id="P3499">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P3499" href="/wiki/Property:P3499">Gentoo package</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$A7FCB6D4-5464-4A16-91ED-46CA54270875" class="wikibase-statementview wikibase-statement-Q115494$A7FCB6D4-5464-4A16-91ED-46CA54270875 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-89a05ba4e0b597ad07fe462c18485605012e6ed0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://packages.gentoo.org/packages/dev-util/weka" rel="nofollow">dev-util/weka</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P6665" data-property-id="P6665">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P6665" href="/wiki/Property:P6665">Pro-Linux.de DBApp ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$738429A3-85FB-41AA-B81B-A42064A28765" class="wikibase-statementview wikibase-statement-Q115494$738429A3-85FB-41AA-B81B-A42064A28765 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-c49de7d73306b3a56d01f445a65751911697d4aa">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.pro-linux.de/cgi-bin/DBApp/check.cgi?ShowApp..18958.100" rel="nofollow">18958</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P3417" data-property-id="P3417">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P3417" href="/wiki/Property:P3417">Quora topic ID</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$3B10ED8D-8C17-49CE-9BD6-983279D2A933" class="wikibase-statementview wikibase-statement-Q115494$3B10ED8D-8C17-49CE-9BD6-983279D2A933 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-80be882287a60437560a673f737a1d3ac9b43ec5">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://www.quora.com/topic/WEKA" rel="nofollow">WEKA</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">1 reference</div>
+<div class="wikibase-statementview-references wikibase-initially-collapsed"><div class="wikibase-listview"><div class="wikibase-referenceview wikibase-referenceview-3b0a5bb3c1f955edce73740124f7d935698092ad">
+<div class="wikibase-referenceview-heading"></div>
+<div class="wikibase-referenceview-listview"><div class="wikibase-snaklistview">
+<div class="wikibase-snaklistview-listview"><div class="wikibase-snakview wikibase-snakview-3ac9682e789a3a3791d4fd088b265ea03abef101">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"><a title="Property:P248" href="/wiki/Property:P248">stated in</a></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a title="Q51711" href="/wiki/Q51711">Quora</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+</div></div>
+</div></div></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P6931" data-property-id="P6931">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P6931" href="/wiki/Property:P6931">Repology project name</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$13FC62EE-E5F5-421E-803D-8369A1B23DA2" class="wikibase-statementview wikibase-statement-Q115494$13FC62EE-E5F5-421E-803D-8369A1B23DA2 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-12a770e08a0f0de9798d345fd3f214c955ac3fd0">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://repology.org/project/weka/information" rel="nofollow">weka</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P2209" data-property-id="P2209">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P2209" href="/wiki/Property:P2209">SourceForge project</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$e02a2baa-43b1-e828-443c-55c943602918" class="wikibase-statementview wikibase-statement-Q115494$e02a2baa-43b1-e828-443c-55c943602918 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-637de2583c461310fba8cdc9502dfb3a18276026">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://sourceforge.net/projects/weka/" rel="nofollow">weka</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div><div class="wikibase-statementgroupview" id="P3473" data-property-id="P3473">
+<div class="wikibase-statementgroupview-property">
+<div class="wikibase-statementgroupview-property-label" dir="auto"><a title="Property:P3473" href="/wiki/Property:P3473">Ubuntu package</a></div>
+</div>
+<div class="wikibase-statementlistview">
+<div class="wikibase-statementlistview-listview">
+<div id="Q115494$5B08A956-9A6E-4DAB-B30D-538FA6C73107" class="wikibase-statementview wikibase-statement-Q115494$5B08A956-9A6E-4DAB-B30D-538FA6C73107 wb-normal">
+<div class="wikibase-statementview-rankselector"><div class="wikibase-rankselector ui-state-disabled">
+<span class="ui-icon ui-icon-rankselector wikibase-rankselector-normal" title="Normal rank"></span>
+</div></div>
+<div class="wikibase-statementview-mainsnak-container">
+<div class="wikibase-statementview-mainsnak" dir="auto"><div class="wikibase-snakview wikibase-snakview-0e04f41be6a77a9862d275065ba6255a1bf49c05">
+<div class="wikibase-snakview-property-container">
+<div class="wikibase-snakview-property" dir="auto"></div>
+</div>
+<div class="wikibase-snakview-value-container" dir="auto">
+<div class="wikibase-snakview-typeselector"></div>
+<div class="wikibase-snakview-body">
+<div class="wikibase-snakview-value wikibase-snakview-variation-valuesnak"><a class="wb-external-id external" href="https://packages.ubuntu.com/search?keywords=weka&amp;searchon=names&amp;exact=1" rel="nofollow">weka</a></div>
+<div class="wikibase-snakview-indicators"></div>
+</div>
+</div>
+</div></div>
+<div class="wikibase-statementview-qualifiers"></div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+<div class="wikibase-statementview-references-container">
+<div class="wikibase-statementview-references-heading">0 references</div>
+<div class="wikibase-statementview-references "></div>
+</div>
+</div>
+</div>
+<span class="wikibase-toolbar-container"></span>
+</div>
+</div></div></div></div>
+<div class="wikibase-entityview-side"><div class="wikibase-pageImage">
+<div class="help">
+<span class="wb-help-field-hint wikibase-toolbar-item wikibase-wbtooltip" title="This image is taken from the statements of this Item. You can adjust the image by changing the statement.">&nbsp;</span>
+</div>
+</div><h2 class="wb-section-heading section-heading wikibase-sitelinks" dir="auto"><span class="mw-headline" id="sitelinks">Sitelinks</span></h2><div class="wikibase-sitelinkgrouplistview"><div class="wikibase-listview"><div class="wikibase-sitelinkgroupview mw-collapsible" data-wb-sitelinks-group="wikipedia">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikipedia">Wikipedia<span class="wikibase-sitelinkgroupview-counter">(24 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q115494" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-cawiki" data-wb-siteid="cawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-cawiki" title="Catalan">cawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-cawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ca"><a href="https://ca.wikipedia.org/wiki/Weka_(aprenentatge_autom%C3%A0tic)" hreflang="ca" title="Weka (aprenentatge automàtic)">Weka (aprenentatge automàtic)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-cswiki" data-wb-siteid="cswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-cswiki" title="Czech">cswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-cswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="cs"><a href="https://cs.wikipedia.org/wiki/Weka" hreflang="cs" title="Weka">Weka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-dewiki" data-wb-siteid="dewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-dewiki" title="German">dewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-dewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="de"><a href="https://de.wikipedia.org/wiki/Waikato_Environment_for_Knowledge_Analysis" hreflang="de" title="Waikato Environment for Knowledge Analysis">Waikato Environment for Knowledge Analysis</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-elwiki" data-wb-siteid="elwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-elwiki" title="Greek">elwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-elwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="el"><a href="https://el.wikipedia.org/wiki/Weka_(%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7)" hreflang="el" title="Weka (μηχανική μάθηση)">Weka (μηχανική μάθηση)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-enwiki" data-wb-siteid="enwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-enwiki" title="English">enwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-enwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://en.wikipedia.org/wiki/Weka_(machine_learning)" hreflang="en" title="Weka (machine learning)">Weka (machine learning)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-eswiki" data-wb-siteid="eswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-eswiki" title="Spanish">eswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-eswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="es"><a href="https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico)" hreflang="es" title="Weka (aprendizaje automático)">Weka (aprendizaje automático)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-euwiki" data-wb-siteid="euwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-euwiki" title="Basque">euwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-euwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="eu"><a href="https://eu.wikipedia.org/wiki/Weka_(ikasketa_automatikoa)" hreflang="eu" title="Weka (ikasketa automatikoa)">Weka (ikasketa automatikoa)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-fawiki" data-wb-siteid="fawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-fawiki" title="Persian">fawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-fawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" hreflang="fa" title="وکا (یادگیری ماشینی)">وکا (یادگیری ماشینی)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-frwiki" data-wb-siteid="frwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-frwiki" title="French">frwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-frwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="fr"><a href="https://fr.wikipedia.org/wiki/Weka_(informatique)" hreflang="fr" title="Weka (informatique)">Weka (informatique)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-hewiki" data-wb-siteid="hewiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-hewiki" title="Hebrew">hewiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-hewiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="he"><a href="https://he.wikipedia.org/wiki/Weka_(%D7%9C%D7%9E%D7%99%D7%93%D7%AA_%D7%9E%D7%9B%D7%95%D7%A0%D7%94)" hreflang="he" title="Weka (למידת מכונה)">Weka (למידת מכונה)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-idwiki" data-wb-siteid="idwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-idwiki" title="Indonesian">idwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-idwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="id"><a href="https://id.wikipedia.org/wiki/Weka_(pembelajaran_mesin)" hreflang="id" title="Weka (pembelajaran mesin)">Weka (pembelajaran mesin)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-itwiki" data-wb-siteid="itwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-itwiki" title="Italian">itwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-itwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="it"><a href="https://it.wikipedia.org/wiki/Weka" hreflang="it" title="Weka">Weka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-jawiki" data-wb-siteid="jawiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-jawiki" title="Japanese">jawiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-jawiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ja"><a href="https://ja.wikipedia.org/wiki/Weka" hreflang="ja" title="Weka">Weka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-kowiki" data-wb-siteid="kowiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-kowiki" title="Korean">kowiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-kowiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%B9%B4_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)" hreflang="ko" title="웨카 (기계 학습)">웨카 (기계 학습)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-nlwiki" data-wb-siteid="nlwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-nlwiki" title="Dutch">nlwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-nlwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="nl"><a href="https://nl.wikipedia.org/wiki/Weka_(software)" hreflang="nl" title="Weka (software)">Weka (software)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ptwiki" data-wb-siteid="ptwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ptwiki" title="Portuguese">ptwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ptwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="pt"><a href="https://pt.wikipedia.org/wiki/Weka" hreflang="pt" title="Weka">Weka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ruwiki" data-wb-siteid="ruwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ruwiki" title="Russian">ruwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ruwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="ru"><a href="https://ru.wikipedia.org/wiki/Weka" hreflang="ru" title="Weka">Weka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-siwiki" data-wb-siteid="siwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-siwiki" title="Sinhala">siwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-siwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%99%E0%B6%9A%E0%B7%8F_%E0%B6%B8%E0%B7%98%E0%B6%AF%E0%B7%94%E0%B6%9A%E0%B7%8F%E0%B6%82%E0%B6%9C%E0%B6%BA" hreflang="si" title="වෙකා මෘදුකාංගය">වෙකා මෘදුකාංගය</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-slwiki" data-wb-siteid="slwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-slwiki" title="Slovenian">slwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-slwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="sl"><a href="https://sl.wikipedia.org/wiki/Weka_(strojno_u%C4%8Denje)" hreflang="sl" title="Weka (strojno učenje)">Weka (strojno učenje)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-thwiki" data-wb-siteid="thwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-thwiki" title="Thai">thwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-thwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%B2" hreflang="th" title="เวกา">เวกา</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-trwiki" data-wb-siteid="trwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-trwiki" title="Turkish">trwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-trwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="tr"><a href="https://tr.wikipedia.org/wiki/Weka" hreflang="tr" title="Weka">Weka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-ukwiki" data-wb-siteid="ukwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-ukwiki" title="Ukrainian">ukwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-ukwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="uk"><a href="https://uk.wikipedia.org/wiki/Weka" hreflang="uk" title="Weka">Weka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-viwiki" data-wb-siteid="viwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-viwiki" title="Vietnamese">viwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-viwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="vi"><a href="https://vi.wikipedia.org/wiki/Weka_(h%E1%BB%8Dc_m%C3%A1y)" hreflang="vi" title="Weka (học máy)">Weka (học máy)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li><li class="wikibase-sitelinkview wikibase-sitelinkview-zhwiki" data-wb-siteid="zhwiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-zhwiki" title="Chinese">zhwiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-zhwiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="zh"><a href="https://zh.wikipedia.org/wiki/Weka" hreflang="zh" title="Weka">Weka</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikibooks">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikibooks">Wikibooks<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q115494" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikinews">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikinews">Wikinews<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q115494" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikiquote">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiquote">Wikiquote<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q115494" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikisource">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikisource">Wikisource<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q115494" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikiversity">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikiversity">Wikiversity<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q115494" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wikivoyage">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wikivoyage">Wikivoyage<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q115494" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="wiktionary">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-wiktionary">Wiktionary<span class="wikibase-sitelinkgroupview-counter">(0 entries)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q115494" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"></ul>
+</div>
+</div>
+</div><div class="wikibase-sitelinkgroupview" data-wb-sitelinks-group="special">
+<div class="wikibase-sitelinkgroupview-heading-section">
+<div class="wikibase-sitelinkgroupview-heading-container">
+<h3 class="wb-sitelinks-heading" dir="auto" id="sitelinks-special">Multilingual sites<span class="wikibase-sitelinkgroupview-counter">(1 entry)</span></h3>
+<span class="wikibase-toolbar-container"><span class="wikibase-toolbar-item wikibase-toolbar "><span class="wikibase-toolbar-item wikibase-toolbar-button wikibase-toolbar-button-edit"><a href="/wiki/Special:SetSiteLink/Q115494" title=""><span class="wb-icon"></span>edit</a></span></span></span>
+</div>
+</div>
+<div class="mw-collapsible-content">
+<div class="wikibase-sitelinklistview">
+<ul class="wikibase-sitelinklistview-listview"><li class="wikibase-sitelinkview wikibase-sitelinkview-commonswiki" data-wb-siteid="commonswiki">
+<span class="wikibase-sitelinkview-siteid-container">
+<span class="wikibase-sitelinkview-siteid wikibase-sitelinkview-siteid-commonswiki" title="Commons">commonswiki</span>
+</span><span class="wikibase-sitelinkview-link wikibase-sitelinkview-link-commonswiki"><span class="wikibase-sitelinkview-page" dir="auto" lang="en"><a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" hreflang="en" title="Category:Weka (machine learning)">Category:Weka (machine learning)</a></span><span class="wikibase-badgeselector wikibase-sitelinkview-badges"></span></span>
+</li></ul>
+</div>
+</div>
+</div></div></div></div>
+</div>
+<!-- Saved in parser cache with key wikidatawiki:pcache:idhash:118061-0!termboxVersion=1!wb=3 and timestamp 20210407010401 and revision id 1334817963. Serialized with JSON.
+ -->
+<noscript><img src="//www.wikidata.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://www.wikidata.org/w/index.php?title=Q115494&amp;oldid=1334817963">https://www.wikidata.org/w/index.php?title=Q115494&amp;oldid=1334817963</a>"</div></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-uls" class="active"><a href="#" class="uls-trigger">English</a></li><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Q115494" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Q115494" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Q115494" title="View the item [c]" accesskey="c">Item</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Q115494&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Q115494">Read</a></li><li id="ca-history"><a href="/w/index.php?title=Q115494&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikidata" autocapitalize="sentences" title="Search Wikidata [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Wikidata:Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Wikidata:Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-portal"><a href="/wiki/Special:MyLanguage/Project:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-villagepump"><a href="/wiki/Wikidata:Project_chat">Project chat</a></li><li id="n-special-newitem"><a href="/wiki/Special:NewItem">Create a new Item</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random item [x]" accesskey="x">Random Item</a></li><li id="n-queryservice"><a href="//query.wikidata.org/" title="Service that enables getting queries for the data of Wikidata">Query Service</a></li><li id="n-mobile-frontend-nearby-title"><a href="/wiki/Special:Nearby">Nearby</a></li><li id="n-help"><a href="/wiki/Special:MyLanguage/Help:Contents" title="The place to find out">Help</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_wikidata.org&amp;uselang=en" title="Support us">Donate</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lexicographical-data" class="mw-portlet mw-portlet-lexicographical-data vector-menu vector-menu-portal portal" aria-labelledby="p-lexicographical-data-label" role="navigation" 
+	 >
+	<h3 id="p-lexicographical-data-label" class="vector-menu-heading">
+		<span>Lexicographical data</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-special-newlexeme"><a href="/wiki/Special:NewLexeme">Create a new Lexeme</a></li><li id="n-recentchanges-lexemes"><a href="https://www.wikidata.org/wiki/Special:RecentChanges?namespace=146%3B147">Recent changes</a></li><li id="n-randomlexeme"><a href="/wiki/Special:Random/Lexeme">Random Lexeme</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Q115494" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Q115494" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Q115494&amp;oldid=1334817963" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Q115494&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Q115494&amp;id=1334817963&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wb-concept-uri"><a href="http://www.wikidata.org/entity/Q115494" title="URI that identifies the concept described by this Item">Concept URI</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Q115494">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Q115494&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Q115494&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 4 January 2021, at 15:58.</li>
+	<li id="footer-info-copyright">All structured data from the main, Property, Lexeme, and EntitySchema namespaces is available under the <a href="//creativecommons.org/publicdomain/zero/1.0/" title="Definition of the Creative Commons CC0 License">Creative Commons CC0 License</a>; text in the other namespaces is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/" title="Definition of the Creative Commons Attribution/Share-Alike License">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Special:MyLanguage/Project:Introduction" title="Special:MyLanguage/Project:Introduction">About Wikidata</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Special:MyLanguage/Project:General_disclaimer" title="Special:MyLanguage/Project:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-mobileview"><a href="//m.wikidata.org/w/index.php?title=Q115494&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-data-access"><a href="/wiki/Special:MyLanguage/Wikidata:Data_access">Data access</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/www.wikidata.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":183,"wgHostname":"mw1333"});});</script>
+</body></html>

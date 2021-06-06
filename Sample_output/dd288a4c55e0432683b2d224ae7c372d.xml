@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="nl" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Weka (software) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december"],"wgRequestId":"22d4763c-3111-4524-a8b0-b0ee9bcf5641","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Weka_(software)","wgTitle":"Weka (software)","wgCurRevisionId":52298431,"wgRevisionId":52298431,"wgArticleId":1314818,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Lokale afbeelding anders dan op Wikidata","Opensourcesoftware en vrije software"],"wgPageContentLanguage":"nl","wgPageContentModel":"wikitext","wgRelevantPageName":"Weka_(software)","wgRelevantArticleId":1314818,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":
+!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"nl","pageLanguageDir":"ltr","pageVariantFallbacks":"nl"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"Nederlands","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q115494"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=[
+"ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.Direct-link-to-Commons","ext.gadget.ProtectionTemplates","ext.gadget.InterProjectLinks","ext.gadget.hoofdbetekenis-titelwijziging","ext.gadget.ReferenceTooltips","ext.gadget.OpenStreetMapFrame","ext.gadget.subpages","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"nl"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=nl&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=nl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=nl&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png"/>
+<meta property="og:title" content="Weka (software) - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//nl.m.wikipedia.org/wiki/Weka_(software)"/>
+<link rel="alternate" type="application/x-wiki" title="Bewerken" href="/w/index.php?title=Weka_(software)&amp;action=edit"/>
+<link rel="edit" title="Bewerken" href="/w/index.php?title=Weka_(software)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (nl)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//nl.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://nl.wikipedia.org/wiki/Weka_(software)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Weka_software rootpage-Weka_software skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Weka (software)</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Uit Wikipedia, de vrije encyclopedie</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Naar navigatie springen</a>
+		<a class="mw-jump-link" href="#searchInput">Naar zoeken springen</a>
+		<div id="mw-content-text" lang="nl" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" cellpadding="1" cellspacing="1" style="width:270px;">
+<tbody><tr>
+<td style="background-color:#e3e3e3; color:#000000;" align="center" colspan="3"><div style="font-weight:bold; font-size:120%;">Weka
+</div>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<td align="center" style="padding:0;" colspan="3"><a href="/wiki/Bestand:Weka_(software)_logo.png" class="image" title="Logo"><img alt="Logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weka_%28software%29_logo.png/153px-Weka_%28software%29_logo.png" decoding="async" width="153" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png 1.5x" data-file-width="198" data-file-height="104" /></a>
+</td></tr>
+
+
+<tr>
+<td align="center" style="padding:0;" colspan="3"><a href="/wiki/Bestand:Weka-3.5.5.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/266px-Weka-3.5.5.png" decoding="async" width="266" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/399px-Weka-3.5.5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/532px-Weka-3.5.5.png 2x" data-file-width="768" data-file-height="576" /></a>
+</td></tr>
+<tr>
+<td align="center" colspan="3"><div style="font-size:90%">Weka 3.5.5</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="font-weight:bold;"><a href="/wiki/Softwareontwikkelaar" title="Softwareontwikkelaar">Ontwikkelaar</a></td>
+<td colspan="2"><a href="/w/index.php?title=Universiteit_van_Waikato&amp;action=edit&amp;redlink=1" class="new" title="Universiteit van Waikato (de pagina bestaat niet)">Universiteit van Waikato</a>
+</td></tr>
+
+<tr>
+<td style="font-weight:bold;"><a href="/wiki/Versienummer" title="Versienummer">Recentste versie</a></td>
+<td colspan="2">3.7.4&#160;<br /><small>(30 juni 2011)</small>
+</td></tr>
+
+
+
+<tr>
+<td style="font-weight:bold;"><a href="/wiki/Besturingssysteem" title="Besturingssysteem">Besturingssysteem</a></td>
+<td colspan="2"><a href="/wiki/Multiplatform" title="Multiplatform">Multiplatform</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="font-weight:bold;">Categorie</td>
+<td colspan="2"><a href="/wiki/Datamining" title="Datamining">Datamining</a>
+</td></tr>
+<tr>
+<td style="font-weight:bold;"><a href="/wiki/Softwarelicentie" title="Softwarelicentie">Licentie</a></td>
+<td colspan="2"><a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GPL</a>
+</td></tr>
+<tr>
+<td style="font-weight:bold;"><a href="/wiki/Versiebeheersysteem" title="Versiebeheersysteem">Versiebeheer</a></td>
+<td colspan="2"><a rel="nofollow" class="external text" href="https://svn.cms.waikato.ac.nz/svn/weka/">svn.cms.waikato.ac.nz</a>
+</td></tr>
+<tr>
+<td style="font-weight:bold;">Website</td>
+<td colspan="2"><span style="font-family:sans-serif; font-weight:bold; font-size:85%; cursor:help; color:#555555;" title="Taal: Engels">(<span style="border-bottom: 1px dotted #555555;">en</span>) </span><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/ml/weka/">Projectpagina</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td style="background-color:#e3e3e3;" align="center" colspan="3">
+<table style="background:transparent; color:#000000; text-align:center;" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+<td style="vertical-align:middle; text-align:center;"><b>Portaal</b>&#160; <a href="/wiki/Bestand:Portal.svg" class="image" title="Portaalicoon"><img alt="Portaalicoon" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/22px-Portal.svg.png" decoding="async" width="22" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/33px-Portal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/44px-Portal.svg.png 2x" data-file-width="36" data-file-height="32" /></a> &#160;
+</td>
+<td align="left"><b><a href="/wiki/Portaal:Informatica" title="Portaal:Informatica">Informatica</a>  </b>
+</td></tr></tbody></table>
+</td></tr>
+
+</tbody></table>
+<p><b>Weka</b> (<i>Waikato Environment for Knowledge Analysis</i>) is <a href="/wiki/Vrije_software" title="Vrije software">vrije</a> <a href="/wiki/Datamining" title="Datamining">datamining</a>-<a href="/wiki/Software" title="Software">software</a> geschreven in <a href="/wiki/Java_(programmeertaal)" title="Java (programmeertaal)">Java</a>. Het is ontwikkeld aan de <a href="/w/index.php?title=Universiteit_van_Waikato&amp;action=edit&amp;redlink=1" class="new" title="Universiteit van Waikato (de pagina bestaat niet)">Universiteit van Waikato</a> te <a href="/wiki/Nieuw-Zeeland" title="Nieuw-Zeeland">Nieuw-Zeeland</a> en het is beschikbaar onder de <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a>.
+</p><p>Weka is een werkomgeving voor het uitvoeren van de benodigde stappen bij datamining, waaronder het voorbewerken van de data en het opbouwen van een voorspellend model. Het bevat <a href="/wiki/Algoritme" title="Algoritme">algoritmen</a> en hulpmiddelen voor <a href="/wiki/Clusteranalyse" title="Clusteranalyse">clusteranalyse</a>, <a href="/wiki/Classificatie" title="Classificatie">classificatie</a>, <a href="/wiki/Regressie-analyse" title="Regressie-analyse">regressie-analyse</a>, visualisatie en <i>feature selection</i> (het selecteren van attributen / variabelen).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>De eerste versie van Weka was bedoeld als werkomgeving en niet zozeer voor wetenschappelijke doeleinden.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> De huidige versie van Weka in Java wordt voor allerlei doeleinden gebruikt, waaronder onderwijs en onderzoek.
+</p>
+<h2><span class="mw-headline" id="Geschiedenis">Geschiedenis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(software)&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Bewerk dit kopje: Geschiedenis">bewerken</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(software)&amp;action=edit&amp;section=1" title="Bewerk dit kopje: Geschiedenis">brontekst bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>De eerste versie was een <a href="/wiki/Gebruikersinterface" class="mw-redirect" title="Gebruikersinterface">frontend</a> geschreven in <a href="/wiki/Tcl_(programmeertaal)" title="Tcl (programmeertaal)">Tcl/Tk</a> voor al bestaande dataminingalgoritmen, gecombineerd met algoritmen in <a href="/wiki/C_(programmeertaal)" title="C (programmeertaal)">C</a> voor voorbewerking van de data. Het uitvoeren van experimenten werd gedaan met behulp van <a href="/wiki/Make_(computerprogramma)" title="Make (computerprogramma)">makefiles</a>. De ontwikkeling hiervan begon in 1993. In 1997 werd besloten Weka geheel te herschrijven in <a href="/wiki/Java_(programmeertaal)" title="Java (programmeertaal)">Java</a>.
+</p><p>In 2005 ontving Weka de <i><a href="/wiki/SIGKDD" class="mw-redirect" title="SIGKDD">SIGKDD</a> Data Mining and Knowledge Discovery Service Award</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Externe_link">Externe link</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(software)&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Bewerk dit kopje: Externe link">bewerken</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(software)&amp;action=edit&amp;section=2" title="Bewerk dit kopje: Externe link">brontekst bewerken</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span style="font-family:sans-serif; font-weight:bold; font-size:85%; cursor:help; color:#555555;" title="Taal: Engels">(<span style="border-bottom: 1px dotted #555555;">en</span>) </span><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/ml/weka/">Projectpagina</a></li></ul>
+<table class="toccolours" style="font-size:89%; margin-top:1em; margin-bottom:-0.5em; border: 1px solid #aaa; padding: 5px; clear: both; width:100%; box-sizing:border-box;" role="presentation">
+<tbody><tr>
+<td><span style="font-weight:bold">Bronnen, noten en/of referenties</span>
+<div class="reflist" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span style="font-family:sans-serif; font-weight:bold; font-size:85%; cursor:help; color:#555555;" title="Taal: Engels">(<span style="border-bottom: 1px dotted #555555;">en</span>) </span> <a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/publications/1999/99IHW-EF-LT-MH-GH-SJC-Tools-Java.pdf">Weka: Practical Machine Learning Tools and Techniques with Java Implementations</a>, Ian H. Witten, Eibe Frank, Len Trigg, Mark Hall, Geoffrey Holmes en Sally Jo Cunningham</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span style="font-family:sans-serif; font-weight:bold; font-size:85%; cursor:help; color:#555555;" title="Taal: Engels">(<span style="border-bottom: 1px dotted #555555;">en</span>) </span> <a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/publications/1994/Holmes-ANZIIS-WEKA.pdf">WEKA: A Machine Learning Workbench</a>, Geoffrey Holmes, Andrew Donkin en Ian H. Witten</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span style="font-family:sans-serif; font-weight:bold; font-size:85%; cursor:help; color:#555555;" title="Taal: Engels">(<span style="border-bottom: 1px dotted #555555;">en</span>) </span> <a rel="nofollow" class="external text" href="http://www.kdnuggets.com/news/2005/n13/2i.html">Winner of SIGKDD Data Mining and Knowledge Discovery Service Award</a></span>
+</li>
+</ol></div>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20210411150458
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.235 seconds
+Real time usage: 0.282 seconds
+Preprocessor visited node count: 1010/1000000
+Post‐expand include size: 9110/2097152 bytes
+Template argument size: 1812/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1918/5000000 bytes
+Lua time usage: 0.038/10.000 seconds
+Lua memory usage: 1393202/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  247.245      1 -total
+ 66.16%  163.576      1 Sjabloon:Infobox_software
+ 64.15%  158.619      1 Sjabloon:Infobox_generiek
+ 26.56%   65.663      1 Sjabloon:Appendix
+ 23.64%   58.443      1 Sjabloon:Wikidata
+  7.16%   17.713      1 Sjabloon:References
+  6.27%   15.495      1 Sjabloon:Wikidata_afbeelding
+  3.74%    9.249      5 Sjabloon:En
+  1.49%    3.682      2 Sjabloon:Taalaanduiding
+  1.35%    3.345      2 Sjabloon:Infobox/breedte
+-->
+
+<!-- Saved in parser cache with key nlwiki:pcache:idhash:1314818-0!canonical and timestamp 20210411150458 and revision id 52298431. Serialized with JSON.
+ -->
+</div><noscript><img src="//nl.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Overgenomen van "<a dir="ltr" href="https://nl.wikipedia.org/w/index.php?title=Weka_(software)&amp;oldid=52298431">https://nl.wikipedia.org/w/index.php?title=Weka_(software)&amp;oldid=52298431</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Categorie:Alles" title="Categorie:Alles">Categorie</a>: <ul><li><a href="/wiki/Categorie:Opensourcesoftware_en_vrije_software" title="Categorie:Opensourcesoftware en vrije software">Opensourcesoftware en vrije software</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Verborgen categorie: <ul><li><a href="/wiki/Categorie:Wikipedia:Lokale_afbeelding_anders_dan_op_Wikidata" title="Categorie:Wikipedia:Lokale afbeelding anders dan op Wikidata">Wikipedia:Lokale afbeelding anders dan op Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigatiemenu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Persoonlijke hulpmiddelen</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Niet aangemeld</li><li id="pt-anontalk"><a href="/wiki/Speciaal:MijnOverleg" title="Overlegpagina van de anonieme gebruiker van dit IP-adres [n]" accesskey="n">Overleg</a></li><li id="pt-anoncontribs"><a href="/wiki/Speciaal:MijnBijdragen" title="Bijdragen IP-adres [y]" accesskey="y">Bijdragen</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Speciaal:GebruikerAanmaken&amp;returnto=Weka+%28software%29" title="Registreer u vooral en meld u aan. Dit is echter niet verplicht.">Registreren</a></li><li id="pt-login"><a href="/w/index.php?title=Speciaal:Aanmelden&amp;returnto=Weka+%28software%29" title="U wordt van harte uitgenodigd om aan te melden, maar dit is niet verplicht [o]" accesskey="o">Aanmelden</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Naamruimten</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Weka_(software)" title="Inhoudspagina bekijken [c]" accesskey="c">Artikel</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Overleg:Weka_(software)&amp;action=edit&amp;redlink=1" rel="discussion" title="Overleg over deze pagina (de pagina bestaat niet) [t]" accesskey="t">Overleg</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Varianten</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Weergaven</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Weka_(software)">Lezen</a></li><li id="ca-ve-edit"><a href="/w/index.php?title=Weka_(software)&amp;veaction=edit" title="Deze pagina bewerken [v]" accesskey="v">Bewerken</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Weka_(software)&amp;action=edit" title="Deze pagina bewerken [e]" accesskey="e">Brontekst bewerken</a></li><li id="ca-history"><a href="/w/index.php?title=Weka_(software)&amp;action=history" title="Eerdere versies van deze pagina [h]" accesskey="h">Geschiedenis</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>Meer</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Zoeken</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Doorzoek Wikipedia" autocapitalize="sentences" title="Doorzoek Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Speciaal:Zoeken"/>
+			<input type="submit" name="fulltext" value="Zoeken" title="Doorzoek alle pagina&#039;s op deze tekst" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Artikel" title="Direct naar een pagina met deze naam" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Hoofdpagina"
+			title="Naar de hoofdpagina gaan"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigatie</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage"><a href="/wiki/Hoofdpagina" title="Naar de hoofdpagina gaan [z]" accesskey="z">Hoofdpagina</a></li><li id="n-zoekartikel"><a href="/wiki/Portaal:Navigatie">Vind een artikel</a></li><li id="n-today"><a href="/wiki/11_april">Vandaag</a></li><li id="n-Etalage"><a href="/wiki/Wikipedia:Etalage">Etalage</a></li><li id="n-categories"><a href="/wiki/Categorie:Alles">Categorieën</a></li><li id="n-recentchanges"><a href="/wiki/Speciaal:RecenteWijzigingen" title="Een lijst met recente wijzigingen in deze wiki. [r]" accesskey="r">Recente wijzigingen</a></li><li id="n-newpages"><a href="/wiki/Speciaal:NieuwePaginas">Nieuwe artikelen</a></li><li id="n-randompage"><a href="/wiki/Speciaal:Willekeurig" title="Een willekeurige pagina bekijken [x]" accesskey="x">Willekeurige pagina</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation2" class="mw-portlet mw-portlet-navigation2 vector-menu vector-menu-portal portal" aria-labelledby="p-navigation2-label" role="navigation" 
+	 >
+	<h3 id="p-navigation2-label" class="vector-menu-heading">
+		<span>Informatie</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-portal"><a href="/wiki/Portaal:Gebruikersportaal" title="Informatie over het project: wat u kunt doen, waar u dingen kunt vinden">Gebruikersportaal</a></li><li id="n-Snelcursus"><a href="/wiki/Wikipedia:Snelcursus">Snelcursus</a></li><li id="n-help"><a href="/wiki/Portaal:Hulp_en_beheer" title="Hulpinformatie over deze wiki">Hulp en contact</a></li><li id="n-sitesupport"><a href="/wiki/Wikipedia:Donatie" title="Ondersteun ons financieel">Donaties</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Hulpmiddelen</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Speciaal:VerwijzingenNaarHier/Weka_(software)" title="Lijst met alle pagina&#039;s die naar deze pagina verwijzen [j]" accesskey="j">Links naar deze pagina</a></li><li id="t-recentchangeslinked"><a href="/wiki/Speciaal:RecenteWijzigingenGelinkt/Weka_(software)" rel="nofollow" title="Recente wijzigingen in pagina&#039;s waar deze pagina naar verwijst [k]" accesskey="k">Verwante wijzigingen</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=nl" title="Bestanden uploaden [u]" accesskey="u">Bestand uploaden</a></li><li id="t-specialpages"><a href="/wiki/Speciaal:SpecialePaginas" title="Lijst met alle speciale pagina&#039;s [q]" accesskey="q">Speciale pagina's</a></li><li id="t-permalink"><a href="/w/index.php?title=Weka_(software)&amp;oldid=52298431" title="Permanente koppeling naar deze versie van de pagina">Permanente koppeling</a></li><li id="t-info"><a href="/w/index.php?title=Weka_(software)&amp;action=info" title="Meer informatie over deze pagina">Paginagegevens</a></li><li id="t-cite"><a href="/w/index.php?title=Speciaal:Citeren&amp;page=Weka_%28software%29&amp;id=52298431&amp;wpFormIdentifier=titleform" title="Informatie over hoe u deze pagina kunt citeren">Deze pagina citeren</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494" title="Koppeling naar item in verbonden gegevensrepository [g]" accesskey="g">Wikidata-item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Afdrukken/exporteren</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Speciaal:Boek&amp;bookcmd=book_creator&amp;referer=Weka+%28software%29">Boek maken</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Speciaal:DownloadAsPdf&amp;page=Weka_%28software%29&amp;action=show-download-screen">Downloaden als PDF</a></li><li id="t-print"><a href="/w/index.php?title=Weka_(software)&amp;printable=yes" title="Printvriendelijke versie van deze pagina [p]" accesskey="p">Printvriendelijke versie</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In andere projecten</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>In andere talen</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Weka_(aprenentatge_autom%C3%A0tic)" title="Weka (aprenentatge automàtic) – Catalaans" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Weka" title="Weka – Tsjechisch" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Waikato_Environment_for_Knowledge_Analysis" title="Waikato Environment for Knowledge Analysis – Duits" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Weka_(%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7)" title="Weka (μηχανική μάθηση) – Grieks" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Weka_(machine_learning)" title="Weka (machine learning) – Engels" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico)" title="Weka (aprendizaje automático) – Spaans" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Weka_(ikasketa_automatikoa)" title="Weka (ikasketa automatikoa) – Baskisch" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" title="وکا (یادگیری ماشینی) – Perzisch" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Weka_(informatique)" title="Weka (informatique) – Frans" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Weka_(%D7%9C%D7%9E%D7%99%D7%93%D7%AA_%D7%9E%D7%9B%D7%95%D7%A0%D7%94)" title="Weka (למידת מכונה) – Hebreeuws" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Weka_(pembelajaran_mesin)" title="Weka (pembelajaran mesin) – Indonesisch" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Weka" title="Weka – Italiaans" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Weka" title="Weka – Japans" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%B9%B4_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)" title="웨카 (기계 학습) – Koreaans" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Weka" title="Weka – Portugees" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Weka" title="Weka – Russisch" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%99%E0%B6%9A%E0%B7%8F_%E0%B6%B8%E0%B7%98%E0%B6%AF%E0%B7%94%E0%B6%9A%E0%B7%8F%E0%B6%82%E0%B6%9C%E0%B6%BA" title="වෙකා මෘදුකාංගය – Singalees" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Weka_(strojno_u%C4%8Denje)" title="Weka (strojno učenje) – Sloveens" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%B2" title="เวกา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Weka" title="Weka – Turks" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Weka" title="Weka – Oekraïens" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Weka_(h%E1%BB%8Dc_m%C3%A1y)" title="Weka (học máy) – Vietnamees" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Weka" title="Weka – Chinees" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494#sitelinks-wikipedia" title="Intertaalkoppelingen bewerken" class="wbc-editpage">Koppelingen bewerken</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> Deze pagina is voor het laatst bewerkt op 21 sep 2018 om 08:52.</li>
+	<li id="footer-info-copyright">De tekst is beschikbaar onder de licentie <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.nl">Creative Commons Naamsvermelding/Gelijk delen</a>, er kunnen aanvullende voorwaarden van toepassing zijn. Zie de <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/nl">gebruiksvoorwaarden</a> voor meer informatie.<br/> Wikipedia&reg; is een geregistreerd handelsmerk van de <a href="http://www.wikimediafoundation.org">Wikimedia Foundation, Inc.</a>, een organisatie zonder winstoogmerk.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/nl" class="extiw" title="meta:Privacy policy/nl">Privacybeleid</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia" title="Wikipedia">Over Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Algemeen_voorbehoud" title="Wikipedia:Algemeen voorbehoud">Voorbehoud</a></li>
+	<li id="footer-places-mobileview"><a href="//nl.m.wikipedia.org/w/index.php?title=Weka_(software)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobiele weergave</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Ontwikkelaars</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/nl.wikipedia.org">Statistieken</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookiesverklaring</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.235","walltime":"0.282","ppvisitednodes":{"value":1010,"limit":1000000},"postexpandincludesize":{"value":9110,"limit":2097152},"templateargumentsize":{"value":1812,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1918,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  247.245      1 -total"," 66.16%  163.576      1 Sjabloon:Infobox_software"," 64.15%  158.619      1 Sjabloon:Infobox_generiek"," 26.56%   65.663      1 Sjabloon:Appendix"," 23.64%   58.443      1 Sjabloon:Wikidata","  7.16%   17.713      1 Sjabloon:References","  6.27%   15.495      1 Sjabloon:Wikidata_afbeelding","  3.74%    9.249      5 Sjabloon:En","  1.49%    3.682      2 Sjabloon:Taalaanduiding","  1.35%    3.345      2 Sjabloon:Infobox/breedte"]},"scribunto":{"limitreport-timeusage":{"value":"0.038","limit":"10.000"},"limitreport-memusage":{"value":1393202,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20210411150458","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Weka (software)","url":"https:\/\/nl.wikipedia.org\/wiki\/Weka_(software)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q115494","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q115494","author":{"@type":"Organization","name":"Bijdragers aan Wikimedia projecten"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-06-08T00:08:34Z","dateModified":"2018-09-21T06:52:22Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Weka_%28software%29_logo.png","headline":"software"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":467,"wgHostname":"mw1332"});});</script>
+</body></html>

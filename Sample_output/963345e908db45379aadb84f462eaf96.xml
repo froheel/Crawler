@@ -1,0 +1,246 @@
+
+<!doctype html>
+<html lang="en-US" class="no-js">
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="keywords" content="Autonomous Database, JSON, Autonomous JSON Database, App Dev, Developer, PaaS, Oracle Cloud"> 
+  <meta name="Description" content="Learn about JSON capabilities in Oracle Database and how it can help with application development."> 
+  <meta property="og:type" content="article"> 
+  <meta property="og:title" content="Accelerate Application Development with Oracle Autonomous JSON Database"> 
+  <meta property="og:description" content="Learn about JSON capabilities in Oracle Database and how it can help with application development."> 
+  <meta property="og:image" content="https://www.oracle.com/webfolder/s/dm/image9/Oracle-sharing-logo-new.jpg"> 
+  <link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-32.png" sizes="32x32"> 
+  <link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-128.png" sizes="128x128"> 
+  <link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-192.png" sizes="192x192"> 
+  <link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-120.png" sizes="120x120"> 
+  <link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-152.png" sizes="152x152"> 
+  <link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-180.png" sizes="180x180"> 
+  <meta name="msapplication-square70x70logo" content="favicon-128.png"> 
+  <meta name="msapplication-square150x150logo" content="favicon-270.png"> 
+  <meta name="msapplication-TileImage" content="favicon-270.png"> 
+  <title>Accelerate Application Development with Oracle Autonomous JSON Database</title>     
+  <link id="CSS022" type="text/css" href="https://www.oracle.com/a/ocom/docs/dc/tb/src/tbgrid-v2.css" rel="stylesheet" data-wscss="">
+  <link id="CSS023" type="text/css" href="https://www.oracle.com/a/ocom/docs/dc/tb/src/theme-redwood.css" rel="stylesheet" data-wscss="">
+  <link id="CSS009" type="text/css" href="https://www.oracle.com/a/ocom/docs/dc/tb/src/responsive-pp-min.css" rel="stylesheet" data-wscss="">
+  <link id="CSS025" type="text/css" href="https://www.oracle.com/a/ocom/docs/dc/tb/src/redwood-pp.css" rel="stylesheet" data-wscss="">
+  <script id="JSD001" type="text/javascript">var countryCode = "ww"; var languageCode = "en-us";</script>
+  <script id="JSD036" type="text/javascript">/* Required settings - you MUST set */ var endDate=new Date("07/27/2021"); /* On24 Enddate */ var onDemandStartDate=Date.parse(new Date("07/27/2021"));/* On Demand Start Date */ var currentDate = Date.parse(new Date()); /* Current system date */ endDate=endDate.getHours()+endDate.setHours(24); /* Adding 24 hours to end date */ var redirURL = "https://go.oracle.com/LP=105253"; /* The URL that will be redirected to after a form submit (thank you page) */ var thankYouEmail = ""; /* "1","2","3", etc. Determines which auto-responder to send. Default is none. */ if(currentDate > endDate){ redirURL = "https://go.oracle.com/LP=105254"; /* On24 URL that will be redirected after date expires */ thankYouEmail = "182544"; /* On24 thankyouemali id after date expires. Default is none. */ var formHtmlName = "zoomondemandform"; } else{ var formHtmlName = "zoomregform"; } var BASEURL = "https://go.oracle.com/LP=105252"; /* This URL should be the CURRENT PAGE URL */ var LPid = "105252"; /* the ID of this landing page */ var elqCampaignId = "276940"; /* Eloqua Campaign ID */ var cmid = "WWMK201107P00013"; /* GCM Campaign ID */ var submitText = "Register"; /* The text that appears in the submit button */ var formType = "8"; /* "4", "12", "progressive", "twoTouch". default is progressive. */ var language_value="en-us"; var onDemandPP="Yes"; var isSurvey="NO"; var CompanySize="NO"; var campStepId = "399230"; var formStyle="0"; /* "0", "1". " 0 - with label, 1 - without label"*/ var contactMeFlag="No"; /* "Yes", "No". makes contact me field mandatory */ var contactMeText="Yes, I would like to be contacted by an Oracle Solution representative."; var customFieldFlag = "No"; var businessEmail = "No"; if(customFieldFlag == "Yes"){ var customFieldLabel="Tell us a little more about your requirements."; var customFieldMandatory="No"; /* "Yes", "No". makes custom question mandatory */ } else{ var customFieldLabel=""; var customFieldMandatory="No"; /* "Yes", "No". makes custom question mandatory */ }</script>
+  <script id="JSD004" type="text/javascript">/* merge variables must be in the HTML landing page, not the external JS ... DO NOT TOUCH */ var assetHash = "1Xb478"; /* for now this is universal for all LPs so do not modify */ var serverVal = ""; var serverContactInfo = ""; var serverCountry = ""; var serverFirst = ""; var serverLast = "";</script>
+  <script id="JSD005" type="text/javascript">var formURL = "https://go.oracle.com/LP=105252"; /* This URL should be the WELCOME PAGE URL */ var elqCampaignId = "276940"; /* Eloqua Campaign ID */ var shareTrackingParams = "&src1=:ow:evp:sh:em:::OER400121221&intcmp=WWMK201107P00013:ow:evp:sh:em:::OER400121221"; /* Share tracking params */ var SocialShareUrl = formURL + "?elqCampaignId=" + elqCampaignId + shareTrackingParams; var fileURL = ""; var mailto = "";</script><!--jquery loaded asynchronously with onload function to load other dependent scripts--> 
+  <script id="JSD029" data-wsjs="" src="https://www.oracle.com/a/ocom/docs/dc/tb/src/jquery-min.js" async onload="$('head link[data-reqjq][rel=preload]').each(function(){var a = document.createElement('script');a.async=false;a.src=$(this).attr('href');this.parentNode.insertBefore(a, this);});$(function(){$('script[data-reqjq][data-src]').each(function(){this.async=true;this.src=$(this).data('src');});});"></script>
+  <link id="JS006" as="script" rel="preload" data-reqjq="" data-wsjs="" href="https://www.oracle.com/a/ocom/docs/dc/tb/src/lp-master-responsive-script-min.js">
+  <link id="JS028" as="script" rel="preload" data-reqjq="" data-wsjs="" href="https://www.oracle.com/a/ocom/docs/dc/tb/src/redwood-landingpage-min.js">
+  <link id="JS018" as="script" rel="preload" data-reqjq="" data-wsjs="" href="https://players.brightcove.net/1460825906/SyGHte2Ul_default/index.min.js">
+  <link id="JS001" as="script" rel="preload" data-reqjq="" data-wsjs="" href="https://www.oracle.com/a/ocom/docs/dc/tb/src/responsive-tb-footer-min.js">
+  <link id="JS031" as="script" rel="preload" data-reqjq="" data-wsjs="" href="https://oracle.com/a/ocom/docs/dc/tb/src/load-disclaimer.js">
+  <link id="JS017" as="script" rel="preload" data-reqjq="" data-wsjs="" href="https://www.oracle.com/a/ocom/docs/dc/tb/src/on24-on-demand-redirect-min.js">
+  <link id="JS019" as="script" rel="preload" data-reqjq="" data-wsjs="" href="https://www.oracle.com/asset/web/dc/eloqua/js/elq.wpv2.bundle.js">
+  <script id="JSD019" type="text/javascript">function DrawPromoFooter() { if (typeof $ === "undefined"){ setTimeout(DrawPromoFooter,10); return ; } var promoFooterRegion = "ww"; var promoFooterCountry = "ww"; var footerScriptUrl = "https://www.oracle.com/a/ocom/docs/dc/tb/src/promo-footer.js"; if(promoFooterRegion == "apac"){ if(promoFooterCountry == "nz"){ footerScriptUrl = "https://www.oracle.com/a/ocom/docs/dc/tb/src/promo-footer-anz-newzealand.js"; }else if(promoFooterCountry == "au"){ footerScriptUrl = "https://www.oracle.com/a/ocom/docs/dc/tb/src/promo-footer-anz-australia.js"; }else{ footerScriptUrl = "https://www.oracle.com/a/ocom/docs/dc/tb/src/promo-footer-apac.js"; } }else if(promoFooterRegion == "lad"){ footerScriptUrl = "https://www.oracle.com/a/ocom/docs/dc/tb/src/promo-footer-lad.js"; }else if(promoFooterRegion == "jp"){ footerScriptUrl = "https://www.oracle.com/a/ocom/docs/dc/tb/src/promo-footer-japan.js"; }else if(promoFooterRegion == "emea"){ footerScriptUrl = "https://www.oracle.com/a/ocom/docs/dc/tb/src/promo-footer-emea.js"; }else if(promoFooterRegion == "na"){ footerScriptUrl = "https://www.oracle.com/a/ocom/docs/dc/tb/src/promo-footer.js"; }else{ footerScriptUrl = "https://www.oracle.com/a/ocom/docs/dc/tb/src/promo-footer.js"; } $.getScript(footerScriptUrl).promise().done(function(script, textStatus) { promoFooterModule = tbPromoFooter(); $(".promoFooterDiv").html(promoFooterModule); }); } DrawPromoFooter();</script>
+ </head> 
+ <body class="rw-bgc4 body-bg" data-new-gr-c-s-check-loaded="14.984.0" data-gr-ext-installed=""> 
+  <header>  
+   <section class="tbg-container-fluid rw-bgc2"> 
+    <div class="tbg-container rw-bgc1 pt-22 pb-22 pt-xs-14 pb-xs-14 logo-sec flex-md" id="showEdtrBtn"> 
+     <div class="tbg-row"> 
+      <div class="tbg tbg-lg-10 tbg-md-10 tbg-sm-full tbg-xs-full align-center rwd-wrapper"> 
+       <div class="tbg-row v-center-lg v-center-md"> 
+        <div class="tbg tbg-lg-full tbg-md-full tbg-sm-full tbg-xs-full"> 
+         <img src="https://www.oracle.com/a/ocom/img/dc/tb/rwd/oracle-white-123x16px.png" alt="Oracle logo" class="img92"> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section>  
+  </header> 
+  <main> 
+   <article> 
+    <div id="mainTable" data-theme="Redwood" class="devicewidth">  
+     <section class="tbg-container-fluid rw-bgc2"> 
+      <div class="tbg-container pt-60 pb-60 pt-xs-40 pb-xs-40 flex-md bnr-bgc-pine" id="showEdtrBtn"> 
+       <div class="tbg-row"> 
+        <div class="tbg tbg-lg-10 tbg-md-10 tbg-sm-full tbg-xs-full align-center rwd-wrapper"> 
+         <div class="tbg-row"> 
+          <div class="tbg tbg-lg-9 tbg-md-9 tbg-sm-full tbg-xs-full"> 
+           <div id="tb-pllr-logo"> 
+            <div class="pb-12 clr-logo-desk"> 
+             <img src="https://www.oracle.com/a/ocom/img/dc/tb/rwd/landing-banner-desktop-cp.png" alt="Oracle" style="display:block;" height="14" border="0"> 
+            </div> 
+            <div class="pb-xs-12 clr-logo-mob"> 
+             <img src="https://www.oracle.com/a/ocom/img/dc/tb/rwd/landing-banner-desktop-cp.png" alt="Oracle" style="display:block;" height="12" border="0"> 
+            </div> 
+           </div> 
+           <h2 class="rw-fc-White fs-40 wc-bnr-txt fs-xs-20"> <span class="tmpTitle"> Live Developer Webcast</span> </h2> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </section>   
+     <section class="tbg-container-fluid"> 
+      <div class="tbg-container rw-bgc3 align-center tbg-full" id="showEdtrBtn"> 
+       <div class="tbg-row"> 
+        <div class="tbg tbg-lg-full tbg-md-full tbg-sm-full tbg-xs-full align-center"> 
+         <div class="tbg-row"> 
+          <div class="tbg tbg-lg-full tbg-md-full tbg-sm-full tbg-xs-full rw-fc-grey rw-bgc6"> 
+           <div class="tbg-row"> 
+            <div id="on24dt" class="tbg tbg-lg-4 tbg-md-4 tbg-sm-full tbg-xs-full body-nml"> 
+             <div class="w500 rw-bgc5 pt-xs-40 pb-xs-40 tbg-plr tmpRadioSwitch"> 
+              <div class="pl-118 pl-xs-118 w223 ml-20 ml-xs-0 ml-md-0"> 
+               <div class="tbg-row"> 
+                <div multiple-ppform="true"> 
+                 <div class="btn rw-btn-primary align-txt-center align-center-xs" id="lp-download-button" buttoncta="true"> <a href="#" target="_self"><span class="txt w190 tmpBtn">Register today</span></a> 
+                 </div> 
+                </div> 
+                <div class="pp-form-area" id="lp-reg-form" style="display: block;"> 
+                 <div class="lp-inner-div" id="lp-inner-div"> <span id="pp-form"></span> 
+                 </div> 
+                </div> 
+               </div> 
+               <div class="tbg-row mt-20"> 
+                <div class="wc-btn align-center align-center-xs"> <span class="icon-lap"></span> <span id="on24bnr" class="txt tmpTitle">Live Webcast</span> <span class="txt" id="tb_on24_bnr" style="display:none;">On-Demand Webinar</span> 
+                </div> 
+               </div> 
+              </div> 
+              <div class="pl-118 pl-xs-118 w264 ml-xs-0 ml-md-0" style="display:none;"></div> 
+              <div class="pl-118 pl-xs-118 w264 ml-xs-0 ml-md-0" style="display:none;"></div> 
+             </div> 
+            </div> 
+            <div id="tb_on24_webcast_cr" style="display:none;" class="tbg tbg-lg-4 tbg-md-4 tbg-sm-full tbg-xs-full body-nml pt-60 pb-60 pt-xs-40 pb-xs-40 align-left align-left-xs mr-0 rw-bgc5"> 
+             <div class="wc-btn align-center tbg-plr"> 
+              <div class="align-center-xs txt align-txt-center fs-16 fs-xs-14 ev-sp"> <span id="tb_rw_zmlw_webcast">Registration is Closed</span> 
+              </div> 
+             </div> 
+            </div> 
+            <div id="tb_on24_webcast_cr" style="display:none;" class="tbg tbg-lg-8 tbg-md-8 tbg-sm-full tbg-xs-full body-nml pt-60 pb-60 pt-xs-40 pb-xs-40 align-left align-left-xs mr-0"> 
+             <div class="align-center tbg-plr"> 
+              <div class="align-txt-center fs-16 fs-xs-14 ev-sp"> <span id="tb_on24_webcast">Register now to watch this webinar on-demand</span> 
+              </div> 
+             </div> 
+            </div> 
+            <div id="on24dt" class="tbg tbg-lg-4 tbg-md-4 tbg-sm-full tbg-xs-full body-nml pt-60 pb-60 pt-xs-40 pb-xs-40 align-left align-left-xs Dtbl h130"> 
+             <div class="pl-118 w308 pl-md-30 tbg-plr Dtbl-cell"> 
+              <div class="align-center-xs"> <span class="icon-calendar align-center"></span> 
+              </div> 
+              <div class="mt-20 align-txt-center fs-16 fs-xs-14"> <span class="tmpTextedtr"><span data-merge-id="ON24_Q4">April 27, 2021</span></span> 
+              </div> 
+             </div> 
+            </div> 
+            <div id="on24dt" class="tbg tbg-lg-4 tbg-md-4 tbg-sm-full tbg-xs-full body-nml pt-60 pb-60 pt-xs-40 pb-xs-40 align-left align-left-xs Dtbl h130"> 
+             <div class="pr-118 pr-xs-118 w308 tbg-plr Dtbl-cell"> 
+              <div class="align-center-xs"> <span class="icon-clock align-center"></span> 
+              </div> 
+              <div class="mt-20 align-txt-center fs-16 fs-xs-14"> <span class="tmpTextedtr"><span data-merge-id="ON24_Q5">10 a.m. PT | 1 p.m. ET</span></span> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </section>    
+     <section class="tbg-container-fluid tmpMultiAddRemove"> 
+      <div class="tbg-row hide sidebnr-show-xs"> 
+       <div class="tbg tbg-sm-full tbg-xs-full rw-bgc8 flex-xs"> 
+        <img src="https://www.oracle.com/a/ocom/img/dc/tb/rwd/landing-phone-cp.png" alt="image" class="img-xs-full img-md-full" id="campaignImageMobile"> 
+       </div> 
+      </div> 
+      <div class="tbg-container rw-bgc8 align-center tmpSwap" id="showEdtrBtn" data-addclass="swap-bg" data-service="true"> 
+       <div class="tbg-row"> 
+        <div class="tbg tbg-lg-full tbg-md-full tbg-sm-full tbg-xs-full align-center one-img-bottom sidebnr-hide-xs" style="background-image: url('https://www.oracle.com/a/ocom/img/dc/tb/rwd/landing-bottom-right-desktop-500-cp.png');" change-image="true"> 
+         <div class="tbg-row"> 
+          <div class="tbg tbg-lg-11 tbg-md-11 tbg-sm-full tbg-xs-full align-right" change-class="align-right->align-left"> 
+           <div class="tbg-row align-left align-left-xs" add-class="swap-right"> 
+            <div class="tbg tbg-lg-6 tbg-md-6 tbg-sm-full tbg-xs-full rw-fc-White pt-60 pb-60 pt-xs-0 pb-xs-40"> 
+             <div class="tmpAddRemoveText"> 
+              <h1 class="fs-24 FW-bold align-txt-left mb-30 LN28 fs-xs-20 LN24-xs"> <span class="tmpTitle">Accelerate Application Development with Autonomous JSON Database</span> </h1> 
+             </div> 
+             <div class="tmpAddRemoveText" style="display: none;"> 
+              <h2 class="fs-16 FW-bold align-txt-left mb-30 LN20 fc-pine"> <span class="tmpTitle">Subheading</span> </h2> 
+             </div> 
+             <div class="tmpSwitchToText"> 
+              <div class="tbg-row align-left tmpListTable" style="display: none;" switch-to-text="true"> 
+               <ul class="tmpIndexedList"> 
+                <li class="fs-16 mb-20 fs-xs-14 LN16">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id enim rhoncus justo pretium aliquam vitae at dui. Quisque.</li> 
+                <li class="fs-16 mb-20 fs-xs-14 LN16">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id enim rhoncus justo pretium aliquam vitae at dui. Quisque.</li> 
+                <li class="fs-16 mb-20 fs-xs-14 LN16">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id enim rhoncus justo pretium aliquam vitae at dui. Quisque.</li> 
+               </ul> 
+              </div> 
+              <div class="tbg-row align-left" switch-to-text="true"> 
+               <div class="fs-16 FW-normal align-txt-left LN20 fs-xs-14 LN16-xs"> 
+                <div class="tmpTextedtr">
+                  JSON is extremely popular with developers. It started as a serialization format for JavaScript objects and moved on to be a de-facto messaging format for web applications. It has now become the main data model for many new applications, including the database tier. 
+                 <br> 
+                 <br>Oracle Database has a built-in SQL type ('JSON') that is efficient and stores JSON data natively. Values are both stored and transmitted across the network using Oracle's binary JSON format (OSON) that provide fast ingestion, retrieval, query, and updates of JSON data. 
+                 <br> 
+                 <br>While SQL is a great language for analytics or complex reporting, many developers prefer a simpler and more flexible way to interact with JSON data. Oracle has developed a native, open-source document store API called SODA (Simple Oracle Document Access) for common programming languages including Java, JavaScript and Python. Developing applications with JSON and SODA is as easy with Oracle as it is with NoSQL databases like MongoDB. 
+                 <br> 
+                 <br>In this session, you&#8217;ll learn about the JSON capabilities in Oracle Database and how it can help with application development. Software engineer Josh Spiegel will cover functionality, architecture, and best practices for accessing JSON from a Java program. A live demonstration of Autonomous JSON Database Cloud Service will be used throughout the talk and while explaining the concepts. 
+                 <br> 
+                 <ul> 
+                 </ul> 
+                </div> 
+               </div> 
+              </div> 
+             </div> 
+             <div class="tbg-row pt-60 pt-xs-40 pt-md-40 clr tmpdynamiccta" multiple-ppform="true" style="display: none;"> 
+              <div class="btn evk-btn align-left align-center-xs" id="lp-download-button" buttoncta="true"> <a href="#" class="tmpLink" target="_self"> <span class="txt tmpBtn">Watch the webinar</span></a> 
+              </div> 
+             </div> 
+             <div class="pp-form-area" id="lp-reg-form" style="display: block;"> 
+              <div class="lp-inner-div" id="lp-inner-div"> <span id="pp-form"></span> 
+              </div> 
+             </div> 
+            </div> 
+            <div class="tbg tbg-lg-6 tbg-md-6 tbg-sm-full tbg-xs-full sidebnr-hide-xs one-img-top" style="background-image: url('https://www.oracle.com/a/ocom/img/dc/tb/rwd/landing-top-right-desktop-500-cp.png');" change-image="true"> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </section>   
+     <section class="tbg-container-fluid"> 
+      <div class="tbg-container rw-bgc3 align-center tbg-full pos-rel" id="showEdtrBtn"> 
+       <div class="tbg-row"> 
+        <div class="tbg tbg-lg-full tbg-md-full tbg-sm-full tbg-xs-full wc-agenda-bg pt-80 pb-80 pt-xs-40 pb-xs-40 rw-fc-grey tmpBG" data-bg-type="MCP012" selected-bg-color="" default-color="#FFFFFF"> 
+         <div class="tbg-row"> 
+          <div class="tbg tbg-lg-10 tbg-md-10 tbg-sm-full tbg-xs-full align-center rwd-wrapper"> 
+           <div class="rw-bgc3 pt-60 pb-60 pl-80 pr-80 aling-left align-center-xs pl-xs-55 pr-xs-55 pt-xs-40 pb-xs-40 wc-sp-sec tmpRadioSwitch" data-toggle-color="true"> 
+            <h3 class="fs-24 FW-normal pb-48 fs-xs-20 pb-xs-0"> <span class="tmpTitle">Featured Speaker</span></h3> 
+            <div style=""> 
+             <div class="tbg-row mb-60 mb-xs-0 sp-row"> 
+              <div class="tbg tbg-lg-3 tbg-md-3 tbg-sm-full tbg-xs-full align-left mr-0 pb-xs-25 pt-xs-30 LN0"> 
+               <img src="https://www.oracle.com/oce/dc/assets/CONT4A42E498552440ECAE1526785283D08D/native/josh-spiegel.png" alt="Josh Spiegel" class="img-md-full radius8 tmpImage" data-image-set="S025" border="0" width="200" height="200"> 
+              </div> 
+              <div class="tbg tbg-lg-9 tbg-md-9 tbg-sm-full tbg-xs-full align-right ex-sp"> 
+               <h2 class="fs-28 FW-bold pb-25 fs-xs-20 pb-xs-12"> <span class="tmpTitle">Josh Spiegel</span></h2> 
+               <h5 class="fs-16 pb-25 fs-xs-14 pb-xs-12 FW-normal"> <span class="tmpTitle">Oracle Software Engineer</span> </h5> 
+               <p class="fs-16"><span class="tmpTextedtr">Josh is a software engineer that develops JSON and XML technology surrounding Oracle Database. Recently, he has been working on extensions to SQL that make it easier to process JSON in the database. He has also developed new JSON facilities that are part of JDBC 20c to make it easier and more efficient to process JSON from a Java application. He continues to work on the XML processing technologies that are used throughout Oracle. He is the technical lead for the embedded XQuery and XPath processor for Java that is used in Oracle's middleware and cloud software and he designed the Oracle XML Extensions for Hive that enable robust XML processing in Apache Hadoop. In the past, he was a member of the W3C and an editor of the specification for XPath 3.1. He has multiple patents and research conference publications related to database systems. </span></p> 
+              </div> 
+             </div> 
+            </div>   
+           </div> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="wc-sp-bg bnr-bgc-pine"></div> 
+      </div> 
+     </section>   
+    </div> 
+   </article> 
+  </main> 
+  <div class="tbg-container-fluid tp-footer" id="footerTable">
+   <script type="text/javascript">	function footer() { /* Timeout set if DrawFooter from preloaded script is not yet available */ if (typeof DrawFooter === "undefined") { window.setTimeout(footer, 0); return; } DrawFooter(); } footer(); </script>
+  </div> <!--Start Landing Page SiteCatalyst code --> 
+  <script language="javascript" type="text/javascript">var s_pageName = "Welcome Page"</script> 
+  <script data-reqjq="" async data-src="https://www.oracleimg.com/us/assets/metrics/ora_eloqua.js"></script> <!--End Landing Page SiteCatalyst code --><!-- TBID=CMP1000099769-WLP1000298529 --><!-- Webinar ID = 966 6098 1779 -->
+ </body>
+</html><img style="display:none" src="https://s1973398186.t.eloqua.com/visitor/v200/svrGP?pps=60&siteid=1973398186&PURLSiteID=3&optin=disabled&PURLSiteAlternateDNSID=0&LandingPageID=105252&PURLRecordID=0&PURLGUID=9D00AAC8EDC44D05B4AF92812F7F8670&UseRelativePath=False&elq={00000000-0000-0000-0000-000000000000}&firstPartyCookieDomain=go.oracle.com&elqGUID=9d00aac8-edc4-4d05-b4af-92812f7f8670&elq_ck=0&elqCampaignId=276940" border=0 width=1 height=1 alt="">

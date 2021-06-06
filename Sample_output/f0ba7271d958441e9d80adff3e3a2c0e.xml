@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Weka (informatique) — Wikipédia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgRequestId":"a6113a79-7ed1-4032-aa91-790bdefbb6bc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Weka_(informatique)","wgTitle":"Weka (informatique)","wgCurRevisionId":171292139,"wgRevisionId":171292139,"wgArticleId":4909389,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Image locale différente de celle de Wikidata","Image locale correspondant à celle de Wikidata","Page utilisant P1324","Page utilisant P277","Page utilisant P306","Page utilisant P1072","Page utilisant P31","Page utilisant P275","Article utilisant une Infobox",
+"Portail:Logiciels libres/Articles liés","Portail:Logiciel/Articles liés","Portail:Informatique/Articles liés","Apprentissage automatique","Exploration de données","Logiciel libre sous licence GPL","Logiciel scientifique","Plateforme Java"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Weka_(informatique)","wgRelevantArticleId":4909389,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":8,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage",
+"wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q115494"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.gadget.ArchiveLinks","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"fr"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png"/>
+<meta property="og:title" content="Weka (informatique) — Wikipédia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//fr.m.wikipedia.org/wiki/Weka_(informatique)"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Weka_(informatique)&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Weka_(informatique)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Weka_(informatique)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Weka_informatique rootpage-Weka_informatique skin-vector action-view skin-vector-search-vue"><div class="mw-page-container">
+	<a class="mw-jump-link" href="#content">Aller au contenu</a>
+	<div class="mw-page-container-inner">
+
+<input
+	type="checkbox"
+	id="mw-sidebar-checkbox"
+	class="mw-checkbox-hack-checkbox"
+	checked>
+
+<header class="mw-header">
+	<label
+		id="mw-sidebar-button"
+		class="mw-checkbox-hack-button mw-ui-icon mw-ui-icon-element"
+		for="mw-sidebar-checkbox"
+		role="button"
+		aria-controls="mw-panel"
+		data-event-name="ui.sidebar"
+		tabindex="0">
+		Afficher / masquer la barre latérale
+	</label>
+	<a href="/wiki/Wikip%C3%A9dia:Accueil_principal" class="mw-logo">
+		<img class="mw-logo-icon" src="/static/images/mobile/copyright/wikipedia.png" alt=""
+			aria-hidden="true" height="50" width="50">
+		<span class="mw-logo-container">
+			<img class="mw-logo-wordmark" alt="Wikipédia"
+				src="/static/images/mobile/copyright/wikipedia-wordmark-fr.svg" width="119" height="18">
+			<img class="mw-logo-tagline"
+				alt="l&#039;encyclopédie libre"
+				src="/static/images/mobile/copyright/wikipedia-tagline-fr.svg" width="113" height="13">
+		</span>
+	</a>
+	<div id="p-search" role="search" class="p-search--show-thumbnail">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-moved">
+			<input type="search" name="search" placeholder="Rechercher dans Wikipédia" autocapitalize="sentences" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Spécial:Recherche"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Lire" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Outils personnels</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Non connecté</li><li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Weka+%28informatique%29" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Weka+%28informatique%29" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li></ul>
+		
+	</div>
+</nav>
+
+</header>
+
+<div class="mw-workspace-container">
+	<div id="mw-navigation">
+		<h2>Menu de navigation</h2>
+		
+<div id="mw-panel" class="mw-sidebar">
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z">Accueil</a></li><li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li><li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-Contribuer" class="mw-portlet mw-portlet-Contribuer vector-menu vector-menu-portal portal" aria-labelledby="p-Contribuer-label" role="navigation" 
+	 >
+	<h3 id="p-Contribuer-label" class="vector-menu-heading">
+		<span>Contribuer</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Outils</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Weka_(informatique)" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Weka_(informatique)" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Importer des fichiers [u]" accesskey="u">Téléverser un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Weka_(informatique)&amp;oldid=171292139" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Weka_(informatique)&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Weka_%28informatique%29&amp;id=171292139&amp;wpFormIdentifier=titleform" title="Informations sur la manière de citer cette page">Citer cette page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494" title="Lien vers l’élément dans le dépôt de données connecté [g]" accesskey="g">Élément Wikidata</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Imprimer / exporter</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Weka+%28informatique%29">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&amp;page=Weka_%28informatique%29&amp;action=show-download-screen">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Weka_(informatique)&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>Dans d’autres projets</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Dans d’autres langues</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Weka_(aprenentatge_autom%C3%A0tic)" title="Weka (aprenentatge automàtic) — catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Weka" title="Weka — tchèque" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Waikato_Environment_for_Knowledge_Analysis" title="Waikato Environment for Knowledge Analysis — allemand" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Weka_(%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7)" title="Weka (μηχανική μάθηση) — grec" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Weka_(machine_learning)" title="Weka (machine learning) — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico)" title="Weka (aprendizaje automático) — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Weka_(ikasketa_automatikoa)" title="Weka (ikasketa automatikoa) — basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" title="وکا (یادگیری ماشینی) — persan" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Weka_(%D7%9C%D7%9E%D7%99%D7%93%D7%AA_%D7%9E%D7%9B%D7%95%D7%A0%D7%94)" title="Weka (למידת מכונה) — hébreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Weka_(pembelajaran_mesin)" title="Weka (pembelajaran mesin) — indonésien" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Weka" title="Weka — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Weka" title="Weka — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%B9%B4_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)" title="웨카 (기계 학습) — coréen" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Weka_(software)" title="Weka (software) — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Weka" title="Weka — portugais" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Weka" title="Weka — russe" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%99%E0%B6%9A%E0%B7%8F_%E0%B6%B8%E0%B7%98%E0%B6%AF%E0%B7%94%E0%B6%9A%E0%B7%8F%E0%B6%82%E0%B6%9C%E0%B6%BA" title="වෙකා මෘදුකාංගය — cingalais" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Weka_(strojno_u%C4%8Denje)" title="Weka (strojno učenje) — slovène" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%B2" title="เวกา — thaï" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Weka" title="Weka — turc" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Weka" title="Weka — ukrainien" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Weka_(h%E1%BB%8Dc_m%C3%A1y)" title="Weka (học máy) — vietnamien" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Weka" title="Weka — chinois" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494#sitelinks-wikipedia" title="Modifier les liens interlangues" class="wbc-editpage">Modifier les liens</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+		<div id="mw-head">
+			<div class="mw-article-toolbar-container">
+				<div id="left-navigation">
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Espaces de noms</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Weka_(informatique)" title="Voir le contenu de la page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Discussion:Weka_(informatique)" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variantes</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+				</div>
+				<div id="right-navigation">
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Affichages</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Weka_(informatique)">Lire</a></li><li id="ca-ve-edit"><a href="/w/index.php?title=Weka_(informatique)&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v">Modifier</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Weka_(informatique)&amp;action=edit" title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></li><li id="ca-history"><a href="/w/index.php?title=Weka_(informatique)&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li></ul>
+		
+	</div>
+</nav>
+
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>Plus</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="mw-content-container">
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<main id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Weka (informatique)</h1>
+
+
+	<div id="bodyContent" class="mw-body-content">
+			<div id="siteSub" class="noprint">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="" class="bandeau-container homonymie plainlinks hatnote" style=""><div class="bandeau-cell bandeau-icone" style="display:table-cell;padding-right:0.5em"><a href="/wiki/Aide:Homonymie" title="Aide:Homonymie"><img alt="Page d’aide sur l’homonymie" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-Disambig_colour.svg.png" decoding="async" width="20" height="15" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/30px-Disambig_colour.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/40px-Disambig_colour.svg.png 2x" data-file-width="272" data-file-height="200" /></a></div><div class="bandeau-cell" style="display:table-cell;padding-right:0.5em">Pour les articles homonymes, voir <a href="/wiki/Weka" class="mw-disambig" title="Weka">Weka</a>.
+</div></div>
+<div class="infobox_v3">
+<div class="entete icon informatique" style="background-color: #; color: #000000;"><style data-mw-deduplicate="TemplateStyles:r151815299">.mw-parser-output .entete.informatique{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/ae/Picto-infoboxinfo.png")}</style>
+<div>Weka</div>
+</div>
+<div class="images"><a href="/wiki/Fichier:Weka_(software)_logo.png" class="image"><img alt="Description de l&#39;image Weka (software) logo.png." src="//upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png" decoding="async" width="198" height="104" data-file-width="198" data-file-height="104" /></a> 
+</div>
+<div class="hr" style="background-color:#; height:2px;"></div>
+<div class="images"><a href="/wiki/Fichier:Weka-3.5.5.png" class="image"><img alt="Description de cette image, également commentée ci-après" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/220px-Weka-3.5.5.png" decoding="async" width="220" height="165" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/330px-Weka-3.5.5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/440px-Weka-3.5.5.png 2x" data-file-width="768" data-file-height="576" /></a> 
+</div>
+<div class="legend">Weka 3.5.5 avec la fenêtre d'explorateur ouverte avec les données de l'iris de l'<a href="/wiki/Universit%C3%A9_de_Californie_%C3%A0_Irvine" title="Université de Californie à Irvine">université de Californie à Irvine</a>.</div>
+<table><caption style="background:#;color:#000000;">Informations</caption>
+
+
+
+<tbody><tr>
+<th scope="row"><a href="/wiki/D%C3%A9veloppeur" title="Développeur">Développé par</a></th>
+<td>
+<a href="/wiki/Universit%C3%A9_de_Waikato" title="Université de Waikato">Université de Waikato</a></td>
+</tr>
+
+
+
+
+
+<tr>
+<th scope="row"> <a href="/wiki/Version_d%27un_logiciel" title="Version d&#39;un logiciel">Dernière version</a>
+ </th>
+<td>
+3.8.1 (<time class="nowrap" datetime="2017-01-23" data-sort-value="2017-01-23">23 janvier 2017</time>)</td>
+</tr>
+
+<tr>
+<th scope="row"> <a href="/wiki/Version_d%27un_logiciel" title="Version d&#39;un logiciel">Version avancée</a>
+ </th>
+<td>
+3.9.1 (<time class="nowrap" datetime="2016-12-19" data-sort-value="2016-12-19">19 décembre 2016</time>)</td>
+</tr>
+
+<tr>
+<th scope="row"><a href="/wiki/D%C3%A9p%C3%B4t_(informatique)" title="Dépôt (informatique)">Dépôt</a></th>
+<td>
+<span class="wd_p1324"><a rel="nofollow" class="external text" href="https://svn.cms.waikato.ac.nz/svn/weka/">svn.cms.waikato.ac.nz/svn/weka</a><span class="noprint wikidata-linkback"><a href="https://www.wikidata.org/wiki/Q115494?uselang=fr#P1324" title="Voir et modifier les données sur Wikidata"><img alt="Voir et modifier les données sur Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td>
+</tr>
+
+
+
+
+
+<tr>
+<th scope="row"> <a href="/wiki/Langage_de_programmation" title="Langage de programmation">Écrit en</a>
+ </th>
+<td>
+<span class="wd_p277"><a href="/wiki/Java_(langage)" title="Java (langage)">Java</a><span class="noprint wikidata-linkback"><a href="https://www.wikidata.org/wiki/Q115494?uselang=fr#P277" title="Voir et modifier les données sur Wikidata"><img alt="Voir et modifier les données sur Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td>
+</tr>
+
+
+
+
+
+<tr>
+<th scope="row"><a href="/wiki/Syst%C3%A8me_d%27exploitation" title="Système d&#39;exploitation">Système d'exploitation</a></th>
+<td>
+<span class="wd_p306"><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> et <a href="/wiki/Logiciel_multiplateforme" title="Logiciel multiplateforme">multiplateforme</a><span class="noprint wikidata-linkback"><a href="https://www.wikidata.org/wiki/Q115494?uselang=fr#P306" title="Voir et modifier les données sur Wikidata"><img alt="Voir et modifier les données sur Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td>
+</tr>
+
+<tr>
+<th scope="row"><a href="/wiki/Plate-forme_(informatique)" title="Plate-forme (informatique)">Environnement</a></th>
+<td>
+<a href="/wiki/Plateforme_Java" class="mw-redirect" title="Plateforme Java">Plateforme Java</a></td>
+</tr>
+
+<tr>
+<th scope="row"><a href="/wiki/Format_de_donn%C3%A9es" title="Format de données">Formats</a> lus</th>
+<td>
+<span class="wd_p1072">Attribute-Relation File Format <small>(<a href="https://www.wikidata.org/wiki/Q28600412" class="extiw" title="d:Q28600412"><span class="indicateur-langue" title="Voir l&#39;élément Wikidata correspondant">d</span></a>)</small><span class="noprint wikidata-linkback"><a href="https://www.wikidata.org/wiki/Q115494?uselang=fr#P1072" title="Voir et modifier les données sur Wikidata"><img alt="Voir et modifier les données sur Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td>
+</tr>
+
+
+
+<tr>
+<th scope="row"><a href="/wiki/Internationalisation_(informatique)" title="Internationalisation (informatique)">Langues</a></th>
+<td>
+Multilingue</td>
+</tr>
+
+<tr>
+<th scope="row"> Type
+ </th>
+<td>
+<span class="wd_p31">Structure logicielle d'apprentissage automatique <small>(<a href="https://www.wikidata.org/wiki/Q21169670" class="extiw" title="d:Q21169670"><span class="indicateur-langue" title="Voir l&#39;élément Wikidata correspondant">d</span></a>)</small><span class="noprint wikidata-linkback"><a href="https://www.wikidata.org/wiki/Q115494?uselang=fr#P31" title="Voir et modifier les données sur Wikidata"><img alt="Voir et modifier les données sur Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td>
+</tr>
+
+
+
+<tr>
+<th scope="row"><a href="/wiki/Licence_de_logiciel" title="Licence de logiciel">Licence</a></th>
+<td>
+<span class="wd_p275"><a href="/wiki/GPLv3" class="mw-redirect" title="GPLv3">Licence publique générale GNU version 3</a><span class="noprint wikidata-linkback"><a href="https://www.wikidata.org/wiki/Q115494?uselang=fr#P275" title="Voir et modifier les données sur Wikidata"><img alt="Voir et modifier les données sur Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td>
+</tr>
+
+
+
+<tr>
+<th scope="row"><a href="/wiki/Site_web" title="Site web">Site web</a></th>
+<td>
+<a rel="nofollow" class="external text" href="https://www.cs.waikato.ac.nz/ml/weka">www.cs.waikato.ac.nz/ml/weka/</a></td>
+</tr>
+
+</tbody></table>
+<p class="mw-empty-elt">
+
+</p>
+<p class="navbar bordered noprint" style="border-color:#;"><span class="plainlinks"><a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Weka_(informatique)&amp;veaction=edit&amp;section=0">modifier</a> - <a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Weka_(informatique)&amp;action=edit&amp;section=0">modifier le code</a> - <a href="https://www.wikidata.org/wiki/Special:ItemByTitle/frwiki/Weka_(informatique)" class="extiw" title="d:Special:ItemByTitle/frwiki/Weka (informatique)">voir Wikidata</a> <a href="/wiki/Aide:Infobox_Wikidata" title="Aide:Infobox Wikidata">(aide)</a></span> <a href="/wiki/Mod%C3%A8le:Infobox_Logiciel" title="Consultez la documentation du modèle"><img alt="Consultez la documentation du modèle" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/12px-Gtk-dialog-info.svg.png" decoding="async" width="12" height="12" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/18px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/24px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></p></div>
+<p><b>Weka</b> (<a href="/wiki/Acronymie" title="Acronymie">acronyme</a> pour <i>Waikato <span class="lang-en" lang="en">environment for knowledge analysis</span></i>, en français&#160;: «&#160;environnement Waikato pour l'analyse de connaissances&#160;») est une suite de logiciels d'<a href="/wiki/Apprentissage_automatique" title="Apprentissage automatique">apprentissage automatique</a> écrite en <a href="/wiki/Java_(langage)" title="Java (langage)">Java</a> et développée à l'université de <a href="/wiki/Waikato_(r%C3%A9gion)" title="Waikato (région)">Waikato</a> en <a href="/wiki/Nouvelle-Z%C3%A9lande" title="Nouvelle-Zélande">Nouvelle-Zélande</a>. Weka est un <a href="/wiki/Logiciel_libre" title="Logiciel libre">logiciel libre</a> disponible sous la <a href="/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU" title="Licence publique générale GNU">Licence publique générale GNU</a> (<a href="/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU" title="Licence publique générale GNU">GPL</a>).
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="fr" dir="ltr"><h2 id="mw-toc-heading">Sommaire</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Historique"><span class="tocnumber">2</span> <span class="toctext">Historique</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notes_et_références"><span class="tocnumber">3</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Annexes"><span class="tocnumber">4</span> <span class="toctext">Annexes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Article_connexe"><span class="tocnumber">4.1</span> <span class="toctext">Article connexe</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Liens_externes"><span class="tocnumber">4.2</span> <span class="toctext">Liens externes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Exemples_d&#39;applications"><span class="tocnumber">4.2.1</span> <span class="toctext">Exemples d'applications</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(informatique)&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Description">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(informatique)&amp;action=edit&amp;section=1" title="Modifier la section : Description">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:200px;"><a href="/wiki/Fichier:Weka_(software)_logo.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png" decoding="async" width="198" height="104" class="thumbimage" data-file-width="198" data-file-height="104" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Weka_(software)_logo.png" class="internal" title="Agrandir"></a></div>Le logo Weka. Le <a href="/wiki/R%C3%A2le_w%C3%A9ka" title="Râle wéka">weka</a> est un oiseau <a href="/wiki/End%C3%A9misme" title="Endémisme">endémique</a> de la Nouvelle-Zélande.</div></div></div>
+<p>L'espace de travail Weka<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup> contient une collection d'outils de visualisation et d'algorithmes pour l'<a href="/wiki/Analyse_des_donn%C3%A9es" title="Analyse des données">analyse des données</a> et la <a href="/w/index.php?title=Mod%C3%A9lisation_pr%C3%A9dictive&amp;action=edit&amp;redlink=1" class="new" title="Modélisation prédictive (page inexistante)">modélisation prédictive</a>, allié à une interface graphique pour un accès facile de ses fonctionnalités. La version «&#160;non-Java&#160;» originale de Weka était un <a href="/wiki/Frontal#Informatique" class="mw-disambig" title="Frontal">front-end</a> en <a href="/wiki/Tool_Command_Language" title="Tool Command Language">Tcl</a>/<a href="/wiki/Tk_(informatique)" title="Tk (informatique)">Tk</a> pour des algorithmes de modélisation (essentiellement tierces) implémentés dans d'autres langages de programmation, complété par un des utilitaires de <a href="/wiki/Pr%C3%A9processeur" title="Préprocesseur">préprocesseur</a> de données en <a href="/wiki/C_(langage)" title="C (langage)">C</a>, et un système à base de <a href="/wiki/Makefile" class="mw-redirect" title="Makefile">makefile</a> pour lancer les expériences d'apprentissage automatique. Cette version originale était avant tout conçue comme un outil pour analyser des données agricoles<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup>, mais la version plus récente entièrement basée sur <a href="/wiki/Java_(langage)" title="Java (langage)">Java</a> (Weka 3), pour laquelle le développement a débuté en 1997, est désormais utilisée dans beaucoup de domaines d'application différents, en particulier pour l'éducation et la recherche. Les principaux points forts de Weka sont qu'il&#160;:
+</p>
+<ul><li>est libre et gratuit, distribué selon les termes de la <a href="/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU" title="Licence publique générale GNU">licence publique générale GNU</a>&#160;;</li>
+<li>est portable car il est entièrement implémenté en <a href="/wiki/Java_(langage)" title="Java (langage)">Java</a> et donc fonctionne sur quasiment toutes les plateformes modernes, et en particulier sur quasiment tous les systèmes d'exploitation actuels&#160;;</li>
+<li>contient une collection complète de <a href="/wiki/Pr%C3%A9processeur" title="Préprocesseur">préprocesseurs</a> de données et de techniques de modélisation&#160;;</li>
+<li>est facile à utiliser par un novice en raison de l'interface graphique qu'il contient.</li></ul>
+<p>Weka supporte plusieurs outils d'<a href="/wiki/Exploration_de_donn%C3%A9es" title="Exploration de données">exploration de données</a> standards, et en particulier, des <a href="/wiki/Pr%C3%A9processeur" title="Préprocesseur">préprocesseurs</a> de données, des agrégateurs de données (<a href="/w/index.php?title=Data_clustering&amp;action=edit&amp;redlink=1" class="new" title="Data clustering (page inexistante)">data clustering</a>), des <a href="/w/index.php?title=Classificateurs_statistiques&amp;action=edit&amp;redlink=1" class="new" title="Classificateurs statistiques (page inexistante)">classificateurs statistiques</a>, des <a href="/w/index.php?title=Analyseurs_de_r%C3%A9gression&amp;action=edit&amp;redlink=1" class="new" title="Analyseurs de régression (page inexistante)">analyseurs de régression</a>, des outils de visualisation, et des outils d'<a href="/wiki/Analyse_discriminante" title="Analyse discriminante">analyse discriminante</a>. Toutes les techniques de Weka reposent sur la supposition que les données sont disponibles dans un unique fichier plat ou une <a href="/wiki/Relation_binaire" title="Relation binaire">Relation binaire</a>, ou chaque type de donnée est décrit par un nombre fixe d'attributs (les attributs ordinaires, numériques ou symboliques, mais quelques autres types d'attributs sont aussi supportés). Weka fournit un accès aux <a href="/wiki/Bases_de_donn%C3%A9es" class="mw-redirect" title="Bases de données">bases de données</a> <a href="/wiki/Structured_Query_Language" title="Structured Query Language">SQL</a> en utilisant le <a href="/wiki/Java_Database_Connectivity" title="Java Database Connectivity">Java Database Connectivity</a> (JDBC) et peut traiter le résultat d'une requête SQL. Il n'est pas capable de faire de l'exploration de données multi-relationnelles, mais il existe des logiciels tiers pour convertir une collection de tables de base de données liées entre elles en une table unique adaptée au traitement par Weka<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup>. Un autre domaine important qui n'est pour le moment pas couvert par les algorithmes inclus dans la distribution Weka est la modélisation de séquences.
+</p><p>L'interface principale de Weka est l’<span class="lang-en" lang="en">explorer</span>, mais à peu près les mêmes fonctionnalités peuvent être atteintes via l'interface «&#160;flux de connaissance&#160;» de chaque composant et depuis la <a href="/wiki/Ligne_de_commande" class="mw-redirect" title="Ligne de commande">ligne de commande</a>. Il y a aussi l’experimenteur, qui permet la comparaison <a href="/wiki/Syst%C3%A9matique" title="Systématique">systématique</a> (taxinomique) des performances prédictives des algorithmes d'apprentissage automatique de Weka sur une collection de jeux de données.
+</p><p>L'interface <span class="lang-en" lang="en">explorer</span> possède plusieurs onglets qui donnent accès aux principaux composants de l'espace de travail. L'onglet preprocesseur a plusieurs fonctionnalités d'import de données depuis des <a href="/wiki/Bases_de_donn%C3%A9es" class="mw-redirect" title="Bases de données">bases de données</a>, un fichier <a href="/wiki/Comma-separated_values" title="Comma-separated values">CSV</a> et pour pré-traiter ces données avec une algorithme appelé <i><span class="lang-en" lang="en">filtering</span></i>. Ces filtres peuvent être utilisés pour transformer les données (par exemple, transformer des attributs numériques réels en attributs discrets) et rendre possible l'effacement d'instances et d'attributs selon des critères spécifiques. L'onglet <i><span class="lang-en" lang="en">classify</span></i> permet à l'utilisateur d'appliquer des <a href="/wiki/Classifieur_lin%C3%A9aire" title="Classifieur linéaire">classifications</a> et des algorithmes de <a href="/wiki/R%C3%A9gression_(statistiques)" title="Régression (statistiques)">régression</a> (indifféremment appelés «&#160;<span class="lang-en" lang="en">classifiers</span>&#160;» dans Weka) au <a href="/wiki/Jeu_de_donn%C3%A9es" title="Jeu de données">jeu de données</a> résultant, pour estimer la <a href="/wiki/Pr%C3%A9cision" class="mw-disambig" title="Précision">précision</a> du modèle prédictif, et de visualiser les prédictions erronées, <a href="/wiki/Receiver_Operating_Characteristic" class="mw-redirect" title="Receiver Operating Characteristic">ROC curves</a>,&#160;<abbr class="abbr" title="et cetera">etc.</abbr> ou le modèle lui-même (si le modèle est sujet à visualisation, comme un <a href="/wiki/Arbre_de_d%C3%A9cision" title="Arbre de décision">Arbre de décision</a>). L'onglet <i><span class="lang-en" lang="en">Associate</span></i> donne accès aux <i>apprentissages par règles d'association</i> qui essayent d'identifier toutes les relations importantes entre les attributs dans les données. L'onglet <i><span class="lang-en" lang="en">Cluster</span></i> donne accès aux techniques de <a href="/wiki/Clustering" class="mw-disambig" title="Clustering">clustering</a> de Weka, comme l'algorithme du <a href="/wiki/Apprentissage_non-supervis%C3%A9" class="mw-redirect" title="Apprentissage non-supervisé">k-means</a>. Il y a aussi une implémentation d'<a href="/wiki/Algorithme_esp%C3%A9rance-maximisation" title="Algorithme espérance-maximisation">algorithme espérance-maximisation</a> pour l'apprentissage d'un mélange de <a href="/wiki/Distribution_normale" class="mw-redirect" title="Distribution normale">distributions normales</a>. L'onglet «&#160;<i><span class="lang-en" lang="en">Select attributes</span></i>&#160;» fournit des algorithmes pour l'identification des attributs les plus prédictifs dans un jeu de données. Le dernier onglet, «&#160;<span class="lang-en" lang="en">Visualize</span>&#160;» montre une matrice de <a href="/wiki/Nuage_de_points" title="Nuage de points">nuages de points</a>, ou des nuages de points individuels peuvent être sélectionnés et élargis, et davantage analysés en utilisant divers opérateurs de sélection.
+</p>
+<h2><span class="mw-headline" id="Historique">Historique</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(informatique)&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Historique">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(informatique)&amp;action=edit&amp;section=2" title="Modifier la section : Historique">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>En 1992, l'<a href="/wiki/Universit%C3%A9_de_Waikato" title="Université de Waikato">université de Waikato</a> en <a href="/wiki/Nouvelle-Z%C3%A9lande" title="Nouvelle-Zélande">Nouvelle-Zélande</a> commença le développement de la version originale de Weka (qui devint un mélange de Tcl/Tk, de langage C et de <a href="/wiki/Make" title="Make">Makefile</a>).</li>
+<li>En 1997, la décision fut prise de développer une nouvelle fois Weka à partir de zéro en Java, y compris l'implémentation des algorithmes de modélisation<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite_crochet">[</span>5<span class="cite_crochet">]</span></a></sup>.</li>
+<li>En 2005, Weka reçoit le <a href="/wiki/SIGKDD" class="mw-redirect" title="SIGKDD">SIGKDD</a> (<i><span class="lang-en" lang="en">Data Mining and Knowledge Discovery Service Award</span></i>)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite_crochet">[</span>6<span class="cite_crochet">]</span></a></sup>.</li>
+<li>En 2006, <a href="/wiki/Pentaho" class="mw-redirect" title="Pentaho">Pentaho</a> acquiert une licence exclusive pour utiliser Weka pour de l'<a href="/wiki/Informatique_d%C3%A9cisionnelle" title="Informatique décisionnelle">informatique décisionnelle</a>. Il forme le composant d'exploration de données analytique et prédictif de la suite de logiciels décisionnels Pentaho.</li></ul>
+<h2><span id="Notes_et_r.C3.A9f.C3.A9rences"></span><span class="mw-headline" id="Notes_et_références">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(informatique)&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Notes et références">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(informatique)&amp;action=edit&amp;section=3" title="Modifier la section : Notes et références">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small decimal" style="column-width:36em;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink noprint"><a href="#cite_ref-1">↑</a> </span><span class="reference-text"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Ian H. Witten, Eibe Frank, et Mark A. Hall, <i>Data Mining: Practical machine learning tools and techniques</i>,<abbr class="abbr" title="Troisième">3<sup>e</sup></abbr> édition, Morgan Kaufmann, 2011  <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-0-1237-4856-0" title="Spécial:Ouvrages de référence/978-0-1237-4856-0"><span class="nowrap">978-0-1237-4856-0</span></a>)</small>, 629 pages <small>&#91;<a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/weka/book.html">présentation en ligne</a>&#93;</small></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink noprint"><a href="#cite_ref-2">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Holmes1994"><span class="ouvrage" id="G._Holmes1994"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> G. Holmes, A. Donkin and I.H. Witten, <span lang="en"><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/publications/1994/Holmes-ANZIIS-WEKA.pdf">«&#160;<cite style="font-style:normal;">Weka: A machine learning workbench</cite>&#160;»</a></span>, <span class="italique">Proc Second Australia and New Zealand Conference on Intelligent Information Systems, Brisbane, Australia</span>, <time>1994</time> <small style="line-height:1em;">(consulté le <span class="nowrap">25 juin 2007</span>)</small></span></span> <abbr class="abbr indicateur-format format-pdf" title="Document au format Portable Document Format (PDF) d&#39;Adobe">[PDF]</abbr></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink noprint"><a href="#cite_ref-3">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Garner1995"><span class="ouvrage" id="S.R._Garner1995"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> S.R. Garner, S.J. Cunningham, G. Holmes, C.G. Nevill-Manning, and I.H. Witten, <span lang="en"><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/publications/1995/Garner95-imlc95.pdf">«&#160;<cite style="font-style:normal;">Applying a machine learning workbench: Experience with agricultural databases</cite>&#160;»</a></span>, <span class="italique">Proc Machine Learning in Practice Workshop, Machine Learning Conference, Tahoe City, CA, USA</span>, <time>1995</time> <small style="line-height:1em;">(consulté le <span class="nowrap">25 juin 2007</span>)</small></span></span>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;14–21 <abbr class="abbr indicateur-format format-pdf" title="Document au format Portable Document Format (PDF) d&#39;Adobe">[PDF]</abbr></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink noprint"><a href="#cite_ref-4">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Reutemann2004"><span class="ouvrage" id="P._Reutemann2004"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> P. Reutemann, B. Pfahringer and E. Frank, <span lang="en"><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~eibe/pubs/reutemann_et_al.ps.gz">«&#160;<cite style="font-style:normal;">Proper: A Toolbox for Learning from Relational Data with Propositional and Multi-Instance Learners</cite>&#160;»</a></span>, <span class="italique">17th Australian Joint Conference on Artificial Intelligence (AI2004)</span>, Springer-Verlag, <time>2004</time> <small style="line-height:1em;">(consulté le <span class="nowrap">25 juin 2007</span>)</small></span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink noprint"><a href="#cite_ref-5">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Witten1999"><span class="ouvrage" id="Ian_H._Witten1999"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Ian H. Witten, Eibe Frank, Len Trigg, Mark Hall, Geoffrey Holmes, and Sally Jo Cunningham, <span lang="en"><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/publications/1999/99IHW-EF-LT-MH-GH-SJC-Tools-Java.pdf">«&#160;<cite style="font-style:normal;">Weka: Practical Machine Learning Tools and Techniques with Java Implementations</cite>&#160;»</a></span>, <span class="italique">Proceedings of the ICONIP/ANZIIS/ANNES'99 Workshop on Emerging Knowledge Engineering and Connectionist-Based Information Systems</span>, <time>1999</time> <small style="line-height:1em;">(consulté le <span class="nowrap">26 juin 2007</span>)</small></span></span>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;192–196 <abbr class="abbr indicateur-format format-pdf" title="Document au format Portable Document Format (PDF) d&#39;Adobe">[PDF]</abbr></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink noprint"><a href="#cite_ref-6">↑</a> </span><span class="reference-text"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a rel="nofollow" class="external text" href="http://www.kdnuggets.com/news/2005/n13/2i.html">Winner of SIGKDD Data Mining and Knowledge Discovery Service Award…</a> - Gregory Piatetsky-Shapiro, KDnuggets, 28 juin 2005</span>
+</li>
+</ol>
+</div>
+<div style="padding-left: 1.6em; font-size: 85%;"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> Cet article est partiellement ou en totalité issu de l’article de Wikipédia en <a href="/wiki/Anglais" title="Anglais">anglais</a> intitulé <span class="plainlinks">«&#160;<a class="external text" href="https://en.wikipedia.org/wiki/Weka_(machine_learning)?oldid=377429764">Weka (machine learning)</a>&#160;» <small>(<a class="external text" href="https://en.wikipedia.org/wiki/Weka_(machine_learning)?action=history">voir la liste des auteurs</a>)</small></span>.</div>
+<h2><span class="mw-headline" id="Annexes">Annexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(informatique)&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Annexes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(informatique)&amp;action=edit&amp;section=4" title="Modifier la section : Annexes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Article_connexe">Article connexe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(informatique)&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : Article connexe">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(informatique)&amp;action=edit&amp;section=5" title="Modifier la section : Article connexe">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Intelligence_artificielle" title="Intelligence artificielle">Intelligence artificielle</a></li></ul>
+<h3><span class="mw-headline" id="Liens_externes">Liens externes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(informatique)&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Liens externes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(informatique)&amp;action=edit&amp;section=6" title="Modifier la section : Liens externes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><cite class="ouvrage" id="site_officiel" style="font-style: normal;"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a rel="nofollow" class="external text" href="http://weka.wikispaces.com/">Site officiel</a></cite></li>
+<li><span class="ouvrage"><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <span lang="en"><a rel="nofollow" class="external text" href="https://sourceforge.net/projects/weka/">«&#160;<cite style="font-style:normal;">Accueil du projet Weka</cite>&#160;»</a></span>, sur <span class="italique"><a href="/wiki/SourceForge.net" title="SourceForge.net">SourceForge.net</a></span></span>.</li></ul>
+<h4><span id="Exemples_d.27applications"></span><span class="mw-headline" id="Exemples_d'applications">Exemples d'applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(informatique)&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : Exemples d&#039;applications">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(informatique)&amp;action=edit&amp;section=7" title="Modifier la section : Exemples d&#039;applications">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a rel="nofollow" class="external text" href="http://cogprints.org/4399/">Acronym identification</a></li>
+<li><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a rel="nofollow" class="external text" href="http://www.sciencedirect.com/science/article/pii/S1476927104001082">Gene selection from microarray data for cancer classification</a> - ScienceDirect, <time class="nowrap" datetime="2005-02-01" data-sort-value="2005-02-01"><abbr class="abbr" title="premier">1<sup>er</sup></abbr> février 2005</time></li>
+<li><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1021/ci0504216">Benchmarking of Linear and Nonlinear Approaches for Quantitative Structure−Property Relationship Studies of Metal Complexation with Ionophores</a> - ACS Publications</li>
+<li><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a rel="nofollow" class="external text" href="http://mips.gsf.de/proj/est3">MIPS EST Classification Server</a></li>
+<li><abbr class="abbr indicateur-langue" title="Langue : anglais">(en)</abbr> <a rel="nofollow" class="external text" href="http://weka.wikispaces.com/Related+Projects">Weka&#160;: Related Projects</a></li></ul>
+<ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Logiciels_libres" title="Portail des logiciels libres"><img alt="icône décorative" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nuvola_apps_emacs.png/24px-Nuvola_apps_emacs.png" decoding="async" width="24" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nuvola_apps_emacs.png/36px-Nuvola_apps_emacs.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nuvola_apps_emacs.png/48px-Nuvola_apps_emacs.png 2x" data-file-width="128" data-file-height="128" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Logiciels_libres" title="Portail:Logiciels libres">Portail des logiciels libres</a></span> </span></li>                    </ul>
+<!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20210410225118
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.537 seconds
+Real time usage: 0.711 seconds
+Preprocessor visited node count: 3426/1000000
+Post‐expand include size: 61480/2097152 bytes
+Template argument size: 12070/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7058/5000000 bytes
+Lua time usage: 0.194/10.000 seconds
+Lua memory usage: 4820661/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  633.667      1 -total
+ 48.34%  306.339      1 Modèle:Infobox_Logiciel
+ 27.23%  172.519     46 Modèle:Wikidata
+ 25.33%  160.508     22 Modèle:Infobox_V3/Tableau_Ligne_mixte
+ 17.38%  110.152     12 Modèle:Infobox_V3/Tableau_Ligne_mixte_Wikidata
+ 13.67%   86.616      1 Modèle:Références
+  9.93%   62.930      2 Modèle:Infobox_V3/Image_Wikidata
+  9.37%   59.382     11 Modèle:Lang
+  9.09%   57.609      1 Modèle:Portail
+  8.82%   55.863     13 Modèle:Trim
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:idhash:4909389-0!canonical and timestamp 20210410225117 and revision id 171292139. Serialized with JSON.
+ -->
+</div><noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Weka_(informatique)&amp;oldid=171292139">https://fr.wikipedia.org/w/index.php?title=Weka_(informatique)&amp;oldid=171292139</a>&#160;».</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Apprentissage_automatique" title="Catégorie:Apprentissage automatique">Apprentissage automatique</a></li><li><a href="/wiki/Cat%C3%A9gorie:Exploration_de_donn%C3%A9es" title="Catégorie:Exploration de données">Exploration de données</a></li><li><a href="/wiki/Cat%C3%A9gorie:Logiciel_libre_sous_licence_GPL" title="Catégorie:Logiciel libre sous licence GPL">Logiciel libre sous licence GPL</a></li><li><a href="/wiki/Cat%C3%A9gorie:Logiciel_scientifique" title="Catégorie:Logiciel scientifique">Logiciel scientifique</a></li><li><a href="/wiki/Cat%C3%A9gorie:Plateforme_Java" title="Catégorie:Plateforme Java">Plateforme Java</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Image_locale_diff%C3%A9rente_de_celle_de_Wikidata" title="Catégorie:Image locale différente de celle de Wikidata">Image locale différente de celle de Wikidata</a></li><li><a href="/wiki/Cat%C3%A9gorie:Image_locale_correspondant_%C3%A0_celle_de_Wikidata" title="Catégorie:Image locale correspondant à celle de Wikidata">Image locale correspondant à celle de Wikidata</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P1324" title="Catégorie:Page utilisant P1324">Page utilisant P1324</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P277" title="Catégorie:Page utilisant P277">Page utilisant P277</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P306" title="Catégorie:Page utilisant P306">Page utilisant P306</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P1072" title="Catégorie:Page utilisant P1072">Page utilisant P1072</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P31" title="Catégorie:Page utilisant P31">Page utilisant P31</a></li><li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P275" title="Catégorie:Page utilisant P275">Page utilisant P275</a></li><li><a href="/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox" title="Catégorie:Article utilisant une Infobox">Article utilisant une Infobox</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Logiciels_libres/Articles_li%C3%A9s" title="Catégorie:Portail:Logiciels libres/Articles liés">Portail:Logiciels libres/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Logiciel/Articles_li%C3%A9s" title="Catégorie:Portail:Logiciel/Articles liés">Portail:Logiciel/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s" title="Catégorie:Portail:Informatique/Articles liés">Portail:Informatique/Articles liés</a></li></ul></div></div>
+	</div>
+</main>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+	</div> 
+</div> 
+
+<div class="mw-workspace-container mw-footer-container">
+	<div class="mw-content-container">
+		<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 25 mai 2020 à 19:30.</li>
+	<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr" title="Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé">licence Creative Commons attribution, partage dans les mêmes conditions</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="https://wikimediafoundation.org/wiki/Conditions_d%27utilisation" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/Weka_(informatique)" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a href="https://wikimediafoundation.org/" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia" title="Wikipédia:À propos de Wikipédia">À propos de Wikipédia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+	<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+	<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Weka_(informatique)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+	</div>
+</div>
+	</div> 
+</div> 
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.537","walltime":"0.711","ppvisitednodes":{"value":3426,"limit":1000000},"postexpandincludesize":{"value":61480,"limit":2097152},"templateargumentsize":{"value":12070,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7058,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  633.667      1 -total"," 48.34%  306.339      1 Modèle:Infobox_Logiciel"," 27.23%  172.519     46 Modèle:Wikidata"," 25.33%  160.508     22 Modèle:Infobox_V3/Tableau_Ligne_mixte"," 17.38%  110.152     12 Modèle:Infobox_V3/Tableau_Ligne_mixte_Wikidata"," 13.67%   86.616      1 Modèle:Références","  9.93%   62.930      2 Modèle:Infobox_V3/Image_Wikidata","  9.37%   59.382     11 Modèle:Lang","  9.09%   57.609      1 Modèle:Portail","  8.82%   55.863     13 Modèle:Trim"]},"scribunto":{"limitreport-timeusage":{"value":"0.194","limit":"10.000"},"limitreport-memusage":{"value":4820661,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20210410225118","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Weka (informatique)","url":"https:\/\/fr.wikipedia.org\/wiki\/Weka_(informatique)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q115494","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q115494","author":{"@type":"Organization","name":"Contributeurs aux projets Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-08-27T23:39:10Z","dateModified":"2020-05-25T17:30:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Weka_%28software%29_logo.png","headline":"logiciel informatique"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":169,"wgHostname":"mw1355"});});</script>
+</body></html>

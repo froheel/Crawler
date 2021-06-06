@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+
+<html class="vl-cloud-infra-home HomePage" lang="en-US">
+<head><meta content="2021-04-09 15:42:44Z" name="cpp-last-processed-time"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta charset="utf-8"/>
+<meta content="(C) Copyright 2021" name="copyright"/>
+<meta content="(C) Copyright 2021" name="DC.rights.owner"/>
+<meta content="topic" name="DC.type"/>
+<meta content="Oracle Cloud Infrastructure" name="title"/>
+<meta content="docs, documentation, iaas, iaas docs, oci docs, oci help, oci support, oracle cloud infrastructure documentation" name="DC.subject"/>
+<meta content="docs, documentation, iaas, iaas docs, oci docs, oci help, oci support, oracle cloud infrastructure documentation" name="keywords"/>
+<meta content="Welcome to Oracle Cloud Infrastructure documentation. Find user guides, developer tools, getting started guides, tutorials, whitepapers, and more." name="description"/>
+<meta content="WM178512" name="productservices_id"/>
+<meta content="HTML5" name="DC.format"/>
+<meta content="Oracle_Cloud_Infrastructure" name="DC.identifier"/>
+<meta content="en" name="language"/>
+<meta content="WM178623" name="contenttype_id"/>
+<meta content="https://docs.oracle.com/iaas/Content/home.htm" name="url"/>
+<title>Oracle Cloud Infrastructure</title>
+<meta content="width=device-width" name="viewport"/>
+<meta charset="utf-8"/>
+<link href="/iaas/build/styles.css?60272b344813189a1592287f67a92a26e99a0f9814d6c4131c7eebe05e8b0df2" rel="stylesheet"/>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>window.ohcglobal || document.write('<script src="/en/dcommon/js/global.js">\x3C/script>')</script></head>
+<body>
+<div id="highline-mount"></div>
+<div data-trackas="dcoc-main-navigation" id="mobile-toc" uk-offcanvas="flip: true; overlay: true">
+<div class="uk-offcanvas-bar uk-padding-remove-left uk-padding-remove-right">
+<button class="uk-offcanvas-close toc-mobile-close" type="button" uk-close=""></button>
+<div class="uk-margin-top vl-table-of-contents-mount">
+<div class="uk-text-center">
+<div uk-spinner=""></div>
+</div>
+</div>
+</div>
+</div>
+<div data-trackas="dcoc-header" i18n="" id="global-nav-mount">
+<div class="vl-nav-mount-height-placeholder"></div>
+</div>
+<div class="uk-section uk-section-secondary vl-background-hero uk-background-cover uk-section-small" data-trackas="dcoc-content-body" style="background-image: url('/iaas/img/hero.png')">
+<div class="uk-container uk-container-large">
+<div class="uk-grid" uk-grid="">
+<div class="uk-width-expand">
+<h2 class="uk-text-bold uk-margin-remove-bottom">
+<a class="uk-link-reset" href="/iaas/Content/home.htm">
+                      Oracle Cloud Infrastructure Documentation
+                    </a>
+</h2>
+<hr class="vl-hr-accent uk-margin-small-top"/>
+<div>
+<img alt="Graphic of a person planting a flag." class="uk-width-medium uk-width-xlarge@m vl-hero-image-overlay" src="/iaas/img/iceberg.png" uk-parallax="y: 0, 60"/>
+</div>
+</div>
+<div class="uk-width-2-5@m uk-width-1-2@s">
+<div class="uk-grid" uk-grid="">
+<div class="uk-width-auto">
+<a class="uk-button uk-button-default uk-border-pill" href="https://www.oracle.com/cloud/free/?source=:ow:o:h:po:OHPPanel1nav0625&amp;intcmp=:ow:o:h:po:OHPPanel1nav0625">Try Free Tier</a>
+</div>
+<div class="uk-width-auto">
+<a class="uk-button uk-button-default uk-border-pill" href="https://cloud.oracle.com">
+<span class="uk-visible@l">Launch</span> Infrastructure Console
+                      </a>
+</div>
+</div>
+<div class="uk-grid" uk-grid="" uk-height-match=".vl-hero-feature-buttons">
+<div class="uk-width-1-2@s">
+<a class="uk-button uk-button-default uk-width-1-1 vl-hero-feature-buttons" href="/iaas/Content/GSG/Concepts/baremetalintro.htm">
+<h2>Start</h2>
+                        Get started quickly with key concepts and tutorials
+                      </a>
+</div>
+<div class="uk-width-1-2@s">
+<a class="uk-button uk-button-default uk-width-1-1 vl-hero-feature-buttons" href="/iaas/Content/devtoolshome.htm">
+<h2>Build</h2>
+                        Build applications with developer tutorials and documentation
+                      </a>
+</div>
+<div class="uk-width-1-2@s uk-grid-margin">
+<a class="uk-button uk-button-default uk-width-1-1 vl-hero-feature-buttons" href="https://docs.oracle.com/en/solutions/">
+<h2>Design</h2>
+                        Design with reference architectures and solution playbooks
+                      </a>
+</div>
+<div class="uk-width-1-2@s uk-grid-margin">
+<a class="uk-button uk-button-default uk-width-1-1 vl-hero-feature-buttons" href="/iaas/Content/General/Reference/more.htm">
+<h2>Explore</h2>
+                        Find what's new, known issues, PDF guides, and more
+                      </a>
+</div>
+</div>
+</div>
+<div class="uk-width-1-5@m">
+<h3 class="uk-text-bold">What's New</h3>
+<div id="vl-changelog-feed-mount"></div>
+<p class="uk-margin-small-bottom"><a href="/iaas/releasenotes/">View release notes...</a></p>
+<p class="uk-margin-remove-top"><a href="/iaas/Content/servicechanges.htm">View service changes...</a></p>
+</div>
+</div>
+</div>
+</div>
+<div uk-height-viewport="offset-top: true; offset-bottom: true">
+<div class="vl-dcoc-hero-margin">
+</div>
+<div class="uk-container uk-container-large">
+<div class="uk-height-1-1 uk-grid" uk-grid="">
+<div class="uk-width-expand" data-trackas="dcoc-content-body">
+<div class="uk-grid" uk-grid="">
+<div class="uk-width-expand" uk-height-viewport="offset-top: true">
+<a href="#dcoc-content-body" id="skiplink" tabindex="1">Skip to main content</a>
+<div class="uk-margin-large-bottom" id="dcoc-content-body">
+<div class=""><article><div class="serviceIcons HomeWelcomePDFSection" hidden=""></div><div class="uk-section uk-text-small vl-external-link-indicators"><p class="uk-h2 uk-text-bold uk-margin-medium-bottom">Services</p><div class="uk-grid uk-grid-large" uk-grid=""><div class="uk-width-1-3@s"><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up">
+<svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M29.333 2.667v26.667h-26.667v-26.667zM26.667 11.848l-7.845 9.985-6.724-5.38-6.765 8.025v2.189h21.333zM26.667 5.333h-21.333v15.104l6.567-7.557 6.611 5.287 8.155-10.617z"></path></svg>
+</span></div><div class="uk-width-expand vl-1px-up"><div><h4>Analytics</h4><ul class="uk-list">
+<li><a href="/iaas/analytics-cloud/index.html"><span>Analytics Cloud</span></a>
+</li>
+<li><a href="/iaas/analytics-for-applications/index.html"><span>Fusion Analytics
+                                                Warehouse</span></a>
+</li>
+<li><a href="Streaming/Concepts/streamingoverview.htm#Streaming_Service_Overview"><span>Streaming</span></a>
+</li>
+</ul></div></div></div><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up"><svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M15.404 4.141c0.375-0.188 0.817-0.188 1.193 0l5.333 2.667c0.008 0.004 0.016 0.008 0.024 0.012 0.033 0.017 0.065 0.036 0.097 0.056 0.011 0.007 0.022 0.013 0.032 0.020 0.040 0.028 0.079 0.058 0.117 0.089 0.107 0.088 0.195 0.191 0.265 0.302 0.004 0.009 0.009 0.017 0.014 0.026 0.017 0.026 0.031 0.052 0.045 0.079 0.012 0.024 0.024 0.050 0.035 0.076 0.006 0.014 0.012 0.027 0.017 0.040 0.013 0.033 0.025 0.068 0.035 0.103 0.004 0.014 0.008 0.027 0.011 0.040 0.008 0.030 0.016 0.062 0.022 0.094 0.004 0.023 0.008 0.046 0.011 0.069 0.009 0.061 0.013 0.123 0.013 0.187l-0.005-0.115c0.002 0.024 0.003 0.048 0.004 0.072l0.001 0.043v4.509l4.596 2.298c0.008 0.004 0.016 0.008 0.024 0.012 0.033 0.017 0.065 0.036 0.097 0.056 0.011 0.007 0.022 0.013 0.032 0.020 0.040 0.028 0.079 0.058 0.117 0.089 0.107 0.088 0.195 0.191 0.265 0.302 0.004 0.009 0.009 0.017 0.014 0.026 0.017 0.026 0.031 0.052 0.045 0.079 0.012 0.024 0.024 0.050 0.035 0.076 0.006 0.014 0.012 0.027 0.017 0.040 0.013 0.033 0.025 0.068 0.035 0.103 0.004 0.014 0.008 0.027 0.011 0.040 0.008 0.030 0.016 0.062 0.022 0.094 0.004 0.023 0.008 0.046 0.011 0.069 0.009 0.061 0.013 0.123 0.013 0.187l-0.005-0.122c0.002 0.026 0.004 0.052 0.005 0.079l0.001 0.043v5.333c0 0.505-0.285 0.967-0.737 1.193l-10.667 5.333c-0.017 0.009-0.034 0.017-0.052 0.025-0.015 0.007-0.031 0.014-0.047 0.020-0.027 0.011-0.052 0.020-0.078 0.029s-0.051 0.016-0.077 0.023c-0.020 0.005-0.040 0.010-0.059 0.015s-0.039 0.008-0.059 0.012c-0.032 0.006-0.063 0.010-0.094 0.013-0.014 0.001-0.030 0.003-0.045 0.004-0.029 0.002-0.056 0.003-0.084 0.003s-0.055-0.001-0.083-0.003c-0.017-0.001-0.032-0.002-0.048-0.004-0.030-0.003-0.061-0.007-0.092-0.012-0.021-0.004-0.041-0.008-0.061-0.012s-0.039-0.009-0.058-0.014c-0.027-0.007-0.052-0.015-0.078-0.024-0.059-0.020-0.118-0.044-0.176-0.073l0.099 0.045c-0.016-0.007-0.032-0.013-0.048-0.021l-0.051-0.024-10.667-5.333c-0.452-0.226-0.737-0.688-0.737-1.193v-5.333c0-0.009 0-0.017 0-0.026 0.001-0.031 0.002-0.064 0.005-0.096 0.002-0.022 0.004-0.044 0.007-0.066 0.003-0.023 0.007-0.045 0.011-0.068 0.006-0.033 0.013-0.064 0.022-0.095 0.003-0.012 0.007-0.025 0.011-0.038 0.011-0.036 0.023-0.070 0.036-0.104 0.005-0.013 0.010-0.026 0.016-0.040 0.012-0.026 0.024-0.052 0.037-0.076 0.012-0.026 0.027-0.052 0.042-0.078 0.006-0.008 0.012-0.017 0.017-0.025 0.068-0.111 0.156-0.214 0.263-0.303 0.038-0.031 0.077-0.060 0.118-0.088 0.047-0.032 0.098-0.062 0.152-0.089l-0.121 0.068c0.032-0.020 0.064-0.039 0.097-0.057l0.023-0.012 4.596-2.299v-4.508c0-0.009 0-0.017 0-0.026 0.001-0.032 0.002-0.063 0.005-0.095 0.002-0.023 0.004-0.045 0.007-0.067s0.007-0.045 0.011-0.068c0.006-0.032 0.013-0.064 0.022-0.095 0.003-0.012 0.007-0.025 0.011-0.038 0.011-0.036 0.023-0.070 0.036-0.104 0.005-0.013 0.010-0.026 0.016-0.040 0.012-0.026 0.024-0.051 0.037-0.076 0.012-0.026 0.027-0.052 0.042-0.078 0.006-0.008 0.012-0.017 0.017-0.025 0.068-0.112 0.156-0.214 0.263-0.303 0.038-0.031 0.077-0.060 0.118-0.088 0.047-0.032 0.098-0.062 0.152-0.089l-0.121 0.068c0.032-0.020 0.064-0.039 0.097-0.057l0.023-0.012zM12 20.824v2.352l2.667 1.333v-2.352zM20 20.824l-2.667 1.333v2.351l2.667-1.333zM6.667 18.157v2.352l2.667 1.333v-2.352zM25.333 18.157l-2.667 1.333v2.351l2.667-1.333zM15.999 17.491l-2.349 1.175 2.351 1.176 2.351-1.175-1.020-0.511zM10.665 14.824l-2.351 1.175 2.352 1.176 2.351-1.175zM21.333 14.824l-2.351 1.175 2.351 1.176 2.351-1.175zM12 10.157v2.352l2.667 1.333v-2.352zM20 10.157l-2.667 1.333v2.351l2.667-1.333zM16 6.824l-2.352 1.175 2.352 1.176 2.351-1.175z"></path></svg></span></div><div class="uk-width-expand vl-1px-up"><h4>Application Development</h4><ul class="uk-list">
+<li><a href="APIGateway/Concepts/apigatewayoverview.htm#Overview_of_API_Gateway"><span>API Gateway</span></a>
+</li>
+<li><a href="https://docs.oracle.com/en/database/oracle/application-express/20.1/index.html">Application
+                                            Express (APEX)</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/apex/index.html">APEX Service</a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/blockchain-cloud/index.html"><span>Blockchain
+                                        Platform</span></a>
+</li>
+<li><a href="/iaas/content-and-experience/index.html"><span>Content and
+                                                Experience</span></a>
+</li>
+<li><a href="/iaas/digital-assistant/index.html"><span>Digital Assistant</span></a>
+</li>
+<li><a href="Events/Concepts/eventsoverview.htm#Overview_of_Events"><span>Events</span></a>
+</li>
+<li><a href="Functions/Concepts/functionsoverview.htm#Overview_of_Functions"><span>Functions</span></a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/mobile-hub/index.html">Mobile Hub</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/app-builder-cloud/index.html">Visual Builder</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/developer-cloud/index.html">Visual Builder Studio</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/weblogic-cloud/index.html">WebLogic Server for OCI</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/weblogic-container/index.html">WebLogic Server for OKE</a>
+</li>
+</ul></div></div><div class="uk-grid uk-grid-small" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up">
+<svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M13.333 2.667v2.667h5.333v-2.667h2.668v2.667h5.332v5.331l2.667 0.001v2.668l-2.667-0.001v5.335h2.667v2.667h-2.667v5.333h-5.332v2.667h-2.668v-2.667h-5.333v2.667h-2.667v-2.667h-5.333v-5.333h-2.667v-2.667h2.667v-5.335l-2.667 0.001v-2.667l2.667-0.001v-5.332h5.333v-2.667zM24 8h-16v16h16zM21.333 10.667v10.667h-10.667v-10.667zM18.667 13.333h-5.333v5.333h5.333z"></path></svg>
+</span></div><div class="uk-width-expand vl-1px-up"><h4>Compute</h4><ul class="uk-list">
+<li><a href="Compute/Concepts/computeoverview.htm#Overview_of_the_Compute_Service"><span>Compute</span></a>
+</li>
+<li><a href="ContEng/Concepts/contengoverview.htm#Overview_of_Container_Engine_for_Kubernetes"><span>Container Engine for
+                                                Kubernetes</span></a>
+</li>
+<li><a href="/iaas/os-management/osms/index.htm"><span>OS Management</span></a>
+</li>
+<li><a href="Registry/Concepts/registryoverview.htm#Overview_of_Registry"><span>Registry</span></a>
+</li>
+<li><a href="VMware/Concepts/ocvsoverview.htm#Oracle_Cloud_VMware_Solution">Oracle Cloud
+                                            VMware Solution</a>
+</li>
+<li><a href="https://docs.oracle.com/en/operating-systems/oracle-linux/oci/">Oracle Linux</a></li>
+</ul></div></div></div><div class="uk-width-1-3@s"><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up"><svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M16 21.333c2.208 0 4 1.792 4 4s-1.792 4-4 4-4-1.792-4-4 1.792-4 4-4zM16 24c-0.736 0-1.333 0.598-1.333 1.333s0.598 1.333 1.333 1.333 1.333-0.598 1.333-1.333-0.598-1.333-1.333-1.333zM16 2.667c2.208 0 4 1.792 4 4 0 1.741-1.113 3.222-2.666 3.772v1.79c1.553 0.55 2.666 2.031 2.666 3.772 0 0.401-0.059 0.788-0.169 1.153l3.19 2.25c0.653-0.463 1.451-0.736 2.312-0.736 2.208 0 4 1.792 4 4s-1.792 4-4 4-4-1.792-4-4c0-0.376 0.052-0.74 0.149-1.085l-3.228-2.278c-0.642 0.439-1.419 0.696-2.255 0.696s-1.613-0.257-2.255-0.696l-3.228 2.278c0.097 0.345 0.149 0.709 0.149 1.085 0 2.208-1.792 4-4 4s-4-1.792-4-4 1.792-4 4-4c0.861 0 1.659 0.272 2.312 0.736l3.19-2.25c-0.11-0.365-0.169-0.752-0.169-1.153 0-1.741 1.114-3.223 2.667-3.772v-1.789c-1.553-0.549-2.667-2.031-2.667-3.772 0-2.208 1.792-4 4-4zM6.667 21.333c-0.736 0-1.333 0.598-1.333 1.333s0.598 1.333 1.333 1.333 1.333-0.598 1.333-1.333-0.598-1.333-1.333-1.333zM25.333 21.333c-0.736 0-1.333 0.598-1.333 1.333s0.598 1.333 1.333 1.333 1.333-0.598 1.333-1.333-0.598-1.333-1.333-1.333zM16 14.667c-0.736 0-1.333 0.598-1.333 1.333s0.598 1.333 1.333 1.333 1.333-0.598 1.333-1.333-0.598-1.333-1.333-1.333zM6.667 6.667c2.208 0 4 1.792 4 4s-1.792 4-4 4-4-1.792-4-4 1.792-4 4-4zM25.333 6.667c2.208 0 4 1.792 4 4s-1.792 4-4 4-4-1.792-4-4 1.792-4 4-4zM6.667 9.333c-0.736 0-1.333 0.598-1.333 1.333s0.598 1.333 1.333 1.333 1.333-0.598 1.333-1.333-0.598-1.333-1.333-1.333zM25.333 9.333c-0.736 0-1.333 0.598-1.333 1.333s0.598 1.333 1.333 1.333 1.333-0.598 1.333-1.333-0.598-1.333-1.333-1.333zM16 5.333c-0.736 0-1.333 0.598-1.333 1.333s0.598 1.333 1.333 1.333 1.333-0.598 1.333-1.333-0.598-1.333-1.333-1.333z"></path></svg></span></div><div class="uk-width-expand vl-1px-up"><h4>Data Management</h4><ul class="uk-list">
+<li><a href="https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/index.html">Autonomous Data Warehouse</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/atp-cloud/index.html">Autonomous Transaction
+                                        Processing</a>
+</li>
+<li><a href="Database/Concepts/overview.htm#Bare">Bare Metal and
+                                            Virtual Machine DB Systems</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/big-data-service/index.html"><span>Big Data</span></a>
+</li>
+<li><a href="/iaas/data-catalog/using/index.htm"><span>Data Catalog</span></a>
+</li>
+<li><a href="/iaas/data-integration/using/index.htm"><span>Data Integration</span></a>
+</li>
+<li><a href="/iaas/data-flow/using/dfs_data_flow.htm"><span>Data Flow</span></a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/data-safe/index.html"><span>Data Safe</span></a>
+</li>
+<li><a href="/iaas/data-science/using/data-science.htm"><span>Data Science</span></a>
+</li>
+<li><a href="Database/Concepts/exaoverview.htm#Exadata_DB_Systems">Exadata
+                                        Cloud Service</a></li>
+<li><a href="https://docs.oracle.com/en/engineered-systems/exadata-cloud-at-customer/index.html"><span>Exadata
+                                                Cloud@Customer</span></a></li>
+<li><a href="Database/Concepts/externaloverview.htm#externaldoverview">External
+                                        Database</a></li>
+<li><a href="/iaas/goldengate/index.html"><span>GoldenGate</span></a></li>
+<li><a href="/iaas/mysql-database/index.html"><span>MySQL Database</span></a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/nosql-cloud/index.html">NoSQL Database</a>
+</li>
+<li><a href="service-connector-hub/overview.htm#Service_Connector_Hub_Overview"><span>Service Connector Hub</span></a></li>
+</ul></div></div><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up">
+<svg contentscripttype="application/ecmascript" contentstyletype="text/css" fill="#161513" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M22.3 30.6H10.2V15.1h12.1v15.5zm-10.1-2h8.1V17.2h-8.1v11.4zm5.5-1h-2.9v-2h2.9v2zm-9.9-3.7h-7v-1.3c0-.2.1-5.8 4.2-9.1v-.7c0-3.8 3.1-7 7-7 .7 0 1.3.1 1.9.3a6.83 6.83 0 0 1 6.5-4.5c3.8 0 6.8 3 7 6.7 2.6 1.5 4.2 4.2 4.2 7.3 0 4.1-3.4 8.2-7 8.2v-2.7c2 0 4.3-2.9 4.3-5.5 0-2.3-1.4-4.3-3.4-5.2l-.9-.4.1-1.2v-.2c0-2.4-1.9-4.3-4.3-4.3-2.2 0-4 1.6-4.2 3.8l-.2 2.1-1.8-1.1c-.7-.4-1.4-.6-2.2-.6-2.4 0-4.3 1.9-4.3 4.3v2.1l-.6.4c-2.4 1.6-3.2 4.3-3.5 6h4.1v2.6z"></path></svg>
+</span></div><div class="uk-width-expand vl-1px-up"><h4>Hybrid Cloud</h4><ul class="uk-list" id="Oracle_Cloud_Infrastructure__ul_nsm_vwx_rnb">
+<li><a href="Rover/overview.htm#WhatIsRovingEdgeInfra" title="Learn about the Roving Edge Infrastructure service and associated devices, including how it works and what it does."><span>Roving Edge Infrastructure</span></a></li>
+</ul></div></div><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up">
+<svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M23.001 21v2h-22v-2zm-18-11v9h-2v-9zm12 0v9h-2v-9zm4 0v9h-2v-9zm-8 0v9h-2v-9zm-4 0v9h-2v-9zm2.553-8.894a1 1 0 01.895 0l10 5C23.393 6.577 23.057 8 22 8H2C.946 8 .611 6.577 1.554 6.106zm.447 2.012L6.236 6h11.53z" fill="#100f0e" fill-rule="evenodd"></path></svg>
+</span></div><div class="uk-width-expand vl-1px-up"><h4>Governance and Administration</h4><ul class="uk-list">
+<li><a href="Audit/Concepts/auditoverview.htm#Overview_of_Audit"><span>Audit</span></a></li>
+<li><a href="Billing/Concepts/budgetsoverview.htm#Budgets_Overview">Budgets</a></li>
+<li><a href="CloudAdvisor/Concepts/cloudadvisoroverview.htm#CloudAdvisorOverview"><span>Cloud Advisor</span></a></li>
+<li><a href="Billing/Concepts/costanalysisoverview.htm#Cost_Analysis_Overview">Cost
+                                        Analysis</a></li>
+<li><a href="GSG/Tasks/contactingsupport.htm#Getting_Help_and_Contacting_Support"><span>Support Management</span></a></li>
+<li><a href="Tagging/Concepts/taggingoverview.htm#Tagging_Overview"><span>Tagging</span></a></li>
+</ul></div></div><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up">
+<svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M29.333 2.667v26.667h-26.667v-26.667zM10.667 14.667c-0.683 0-1.247 0.515-1.324 1.178l-0.009 0.155v1.333h-4v9.333h9.333v-1.561l-0.015-0.005c-1.475-0.529-2.55-1.899-2.644-3.532l-0.007-0.235c0-1.648 0.998-3.065 2.423-3.677l0.244-0.096v-0.227h-2.667v-1.333c0-0.736-0.598-1.333-1.333-1.333zM17.333 20h-1.333c-0.736 0-1.333 0.598-1.333 1.333 0 0.683 0.515 1.247 1.178 1.324l0.155 0.009h1.333v4h9.333v-9.333h-1.561l-0.005 0.015c-0.529 1.475-1.899 2.55-3.532 2.644l-0.235 0.007c-1.648 0-3.065-0.998-3.677-2.423l-0.096-0.244h-0.227zM26.667 5.333h-9.333v1.56l0.015 0.007c1.475 0.529 2.55 1.899 2.644 3.532l0.007 0.235c0 1.648-0.998 3.065-2.423 3.677l-0.244 0.095v0.228h2.667v1.333c0 0.736 0.598 1.333 1.333 1.333 0.683 0 1.247-0.515 1.324-1.178l0.009-0.155v-1.333h4zM14.667 5.333h-9.333v9.333h1.56l0.007-0.015c0.529-1.475 1.899-2.55 3.532-2.644l0.235-0.007c1.648 0 3.065 0.998 3.677 2.423l0.095 0.244h0.228v-2.667h1.333c0.736 0 1.333-0.598 1.333-1.333 0-0.683-0.515-1.247-1.178-1.324l-0.155-0.009h-1.333z"></path></svg>
+</span></div><div class="uk-width-expand vl-1px-up"><h4>Integration</h4><ul class="uk-list">
+<li><a href="https://docs.oracle.com/cloud/apiary/index.html">Apiary</a>
+</li>
+<li><a href="/iaas/integration/index.html"><span>Integration</span></a>
+</li>
+</ul></div></div><div class="uk-grid uk-grid-small" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up"><svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M5.284 19.874c0-3.726 2.936-6.757 6.544-6.757s6.544 3.031 6.544 6.757c0 3.726-2.936 6.757-6.544 6.757s-6.544-3.031-6.544-6.757zM23.263 11.125l-0.519-0.577 2.369-2.488 0.517 0.577zM23.263 14.946l6.071-6.31-2.385-2.506 1.462-1.553-1.851-1.911-9.255 9.641c-1.53-1.182-3.421-1.893-5.476-1.893-5.052 0-9.162 4.243-9.162 9.459s4.11 9.459 9.162 9.459c5.052 0 9.162-4.243 9.162-9.459 0-2.122-0.687-4.076-1.834-5.655l1.721-1.777z"></path></svg></span></div><div class="uk-width-expand vl-1px-up"><h4>Management and Diagnostics</h4><ul class="uk-list">
+<li><a href="/iaas/application-performance-monitoring/index.html"><span>Application Performance Monitoring</span></a></li>
+<li><a href="/iaas/database-management/index.html"><span>Database Management</span></a></li>
+<li><a href="/iaas/jms/index.html"><span>Java Management</span></a></li>
+<li><a href="/iaas/logging-analytics/index.html"><span>Logging Analytics</span></a></li>
+<li><a href="Logging/Concepts/loggingoverview.htm#loggingoverview"><span>Logging</span></a></li>
+<li><a href="/iaas/management-agents/index.html"><span>Management Agent</span></a></li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/management-cloud/index.html">Management</a>
+</li>
+<li><a href="Monitoring/Concepts/monitoringoverview.htm#Monitoring_Overview"><span>Monitoring</span></a>
+</li>
+<li><a href="Notification/Concepts/notificationoverview.htm#Notifications_Overview"><span>Notifications</span></a>
+</li>
+<li><a href="/iaas/operations-insights/index.html"><span>Operations Insights</span></a></li>
+<li><a href="ResourceManager/Concepts/landing.htm#ResourceManager"><span>Resource Manager</span></a>
+</li>
+</ul></div></div></div><div class="uk-width-1-3@s"><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up"><svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M24 2.667c0.42 0 0.815 0.197 1.067 0.533l4.026 5.369c0.020 0.029 0.039 0.058 0.057 0.089l-0.083-0.124c0.038 0.051 0.072 0.103 0.102 0.158 0.018 0.033 0.035 0.067 0.051 0.101 0.008 0.019 0.016 0.039 0.024 0.059 0.010 0.024 0.019 0.049 0.027 0.075s0.015 0.051 0.022 0.077c0.008 0.029 0.014 0.058 0.020 0.088 0.003 0.020 0.007 0.039 0.009 0.058 0.005 0.035 0.009 0.072 0.011 0.109 0.001 0.017 0.002 0.032 0.002 0.048 0 0.008 0 0.018 0 0.027v18.667c0 0.737-0.597 1.333-1.333 1.333h-24c-0.736 0-1.333-0.596-1.333-1.333v-18.667l-0-0.015c0-0.025 0.001-0.051 0.003-0.076l-0.003 0.091c0-0.063 0.004-0.125 0.013-0.185 0.003-0.018 0.006-0.038 0.009-0.057 0.005-0.031 0.012-0.061 0.019-0.090 0.006-0.023 0.013-0.046 0.020-0.069 0.010-0.034 0.022-0.067 0.035-0.099 0.004-0.008 0.007-0.017 0.011-0.025 0.017-0.041 0.037-0.081 0.058-0.12 0.006-0.009 0.011-0.019 0.017-0.029 0.021-0.036 0.044-0.071 0.068-0.105 0.005-0.006 0.010-0.013 0.015-0.021l4-5.333c0.252-0.336 0.647-0.533 1.067-0.533zM26.667 10.667h-21.333v16h21.333zM12 13.333c0 2.205 1.795 4 4 4s4-1.795 4-4h2.667c0 3.676-2.991 6.667-6.667 6.667s-6.667-2.991-6.667-6.667zM23.333 5.333h-14.667l-2 2.667h18.667z"></path></svg></span></div><div class="uk-width-expand vl-1px-up"><h4>Marketplace</h4><ul class="uk-list">
+<li><a href="Marketplace/Concepts/marketoverview.htm#Overview_of_Marketplace">Cloud
+                                            Infrastructure Marketplace</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/marketplace/index.html">Cloud Marketplace</a>
+</li>
+</ul></div></div><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up"><svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M21.333 2.667v10.667h-4v1.333h8v4h4v10.667h-10.667v-10.667h4v-1.333h-13.333v1.333h4v10.667h-10.667v-10.667h4v-4h8v-1.333h-4v-10.667zM10.667 21.333h-5.333v5.333h5.333zM26.667 21.333h-5.333v5.333h5.333zM18.667 5.333h-5.333v5.333h5.333z"></path></svg></span></div><div class="uk-width-expand vl-1px-up"><h4>Networking, Edge, and Connectivity</h4><ul class="uk-list">
+<li><a href="EdgeServices/overview.htm#DNS_and_Traffic_Management"><span>DNS</span> and Traffic Management</a>
+</li>
+<li><a href="Email/Concepts/overview.htm#Overview_of_the_Email_Delivery_Service"><span>Email Delivery</span></a>
+</li>
+<li><a href="Network/Concepts/fastconnect.htm#FastConnect">FastConnect</a>
+</li>
+<li><a href="HealthChecks/Concepts/healthchecks.htm#Overview_of_the_Health_Checks_Service"><span>Health Checks</span></a>
+</li>
+<li><a href="Balance/Concepts/balanceoverview.htm#Overview_of_Load_Balancing"><span>Load Balancing</span></a>
+</li>
+<li><a href="NetworkLoadBalancer/overview.htm#Overview" title="Learn about how Network Load Balancers can provide automated traffic distribution from one entry point to multiple servers in a backend set. Network Load Balancers ensure that your services remain available by directing traffic only to healthy servers."><span>Network Load Balancer</span></a>
+</li>
+<li><a href="Network/Concepts/landing.htm#Networking"><span>Networking</span></a>
+</li>
+</ul></div></div><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up"><svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M26.667 7.121l-10.667-4.571-10.667 4.571v4.879c0 4.999 1.56 9.554 4.545 13.092 1.601 1.898 3.477 3.327 5.647 4.154l0.475 0.181 0.475-0.181c2.17-0.827 4.046-2.256 5.647-4.154 2.985-3.537 4.545-8.093 4.545-13.092zM16 5.451l8 3.428v3.121c0 4.388-1.35 8.331-3.916 11.372l-0.31 0.356c-1.043 1.16-2.199 2.070-3.471 2.689l-0.303 0.139-0.303-0.139c-1.4-0.682-2.658-1.714-3.781-3.045l-0.314-0.385c-2.362-2.986-3.602-6.783-3.602-10.988v-3.121zM14.667 20.536l-3.609-3.589 1.885-1.875 1.724 1.714 5.724-5.692 1.885 1.875z"></path></svg></span></div><div class="uk-width-expand vl-1px-up"><h4>Security, Identity, and Compliance</h4><ul class="uk-list">
+<li><a href="https://docs.oracle.com/en/cloud/paas/casb-cloud/index.html">CASB</a>
+</li>
+<li><a href="/iaas/cloud-guard/using/index.htm"><span>Cloud Guard</span></a></li>
+<li><a href="ComplianceDocuments/Concepts/compliancedocsoverview.htm#Overview_of_Compliance_Documents"><span>Compliance
+                                        Documents</span></a>
+</li>
+<li><a href="Identity/Concepts/overview.htm#Overview_of_Oracle_Cloud_Infrastructure_Identity_and_Access_Management">Identity and
+                                            Access Management</a>
+</li>
+<li><a href="SecurityAdvisor/Concepts/securityadvisoroverview.htm#securityadvisoroverview"><span>Security Advisor</span></a></li>
+<li><a href="/iaas/security-zone/using/security-zones.htm"><span>Security Zones</span></a></li>
+<li><a href="KeyManagement/Concepts/keyoverview.htm#Overview_of_Vault"><span>Vault</span></a>
+</li>
+<li><a href="/iaas/scanning/using/overview.htm">Vulnerability Scanning</a></li>
+<li><a href="WAF/Concepts/landing.htm#WAF">Web Application Firewall</a></li>
+</ul></div></div><div class="uk-grid uk-grid-small" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up"><svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M28 2.667v26.667h-24v-26.667zM25.333 5.333h-8v21.333h8zM14.667 5.333h-8v21.333h8zM22.667 13.333v10.667h-2.667v-10.667zM12 21.333v2.667h-2.667v-2.667zM12 8v10.667h-2.667v-10.667zM22.667 8v2.667h-2.667v-2.667z"></path></svg></span></div><div class="uk-width-expand vl-1px-up"><h4>Storage</h4><ul class="uk-list">
+<li><a href="Archive/Concepts/archivestorageoverview.htm#Overview_of_Archive_Storage"><span>Archive Storage</span></a>
+</li>
+<li><a href="Block/Concepts/overview.htm#Overview_of_Block_Volume"><span>Block Volume</span></a>
+</li>
+<li><a href="DataTransfer/Concepts/overview.htm#OverviewDataTransferService"><span>Data Transfer</span></a>
+</li>
+<li><a href="File/Concepts/filestorageoverview.htm#Overview_of_File_Storage"><span>File Storage</span></a>
+</li>
+<li><a href="Object/Concepts/objectstorageoverview.htm#Overview_of_Object_Storage"><span>Object Storage</span></a>
+</li>
+<li><a href="StorageGateway/Concepts/storagegatewayoverview.htm#overview">Storage Gateway</a>
+</li>
+</ul></div></div></div></div></div><hr><div class="uk-section uk-padding-remove-bottom uk-text-small vl-external-link-indicators"><div class="uk-grid uk-grid-small uk-margin-medium-bottom" uk-grid=""><div class="uk-width-auto"><span class="uk-icon vl-2px-up"><svg contentscripttype="application/ecmascript" contentstyletype="text/css" height="30" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 32 32" width="30" xmlns="http://www.w3.org/2000/svg" zoomandpan="magnify"><path d="M16 2.667c5.155 0 9.333 4.179 9.333 9.333 0 2.542-1.016 4.846-2.665 6.53l-0.002 11.628-6.667-3.333-6.667 3.333-0.001-11.626c-1.649-1.683-2.666-3.989-2.666-6.531 0-5.154 4.179-9.333 9.333-9.333zM20.001 20.435c-0.689 0.327-1.424 0.573-2.193 0.724-0.016 0.002-0.032 0.005-0.047 0.008-0.271 0.053-0.546 0.093-0.825 0.121-0.038 0.003-0.076 0.007-0.114 0.010-0.1 0.009-0.201 0.016-0.302 0.022-0.172 0.009-0.345 0.014-0.52 0.014l0.404-0.009c-0.134 0.006-0.268 0.009-0.404 0.009s-0.27-0.003-0.404-0.009c-0.039-0.002-0.078-0.004-0.116-0.006-0.101-0.005-0.201-0.012-0.301-0.021-0.038-0.004-0.076-0.007-0.115-0.011-0.279-0.027-0.554-0.067-0.826-0.119-0.015-0.004-0.030-0.007-0.046-0.010-0.769-0.149-1.504-0.395-2.192-0.722l-0 5.406 4-1.999 4 2zM16 5.333c-3.682 0-6.667 2.985-6.667 6.667 0 1.849 0.753 3.523 1.97 4.731l0.254 0.227c0.954 0.856 2.118 1.418 3.374 1.622 0.022 0.004 0.044 0.008 0.067 0.011l-0.067-0.011c0.095 0.015 0.19 0.029 0.286 0.040l-0.22-0.029c0.119 0.018 0.239 0.033 0.36 0.044l-0.14-0.015c0.134 0.016 0.27 0.028 0.406 0.035l-0.265-0.020c0.097 0.009 0.196 0.017 0.294 0.022l0.348 0.009c0.116 0 0.232-0.003 0.348-0.009 0.010-0 0.020-0.001 0.030-0.002l-0.030 0.002c0.099-0.005 0.197-0.012 0.295-0.022l-0.265 0.020c0.136-0.008 0.271-0.019 0.405-0.035l-0.14 0.015c0.121-0.012 0.241-0.027 0.36-0.045l-0.22 0.030c0.096-0.011 0.192-0.025 0.287-0.040l-0.067 0.010c1.282-0.195 2.469-0.762 3.44-1.633l0.252-0.225c1.218-1.208 1.972-2.883 1.972-4.733 0-3.681-2.985-6.667-6.667-6.667z"></path></svg></span></div><div class="uk-width-expand vl-1px-up"><h4>Other Services</h4><div class="uk-grid uk-grid-large" uk-grid="margin: ;"><div class="uk-width-1-3@s"><ul class="uk-list">
+<li><a href="https://docs.oracle.com/en/cloud/paas/analytics-products/index.html">Analytics Services</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/api-platform-services-cloud/index.html">API Platform</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/app-container-cloud/index.html">Application
+                                            Container</a>
+</li>
+<li><a href="/iaas/application-migration/toc.htm"><span>Application
+                                                Migration</span></a>
+</li>
+<li><a href="https://docs.oracle.com/cloud/latest/big-data-discovery-cloud/index.html">Big Data Discovery</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/big-data-prep-cloud/index.html">Big Data
+                                            Preparation</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/blockchain-cloud/index.html">Blockchain
+                                            Platform</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/bi-cloud/index.html">Business
+                                            Intelligence</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/cloud-at-customer/index.html">Cloud at Customer</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/coherence-cloud/index.html">Coherence</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/iaas-classic/compute-iaas-cloud/index.html">Compute Classic</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/iaas-classic/container-cloud/index.html">Container Classic</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/content-cloud/index.html">Content and Experience
+                                            Classic Service</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/data-hub-cloud/index.html">Data Hub</a>
+</li>
+</ul></div><div class="uk-width-1-3@s"><ul class="uk-list">
+<li><a href="https://docs.oracle.com/en/cloud/paas/data-integrator-cloud/index.html">Data Integrator</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/data-visualization-cloud/index.html">Data Visualization</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/db-backup-cloud/index.html">Database Backup</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/index.html">Database Classic</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/db-schema-cloud/index.html">Database Schema</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/iaas-classic/compute-sparc-300-cloud/index.html">Dedicated Compute Classic
+                                            - SPARC 300 Model</a>
+</li>
+<li><a href="Database/Concepts/exaoverview.htm#Exadata_DB_Systems">Exadata
+                                            Database Express</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/event-hub-cloud/index.html">Event Hub</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/get-started/subscriptions-cloud/ofcug/getting-started-service.html">FastConnect
+                                            Classic</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/identity-cloud/index.html">Identity</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/integration-services-cloud/index.html">Integration
+                                            Services</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/java-cloud/index.html">Java</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/javase-cloud/index.html">Java - SaaS
+                                            Extension</a>
+</li>
+</ul></div><div class="uk-width-1-3@s"><ul class="uk-list">
+<li><a href="https://docs.oracle.com/en/cloud/iaas-classic/load-balancer-cloud/index.html">Load Balancing
+                                            Classic</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/managed-file-transfer-cloud/index.html">Managed File
+                                            Transfer</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/iaas-classic/messaging-cloud/index.html">Messaging</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/mobile-cloud/index.html">Mobile</a>
+</li>
+<li><a href="https://help.dyn.com/email-knowledge-base/">Oracle + Dyn Email
+                                            Delivery</a>
+</li>
+<li><a href="https://help.dyn.com/internet-intelligence/">Oracle + Dyn Internet
+                                            Intelligence</a>
+</li>
+<li><a href="https://help.dyn.com/dns-knowledge-base/">Oracle + Dyn Managed
+                                            DNS</a>
+</li>
+<li><a href="https://websecurityhelp.dyn.com/Content/home.htm">Oracle + Dyn Web
+                                            Application Security</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/iaas-classic/ravello-cloud/index.html">Ravello</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/soa-cloud/index.html">SOA</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/iaas-classic/storage-cloud/index.html">Storage Classic</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/iaas-classic/storage-appliance-cloud/index.html">Storage Software
+                                            Appliance</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/paas/webcenter-portal-cloud/index.html">WebCenter Portal</a>
+</li>
+<li><a href="https://docs.oracle.com/en/cloud/iaas-classic/wercker-cloud/index.html">Wercker</a>
+</li>
+</ul></div></div></div></div></div></hr></article></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="vl-footer uk-section uk-section-secondary uk-section-small uk-text-xsmall uk-text-muted" data-trackas="dcoc-footer" vl-footer="">
+<div class="uk-container uk-container-expand">
+<ul class="uk-subnav uk-flex-center" uk-margin="">
+<li><span>Copyright © 2021, Oracle and/or its affiliates.</span></li>
+<li><a href="https://www.oracle.com/corporate/index.html">About Oracle</a></li>
+<li><a href="https://www.oracle.com/corporate/contact/index.html">Contact Us</a></li>
+<li><a href="/iaas/Content/legalnotices.htm">Legal Notices</a></li>
+<li><a href="https://www.oracle.com/legal/privacy/">Terms of Use &amp; Privacy</a></li>
+<li><a href="/iaas/Content/General/Reference/docconventions.htm">Document Conventions</a></li>
+<li id="teconsent"></li>
+</ul>
+</div>
+</footer>
+</body></html>
+<script src="/iaas/build/front-end.js?3344ad37b4d44363d6ee6d621567d0db216d6b9c9ba305baa6d13fecfcf2e0de"></script>
+<script async="" defer="" src="//www.oracleimg.com/us/assets/metrics/ora_code_docs.js"></script>
+<script async="" defer="" src="//www.oracleimg.com/us/assets/metrics/ora_code.js"></script>
+

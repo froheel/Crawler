@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8"/>
+<title>وکا (یادگیری ماشینی) - ویکی‌پدیا، دانشنامهٔ آزاد</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[".\t,","٫\t٬"],"wgDigitTransformTable":["0\t1\t2\t3\t4\t5\t6\t7\t8\t9\t%","۰\t۱\t۲\t۳\t۴\t۵\t۶\t۷\t۸\t۹\t٪"],"wgDefaultDateFormat":"dmy","wgMonthNames":["","ژانویه","فوریه","مارس","آوریل","مه","ژوئن","ژوئیه","اوت","سپتامبر","اکتبر","نوامبر","دسامبر"],"wgRequestId":"494d9b8c-9a64-4bf5-8802-3cd3af70c629","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"وکا_(یادگیری_ماشینی)","wgTitle":"وکا (یادگیری ماشینی)","wgCurRevisionId":25240553,"wgRevisionId":25240553,"wgArticleId":3286649,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["مقالات دارای جعبه اطلاعات","مقاله‌های دارای واژگان به زبان انگلیسی",
+"همه مقاله‌های خرد","مقاله‌های خرد نرم‌افزار آزاد","مقاله‌های ایجاد شده توسط ایجادگر","نرم‌افزارهای آزاد نوشته‌شده با جاوا","نرم‌افزارهای داده‌کاوی و یادگیری ماشینی","نرم‌افزارهای علمی آزاد","نرم‌افزارهای نوشته‌شده با جاوا","نرم‌افزارهایی که از پروانه جی‌پی‌ال استفاده می‌کنند"],"wgPageContentLanguage":"fa","wgPageContentModel":"wikitext","wgRelevantPageName":"وکا_(یادگیری_ماشینی)","wgRelevantArticleId":3286649,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"fa","pageLanguageDir":"rtl","pageVariantFallbacks":"fa"},"wgMFDisplayWikibaseDescriptions":{
+"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"فارسی","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q115494"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.js",
+"ext.gadget.Edittools","ext.gadget.EasyNewSection","ext.gadget.signit","ext.gadget.decodesummary","ext.gadget.Watchlist","ext.gadget.switcher","ext.gadget.ReferenceTooltips","ext.gadget.CommonsDirect","ext.gadget.refToolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"fa"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fa&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fa&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fa&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png"/>
+<meta property="og:title" content="وکا (یادگیری ماشینی) - ویکی‌پدیا، دانشنامهٔ آزاد"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//fa.m.wikipedia.org/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)"/>
+<link rel="alternate" type="application/x-wiki" title="ویرایش" href="/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;action=edit"/>
+<link rel="edit" title="ویرایش" href="/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="ویکی‌پدیا (fa)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fa.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://fa.wikipedia.org/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki rtl sitedir-rtl mw-hide-empty-elt ns-0 ns-subject mw-editable page-وکا_یادگیری_ماشینی rootpage-وکا_یادگیری_ماشینی skin-vector action-view skin-vector-search-vue"><div class="mw-page-container">
+	<a class="mw-jump-link" href="#content">پرش به محتوا</a>
+	<div class="mw-page-container-inner">
+
+<input
+	type="checkbox"
+	id="mw-sidebar-checkbox"
+	class="mw-checkbox-hack-checkbox"
+	checked>
+
+<header class="mw-header">
+	<label
+		id="mw-sidebar-button"
+		class="mw-checkbox-hack-button mw-ui-icon mw-ui-icon-element"
+		for="mw-sidebar-checkbox"
+		role="button"
+		aria-controls="mw-panel"
+		data-event-name="ui.sidebar"
+		tabindex="0">
+		جمع و باز کردن نوار کناری
+	</label>
+	<a href="/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" class="mw-logo">
+		<img class="mw-logo-icon" src="/static/images/mobile/copyright/wikipedia.png" alt=""
+			aria-hidden="true" height="50" width="50">
+		<span class="mw-logo-container">
+			<img class="mw-logo-wordmark" alt="ویکی‌پدیا"
+				src="/static/images/mobile/copyright/wikipedia-wordmark-fa.svg" width="78" height="26">
+			<img class="mw-logo-tagline"
+				alt="دانشنامهٔ آزاد"
+				src="/static/images/mobile/copyright/wikipedia-tagline-fa.svg" width="76" height="19">
+		</span>
+	</a>
+	<div id="p-search" role="search" class="p-search--show-thumbnail">
+	<h3 >
+		<label for="searchInput">جستجو</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-moved">
+			<input type="search" name="search" placeholder="جستجو در ویکی‌پدیا" autocapitalize="sentences" title="جستجو در ویکی‌پدیا [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="ویژه:جستجو"/>
+			<input type="submit" name="fulltext" value="جستجو" title="جستجوی این عبارت در صفحات" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="برو" title="در صورت امکان به صفحه‌ای با همین نام برو" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>ابزارهای شخصی</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">به سامانه وارد نشده‌اید</li><li id="pt-anontalk"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%A8%D8%AD%D8%AB_%D9%85%D9%86" title="بحث پیرامون ویرایش‌های این نشانی آی‌پی [n]" accesskey="n">بحث</a></li><li id="pt-anoncontribs"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D9%85%D8%B4%D8%A7%D8%B1%DA%A9%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%85%D9%86" title="فهرست ویرایش‌ها انجام شده از این نشانی آی‌پی [y]" accesskey="y">مشارکت‌ها</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF_%D8%AD%D8%B3%D8%A7%D8%A8_%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C&amp;returnto=%D9%88%DA%A9%D8%A7+%28%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C+%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C%29" title="از شما دعوت می‌شود که حساب کاربری بسازید و به سامانه وارد شوید؛ هرچند که ساخت حساب کاربری اختیاری است.">ایجاد حساب کاربری</a></li><li id="pt-login"><a href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%D9%88%D8%B1%D9%88%D8%AF_%D8%A8%D9%87_%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87&amp;returnto=%D9%88%DA%A9%D8%A7+%28%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C+%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C%29" title="توصیه می‌شود که به سامانه وارد شوید، گرچه اجباری نیست [o]" accesskey="o">ورود</a></li></ul>
+		
+	</div>
+</nav>
+
+</header>
+
+<div class="mw-workspace-container">
+	<div id="mw-navigation">
+		<h2>منوی ناوبری</h2>
+		
+<div id="mw-panel" class="mw-sidebar">
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>بازدید محتوا</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage"><a href="/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" title="مشاهدهٔ صفحهٔ اصلی [z]" accesskey="z">صفحهٔ اصلی</a></li><li id="n-currentevents"><a href="/wiki/%D8%AF%D8%B1%DA%AF%D8%A7%D9%87:%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF%D9%87%D8%A7%DB%8C_%DA%A9%D9%86%D9%88%D9%86%DB%8C" title="یافتن اطلاعات پس‌زمینه پیرامون رویدادهای کنونی">رویدادهای کنونی</a></li><li id="n-randompage"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%AA%D8%B5%D8%A7%D8%AF%D9%81%DB%8C" title="آوردن یک صفحهٔ تصادفی [x]" accesskey="x">مقالهٔ تصادفی</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fa.wikipedia.org&amp;uselang=fa" title="حمایتمان کنید">کمک مالی</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-collaboration" class="mw-portlet mw-portlet-collaboration vector-menu vector-menu-portal portal" aria-labelledby="p-collaboration-label" role="navigation" 
+	 >
+	<h3 id="p-collaboration-label" class="vector-menu-heading">
+		<span>همکاری</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-recentchanges"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA_%D8%A7%D8%AE%DB%8C%D8%B1" title="فهرستی از تغییرات اخیر ویکی [r]" accesskey="r">تغییرات اخیر</a></li><li id="n-cooperateing"><a href="/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C">ویکی‌نویس شوید!</a></li><li id="n-help"><a href="/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D9%81%D9%87%D8%B1%D8%B3%D8%AA" title="مکانی برای دریافتن">راهنما</a></li><li id="n-contact"><a href="//fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AA%D9%85%D8%A7%D8%B3_%D8%A8%D8%A7_%D9%85%D8%A7">تماس با ویکی‌پدیا</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>ابزارها</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D9%BE%DB%8C%D9%88%D9%86%D8%AF_%D8%A8%D9%87_%D8%A7%DB%8C%D9%86_%D8%B5%D9%81%D8%AD%D9%87/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" title="فهرست همهٔ صفحه‌هایی که به این صفحه پیوند می‌دهند [j]" accesskey="j">پیوندها به این صفحه</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1%D8%A7%D8%AA_%D9%85%D8%B1%D8%AA%D8%A8%D8%B7/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" rel="nofollow" title="تغییرات اخیر صفحه‌هایی که این صفحه به آن‌ها پیوند دارد [k]" accesskey="k">تغییرات مرتبط</a></li><li id="t-upload"><a href="/wiki/ویکی‌پدیا:بارگذاری" title="بارگذاری تصاویر و پرونده‌های دیگر [u]" accesskey="u">بارگذاری پرونده</a></li><li id="t-specialpages"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%B5%D9%81%D8%AD%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%88%DB%8C%DA%98%D9%87" title="فهرستی از همهٔ صفحه‌های ویژه [q]" accesskey="q">صفحه‌های ویژه</a></li><li id="t-permalink"><a href="/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;oldid=25240553" title="پیوند پایدار به این نسخه از صفحه">پیوند پایدار</a></li><li id="t-info"><a href="/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;action=info" title="اطلاعات بیشتر دربارهٔ این صفحه">اطلاعات صفحه</a></li><li id="t-cite"><a href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%DB%8C%D8%A7%D8%AF%DA%A9%D8%B1%D8%AF&amp;page=%D9%88%DA%A9%D8%A7_%28%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C%29&amp;id=25240553&amp;wpFormIdentifier=titleform" title="اطلاعات در خصوص چگونگی یادکرد این صفحه">یادکرد پیوند این مقاله</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494" title="پیوند به آیتم متصل در مخزن داده [g]" accesskey="g">آیتم ویکی‌داده</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>نسخه‌برداری</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:%DA%A9%D8%AA%D8%A7%D8%A8&amp;bookcmd=book_creator&amp;referer=%D9%88%DA%A9%D8%A7+%28%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C+%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C%29">ایجاد کتاب</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D9%88%DB%8C%DA%98%D9%87:DownloadAsPdf&amp;page=%D9%88%DA%A9%D8%A7_%28%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C%29&amp;action=show-download-screen">دریافت به‌صورت PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;printable=yes" title="نسخهٔ قابل چاپ این صفحه [p]" accesskey="p">نسخهٔ قابل چاپ</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>در دیگر پروژه‌ها</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" hreflang="en">ویکی‌انبار</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>به زبان‌های دیگر</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Weka_(aprenentatge_autom%C3%A0tic)" title="Weka (aprenentatge automàtic)–کاتالان" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Weka" title="Weka–چکی" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Waikato_Environment_for_Knowledge_Analysis" title="Waikato Environment for Knowledge Analysis–آلمانی" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Weka_(%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7)" title="Weka (μηχανική μάθηση)–یونانی" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Weka_(machine_learning)" title="Weka (machine learning)–انگلیسی" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico)" title="Weka (aprendizaje automático)–اسپانیایی" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Weka_(ikasketa_automatikoa)" title="Weka (ikasketa automatikoa)–باسکی" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Weka_(informatique)" title="Weka (informatique)–فرانسوی" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Weka_(%D7%9C%D7%9E%D7%99%D7%93%D7%AA_%D7%9E%D7%9B%D7%95%D7%A0%D7%94)" title="Weka (למידת מכונה)–عبری" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Weka_(pembelajaran_mesin)" title="Weka (pembelajaran mesin)–اندونزیایی" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Weka" title="Weka–ایتالیایی" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Weka" title="Weka–ژاپنی" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%B9%B4_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)" title="웨카 (기계 학습)–کره‌ای" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Weka_(software)" title="Weka (software)–هلندی" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Weka" title="Weka–پرتغالی" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Weka" title="Weka–روسی" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%99%E0%B6%9A%E0%B7%8F_%E0%B6%B8%E0%B7%98%E0%B6%AF%E0%B7%94%E0%B6%9A%E0%B7%8F%E0%B6%82%E0%B6%9C%E0%B6%BA" title="වෙකා මෘදුකාංගය–سینهالی" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Weka_(strojno_u%C4%8Denje)" title="Weka (strojno učenje)–اسلوونیایی" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%B2" title="เวกา–تایلندی" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Weka" title="Weka–ترکی استانبولی" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Weka" title="Weka–اوکراینی" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Weka_(h%E1%BB%8Dc_m%C3%A1y)" title="Weka (học máy)–ویتنامی" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Weka" title="Weka–چینی" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494#sitelinks-wikipedia" title="ویرایش پیوندهای میان‌ویکی" class="wbc-editpage">ویرایش پیوندها</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+		<div id="mw-head">
+			<div class="mw-article-toolbar-container">
+				<div id="left-navigation">
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>فضاهای نام</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" title="دیدن صفحهٔ محتویات [c]" accesskey="c">مقاله</a></li><li id="ca-talk"><a href="/wiki/%D8%A8%D8%AD%D8%AB:%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" rel="discussion" title="گفتگو پیرامون محتوای صفحه [t]" accesskey="t">بحث</a></li></ul>
+		
+	</div>
+</nav>
+
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>گویش‌ها</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+				</div>
+				<div id="right-navigation">
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>بازدیدها</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)">خواندن</a></li><li id="ca-edit"><a href="/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;action=edit" title="ویرایش این صفجه با استفاده از ویکی‌متن [e]" accesskey="e">ویرایش</a></li><li id="ca-history"><a href="/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;action=history" title="نسخه‌های پیشین این صفحه [h]" accesskey="h">نمایش تاریخچه</a></li></ul>
+		
+	</div>
+</nav>
+
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>بیشتر</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="mw-content-container">
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<main id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >وکا (یادگیری ماشینی)</h1>
+
+
+	<div id="bodyContent" class="mw-body-content">
+			<div id="siteSub" class="noprint">از ویکی‌پدیا، دانشنامهٔ آزاد</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="mw-content-text" lang="fa" dir="rtl" class="mw-content-rtl"><div class="mw-parser-output"><table class="infobox vevent"><caption class="infobox-title summary">وکا</caption><tbody><tr style="text-align:center"><td colspan="2" class="infobox-image" style="text-align:center"><a href="/wiki/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Weka_(software)_logo.png" class="image" title="لوگوی وکا، با حضور پرندهٔ وکا"><img alt="لوگوی وکا، با حضور پرندهٔ وکا" src="//upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png" decoding="async" width="198" height="104" data-file-width="198" data-file-height="104" /></a><div class="infobox-caption">لوگوی وکا، با حضور <a href="/wiki/%D9%88%DA%A9%D8%A7_(%D9%BE%D8%B1%D9%86%D8%AF%D9%87)" title="وکا (پرنده)">پرندهٔ وکا</a></div></td></tr><tr style="text-align:center"><td colspan="2" class="infobox-image" style="text-align:center"><a href="/wiki/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Weka-3.5.5.png" class="image" title="وکا ۳٫۳٫۵ به همراه دیتاست آیریس دانشگاه ارواین"><img alt="وکا ۳٫۳٫۵ به همراه دیتاست آیریس دانشگاه ارواین" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/300px-Weka-3.5.5.png" decoding="async" width="300" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/450px-Weka-3.5.5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/600px-Weka-3.5.5.png 2x" data-file-width="768" data-file-height="576" /></a><div class="infobox-caption">وکا ۳٫۳٫۵ به همراه دیتاست آیریس دانشگاه <a href="/wiki/%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%DA%A9%D8%A7%D9%84%DB%8C%D9%81%D8%B1%D9%86%DB%8C%D8%A7%D8%8C_%D8%A7%D8%B1%D9%88%D8%A7%DB%8C%D9%86" title="دانشگاه کالیفرنیا، ارواین">ارواین</a></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3" title="برنامه‌نویس">توسعه‌دهنده(ها)</a></th><td class="infobox-data"><a href="/w/index.php?title=%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%88%D8%A7%DB%8C%DA%A9%D9%88%D8%AA%D8%A7&amp;action=edit&amp;redlink=1" class="new" title="دانشگاه وایکوتا (صفحه وجود ندارد)">دانشگاه وایکوتا</a></td></tr><tr style="display: none;"><td colspan="2" class="infobox-full-data"></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/%DA%86%D8%B1%D8%AE%D9%87_%D8%B2%D9%86%D8%AF%DA%AF%DB%8C_%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1_%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1" title="چرخه زندگی انتشار نرم‌افزار">انتشار پایدار</a></th><td class="infobox-data"><div style="margin:0px;">۳٫۶٫۱۲
+   <br />۱۷&#160;دسامبر ۲۰۱۴<span class="noprint">؛&#32;۶&#160;سال پیش</span><span style="display:none">&#160;(<span class="bday dtstart published updated">۲۰۱۴-۱۲-17</span>)</span></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/%DA%86%D8%B1%D8%AE%D9%87_%D8%B2%D9%86%D8%AF%DA%AF%DB%8C_%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1_%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1" title="چرخه زندگی انتشار نرم‌افزار">انتشار آزمایشی</a></th><td class="infobox-data"><div style="margin:0px;">۳٫۷٫۱۲
+   <br />۱۶&#160;دسامبر ۲۰۱۴<span class="noprint">؛&#32;۶&#160;سال پیش</span><span style="display:none">&#160;(<span class="bday dtstart published updated">۲۰۱۴-۱۲-16</span>)</span></div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/%D9%85%D8%AE%D8%B2%D9%86_(%DA%A9%D9%86%D8%AA%D8%B1%D9%84_%D9%86%D8%B3%D8%AE%D9%87)" title="مخزن (کنترل نسخه)">مخزن</a></th><td class="infobox-data"><div style="direction:ltr; text-align:left;"><div class="plainlist" style="margin-right: 0em;"><ul><li><span class="url"><a rel="nofollow" class="external text" href="https://svn.cms.waikato.ac.nz/svn/weka/">svn<wbr />.cms<wbr />.waikato<wbr />.ac<wbr />.nz<wbr />/svn<wbr />/weka<wbr />/</a></span></li></ul>
+</div> <a href="https://www.wikidata.org/wiki/Q115494#P1324" title="ویرایش در ویکی‌داده"><img alt="ویرایش در ویکی‌داده" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;">نوشته‌شده با</th><td class="infobox-data"><a href="/wiki/%D8%AC%D8%A7%D9%88%D8%A7_(%D8%B2%D8%A8%D8%A7%D9%86_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C)" title="جاوا (زبان برنامه‌نویسی)">جاوا (زبان برنامه‌نویسی)</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%E2%80%8C%D8%B9%D8%A7%D9%85%D9%84" title="سیستم‌عامل">سیستم‌عامل</a></th><td class="infobox-data"><a href="/wiki/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D8%AA_%D9%88%DB%8C%D9%86%D8%AF%D9%88%D8%B2" title="مایکروسافت ویندوز">مایکروسافت ویندوز</a>، <a href="/wiki/%D8%A7%D9%88%D8%A7%D8%B3_%D8%AF%D9%87" class="mw-redirect" title="اواس ده">اواس ده</a>، <a href="/wiki/%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3" title="لینوکس">لینوکس</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/%D8%A8%D9%86%E2%80%8C%D8%B3%D8%A7%D8%B2%D9%87_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4" title="بن‌سازه رایانش">بن‌سازه رایانش</a></th><td class="infobox-data"><a href="/wiki/%D8%A2%DB%8C%E2%80%8C%D8%A7%DB%8C-%DB%B3%DB%B2" title="آی‌ای-۳۲">آی‌ای-۳۲</a> و <a href="/wiki/X86-64" title="X86-64">X86-64</a>، <a href="/wiki/%D8%B3%DA%A9%D9%88%DB%8C_%D8%AC%D8%A7%D9%88%D8%A7%D8%8C_%D9%86%D8%B3%D8%AE%D9%87_%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF" title="سکوی جاوا، نسخه استاندارد">سکوی جاوا، نسخه استاندارد</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%B1%D8%AF%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1" title="فهرست رده‌های نرم‌افزار">گونه</a></th><td class="infobox-data"><a href="/wiki/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C" class="mw-redirect" title="یادگیری ماشینی">یادگیری ماشینی</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;"><a href="/wiki/%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87_%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1" title="پروانه نرم‌افزار">پروانه</a></th><td class="infobox-data"><a href="/wiki/%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87_%D8%B9%D9%85%D9%88%D9%85%DB%8C_%D9%87%D9%85%DA%AF%D8%A7%D9%86%DB%8C_%DA%AF%D9%86%D9%88" title="پروانه عمومی همگانی گنو">پروانه عمومی همگانی گنو</a></td></tr><tr><th scope="row" class="infobox-label" style="white-space: nowrap;">وبگاه</th><td class="infobox-data"><div style="direction:ltr; text-align:left;"><span class="url"><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/weka/">www<wbr />.cs<wbr />.waikato<wbr />.ac<wbr />.nz<wbr />/~ml<wbr />/weka<wbr />/</a></span></div></td></tr></tbody></table>
+<p><b>وکا</b> (به <a href="/wiki/%D8%B2%D8%A8%D8%A7%D9%86_%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C" title="زبان انگلیسی">انگلیسی</a>&#58; <span lang="en">Weka</span>) نام یک <a href="/wiki/%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%A2%D8%B2%D8%A7%D8%AF" title="نرم‌افزار آزاد">نرم‌افزار آزاد</a> است که شامل مجموعه‌ای از <a href="/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85" title="الگوریتم">الگوریتمهای</a> <a href="/wiki/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C" class="mw-redirect" title="یادگیری ماشینی">یادگیری ماشینی</a> و <a href="/wiki/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%DA%A9%D8%A7%D9%88%DB%8C" title="داده‌کاوی">داده‌کاوی</a> می‌شود. این ابزار در <a href="/w/index.php?title=%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87_%D9%88%D8%A7%DB%8C%DA%A9%D8%A7%D8%AA%D9%88&amp;action=edit&amp;redlink=1" class="new" title="دانشگاه وایکاتو (صفحه وجود ندارد)">دانشگاه وایکاتو</a> در کشور <a href="/wiki/%D9%86%DB%8C%D9%88%D8%B2%D9%84%D9%86%D8%AF" class="mw-redirect" title="نیوزلند">نیوزلند</a> توسعه داده شده است.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;۱&#93;</a></sup> وکا در تحلیل <a href="/wiki/%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B9%D8%B8%DB%8C%D9%85" class="mw-redirect" title="داده‌های عظیم">داده‌های عظیم</a> کاربرد دارد.
+</p>
+<h2><span id=".D9.85.D9.86.D8.A7.D8.A8.D8.B9"></span><span class="mw-headline" id="منابع">منابع</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;action=edit&amp;section=1" title="ویرایش بخش: منابع">ویرایش</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references-small" style="">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.cs.waikato.ac.nz/ml/weka/">http://www.cs.waikato.ac.nz/ml/weka/</a></span>
+</li>
+</ol></div><p>آکادمی داده‌کاوی<style data-mw-deduplicate="TemplateStyles:r31534111">.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;left:1em;display:none}</style></p><div role="note" class="metadata plainlinks asbox stub"><table role="presentation"><tbody><tr class="noresize"><td><a href="/wiki/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Nuvola_apps_emacs.png" class="image"><img alt="آیکون خرد" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nuvola_apps_emacs.png/30px-Nuvola_apps_emacs.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nuvola_apps_emacs.png/45px-Nuvola_apps_emacs.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nuvola_apps_emacs.png/60px-Nuvola_apps_emacs.png 2x" data-file-width="128" data-file-height="128" /></a></td><td><p class="asbox-body">این یک <a href="/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AE%D8%B1%D8%AF" class="mw-redirect" title="ویکی‌پدیا:خرد">مقالهٔ خرد</a>  <a href="/wiki/%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%A2%D8%B2%D8%A7%D8%AF" title="نرم‌افزار آزاد">نرم‌افزار آزاد</a> است. می‌توانید با <a class="external text" href="https://fa.wikipedia.org/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;action=edit">گسترش آن</a> به ویکی‌پدیا کمک کنید.</p></td></tr></tbody></table><style data-mw-deduplicate="TemplateStyles:r31547574">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:right;text-align:right}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-left:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-right:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:right;text-align:right;margin-left:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/%D8%A7%D9%84%DA%AF%D9%88:%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%A2%D8%B2%D8%A7%D8%AF-%D8%AE%D8%B1%D8%AF" title="الگو:نرم‌افزار آزاد-خرد"><abbr title="این الگو را مشاهده کنید">ن</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=%D8%A8%D8%AD%D8%AB_%D8%A7%D9%84%DA%AF%D9%88:%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%A2%D8%B2%D8%A7%D8%AF-%D8%AE%D8%B1%D8%AF&amp;action=edit&amp;redlink=1" class="new" title="بحث الگو:نرم‌افزار آزاد-خرد (صفحه وجود ندارد)"><abbr title="بحث دربارهٔ این الگو">ب</abbr></a></li><li class="nv-edit"><a class="external text" href="https://fa.wikipedia.org/w/index.php?title=%D8%A7%D9%84%DA%AF%D9%88:%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%A2%D8%B2%D8%A7%D8%AF-%D8%AE%D8%B1%D8%AF&amp;action=edit"><abbr title="این الگو را ویرایش کنید">و</abbr></a></li></ul></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1365
+Cached time: 20210411172738
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.280 seconds
+Real time usage: 0.401 seconds
+Preprocessor visited node count: 1535/1000000
+Post‐expand include size: 29263/2097152 bytes
+Template argument size: 3804/2097152 bytes
+Highest expansion depth: 29/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1874/5000000 bytes
+Lua time usage: 0.111/10.000 seconds
+Lua memory usage: 2709966/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  362.705      1 -total
+ 85.49%  310.092      2 الگو:Infobox
+ 65.77%  238.564      1 الگو:Infobox_software
+ 26.46%   95.981      1 الگو:Infobox_software/simple
+ 19.46%   70.576      2 الگو:Start_date_and_age
+ 18.90%   68.549      9 الگو:Formatnumber
+ 16.29%   59.097      1 الگو:نرم‌افزار_آزاد-خرد
+ 15.49%   56.166      1 الگو:الگوی_خرد
+ 13.11%   47.561      1 الگو:به_انگلیسی
+ 12.32%   44.678      1 الگو:به_زبان_دیگر
+-->
+
+<!-- Saved in parser cache with key fawiki:pcache:idhash:3286649-0!canonical and timestamp 20210411172738 and revision id 25240553. Serialized with JSON.
+ -->
+</div><noscript><img src="//fa.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">برگرفته از «<a dir="ltr" href="https://fa.wikipedia.org/w/index.php?title=وکا_(یادگیری_ماشینی)&amp;oldid=25240553">https://fa.wikipedia.org/w/index.php?title=وکا_(یادگیری_ماشینی)&amp;oldid=25240553</a>»</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D9%88%DB%8C%DA%98%D9%87:%D8%B1%D8%AF%D9%87%E2%80%8C%D9%87%D8%A7" title="ویژه:رده‌ها">رده‌ها</a>: <ul><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D8%A2%D8%B2%D8%A7%D8%AF_%D9%86%D9%88%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%A8%D8%A7_%D8%AC%D8%A7%D9%88%D8%A7" title="رده:نرم‌افزارهای آزاد نوشته‌شده با جاوا">نرم‌افزارهای آزاد نوشته‌شده با جاوا</a></li><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%DA%A9%D8%A7%D9%88%DB%8C_%D9%88_%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C" title="رده:نرم‌افزارهای داده‌کاوی و یادگیری ماشینی">نرم‌افزارهای داده‌کاوی و یادگیری ماشینی</a></li><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D8%B9%D9%84%D9%85%DB%8C_%D8%A2%D8%B2%D8%A7%D8%AF" title="رده:نرم‌افزارهای علمی آزاد">نرم‌افزارهای علمی آزاد</a></li><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D9%86%D9%88%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%A8%D8%A7_%D8%AC%D8%A7%D9%88%D8%A7" title="رده:نرم‌افزارهای نوشته‌شده با جاوا">نرم‌افزارهای نوشته‌شده با جاوا</a></li><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C%DB%8C_%DA%A9%D9%87_%D8%A7%D8%B2_%D9%BE%D8%B1%D9%88%D8%A7%D9%86%D9%87_%D8%AC%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%84_%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87_%D9%85%DB%8C%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF" title="رده:نرم‌افزارهایی که از پروانه جی‌پی‌ال استفاده می‌کنند">نرم‌افزارهایی که از پروانه جی‌پی‌ال استفاده می‌کنند</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">رده‌های پنهان: <ul><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C_%D8%AC%D8%B9%D8%A8%D9%87_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA" title="رده:مقالات دارای جعبه اطلاعات">مقالات دارای جعبه اطلاعات</a></li><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%85%D9%82%D8%A7%D9%84%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AF%D8%A7%D8%B1%D8%A7%DB%8C_%D9%88%D8%A7%DA%98%DA%AF%D8%A7%D9%86_%D8%A8%D9%87_%D8%B2%D8%A8%D8%A7%D9%86_%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C" title="رده:مقاله‌های دارای واژگان به زبان انگلیسی">مقاله‌های دارای واژگان به زبان انگلیسی</a></li><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%87%D9%85%D9%87_%D9%85%D9%82%D8%A7%D9%84%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AE%D8%B1%D8%AF" title="رده:همه مقاله‌های خرد">همه مقاله‌های خرد</a></li><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%85%D9%82%D8%A7%D9%84%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AE%D8%B1%D8%AF_%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D8%A2%D8%B2%D8%A7%D8%AF" title="رده:مقاله‌های خرد نرم‌افزار آزاد">مقاله‌های خرد نرم‌افزار آزاد</a></li><li><a href="/wiki/%D8%B1%D8%AF%D9%87:%D9%85%D9%82%D8%A7%D9%84%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF_%D8%B4%D8%AF%D9%87_%D8%AA%D9%88%D8%B3%D8%B7_%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF%DA%AF%D8%B1" title="رده:مقاله‌های ایجاد شده توسط ایجادگر">مقاله‌های ایجاد شده توسط ایجادگر</a></li></ul></div></div>
+	</div>
+</main>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+	</div> 
+</div> 
+
+<div class="mw-workspace-container mw-footer-container">
+	<div class="mw-content-container">
+		<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> این صفحه آخرین‌بار در ‏۱۰ ژانویهٔ ۲۰۱۹ ساعت ‏۰۷:۴۴ ویرایش شده‌است.</li>
+	<li id="footer-info-copyright">همهٔ نوشته‌ها تحت <a href="//fa.wikipedia.org/wiki/ویکی‌پدیا:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">مجوز Creative Commons Attribution/Share-Alike</a> در دسترس است؛
+برای جزئیات بیشتر <a href="//wikimediafoundation.org/wiki/Terms_of_Use">شرایط استفاده</a> را بخوانید.<br />
+ویکی‌پدیا® علامتی تجاری متعلق به سازمان غیرانتفاعی <a href="//www.wikimediafoundation.org/">بنیاد ویکی‌مدیا</a> است.<br /></li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">سیاست محرمانگی</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87" class="mw-redirect" title="ویکی‌پدیا:درباره">دربارهٔ ویکی‌پدیا</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%AA%DA%A9%D8%B0%DB%8C%D8%A8%E2%80%8C%D9%86%D8%A7%D9%85%D9%87%D9%94_%D8%B9%D9%85%D9%88%D9%85%DB%8C" title="ویکی‌پدیا:تکذیب‌نامهٔ عمومی">تکذیب‌نامه‌ها</a></li>
+	<li id="footer-places-mobileview"><a href="//fa.m.wikipedia.org/w/index.php?title=%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">نمای تلفن همراه</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/How_to_contribute/fa?uselang=fa">توسعه‌دهندگان</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fa.wikipedia.org">آمار</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">اظهارنامهٔ کوکی</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+	</div>
+</div>
+	</div> 
+</div> 
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.401","ppvisitednodes":{"value":1535,"limit":1000000},"postexpandincludesize":{"value":29263,"limit":2097152},"templateargumentsize":{"value":3804,"limit":2097152},"expansiondepth":{"value":29,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1874,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  362.705      1 -total"," 85.49%  310.092      2 الگو:Infobox"," 65.77%  238.564      1 الگو:Infobox_software"," 26.46%   95.981      1 الگو:Infobox_software/simple"," 19.46%   70.576      2 الگو:Start_date_and_age"," 18.90%   68.549      9 الگو:Formatnumber"," 16.29%   59.097      1 الگو:نرم‌افزار_آزاد-خرد"," 15.49%   56.166      1 الگو:الگوی_خرد"," 13.11%   47.561      1 الگو:به_انگلیسی"," 12.32%   44.678      1 الگو:به_زبان_دیگر"]},"scribunto":{"limitreport-timeusage":{"value":"0.111","limit":"10.000"},"limitreport-memusage":{"value":2709966,"limit":52428800}},"cachereport":{"origin":"mw1365","timestamp":"20210411172738","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0648\u06a9\u0627 (\u06cc\u0627\u062f\u06af\u06cc\u0631\u06cc \u0645\u0627\u0634\u06cc\u0646\u06cc)","url":"https:\/\/fa.wikipedia.org\/wiki\/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q115494","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q115494","author":{"@type":"Organization","name":"\u0645\u0634\u0627\u0631\u06a9\u062a\u200c\u06a9\u0646\u0646\u062f\u06af\u0627\u0646 \u067e\u0631\u0648\u0698\u0647\u0654 \u0648\u06cc\u06a9\u06cc\u200c\u0645\u062f\u06cc\u0627"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-03-13T18:45:48Z","dateModified":"2019-01-10T07:44:08Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Weka_%28software%29_logo.png"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":181,"wgHostname":"mw1364"});});</script>
+</body></html>

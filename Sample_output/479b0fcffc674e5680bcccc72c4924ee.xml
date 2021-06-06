@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+
+<html class="" lang="en-US">
+<head><meta content="2021-03-24 23:50:19Z" name="cpp-last-processed-time"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta charset="utf-8"/>
+<meta content="(C) Copyright 2021" name="copyright"/>
+<meta content="(C) Copyright 2021" name="DC.rights.owner"/>
+<meta content="topic" name="DC.type"/>
+<meta content="Developer Tutorials" name="title"/>
+<meta content="Developer Tutorials show you how to complete development related tasks with step-by-step instructions." name="description"/>
+<meta content="HTML5" name="DC.format"/>
+<meta content="home" name="DC.identifier"/>
+<meta content="en" name="language"/>
+<meta content="WM178623" name="contenttype_id"/>
+<meta content="WM178507" name="productservices_id"/>
+<meta content="https://docs.oracle.com/iaas/developer-tutorials/tutorials/home.htm" name="url"/>
+<title>Developer Tutorials</title>
+<meta content="width=device-width" name="viewport"/>
+<meta charset="utf-8"/>
+<link href="/iaas/build/styles.css?60272b344813189a1592287f67a92a26e99a0f9814d6c4131c7eebe05e8b0df2" rel="stylesheet"/>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script>window.ohcglobal || document.write('<script src="/en/dcommon/js/global.js">\x3C/script>')</script></head>
+<body>
+<div id="highline-mount"></div>
+<div data-trackas="dcoc-main-navigation" id="mobile-toc" uk-offcanvas="flip: true; overlay: true">
+<div class="uk-offcanvas-bar uk-padding-remove-left uk-padding-remove-right">
+<button class="uk-offcanvas-close toc-mobile-close" type="button" uk-close=""></button>
+<div class="uk-margin-top vl-table-of-contents-mount">
+<div class="uk-text-center">
+<div uk-spinner=""></div>
+</div>
+</div>
+</div>
+</div>
+<div data-trackas="dcoc-header" i18n="" id="global-nav-mount">
+<div class="vl-nav-mount-height-placeholder"></div>
+</div>
+<div class="uk-section uk-section-secondary vl-background-hero uk-background-cover vl-dcoc-hero" data-trackas="dcoc-content-body" style="background-image: url('/iaas/img/banner-bg.jpg')">
+<div class="uk-container uk-container-large">
+<h3 class="uk-link-reset uk-text-bold uk-margin-remove-bottom">
+<a href="/iaas/Content/home.htm">
+                  Oracle Cloud Infrastructure Documentation
+                </a>
+</h3>
+<hr class="vl-hr-accent uk-margin-small-top"/>
+</div>
+</div>
+<div uk-height-viewport="offset-top: true; offset-bottom: true">
+<div class="vl-dcoc-hero-margin">
+<div class="uk-container vl-padding-small-vertical uk-background-muted uk-hidden@m">
+<div class="uk-grid uk-grid-small uk-text-small" uk-grid="">
+<div class="uk-width-expand" data-trackas="dcoc-main-navigation" id="vl-breadcrumbs-mount"></div>
+<div class="uk-width-auto">
+<button class="uk-button uk-button-link uk-button-small vl-button-icon" type="button" uk-toggle="target: #mobile-toc">
+<span uk-icon="icon: menu; ratio: .8"></span>
+                      All Pages
+                    </button>
+</div>
+</div>
+</div>
+</div>
+<div class="uk-container uk-container-large">
+<div class="uk-height-1-1 uk-grid" uk-grid="">
+<div class="vl-sidebar-left uk-visible@m" vl-table-of-contents-left="">
+<div class="vl-table-of-contents-mount vl-table-of-contents-inner" vl-table-of-contents-left-inner="">
+<div class="uk-text-center uk-margin-top">
+<div uk-spinner=""></div>
+</div>
+</div>
+</div>
+<div class="uk-width-expand" data-trackas="dcoc-content-body">
+<div class="uk-grid" uk-grid="">
+<div class="uk-width-expand" uk-height-viewport="offset-top: true">
+<a href="#dcoc-content-body" id="skiplink" tabindex="1">Skip to main content</a>
+<div class="uk-margin-large-bottom" id="dcoc-content-body">
+<div class="vl-content vl-content-max-width"><article aria-labelledby="ariaid-title1" role="article">
+<h1 class="title topictitle1" id="ariaid-title1">Developer Tutorials</h1>
+<div class="body" id="home__body-apps-platforms"><p class="shortdesc">Developer Tutorials show you how to complete development related tasks with
+        step-by-step instructions.</p>
+<section class="section"><h2 class="title sectiontitle vl-no-in-page-toc">Applications and Platforms</h2>
+</section>
+<div class="uk-margin-top" uk-accordion=""><div class="section" id="home__free-tier"><a class="uk-accordion-title vl-no-in-page-toc" href="#">Free Tier</a><div class="uk-accordion-content">
+<ul class="ul">
+<li class="li"><a class="xref" href="apache-on-oracle-linux/01-summary.htm#install-apache-ol" title="In this tutorial, you use an Oracle Cloud Infrastructure Free Tier account to set up an Oracle Linux instance. Then, you install an Apache web server and PHP and access your new server from the internet.">Free Tier: Install Apache and PHP on an Oracle Linux Instance</a></li>
+<li class="li"><a class="xref" href="apache-on-ubuntu/01oci-ubuntu-apache-summary.htm#install-apache-ubuntu" title="In this tutorial, you use an Oracle Cloud Infrastructure Free Tier account to set up a compute instance on the latest version of Ubuntu. Then, you install an Apache web server and PHP and access your new server from the internet. Finally, this tutorial covers all the steps necessary to set up a virtual network for your host and connect the host to the internet.">Free Tier: Install Apache and PHP on an Ubuntu Instance</a></li>
+<li class="li"><a class="xref" href="flask-on-ubuntu/01oci-ubuntu-flask-summary.htm#install-flask-ubuntu" title="In this tutorial, you use an Oracle Cloud Infrastructure Free Tier account to set up an Ubuntu instance. Then, you set up a virtual environment for your host. Finally, you install Flask, a lightweight web application framework for Python.">Free Tier: Install Flask on an Ubuntu VM</a></li>
+<li class="li"><a class="xref" href="helidon-on-ubuntu/01oci-ubuntu-helidon-summary.htm#install-helidon-ubuntu" title="In this tutorial, you use an Oracle Cloud Infrastructure Free Tier account to set up an Ubuntu compute instance. Then, you set up a Helidon MicroProfile (MP) server for your host.">Free Tier: Set up Helidon on an Ubuntu Instance</a></li>
+<li class="li"><a class="xref" href="node-on-ol/01oci-ol-node-summary.htm#install-node-ol" title="In this tutorial, you use an Oracle Cloud Infrastructure Free Tier account to set up an Oracle Linux compute instance. Then, you install a Node Express application and access your new app from the internet. Finally, this tutorial covers all the steps necessary to set up a virtual network for your host and connect the host to the internet.">Free Tier: Install Node Express on an Oracle Linux Instance</a></li>
+<li class="li"><a class="xref" href="spring-on-ol/01oci-ol-spring-summary.htm#install-spring-ol" title="In this tutorial, use an Oracle Cloud Infrastructure Free Tier account to set up an Oracle Linux compute instance. Then, install a Spring Boot application and access your new app from the internet. Finally, this tutorial covers all the steps necessary to set up a virtual network for your host and connect the host to the internet.">Free Tier: Install Spring Boot on an Oracle Linux Instance</a></li>
+<li class="li"><a class="xref" href="wp-on-ubuntu/01-summary.htm#install-wordpress-ubuntu">Free Tier: Install WordPress on an Ubuntu Instance</a></li>
+</ul>
+</div></div></div>
+<div class="uk-margin-top" uk-accordion=""><div class="section" id="home__functions"><a class="uk-accordion-title vl-no-in-page-toc" href="#">Functions</a><div class="uk-accordion-content">
+<ul class="ul">
+<li class="li"><a class="xref" href="functions/func-setup-cs/01-summary.htm#setup-functions-dev-cs" title="In this tutorial, you use an Oracle Cloud Infrastructure account to set up Oracle Functions development using Cloud Shell. Then, you create a function application and a function.">Functions: Get Started using Cloud Shell</a></li>
+<li class="li"><a class="xref" href="functions/func-setup-cli/01-summary.htm#setup-functions-dev" title="In this tutorial, you use an Oracle Cloud Infrastructure account to set up Oracle Functions development. Then, you create a function application and a function.">Functions: Get Started using the CLI</a></li>
+<li class="li"><a class="xref" href="functions/func-api-gtw/01-summary.htm#setup-functions-dev" title="In this tutorial, you use Oracle Functions to process data passed from Oracle API Gateway. You create a Python function that uses the runtime context to extract HTTP information passed in a request.">Functions: Call a Function using API Gateway</a></li>
+<li class="li"><a class="xref" href="functions/func-api-gtw-token/01-summary.htm#api-gtw-key" title="In this tutorial, you use Oracle Functions to validate an API key passed from Oracle API Gateway. An API key is a simple method for securing an API by requiring the client to pass a specific token. The gateway can use the token as a custom authorizer to validate requests. You create a Python function that validates the token and returns an authenticated JSON response.">Functions: Validate an API Key with API Gateway</a></li>
+</ul>
+</div></div></div>
+<div class="uk-margin-top" uk-accordion=""><div class="section" id="home__kubernetes"><a class="uk-accordion-title vl-no-in-page-toc" href="#">Kubernetes </a><div class="uk-accordion-content">
+<p class="p"><strong class="ph b">Kubernetes Using Local Environment</strong></p>
+<ul class="ul">
+<li class="li"><a class="xref" href="helidon-k8s/01oci-helidon-k8s-summary.htm#deploy-helidon-app">Kubernetes: Deploy a Java Helidon Application</a></li>
+<li class="li"><a class="xref" href="node-on-k8s/01oci-node-k8s-summary.htm#deploy-node-app">Kubernetes: Deploy a Node Express Application</a></li>
+<li class="li"><a class="xref" href="spring-on-k8s/01oci-spring-k8s-summary.htm#kubernetes-deploy-spring">Kubernetes: Deploy a Spring Boot Application</a></li>
+</ul>
+<p class="p"><strong class="ph b">Kubernetes Using Cloud Shell</strong></p>
+<ul class="ul" id="home__cloud-shell-list">
+<li class="li"><a class="xref" href="flask-cloud-shell/01oci-flask-shell-summary.htm#deploy-flask-app">Kubernetes Using Cloud Shell: Deploy a Python Flask Application</a></li>
+<li class="li"><a class="xref" href="helidon-cloud-shell/01oci-helidon-shell-summary.htm#deploy-helidon-app">Kubernetes Using Cloud Shell: Deploy a Java Helidon Application</a></li>
+<li class="li"><a class="xref" href="spring-on-k8s-cs/01oci-spring-cs-k8s-summary.htm#deploy-spring-app-cs">Kubernetes Using Cloud Shell: Deploy a Spring Boot Application</a></li>
+</ul>
+</div></div></div>
+<div class="uk-margin-top" uk-accordion=""><div class="section" id="home__terraform-section"><a class="uk-accordion-title vl-no-in-page-toc" href="#">Terraform</a><div class="uk-accordion-content">
+<p class="p"><strong class="ph b">Terraform: Get Started</strong></p>
+<ul class="ul">
+<li class="li"><a class="xref" href="tf-provider/01-summary.htm#setup-oci-terraform" title="In this tutorial, you set up Oracle Cloud Infrastructure Terraform provider scripts, documented in the Terraform Registry, to connect to your account. To confirm the setup, you fetch information from your tenancy.">Terraform: Set Up OCI Terraform</a></li>
+<li class="li"><a class="xref" href="tf-compartment/01-summary.htm#terraform-create-compartment" title="In this tutorial, you use Terraform to connect to your Oracle Cloud Infrastructure account and create a compartment in your tenancy.">Terraform: Create a Compartment</a></li>
+<li class="li"><a class="xref" href="tf-compute/01-summary.htm#terraform-compute" title="In this tutorial, you use Terraform to create a compute instance in your Oracle Cloud Infrastructure tenancy.">Terraform: Create a Compute Instance</a></li>
+<li class="li"><a class="xref" href="tf-vcn/01-summary.htm#terraform-vcn" title="In this tutorial, you use Terraform to create a virtual cloud network in your Oracle Cloud Infrastructure tenancy.">Terraform: Create a Virtual Cloud Network</a></li>
+<li class="li"><a class="xref" href="tf-simple-infrastructure/01-summary.htm#terraform-simple-infrastructure" title="In this tutorial, you use Terraform to set up a simple infrastructure in your Oracle Cloud Infrastructure account.">Terraform: Set Up a Simple Infrastructure with OCI Terraform</a></li>
+<li class="li"><a class="xref" href="tf-cluster/01-summary.htm#terraform-k8s-cluster" title="In this tutorial, you use Terraform to set up a Kubernetes cluster in your Oracle Cloud Infrastructure account.">Terraform: Create a Kubernetes Cluster</a></li>
+</ul>
+<p class="p"><strong class="ph b">Terraform: Resource Discovery</strong></p>
+<ul class="ul">
+<li class="li"><a class="xref" href="tf-resource-discovery-setup/01-summary.htm#setup-oci-resource-discovery" title="In this tutorial, you set up the Oracle Cloud Infrastructure Terraform resource discovery feature, documented in the Terraform Registry, to connect to your account. To confirm the setup, you use resource discovery to fetch information from your tenancy and create a script for it.">Terraform: Set Up Resource Discovery</a></li>
+<li class="li"><a class="xref" href="tf-resource-discovery/01-summary.htm#discover-resources" title="In this tutorial, you create scripts and state files for resources in your account through the Oracle Cloud Infrastructure Terraform provider's resource discovery feature. Then you use Terraform to manage the resources.">Terraform: Create Scripts and State Files with Resource Discovery</a></li>
+</ul>
+</div></div></div>
+<section class="section"><h2 class="title sectiontitle vl-no-in-page-toc">Data and AI</h2>
+</section>
+<div class="uk-margin-top" uk-accordion=""><div class="section" id="home__data-catalog"><a class="uk-accordion-title vl-no-in-page-toc" href="#">Data Catalog</a><div class="uk-accordion-content">
+<p class="p"><strong class="ph b">Getting Started with Data Catalog</strong></p>
+<ul class="ul">
+<li class="li"><a class="xref" href="/iaas/data-catalog/tutorials/get-started/01-overview.htm">Getting Started with Data Catalog</a></li>
+</ul>
+<p class="p"><strong class="ph b">Harvesting from Data Sources</strong></p>
+<ul class="ul">
+<li class="li"><a class="xref" href="/iaas/data-catalog/tutorials/harvest-object-storage/overview.htm">Harvesting from Oracle Object Storage</a></li>
+<li class="li"><a class="xref" href="/iaas/data-catalog/tutorials/harvest-autonomous-pe/01-overview.htm">Harvesting from Autonomous Databases with Private Access</a></li>
+<li class="li"><a class="xref" href="/iaas/data-catalog/tutorials/harvest-onprem-pe/01-overview.htm">Harvesting On Premise Data Sources</a></li>
+</ul>
+<p class="p"><strong class="ph b">Receiving Notifications for Data Catalog Events</strong></p>
+<ul class="ul">
+<li class="li"><a class="xref" href="/iaas/data-catalog/tutorials/harvest-events/01-overview.htm">Receiving Notifications for Data Catalog Harvest Events</a></li>
+</ul>
+</div></div></div>
+<div class="uk-margin-top" uk-accordion=""><div class="section" id="home__data-flow"><a class="uk-accordion-title vl-no-in-page-toc" href="#">Data Flow</a><div class="uk-accordion-content">
+<ul class="ul">
+<li class="li"><a class="xref" href="/iaas/data-flow/data-flow-tutorial/getting-started/dfs_tut_get_started.htm">Getting Started with Oracle Cloud Infrastructure Data Flow</a></li>
+<li class="li"><a class="xref" href="/iaas/data-flow/data-flow-tutorial/develop-apps-locally/front.htm">Develop Oracle Cloud Infrastructure Data Flow Applications Locally, Deploy to The Cloud</a></li>
+<li class="li"><a class="xref" href="/iaas/data-flow/data-flow-tutorial/use-your-delegation-token/overview.htm">Use Your Data Flow Delegation Token to Access Oracle Cloud Infrastructure Resources</a></li>
+<li class="li"><a class="xref" href="https://docs.oracle.com/en-us/iaas/data-flow/data-flow-tutorial/migrate-spark-apps/front.htm">Migrating Spark Applications to Oracle Cloud Infrastructure Data Flow</a></li>
+</ul>
+</div></div></div>
+<div class="uk-margin-top" uk-accordion=""><div class="section" id="home__data-integration"><a class="uk-accordion-title vl-no-in-page-toc" href="#">Data Integration</a><div class="uk-accordion-content">
+<ul class="ul">
+<li class="li"><a class="xref" href="/iaas/data-integration/tutorial/tutorials/01-connecting-to-dis.htm">Connect to Data Integration</a></li>
+<li class="li"><a class="xref" href="/iaas/data-integration/tutorial/tutorials/00_get_sample_data.htm">Import Sample Data</a></li>
+<li class="li"><a class="xref" href="/iaas/data-integration/tutorial/tutorials/02-connecting-to-data-sources.htm">Connect to Data Sources</a></li>
+<li class="li"><a class="xref" href="/iaas/data-integration/tutorial/tutorials/03-ingest-and-transform-data-using-a-data-flow.htm">Ingest and Transform Data Using a Data Flow</a></li>
+<li class="li"><a class="xref" href="/iaas/data-integration/tutorial/tutorials/04-define-an-integration-task-to-configure-and-run-a-data-flow.htm">Create an Integration Task to Configure and Run a Data Flow</a></li>
+<li class="li"><a class="xref" href="/iaas/data-integration/tutorial/tutorials/05-loading-data-into-object-storage-using-a-data-loader-task.htm">Load Data into Autonomous Data Warehouse Using a Data Loader Task</a></li>
+</ul>
+</div></div></div>
+<div class="uk-margin-top" uk-accordion=""><div class="section" id="home__data-science"><a class="uk-accordion-title vl-no-in-page-toc" href="#">Data Science</a><div class="uk-accordion-content">
+<ul class="ul">
+<li class="li"><a class="xref" href="/iaas/data-science/data-science-tutorial/get-started.htm#get_started">Getting Started with Data Science</a></li>
+</ul>
+</div></div></div>
+</div>
+</article></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="vl-footer uk-section uk-section-secondary uk-section-small uk-text-xsmall uk-text-muted" data-trackas="dcoc-footer" vl-footer="">
+<div class="uk-container uk-container-expand">
+<ul class="uk-subnav uk-flex-center" uk-margin="">
+<li><span>Copyright © 2021, Oracle and/or its affiliates.</span></li>
+<li><a href="https://www.oracle.com/corporate/index.html">About Oracle</a></li>
+<li><a href="https://www.oracle.com/corporate/contact/index.html">Contact Us</a></li>
+<li><a href="/iaas/Content/legalnotices.htm">Legal Notices</a></li>
+<li><a href="https://www.oracle.com/legal/privacy/">Terms of Use &amp; Privacy</a></li>
+<li><a href="/iaas/Content/General/Reference/docconventions.htm">Document Conventions</a></li>
+<li id="teconsent"></li>
+</ul>
+</div>
+</footer>
+</body></html>
+<script src="/iaas/build/front-end.js?0d47883e875a72f57c55507eeabfb0e041bb36502387c96fa8bb7c147ddb8b28"></script>
+<script async="" defer="" src="//www.oracleimg.com/us/assets/metrics/ora_code_docs.js"></script>
+<script async="" defer="" src="//www.oracleimg.com/us/assets/metrics/ora_code.js"></script>
+

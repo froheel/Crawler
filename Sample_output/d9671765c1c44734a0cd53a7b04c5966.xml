@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="eu" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Weka (ikasketa automatikoa) - Wikipedia, entziklopedia askea.</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","urtarrila","otsaila","martxoa","apirila","maiatza","ekaina","uztaila","abuztua","iraila","urria","azaroa","abendua"],"wgRequestId":"d5e2d04f-c596-4579-9c0b-8f7cb0869fdc","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Weka_(ikasketa_automatikoa)","wgTitle":"Weka (ikasketa automatikoa)","wgCurRevisionId":8475880,"wgRevisionId":8475880,"wgArticleId":165683,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Kanpo esteka hautsiak dituzten orri guztiak","Txantiloi batean data parametro ez-egokia duten artikuluak","Betiko hautsitako kanpo estekak dituzten artikuluak","Wikipedia:Kanpo esteka hautsiak dituzten orriak from martxoa 2021","Ikasketa automatikoa"
+,"Datu-meatzaritza"],"wgPageContentLanguage":"eu","wgPageContentModel":"wikitext","wgRelevantPageName":"Weka_(ikasketa_automatikoa)","wgRelevantArticleId":165683,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":8,"wgVisualEditor":{"pageLanguageCode":"eu","pageLanguageDir":"ltr","pageVariantFallbacks":"eu"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"euskara","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q115494"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","mediawiki.ui.icon":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.gadget.ErrefAurrebista","ext.gadget.UkensKonkurranse","ext.gadget.TxikipediaTab","ext.gadget.ArtikuluenKalitatea","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"eu"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=eu&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.ui.button%2Cicon%7Cskins.vector.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=eu&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=eu&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/5/59/Weka-3.5.5.png"/>
+<meta property="og:title" content="Weka (ikasketa automatikoa) - Wikipedia, entziklopedia askea."/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//eu.m.wikipedia.org/wiki/Weka_(ikasketa_automatikoa)"/>
+<link rel="alternate" type="application/x-wiki" title="Aldatu" href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit"/>
+<link rel="edit" title="Aldatu" href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (eu)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//eu.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://eu.wikipedia.org/wiki/Weka_(ikasketa_automatikoa)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Weka_ikasketa_automatikoa rootpage-Weka_ikasketa_automatikoa skin-vector action-view skin-vector-search-vue"><div class="mw-page-container">
+	<a class="mw-jump-link" href="#content">Jump to content</a>
+	<div class="mw-page-container-inner">
+
+<input
+	type="checkbox"
+	id="mw-sidebar-checkbox"
+	class="mw-checkbox-hack-checkbox"
+	checked>
+
+<header class="mw-header">
+	<label
+		id="mw-sidebar-button"
+		class="mw-checkbox-hack-button mw-ui-icon mw-ui-icon-element"
+		for="mw-sidebar-checkbox"
+		role="button"
+		aria-controls="mw-panel"
+		data-event-name="ui.sidebar"
+		tabindex="0">
+		Toggle sidebar
+	</label>
+	<a href="/wiki/Azala" class="mw-logo">
+		<img class="mw-logo-icon" src="/static/images/mobile/copyright/wikipedia.png" alt=""
+			aria-hidden="true" height="50" width="50">
+		<span class="mw-logo-container">
+			<img class="mw-logo-wordmark" alt="Wikipedia"
+				src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" width="119" height="18">
+			<img class="mw-logo-tagline"
+				alt="Entziklopedia askea"
+				src="/static/images/mobile/copyright/wikipedia-tagline-eu.svg" width="115" height="13">
+		</span>
+	</a>
+	<div id="p-search" role="search" class="p-search--show-thumbnail">
+	<h3 >
+		<label for="searchInput">Bilatu</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-moved">
+			<input type="search" name="search" placeholder="Wikipedia wikian bilatu" autocapitalize="sentences" title="Wikipedia(e)n bilatu [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Berezi:Bilatu"/>
+			<input type="submit" name="fulltext" value="Bilatu" title="Textu honetarako orriak bilatu" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Joan" title="Izen zehatz hori duen orrira joan, existitzen bada" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Tresna pertsonalak</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Saioa hasi gabe</li><li id="pt-anontalk"><a href="/wiki/Berezi:NireEztabaida" title="Zure IParen eztabaida [n]" accesskey="n">Eztabaida</a></li><li id="pt-anoncontribs"><a href="/wiki/Berezi:NireEkarpenak" title="IP helbide honetatik egindako aldaketen zerrenda [y]" accesskey="y">Ekarpenak</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Berezi:KontuaSortu&amp;returnto=Weka+%28ikasketa+automatikoa%29" title="Kontu bat sortu eta horrekin saioa hastea eskatu nahi genizuke; ez da ezinbestekoa, ordea.">Sortu kontua</a></li><li id="pt-login"><a href="/w/index.php?title=Berezi:SaioaHasi&amp;returnto=Weka+%28ikasketa+automatikoa%29" title="Izen ematera gonbidatzen zaitugu. [o]" accesskey="o">Hasi saioa</a></li></ul>
+		
+	</div>
+</nav>
+
+</header>
+
+<div class="mw-workspace-container">
+	<div id="mw-navigation">
+		<h2>Nabigazio menua</h2>
+		
+<div id="mw-panel" class="mw-sidebar">
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Nabigazioa</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage"><a href="/wiki/Azala" title="Azala bisitatu [z]" accesskey="z">Azala</a></li><li id="n-Txikipedia"><a href="/wiki/Txikipedia:Azala">Txikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Txokoa" title="Proiektuaren inguruan, zer egin dezakezu, non aurkitu nahi duzuna">Txokoa</a></li><li id="n-currentevents"><a href="/wiki/Wikipedia:Albisteak" title="Oraingo gertaeren inguruko informazio gehigarria">Albisteak</a></li><li id="n-recentchanges"><a href="/wiki/Berezi:AzkenAldaketak" title="Wikiko azken aldaketen zerrenda. [r]" accesskey="r">Aldaketa berriak</a></li><li id="n-randompage"><a href="/wiki/Berezi:Ausazkoa" title="Ausazko orrialde bat kargatu [x]" accesskey="x">Ausazko orria</a></li><li id="n-help"><a href="/wiki/Laguntza:Sarrera" title="Aurkitzeko lekua.">Laguntza</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_eu.wikipedia.org&amp;uselang=eu" title="Lagundu gaitzazu">Dohaintza egin</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tresnak</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Berezi:ZerkLotzenDuHona/Weka_(ikasketa_automatikoa)" title="Orri honetaranzko esteka duten wiki orri guztien zerrenda [j]" accesskey="j">Honanzko esteka duten orriak</a></li><li id="t-recentchangeslinked"><a href="/wiki/Berezi:RecentChangesLinked/Weka_(ikasketa_automatikoa)" rel="nofollow" title="Orri honetatik esteka duten orrietako azken aldaketak [k]" accesskey="k">Lotutako orrietako aldaketak</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=eu" title="Irudiak edo media fitxategiak igo [u]" accesskey="u">Fitxategia igo</a></li><li id="t-specialpages"><a href="/wiki/Berezi:OrrialdeBereziak" title="Orri berezi guztien zerrenda [q]" accesskey="q">Orri bereziak</a></li><li id="t-permalink"><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;oldid=8475880" title="Orriaren bertsio honetaranzko esteka iraunkorra">Lotura iraunkorra</a></li><li id="t-info"><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=info" title="Orrialde honi buruzko informazio gehiago">Orri honen datuak</a></li><li id="t-cite"><a href="/w/index.php?title=Berezi:CiteThisPage&amp;page=Weka_%28ikasketa_automatikoa%29&amp;id=8475880&amp;wpFormIdentifier=titleform" title="Orri honen aipua egiteko moduari buruzko informazioa">Artikulu hau aipatu</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494" title="Datuen biltegi elementu batera lotuta [g]" accesskey="g">Wikidata itema</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Inprimatu/esportatu</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Berezi:Book&amp;bookcmd=book_creator&amp;referer=Weka+%28ikasketa+automatikoa%29">Liburu bat sortu</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Berezi:DownloadAsPdf&amp;page=Weka_%28ikasketa_automatikoa%29&amp;action=show-download-screen">PDF gisa jaitsi</a></li><li id="t-print"><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;printable=yes" title="Orrialde honen bertsio inprimagarria [p]" accesskey="p">Inprimatzeko bertsioa</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>Beste proiektuetan</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Beste hizkuntzak</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Weka_(aprenentatge_autom%C3%A0tic)" title="Weka (aprenentatge automàtic) – katalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Weka" title="Weka – txekiera" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Waikato_Environment_for_Knowledge_Analysis" title="Waikato Environment for Knowledge Analysis – aleman" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Weka_(%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7)" title="Weka (μηχανική μάθηση) – greziera" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Weka_(machine_learning)" title="Weka (machine learning) – ingeles" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico)" title="Weka (aprendizaje automático) – espainiera" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" title="وکا (یادگیری ماشینی) – persiera" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Weka_(informatique)" title="Weka (informatique) – frantses" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Weka_(%D7%9C%D7%9E%D7%99%D7%93%D7%AA_%D7%9E%D7%9B%D7%95%D7%A0%D7%94)" title="Weka (למידת מכונה) – hebreera" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Weka_(pembelajaran_mesin)" title="Weka (pembelajaran mesin) – indonesiera" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Weka" title="Weka – italiera" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Weka" title="Weka – japoniera" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%B9%B4_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)" title="웨카 (기계 학습) – koreera" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Weka_(software)" title="Weka (software) – nederlandera" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Weka" title="Weka – portuges" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Weka" title="Weka – errusiera" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%99%E0%B6%9A%E0%B7%8F_%E0%B6%B8%E0%B7%98%E0%B6%AF%E0%B7%94%E0%B6%9A%E0%B7%8F%E0%B6%82%E0%B6%9C%E0%B6%BA" title="වෙකා මෘදුකාංගය – sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Weka_(strojno_u%C4%8Denje)" title="Weka (strojno učenje) – esloveniera" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%B2" title="เวกา – thailandiera" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Weka" title="Weka – turkiera" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Weka" title="Weka – ukrainera" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Weka_(h%E1%BB%8Dc_m%C3%A1y)" title="Weka (học máy) – vietnamera" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Weka" title="Weka – txinera" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494#sitelinks-wikipedia" title="Aldatu hizkuntzen arteko loturak" class="wbc-editpage">Aldatu loturak</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+		<div id="mw-head">
+			<div class="mw-article-toolbar-container">
+				<div id="left-navigation">
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Izen-tarteak</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Weka_(ikasketa_automatikoa)" title="Eduki orrialdea ikusi [c]" accesskey="c">Artikulua</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Eztabaida:Weka_(ikasketa_automatikoa)&amp;action=edit&amp;redlink=1" rel="discussion" title="Artikuluari buruzko eztabaida (sortu gabe) [t]" accesskey="t">Eztabaida</a></li></ul>
+		
+	</div>
+</nav>
+
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Aldaerak</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+				</div>
+				<div id="right-navigation">
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Ikusketak</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Weka_(ikasketa_automatikoa)">Irakurri</a></li><li id="ca-ve-edit"><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit" title="Orri hau aldatu [v]" accesskey="v">Aldatu</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit" title="Orri hau aldatu iturburu kodea erabiliz [e]" accesskey="e">Aldatu iturburu kodea</a></li><li id="ca-history"><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=history" title="Artikulu honen aurreko bertsioak. [h]" accesskey="h">Ikusi historia</a></li></ul>
+		
+	</div>
+</nav>
+
+					<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>Gehiago</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="mw-content-container">
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<main id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" ><i>Weka</i> (ikasketa&#32;automatikoa)</h1>
+
+
+	<div id="bodyContent" class="mw-body-content">
+			<div id="siteSub" class="noprint">Wikipedia, Entziklopedia askea</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="mw-content-text" lang="eu" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #F5F5DC"><a href="/wiki/Fitxategi:Weka_(software)_logo.png" class="image"><img alt="Weka (software) logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weka_%28software%29_logo.png/24px-Weka_%28software%29_logo.png" decoding="async" width="24" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weka_%28software%29_logo.png/36px-Weka_%28software%29_logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weka_%28software%29_logo.png/48px-Weka_%28software%29_logo.png 2x" data-file-width="198" data-file-height="104" /></a>&#160;<i>Weka (ikasketa automatikoa)</i></th></tr><tr><td colspan="2" style="text-align:center">
+<a href="/wiki/Fitxategi:Weka-3.5.5.png" class="image"><img alt="Weka-3.5.5.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/260px-Weka-3.5.5.png" decoding="async" width="260" height="195" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/390px-Weka-3.5.5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/520px-Weka-3.5.5.png 2x" data-file-width="768" data-file-height="576" /></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #F5F5DC">Jatorria</th></tr><tr><th scope="row">Azken bertsioa</th><td>
+3.8.3</td></tr><tr><th colspan="2" style="text-align:center;background-color: #F5F5DC">Ezaugarriak</th></tr><tr><th scope="row">Euskarria</th><td>
+<a href="/w/index.php?title=Java_makina_birtual&amp;action=edit&amp;redlink=1" class="new" title="Java makina birtual (sortu gabe)">Java makina birtual</a></td></tr><tr><th scope="row">Programazio-lengoaia</th><td>
+<a href="/wiki/Java_(programazio-lengoaia)" title="Java (programazio-lengoaia)">Java</a></td></tr><tr><th scope="row">Sistema-eragilea</th><td>
+<a href="/w/index.php?title=Attribute-Relation_File_Format&amp;action=edit&amp;redlink=1" class="new" title="Attribute-Relation File Format (sortu gabe)">Attribute-Relation File Format</a> <sup>(en)</sup> <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28600412?uselang=eu" title="Itzuli"><img alt="Itzuli" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/10px-Noun_Project_label_icon_1116097_cc_mirror.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/15px-Noun_Project_label_icon_1116097_cc_mirror.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/20px-Noun_Project_label_icon_1116097_cc_mirror.svg.png 2x" data-file-width="158" data-file-height="161" /></a></td></tr><tr><th scope="row">Irakur dezake</th><td>
+<a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> eta <a href="/wiki/Multiplataforma" title="Multiplataforma">Plataforma-anitz</a></td></tr><tr><th scope="row">Egile-eskubideak</th><td>
+<a href="/w/index.php?title=Copyrightduna&amp;action=edit&amp;redlink=1" class="new" title="Copyrightduna (sortu gabe)">copyrightduna</a></td></tr><tr><th scope="row">Lizentzia</th><td>
+<a href="/w/index.php?title=GPLv3&amp;action=edit&amp;redlink=1" class="new" title="GPLv3 (sortu gabe)">GPLv3</a></td></tr><tr><td colspan="2" style="text-align:center">
+<table style="text-align:left"></table></td></tr><tr><td colspan="2" style="text-align:center">
+<center></center></td></tr><tr><th colspan="2" style="text-align:center;background-color: #F5F5DC">Ekoizpena</th></tr><tr><th scope="row">Garatzailea</th><td>
+<a href="/w/index.php?title=University_of_Waikato&amp;action=edit&amp;redlink=1" class="new" title="University of Waikato (sortu gabe)">University of Waikato</a> <sup>(en)</sup> <a href="https://www.wikidata.org/wiki/Special:EntityPage/Q606140?uselang=eu" title="Itzuli"><img alt="Itzuli" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/10px-Noun_Project_label_icon_1116097_cc_mirror.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/15px-Noun_Project_label_icon_1116097_cc_mirror.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/20px-Noun_Project_label_icon_1116097_cc_mirror.svg.png 2x" data-file-width="158" data-file-height="161" /></a></td></tr><tr><td colspan="2" style="text-align:center">
+<a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/weka/">cs.waikato.ac.nz…</a></td></tr><tr><th scope="row">Iturri-kodea</th><td>
+<a rel="nofollow" class="external free" href="https://svn.cms.waikato.ac.nz/svn/weka/">https://svn.cms.waikato.ac.nz/svn/weka/</a></td></tr></tbody></table>
+<p><b>Weka</b> (<i>Waikato Environment for Knowledge Analysis,</i> euskaraz <i>Ezagutzaren Analisirako Waikato Ingurunea</i>)  <a href="/wiki/Ikasketa_automatikoa" class="mw-redirect" title="Ikasketa automatikoa">ikasketa automatikoan</a> eta <a href="/wiki/Datu-meatzaritza" title="Datu-meatzaritza">datu-meatzaritzan</a> erabiltzen den software-ingurune bat da.  <a href="https://en.wikipedia.org/wiki/University_of_Waikato" class="extiw" title="en:University of Waikato">Waikato-ko unibertsitatean</a> garatu zen, <a href="/wiki/Java_(programazio_lengoaia)" class="mw-redirect" title="Java (programazio lengoaia)">Java programazio-lengoaian</a> inplementatuta dago eta <a href="/wiki/GNU_Free_Documentation_License" title="GNU Free Documentation License">GNU-GPL lizentziapean</a> banatzen den <a href="/wiki/Software_libre" title="Software libre">software librea</a> da.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="eu" dir="ltr"><h2 id="mw-toc-heading">Eduki-taula</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Historia"><span class="tocnumber">1</span> <span class="toctext">Historia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Deskribapena"><span class="tocnumber">2</span> <span class="toctext">Deskribapena</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Weka-ren_ezaugarriak"><span class="tocnumber">2.1</span> <span class="toctext">Weka-ren ezaugarriak</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Erabiltzailearen_interfaze_grafikoa"><span class="tocnumber">3</span> <span class="toctext">Erabiltzailearen interfaze grafikoa</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Simple_CLI"><span class="tocnumber">3.1</span> <span class="toctext">Simple CLI</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Explorer"><span class="tocnumber">3.2</span> <span class="toctext">Explorer</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Experimenter"><span class="tocnumber">3.3</span> <span class="toctext">Experimenter</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Knowledge_Flow"><span class="tocnumber">3.4</span> <span class="toctext">Knowledge Flow</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Erlazionatutako_Aplikazioak"><span class="tocnumber">4</span> <span class="toctext">Erlazionatutako Aplikazioak</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Erreferentziak"><span class="tocnumber">5</span> <span class="toctext">Erreferentziak</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Ikus,_gainera"><span class="tocnumber">6</span> <span class="toctext">Ikus, gainera</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Kanpo_estekak"><span class="tocnumber">7</span> <span class="toctext">Kanpo estekak</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Historia">Historia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Historia»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=1" title="Aldatu atal hau: «Historia»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>1993. urtean, <a href="/wiki/Zeelanda_Berria" title="Zeelanda Berria">Zeelanda Berriko</a> Waikatoko unibertsitateak Weka-ren lehen bertsioa garatzeari ekin zion (<a href="/w/index.php?title=TCL_programazio-lengoaia&amp;action=edit&amp;redlink=1" class="new" title="TCL programazio-lengoaia (sortu gabe)">TCL/TK</a> eta <a href="/wiki/C_(programazio_lengoaia)" title="C (programazio lengoaia)">C programazio-lengoaiak</a> erabiliz).</li>
+<li>1997. urtean, kode guztia <a href="/wiki/Java_(programazio_lengoaia)" class="mw-redirect" title="Java (programazio lengoaia)">Java-ra</a> itzultzea eta modelatze-algoritmoen inplementazioa gehitzea erabaki zen.</li>
+<li>2005. urtean, Wekak <a href="/w/index.php?title=SIGKDD&amp;action=edit&amp;redlink=1" class="new" title="SIGKDD (sortu gabe)">SIGKDD</a> (<i>Special Interest Group on Knowledge Discovery and Data Mining)</i> taldearen eskutik <i>"Data Mining and Knowledge Discovery Service Award</i>" (euskaraz "Datu Meatzaritza eta Ezagutzaren Aurkikuntza Zerbitzua" saria jaso zuen.</li>
+<li>2006. urtean, Pentanho Corporation-ek lizentzia berezi bat eskuratu zuen Weka paketea <i>business intelligence</i> edo enpresa-adimenean erabiltzeko.</li></ul>
+<h2><span class="mw-headline" id="Deskribapena">Deskribapena</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Deskribapena»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=2" title="Aldatu atal hau: «Deskribapena»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Weka paketeak hainbat bistaratze-tresna eta algoritmo eskaintzen ditu datuen analisia egiteko eta sailkapen-eredu iragarleak sortzeko. Bere interfaze grafikoari esker paketearen funtzioak erabiltzea erraza gertatzen da.
+</p><p>Wekaren hasierako bertsioa TCL/TK programazio-lengoaian garatua izan zen eta beste <a href="/wiki/Programazio-lengoaia" title="Programazio-lengoaia">programazio-lengoaia</a> batzuetan inplementatutako algoritmoen ereduak sortzeko diseinatua izan zen. Gainera, ikasketa-automatikoko esperimentuetan datuen aurreprozesaketa egin ahal izateko C programazio-lengoaian inplementatutako hainbat zerbitzu ere gehitu zitzaizkion. Hasierako bertsio hura <a href="/wiki/Nekazaritza" title="Nekazaritza">nekazaritza</a>-arloko datuak aztertzeko helburuarekin sortu zen. Gaur egungo bertsioa ordea, Weka 3, Java programazio-lengoaian oinarrituta dago. Haren garapena 1997. urtean hasi zen eta aplikazio-eremu ugaritan erabiltzen da, batez ere irakaskuntzan eta ikerkuntzan.
+</p>
+<h3><span class="mw-headline" id="Weka-ren_ezaugarriak">Weka-ren ezaugarriak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Weka-ren ezaugarriak»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=3" title="Aldatu atal hau: «Weka-ren ezaugarriak»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Weka-ren ezaugarri nagusiak honakoak dira<a href="/wiki/GNU_Lizentzia_Publiko_Orokorra" title="GNU Lizentzia Publiko Orokorra">:</a>
+</p>
+<ul><li><a href="/wiki/GNU_Lizentzia_Publiko_Orokorra" title="GNU Lizentzia Publiko Orokorra">GNU</a> lizentzia publiko orokorraren bidez babestua dagoenez, software librea da.</li>
+<li>Oso eramangarria da, Java-n inplementatuta dagoenez plataformarekiko independentea delako.</li>
+<li>Datuen aurreprozesaketa egiteko eta ikasketa automatikorako eredu eta teknika sorta zabala eskaintzen du.</li>
+<li>Erabilerraza da, duen interfaze grafikoari esker.</li></ul>
+<p>Wekaren bidez datu-meatzaritzan estandarrak diren ataza asko ebatzi daitezke: datuen aurreprozesamendua, <a href="/wiki/Multzokatze_(estatistika)" title="Multzokatze (estatistika)">multzokatzea</a> (ingelesezko clustering), sailkapen-problemak, erregresioa, bistaratzea eta aldagaien aukeraketa, besteak beste. Wekarekin esperimentuak egiteko garaian, datuak fitxategi lauetan gordeta daudela suposatzen da. <a href="/wiki/Datu-base" title="Datu-base">Datu-baseetan</a> gordetako datuak <a href="/wiki/SQL" title="SQL">SQL</a> bidezko kontsultekin atzitzea ere posiblea da, paketeak duen JDBC (<i>Java Database Connectivity</i>) konexioari esker, eta aukera ematen du kontsultak bueltatutako datuak prozesatzeko. <a href="/wiki/Datu-base_erlazional" title="Datu-base erlazional">Datu-base erlazionalen</a> gainean datu-meatzaritza egitea ez da posiblea, baina datu-base erlazionalak taula bakarreko datu-base bihurtzeko aplikazioak badira, eta horiekin Wekak egin dezake lan.
+</p><p>"Package manager" delako kudeatzaileak, Waikato Unibertsitateko garatzaileen taldetik kanpoko beste garatzaileei aukera ematen die beraien software garapenak eskuragarri egiteko erabiltzaileen komunitateari. Garapen horiek "pakete" moduan eskaintzen dira, eta bakoitza bere aldetik karga "package manager"-etik. Aukera horrek WEKA-k eskainitako algoritmo eta baliabide sorta zabaltzen ditu<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>.
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Erabiltzailearen_interfaze_grafikoa">Erabiltzailearen interfaze grafikoa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Erabiltzailearen interfaze grafikoa»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=4" title="Aldatu atal hau: «Erabiltzailearen interfaze grafikoa»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:208px;"><a href="/wiki/Fitxategi:Weka_GUI_Chooser.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/6/6c/Weka_GUI_Chooser.png" decoding="async" width="206" height="425" class="thumbimage" data-file-width="206" data-file-height="425" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fitxategi:Weka_GUI_Chooser.png" class="internal" title="Handitu"></a></div>2007. urtera arte Wekaren interfazearen argazkia</div></div></div>
+<p>Weka exekutatzean, interfazea aukeratzeko lehioa zabaltzen da (<i>Weka GUI Chooser</i>). Lau interfaze desberdin erabil daitezke: <i>Simple CLI</i>, <i>Explorer</i>, <i>Experimenter</i> eta <i>Knowledge Flow.</i>
+</p>
+<h3><span class="mw-headline" id="Simple_CLI">Simple CLI</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Simple CLI»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=5" title="Aldatu atal hau: «Simple CLI»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Simple CLI</b> <i>(Simple Command-Line Interface)</i> interfazea <a href="/wiki/Kontsola" class="mw-redirect mw-disambig" title="Kontsola">kontsola</a> bat da. Komando-linea moduko interfaze sinple honen bidez Weka-ren tresna guztiak erabil daitezke.
+</p>
+<h3><span class="mw-headline" id="Explorer">Explorer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Explorer»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=6" title="Aldatu atal hau: «Explorer»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Explorer</b> (euskaraz, <i>esploratzaile</i>) interfazeak hainbat panel ditu:
+</p>
+<ul><li><i>Preproccess</i> panelak datuak inportatzeko hainbat aukera ematen ditu: datu-base batetik, <a href="/wiki/CSV" title="CSV">CSV fitxategi</a> batetik, etab. Datu horiek aurreprozesatzeko iragazketa-algoritmo desberdinak eskaintzen dira. Algoritmo horiek datuak eraldatzeko erabil daitezke (zenbakizko datuak datu-diskretu bihurtzeko, adibidez).  Gainera, aldez aurretik finkatutako hainbat irizpideetan oinarrituz, datuen multzotik hainbat <a href="/wiki/Erregistro" title="Erregistro">erregistro</a> (datu) eta <a href="/wiki/Atributu_(estatistika)" class="mw-redirect" title="Atributu (estatistika)">atributu</a> (aldagai-iragarle) ezabatzeko ere erabil daitezke.</li>
+<li><i>Classify</i> panelak sailkapen-algoritmoak erabiltzeko eta erregresio-analisia egiteko aukera ematen du. Gainera, erabilitako sailkapen-algoritmoaren ebaluazioa egin daiteke, asmatze-tasak kalkulatuz, ROC-kurbak eginez, etab. Posiblea denean, eredua bera bistaratzeko tresnak ere eskaintzen ditu, hala nola, <a href="/wiki/Erabaki-zuhaitzen_bidezko_ikaskuntza" title="Erabaki-zuhaitzen bidezko ikaskuntza">sailkatze-zuhaitza</a>.</li>
+<li><i>Associate</i> panelaren bidez, datuen atributuen artean aurkitu diren erlazio garrantzitsuenak identifika daitezke.</li>
+<li><i>Cluster</i> panelaren bidez <i>Clustering</i> edo multzokatze-teknikak erabil daitezke, adibidez <a href="/w/index.php?title=K-means&amp;action=edit&amp;redlink=1" class="new" title="K-means (sortu gabe)">K-means</a> algoritmoa.</li>
+<li><i>Selected attributes</i> panelak datu-multzo batean iragarpenerako egokien diren atributu edo aldagai-iragarleak identifikatzeko algoritmoak eskaintzen ditu.</li>
+<li><i>Visualize</i> panelean sakabanatutako puntuen matrize bat erakusten da. Bertan puntu bakoitza aukera daiteke, hura handituz modu zehatzagoan aztertzeko.</li></ul>
+<h3><span class="mw-headline" id="Experimenter">Experimenter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Experimenter»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=7" title="Aldatu atal hau: «Experimenter»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Experimenter</b>  (euskaraz, <i>esperimentatzaile</i>) interfazearen bidez, hainbat datu-multzoren gainean Wekaren algoritmo iragarleak exekutatu eta lortutako emaitzen konparaketa sistematikoa egin daiteke.
+</p>
+<h3><span class="mw-headline" id="Knowledge_Flow">Knowledge Flow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Knowledge Flow»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=8" title="Aldatu atal hau: «Knowledge Flow»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Knowledge Flow</b> (euskaraz, <i>ezagutzaren fluxu</i>) interfazeak funtsean <i>Explorer</i> interfazearen funtzio berberak eskaintzen ditu. Gainera,ikasketa inkrementala egiteko aukera ere eskaini dezake.
+</p>
+<h2><span class="mw-headline" id="Erlazionatutako_Aplikazioak">Erlazionatutako Aplikazioak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Erlazionatutako Aplikazioak»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=9" title="Aldatu atal hau: «Erlazionatutako Aplikazioak»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=KNIME&amp;action=edit&amp;redlink=1" class="new" title="KNIME (sortu gabe)">KNIME</a>, datu-meatzaritzarako plataforma bat da, Java programazio-lengoaian inplementatuta dagoena.</li>
+<li><a href="/w/index.php?title=Neural_Designer&amp;action=edit&amp;redlink=1" class="new" title="Neural Designer (sortu gabe)">Neural Designer</a>, analisi iragarlea egiteko tresna bat da, <a href="/wiki/Ikaskuntza_sakon" title="Ikaskuntza sakon">ikaskuntza sakonean</a> oinarrituta dagoena.</li>
+<li><a href="/w/index.php?title=RapidMiner&amp;action=edit&amp;redlink=1" class="new" title="RapidMiner (sortu gabe)">RapidMiner</a>, datu-meatzaritzarako ingurune bat da, Java programazio-lengoaian inplementatuta dagoena eta Wekarekin elkarreragiten duena.</li></ul>
+<h2><span class="mw-headline" id="Erreferentziak">Erreferentziak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Erreferentziak»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=10" title="Aldatu atal hau: «Erreferentziak»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><a href="#cite_ref-1">↑</a> <span class="reference-text"><span class="citation">&#32;</span> <span class="citation" id="CITEREFIbargurenPérezMuguerza2016-03-18">Ibarguren,&#32;Igor&#59;&#32;Pérez,&#32;Jesús M.&#59;&#32;Muguerza,&#32;Javier. &#32;(2016-03-18).&#32;<a rel="nofollow" class="external text" href="https://www.ehu.eus/ojs/index.php/ekaia/article/view/14666">«J48Consolidated WEKA paketea, adibide ezohikoen patroiak identifikatzeko tresna»</a>&#32;<i>Ekaia. EHUko Zientzia eta Teknologia aldizkaria</i>&#32;<b>0</b>&#32;(29)&#32;<a href="/wiki/International_Standard_Serial_Number" class="mw-redirect" title="International Standard Serial Number">ISSN</a> <a rel="nofollow" class="external text" href="http://worldcat.org/issn/2444-3255">2444-3255</a>.&#32;<span class="reference-accessdate"><small>Noiz kontsultatua: 2019-10-17</small></span></span>.</span>
+</li>
+<li id="cite_note-2"><a href="#cite_ref-2">↑</a> <span class="reference-text"><span class="citation"></span> <span class="citation">&#32;<a rel="nofollow" class="external text" href="https://waikato.github.io/weka-wiki/packages/manager/"><i>The management of packages. </i></a>&#32;<span class="reference-accessdate"><small>Noiz kontsultatua: 2019-12-16</small></span></span>.</span>
+</li>
+</ol></div>
+<h2><span id="Ikus.2C_gainera"></span><span class="mw-headline" id="Ikus,_gainera">Ikus, gainera</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Ikus, gainera»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=11" title="Aldatu atal hau: «Ikus, gainera»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Datu-meatzaritza" title="Datu-meatzaritza">Datu Meatzaritza</a></li>
+<li><a href="/wiki/Ikasketa_automatiko" title="Ikasketa automatiko">Ikasketa automatikoa</a></li>
+<li><a href="/wiki/R_(programazio-lengoaia)" title="R (programazio-lengoaia)">R programazio-lengoaia</a></li>
+<li><a href="/wiki/Multzokatze_(estatistika)" title="Multzokatze (estatistika)">Multzokatzea (clustering)</a></li>
+<li><a href="/wiki/Erabaki-zuhaitzen_bidezko_ikaskuntza" title="Erabaki-zuhaitzen bidezko ikaskuntza">Erabakitze-zuhaitzak</a></li>
+<li><a href="/w/index.php?title=Algoritmo_Genetikoak&amp;action=edit&amp;redlink=1" class="new" title="Algoritmo Genetikoak (sortu gabe)">Algoritmo Genetikoak</a></li>
+<li><a href="/w/index.php?title=Sailkatzaile_Bayestarrak&amp;action=edit&amp;redlink=1" class="new" title="Sailkatzaile Bayestarrak (sortu gabe)">Sailkatzaile Bayestarrak</a></li>
+<li><a href="/wiki/Neurona-sare_artifizial" title="Neurona-sare artifizial">Neurona-sare artifizialak</a></li></ul>
+<h2><span class="mw-headline" id="Kanpo_estekak">Kanpo estekak</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Aldatu atal hau: «Kanpo estekak»">aldatu</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;action=edit&amp;section=12" title="Aldatu atal hau: «Kanpo estekak»">aldatu iturburu kodea</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sc.ehu.es/aldapa/UEUEKA">UEUeka</a>. 2013an <a href="/wiki/Udako_Euskal_Unibertsitatea" title="Udako Euskal Unibertsitatea">UEUn</a> emandako Weka ikastaroan erabilitako gardenkiak.</li>
+<li><a rel="nofollow" class="external text" href="http://www.ueu.eus/ikasi/udako-ikastaroa/576/Weka%252C%2Bikasketa%2Bautomatikorako%2Btresna%253A%2Bdatuetatik%2Berabakietara.">Weka, ikasketa automatikorako tresna: datuetatik erabakietara</a> ikastaroa 2013an <a href="/wiki/Udako_Euskal_Unibertsitatea" title="Udako Euskal Unibertsitatea">UEUn</a> emanda.</li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/ml/weka">Weka 3: Data Mining Software in Java</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.saedsayad.com/">An Introduction to Data Mining</a>. Saed Sayad.</li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/ml/weka/book.htmlData">Mining: Practical Machine Learning Tools and Techniques</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/w/index.php?title=Wikipedia:Esteka_hautsia&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia:Esteka hautsia (sortu gabe)"><span title="&#160;Data honetatik dago hautsita esteka: martxoa 2021">Betiko hautsitako esteka</span></a></i>&#93;</span></sup> liburua. 3rd. edition. Ian H. itten, Eibe Frank, Mark A. Hall. Morgan Kaufmann Publishers. ISBN: 978-0-12-374856-0</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r7786466">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control,.mw-parser-output .mw-mf-linked-projects{border:1px solid #a2a9b1;font-size:88%}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Laguntza:Autoritate_kontrola" title="Laguntza:Autoritate kontrola">Autoritate kontrola</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Wikimedia proiektuak</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datuak:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q115494" class="extiw" title="wikidata:Q115494">Q115494</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)">Weka (machine learning)</a></span></span></li></ul>
+<hr />
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datuak:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q115494" class="extiw" title="wikidata:Q115494">Q115494</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)">Weka (machine learning)</a></span></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20210403164411
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.999 seconds
+Real time usage: 1.212 seconds
+Preprocessor visited node count: 12705/1000000
+Post‐expand include size: 48669/2097152 bytes
+Template argument size: 40839/2097152 bytes
+Highest expansion depth: 34/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2045/5000000 bytes
+Lua time usage: 0.371/10.000 seconds
+Lua memory usage: 2473075/52428800 bytes
+Number of Wikibase entities loaded: 2/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1132.664      1 -total
+ 73.84%  836.402      1 Txantiloi:Lan_infotaula
+ 48.96%  554.542      1 Txantiloi:Infotaula
+ 23.55%  266.755      1 Txantiloi:Izenburu_etzana
+ 14.17%  160.502      4 Txantiloi:Str_find
+ 14.08%  159.435      1 Txantiloi:Substr_any
+ 13.88%  157.212      4 Txantiloi:Str_find/logic
+ 11.68%  132.350    441 Txantiloi:Str_left
+ 10.14%  114.902      1 Txantiloi:Autoritate_kontrola
+  7.87%   89.148      1 Txantiloi:Erreferentzia_zerrenda
+-->
+
+<!-- Saved in parser cache with key euwiki:pcache:idhash:165683-0!canonical and timestamp 20210403164410 and revision id 8475880. Serialized with JSON.
+ -->
+</div><script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"ErrefAurrebista\" was not loaded. Please migrate it to use ResourceLoader. See \u003Chttps://eu.wikipedia.org/wiki/Berezi:Gadgetak\u003E.");});</script><noscript><img src="//eu.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">"<a dir="ltr" href="https://eu.wikipedia.org/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;oldid=8475880">https://eu.wikipedia.org/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;oldid=8475880</a>"(e)tik eskuratuta</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Berezi:Kategoriak" title="Berezi:Kategoriak">Kategoriak</a>: <ul><li><a href="/w/index.php?title=Kategoria:Wikipedia:Kanpo_esteka_hautsiak_dituzten_orriak_from_martxoa_2021&amp;action=edit&amp;redlink=1" class="new" title="Kategoria:Wikipedia:Kanpo esteka hautsiak dituzten orriak from martxoa 2021 (sortu gabe)">Wikipedia:Kanpo esteka hautsiak dituzten orriak from martxoa 2021</a></li><li><a href="/wiki/Kategoria:Ikasketa_automatikoa" title="Kategoria:Ikasketa automatikoa">Ikasketa automatikoa</a></li><li><a href="/wiki/Kategoria:Datu-meatzaritza" title="Kategoria:Datu-meatzaritza">Datu-meatzaritza</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Ezkutuko kategoriak: <ul><li><a href="/wiki/Kategoria:Wikipedia:Kanpo_esteka_hautsiak_dituzten_orri_guztiak" title="Kategoria:Wikipedia:Kanpo esteka hautsiak dituzten orri guztiak">Wikipedia:Kanpo esteka hautsiak dituzten orri guztiak</a></li><li><a href="/wiki/Kategoria:Txantiloi_batean_data_parametro_ez-egokia_duten_artikuluak" title="Kategoria:Txantiloi batean data parametro ez-egokia duten artikuluak">Txantiloi batean data parametro ez-egokia duten artikuluak</a></li><li><a href="/wiki/Kategoria:Betiko_hautsitako_kanpo_estekak_dituzten_artikuluak" title="Kategoria:Betiko hautsitako kanpo estekak dituzten artikuluak">Betiko hautsitako kanpo estekak dituzten artikuluak</a></li></ul></div></div>
+	</div>
+</main>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+	</div> 
+</div> 
+
+<div class="mw-workspace-container mw-footer-container">
+	<div class="mw-content-container">
+		<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> Orriaren azken aldaketa: 28 martxoa 2021, 20:28.</li>
+	<li id="footer-info-copyright">Testua <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.eu">Creative Commons Aitortu-PartekatuBerdin 3.0 lizentziari</a> jarraituz erabil daiteke;
+baliteke beste klausularen batzuk ere aplikatu behar izatea.
+Xehetasunen berri izateko, ikus <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use">erabilera-baldintzak</a>.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Pribazitate politika</a></li>
+	<li id="footer-places-about"><a href="/wiki/Laguntza:Wikipediari_buruz" title="Laguntza:Wikipediari buruz">Wikipediari buruz</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Erantzukizunen_mugaketa_orokorra" title="Wikipedia:Erantzukizunen mugaketa orokorra">Lege oharra</a></li>
+	<li id="footer-places-mobileview"><a href="//eu.m.wikipedia.org/w/index.php?title=Weka_(ikasketa_automatikoa)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mugikorreko bista</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Garatzaileak</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/eu.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie adierazpena</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+	</div>
+</div>
+	</div> 
+</div> 
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.999","walltime":"1.212","ppvisitednodes":{"value":12705,"limit":1000000},"postexpandincludesize":{"value":48669,"limit":2097152},"templateargumentsize":{"value":40839,"limit":2097152},"expansiondepth":{"value":34,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2045,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1132.664      1 -total"," 73.84%  836.402      1 Txantiloi:Lan_infotaula"," 48.96%  554.542      1 Txantiloi:Infotaula"," 23.55%  266.755      1 Txantiloi:Izenburu_etzana"," 14.17%  160.502      4 Txantiloi:Str_find"," 14.08%  159.435      1 Txantiloi:Substr_any"," 13.88%  157.212      4 Txantiloi:Str_find/logic"," 11.68%  132.350    441 Txantiloi:Str_left"," 10.14%  114.902      1 Txantiloi:Autoritate_kontrola","  7.87%   89.148      1 Txantiloi:Erreferentzia_zerrenda"]},"scribunto":{"limitreport-timeusage":{"value":"0.371","limit":"10.000"},"limitreport-memusage":{"value":2473075,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20210403164411","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Weka (ikasketa automatikoa)","url":"https:\/\/eu.wikipedia.org\/wiki\/Weka_(ikasketa_automatikoa)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q115494","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q115494","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-04-04T17:02:59Z","dateModified":"2021-03-28T18:28:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/59\/Weka-3.5.5.png"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136,"wgHostname":"mw1387"});});</script>
+</body></html>

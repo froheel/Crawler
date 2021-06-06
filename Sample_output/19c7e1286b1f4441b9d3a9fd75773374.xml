@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
+<html>
+<head><title>KDnuggets News 05:13, item 2, Features</title>
+  <link rel="stylesheet" type="text/css" href="../../../kdr.css">
+</head>
+<body text='#000000' BGCOLOR='#F5F5DC'>
+<script LANGUAGE="JavaScript" TYPE="text/javascript" SRC="../../../aps/aw4.js"></script>
+<table width=750><tr><td><!-- topnav -->
+<b><a href="../../../index.html"><font size=+1>KDnuggets</font></a> :
+<a href="../../index.html">News</a>
+: <a href="../index.html">2005</a>
+: <a href="index.html">n13</a>
+: item2
+</b></td>
+<td align=right><font size=1> <img src=../../../images/aprev.gif border=0 height=9 width=5 alt="<"> <a href="1i.html">PREVIOUS</a>  |  <a href="3i.html">NEXT</a> <img src=../../../images/anext.gif border=0 height=9 width=5 alt=">"> </font></td>
+</tr></table>
+<hr align=LEFT width=750><!-- kdtable start -->
+<table width=750 cellpadding=0 cellspacing=0><tr><td valign=top width=578>
+<h2>Features</h2>
+<b>From: Gregory Piatetsky-Shapiro</b>
+<br><b>Date: 28 Jun 2005</b>
+<br><b>Subject: Winner of SIGKDD Data Mining and Knowledge Discovery Service Award ...</b>
+<p>
+<a href="http://www.acm.org/sigs/sigkdd/awards.php">SIGKDD Service Award</a> is the highest service award in the field of data mining and knowledge discovery. It is is given to one individual or one group who has performed significant service to the data mining and knowledge discovery field, including professional volunteer services in disseminating technical information to the field, education, and research funding.
+<p>
+The award includes a plaque and a check for $2,500, to be presented at
+<a href="http://www.acm.org/sigs/sigkdd/kdd2005/">KDD-2005 ( The 11th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining)</a>, Aug 21, 2005, in Chicago.
+<p>
+The 2005 ACM SIGKDD Service Award is presented to
+<p>
+<h2>the Weka team</h2>
+<p>
+for their development of the freely-available <a href="http://www.cs.waikato.ac.nz/~ml/weka/">Weka Data Mining Software</a>, including the accompanying book
+<a href="http://www.cs.waikato.ac.nz/~ml/weka/book.html">Data Mining: Practical Machine Learning Tools and Techniques</a> (now in second edition) and much other documentation.
+<p>
+The Weka team includes Ian H. Witten and Eibe Frank, and the following major contributors
+ (in alphabetical order of last names):
+Remco R. Bouckaert,
+John G. Cleary,
+Sally Jo Cunningham,
+Andrew Donkin,
+Dale Fletcher,
+Steve Garner,
+Mark A. Hall,
+Geoffrey Holmes,
+Matt Humphrey,
+Lyn Hunt,
+Stuart Inglis,
+Ashraf M. Kibriya,
+Richard Kirkby,
+Brent Martin,
+Bob McQueen,
+Craig G. Nevill-Manning,
+Bernhard Pfahringer,
+Peter Reutemann,
+Gabi Schmidberger,
+Lloyd A. Smith,
+Tony C. Smith,
+Kai Ming Ting,
+Leonard E. Trigg,
+Yong Wang,
+Malcolm Ware, and
+Xin Xu.
+<p>
+The Weka team has put a tremendous amount of effort into continuously
+developing and maintaining the system since 1994. The development of
+Weka was funded by a grant from the New Zealand Government's
+Foundation for Research, Science and Technology.
+<p>
+The key features responsible for Weka's success are:
+<ul>
+<li> it provides many different algorithms for data mining and machine learning 
+<li> is is open source and freely available
+<li> it is platform-independent 
+<li> it is easily useable by people who are not data mining specialists
+<li> it provides flexible facilities for scripting experiments
+<li> it has kept up-to-date, with new algorithms being added as they appear in the research literature.
+</ul>
+The Weka Data Mining Software has been downloaded 200,000 times since it was put
+on SourceForge in April 2000, and is currently downloaded at a rate of
+10,000/month.  The Weka mailing list has over 1100 subscribers in 50 countries, including subscribers from many major companies.
+<p>
+There are 15 well-documented substantial projects that incorporate, wrap or
+extend Weka, and no doubt many more that have not been reported on Sourceforge.
+<p>
+Ian H. Witten and Eibe Frank also wrote a very popular book
+<a href="http://www.cs.waikato.ac.nz/~ml/weka/book.html">
+"Data Mining: Practical Machine Learning Tools and Techniques"</a> (now in the second edition),
+that seamlessly integrates Weka system into teaching of data mining and machine learning.
+In addition, they provided excellent teaching material on the book website.
+<p>
+This book became one of the most popular textbooks for data mining and machine learning,
+and is very frequently cited in scientific publications.
+<p>
+Weka is a landmark system in the history of the data mining and machine
+learning research communities, because it is the only toolkit that has
+gained such widespread adoption and survived for an extended period of time
+(the first version of Weka was released 11 years ago).  Other data mining
+and machine learning systems that have achieved this are individual
+systems, such as C4.5, not toolkits.
+<p>
+Since Weka is freely available for download and offers many powerful
+features (sometimes not found in commercial data mining software), it
+has become one of the most widely used data mining systems.
+Weka also became one of the favorite vehicles for data mining research and
+helped to advance it by making many powerful features available to all.
+<p>
+In sum, the Weka team has made an outstanding contribution to the data mining field.
+<p>
+<h3>SIGKDD 2005 Awards Committee</h3>
+<ul>
+<li> Gregory Piatetsky-Shapiro (KDnuggets), Chair
+<li> Rakesh Agrawal (IBM)
+<li> Christos Faloutsos (CMU)
+<li> Jerome Friedman (Stanford)
+<li> Robert Grossman (U. of Illinois, Chicago)
+<li> Jiawei Han (U.Illinois, Urbana-Champaign)
+<li> Foster Provost (NYU)
+<li> Xindong Wu (U. Vermont)
+<li> Sam Uthurusamy (GM)
+</ul>
+<!-- kdright -->
+</td><td width=1 bgcolor="#999999"></td><td valign=top align=center width=160>
+<script language="JavaScript1.1" type="text/javascript" src="../../../aps/rw4.js"></script>
+</td></tr></table>
+<hr ALIGN=LEFT WIDTH=750>
+<table width=750><tr><td><!-- botnav -->
+<b><a href="../../../index.html"><font size=+1>KDnuggets</font></a> :
+<a href="../../index.html">News</a>
+: <a href="../index.html">2005</a>
+: <a href="index.html">n13</a>
+: item2
+</b></td>
+<td align=right><font size=1> <img src=../../../images/aprev.gif border=0 height=9 width=5 alt="<"> <a href="1i.html">PREVIOUS</a>  |  <a href="3i.html">NEXT</a> <img src=../../../images/anext.gif border=0 height=9 width=5 alt=">"> </font></td>
+</tr></table>
+<p><font size=-1>Copyright &copy; 2005 KDnuggets.  &nbsp; <a href="http://www.kdnuggets.com/news/subscribe.html"><b>Subscribe</b></a> to KDnuggets News!</font>
+</body></html>

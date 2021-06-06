@@ -1,0 +1,2315 @@
+
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+   <head>
+		
+	<title>Developer Virtual Webcasts and Workshops</title>
+	<meta name="Title" content="Developer Virtual Webcasts and Workshops">
+	
+		<meta name="Description" content="Developer Virtual Webcasts and Workshops
+">
+	
+	<meta name="Keywords" content="Developer Virtual Webcasts and Workshops, events">
+	
+<!-- Container/Display Start -->
+
+<!-- _Raw-Text -->
+	<!-- css / js files start -->
+	<script>
+	!function(){
+		var d=document.documentElement;d.className=d.className.replace(/no-js/,'js');
+		if(document.location.href.indexOf('betamode=') > -1) document.write('<script src="https://www.oracle.com/asset/web/js/ocom-betamode.js"><\/script>');
+	}();
+	</script>
+	<link data-wscss href="https://www.oracle.com/asset/web/css/ocom-v1-base.css" rel="stylesheet">
+	<link data-wscss href="https://www.oracle.com/asset/web/css/ocom-v1-styles.css" rel="preload" as="style" onload="this.rel='stylesheet'" onerror="this.rel='stylesheet'">
+	<noscript>
+	   <link href="https://www.oracle.com/asset/web/css/ocom-v1-styles.css" rel="stylesheet">
+	</noscript>
+	<link data-wsjs data-reqjq href="https://www.oracle.com/asset/web/js/ocom-v1-base.js" rel="preload" as="script">
+    <link data-wsjs data-reqjq href="https://www.oracle.com/asset/web/js/ocom-v1-lib.js" rel="preload" as="script">
+    <script data-wsjs src="https://www.oracle.com/asset/web/js/jquery-min.js" async onload="$('head link[data-reqjq][rel=preload]').each(function(){var a = document.createElement('script');a.async=false;a.src=$(this).attr('href');this.parentNode.insertBefore(a, this);});$(function(){$('script[data-reqjq][data-src]').each(function(){this.async=true;this.src=$(this).data('src');});});"></script>
+	<!-- end css / js files start -->
+<!-- / _Raw-Text -->
+
+<!-- Container/Display end -->
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	
+	<meta name="siteid" content="us">
+	<meta name="countryid" content="US">
+	
+	<meta name="robots" content="index, follow">
+	
+	<meta name="country" content="United States">
+	<meta name="Language" content="en">
+	<meta name="Updated Date" content="2021-04-09T19:06:36Z">
+	
+	<script type="text/javascript">
+		var pageData = pageData || {};
+		//page info
+		pageData.pageInfo = pageData.pageInfo || {};
+		pageData.pageInfo.language = "en";
+		pageData.pageInfo.country = "United States";
+		pageData.pageInfo.pageTitle = "Developer Virtual Webcasts and Workshops";
+		pageData.pageInfo.description = "Developer Virtual Webcasts and Workshops";
+		pageData.pageInfo.keywords = "Developer Virtual Webcasts and Workshops, events";
+		pageData.pageInfo.siteId = "us";
+		pageData.pageInfo.countryId = "US";
+		pageData.pageInfo.updatedDate = "2021-04-09T19:06:36Z";
+	</script>
+	<!-- start : ocom/common/global/components/seo-taxonomy-meta-data-->
+	
+	<script type="text/javascript">
+		var pageData = pageData || {};
+		//taxonmy
+		pageData.taxonomy = pageData.taxonomy || {};
+		pageData.taxonomy.productServices = [];
+		pageData.taxonomy.industry = [];
+		pageData.taxonomy.region = [];
+		pageData.taxonomy.contentType = [];
+		pageData.taxonomy.buyersJourney = [];
+		pageData.taxonomy.revenue = [];
+		pageData.taxonomy.title = [];
+		pageData.taxonomy.audience = [];
+		pageData.taxonomy.persona = [];
+	</script>
+<!-- end : ocom/common/global/components/seo-taxonomy-meta-data-->
+<!-- start : ocom/common/global/components/social-media-meta-tags -->
+<!-- end : ocom/common/global/components/social-media-meta-tags -->
+<!-- start : ocom/common/global/components/seo-hreflang-meta-tags --><link rel="canonical" href="https://developer.oracle.com/virtual-events/" />
+					<link rel="alternate" hreflang="en-AE" href="https://developer.oracle.com/ae/virtual-events/" />
+					
+					<link rel="alternate" hreflang="es-AR" href="https://developer.oracle.com/ar/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-AU" href="https://developer.oracle.com/au/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-BE" href="https://developer.oracle.com/be/virtual-events/" />
+					
+					<link rel="alternate" hreflang="pt-BR" href="https://developer.oracle.com/br/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-CA" href="https://developer.oracle.com/ca-en/virtual-events/" />
+					
+					<link rel="alternate" hreflang="fr-CA" href="https://developer.oracle.com/ca-fr/virtual-events/" />
+					
+					<link rel="alternate" hreflang="de-CH" href="https://developer.oracle.com/ch-de/virtual-events/" />
+					
+					<link rel="alternate" hreflang="fr-CH" href="https://developer.oracle.com/ch-fr/virtual-events/" />
+					
+					<link rel="alternate" hreflang="es-CL" href="https://developer.oracle.com/cl/virtual-events/" />
+					
+					<link rel="alternate" hreflang="zh-CN" href="https://developer.oracle.com/cn/virtual-events/" />
+					
+					<link rel="alternate" hreflang="es-CO" href="https://developer.oracle.com/co/virtual-events/" />
+					
+					<link rel="alternate" hreflang="cs-CZ" href="https://developer.oracle.com/cz/virtual-events/" />
+					
+					<link rel="alternate" hreflang="de-DE" href="https://developer.oracle.com/de/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-US" href="https://developer.oracle.com/virtual-events/" />
+					
+					<link rel="alternate" hreflang="es-ES" href="https://developer.oracle.com/es/virtual-events/" />
+					
+					<link rel="alternate" hreflang="fr-FR" href="https://developer.oracle.com/fr/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-HK" href="https://developer.oracle.com/hk/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-ID" href="https://developer.oracle.com/id/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-IE" href="https://developer.oracle.com/ie/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-IN" href="https://developer.oracle.com/in/virtual-events/" />
+					
+					<link rel="alternate" hreflang="it-IT" href="https://developer.oracle.com/it/virtual-events/" />
+					
+					<link rel="alternate" hreflang="ja-JP" href="https://developer.oracle.com/jp/virtual-events/" />
+					
+					<link rel="alternate" hreflang="ko-KR" href="https://developer.oracle.com/kr/virtual-events/" />
+					
+					<link rel="alternate" hreflang="es-MX" href="https://developer.oracle.com/mx/virtual-events/" />
+					
+					<link rel="alternate" hreflang="nl-NL" href="https://developer.oracle.com/nl/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-PH" href="https://developer.oracle.com/ph/virtual-events/" />
+					
+					<link rel="alternate" hreflang="pl-PL" href="https://developer.oracle.com/pl/virtual-events/" />
+					
+					<link rel="alternate" hreflang="pt-PT" href="https://developer.oracle.com/pt/virtual-events/" />
+					
+					<link rel="alternate" hreflang="ro-RO" href="https://developer.oracle.com/ro/virtual-events/" />
+					
+					<link rel="alternate" hreflang="ru-RU" href="https://developer.oracle.com/ru/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-SA" href="https://developer.oracle.com/sa/virtual-events/" />
+					
+					<link rel="alternate" hreflang="sv-SE" href="https://developer.oracle.com/se/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-SG" href="https://developer.oracle.com/sg/virtual-events/" />
+					
+					<link rel="alternate" hreflang="sk-SK" href="https://developer.oracle.com/sk/virtual-events/" />
+					
+					<link rel="alternate" hreflang="tr-TR" href="https://developer.oracle.com/tr/virtual-events/" />
+					
+					<link rel="alternate" hreflang="zh-TW" href="https://developer.oracle.com/tw/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-GB" href="https://developer.oracle.com/uk/virtual-events/" />
+					
+					<link rel="alternate" hreflang="en-ZA" href="https://developer.oracle.com/za/virtual-events/" />
+					
+					<meta name="altpages" content="ae,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,pt,ro,ru,sa,se,sg,sk,tr,tw,uk,za">
+					<script type="text/javascript">
+						var pageData = pageData || {};
+						//page info
+						pageData.pageInfo = pageData.pageInfo || {};
+						pageData.pageInfo.altPages = "ae,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,pt,ro,ru,sa,se,sg,sk,tr,tw,uk,za";
+					</script>
+				<!-- end : ocom/common/global/components/seo-hreflang-meta-tags -->
+
+<!-- Container/Display Start -->
+
+<!-- _Raw-Text -->
+<!-- www-us HeadAdminContainer -->
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-32.png" sizes="32x32">
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-128.png" sizes="128x128">
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-120.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-152.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-180.png" sizes="180x180">
+<meta name="msapplication-TileColor" content="#fcfbfa"/>
+<meta name="msapplication-square70x70logo" content="favicon-128.png"/>
+<meta name="msapplication-square150x150logo" content="favicon-270.png"/>
+<meta name="msapplication-TileImage" content="favicon-270.png"/>
+<meta name="msapplication-config" content="none"/>
+<script async="async" type="text/javascript" src='//consent.truste.com/notice?domain=oracle.com&c=teconsent&js=bb&noticeType=bb&text=true&gtm=1&cdn=1&pcookie' crossorigin></script>
+
+<style>
+#oReactiveChatContainer1 { display:none;}
+</style>
+<!--DTM embed code - Header -->
+<script src="//assets.adobedtm.com/6f37a0dc9cdbe818dc4979828b58b88e3f060ea4/satelliteLib-e598c5b61e39a10b402e048e87dd27b0f1cd2d4c.js"></script>
+
+<!-- Truste for RU -->
+<script type="text/javascript">
+ if (location.pathname.indexOf("/ru/") == 0){
+ document.write('\x3Cscript async="async" src=//consent.truste.com/notice?domain=oracleru.com&c=teconsent&js=bb&noticeType=bb&text=true&gtm=1&cdn=1&pcookie crossorigin="">\x3C/script>');
+ }
+ </script>
+<!--End-->
+
+<!-- / _Raw-Text -->
+
+<!-- Container/Display end -->
+
+   
+                          <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="JH7NT-F5QFQ-V8TTR-QD3JR-K3LNK",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(c){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"JH7NT-F5QFQ-V8TTR-QD3JR-K3LNK";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="n533wkixb3b6gydue3ba-f-1b320255a-clientnsv4-s.akamaihd.net",i={"ak.v":"31","ak.cp":"491058","ak.ai":parseInt("320778",10),"ak.ol":"0","ak.cr":159,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"7d0a11a","ak.r":29649,"ak.a2":n,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"111.119.187.0","ak.cport":35867,"ak.gh":"23.45.232.135","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1618224834","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==GcyVU2863TtKavgrEjLfU9fsWZ4YtRvePIV99/9RLcMICnuEYu1JgA16njwhIdgHyFSOZDeivlUufe5CAS582a5aokCz1iOZ+7a2aeYyHYYs1iAL9ddVWncsYjUBAS4K5VAOAg5/jC2e5zGfIf5ArCEEGSDpexASJzQjP8ZDa7XnMVuRAZ7BlKgFkOOmGUJPxks0sXcLvuhSzxYZCXUV5Umz+Ivvr70rkC+pKNFDVzSO+zTEKzvxoM1t3bn4JkXJtUEXIk+dd3/XQ9xHZ5MZF4PO9VPaydD7oryOyz4ANAzVxKzgPc+5LvyCrQ43dsIprUP0Hs/JSkhKb3Cqpl8QgOQV0QJ+tu0TkDSbTj8hnl0fKiDhaBQVDT0wrkwtU8hIEd9rHHxTPzvsdsiII/gJkGQUCgm/d4cnmwlz1p7eoH4=","ak.pv":"115","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!o.i){var e=BOOMR.subscribe;e("before_beacon",o.av,null,null),e("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   
+   <body class="f11 f11v6">
+   		
+		<div class="f11w1">
+			
+<!-- start Common/Header -->
+ 
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U28v1 --> <section class="u28 u28v1 u28adj u28dev" id="u28" data-trackas="header"> <div id="u28skip2content" aria-expanded="false" tabindex="-1"> <ul> <li><a id="u28acc" href="https://www.oracle.com/corporate/accessibility/">Click to view our Accessibility Policy</a></li> <li><a id="u28skip2c" href="#maincontent">Skip to content</a></li> </ul> </div> <div class="u28w1"> <div class="cwidth"> <div class="u28s1" id="u28s1"> <a class="u28home rw-logo" href="/" data-lbl="logo">home</a> <a class="u28ham" href="/devo-menucontent.html" data-lbl="menu">nav</a> </div> <div class="u28s2"> <div class="u28w2"> <form name="askoracle" id="askoracle" class="askoracle" data-contentpaths="/content/Web/Shared/Auto-Suggest Panel Event" method="get" action="/search/results" data-resultsclose="Close" data-resultscloselabel="Exit Search Results"> <input type="hidden" name="Nty" value="1"> <input type="hidden" name="Dy" value="1"> <input type="hidden" name="Ntk" value="SI-ALL5"> <input type="hidden" name="cty" value="us"> <input type="hidden" name="lang" value="en"> <div class="u28w3"> <div class="u28logo rw-logo"> <span>Oracle</span> </div> <a class="u28-back rw-cv-left" href="#back" title="Close Search Field"> <span>Close</span> </a> <a class="u28-searchicon" href="#search"> <span>Search</span> </a> <span class="u28input"> <input id="askoracleinput" name="Ntt" value="" data-prefix="Ask" placeholder="Ask" autocomplete="off" role="combobox" aria-label="Search Oracle.com"> <span class="u28submit"> <input class="u28searchbttn" type="submit" value="Submit Search"> </span> </span> </div> </form> </div> </div> <nav class="u28s4"> <a class="u28search u28navitm" id="u28search" aria-label="Open Search Field" href="#search"><span>Search</span></a> <a href="#technologies" data-target="technologies" class="u28navitm">Technologies</a> <a href="#resources" data-target="resources" class="u28navitm">Resources</a> <a href="#community" data-target="community" class="u28navitm">Community</a> <a href="#events" data-target="events" class="u28navitm">Events</a> <a href="#blogs" data-target="blogs" class="u28navitm">Blogs</a> <a href="#downloads" data-target="downloads" class="u28navitm">Downloads</a> </nav> <div class="u28s3" id="u28s3"> <div class="u28-profile"> <a href="#" class="u28prof" data-lbl="sign-in-account" title="View Accounts"><div class="acttxt">View Accounts</div><span>Sign In</span></a> <div class="u28-profilew1"> <span class="u28actbck u28back">Back</span> <span class="u28acttitle">Oracle Account</span> <div class="u28-profilew2"> <span class="u28acttitle">Cloud Account</span> <a href="cloud.oracle.com" class="u28cloudbg" data-lbl="go-to-cloud-website" aria-label="Sign in to Cloud">Sign in to Cloud</a> <a href="placeholder.html" class="u28btn2" data-lbl="Try Free Cloud Trial" aria-label="Sign Up for Free Cloud Tier">Sign Up for Free Cloud Tier</a></li> </div> <ul class="u28l-out"> <li><a href="https://www.oracle.com/webapps/redirect/signon?nexturl=" data-lbl="profile:sign-in-account" class="u28btn1">Sign-In</a></li> <li><a href="https://profile.oracle.com/myprofile/account/create-account.jspx" data-lbl="profile:create-account" class="u28btn2">Create an Account</a></li> </ul> <ul class="u28l-in"> <li><a href="/us/corporate/contact/about-your-account-070507.html" data-lbl="help">Help</a></li> <li><a href="javascript:sso_sign_out();" id="u28pfile-sout" data-lbl="signout">Sign Out</a></li> </ul> </div> </div> <div class="u28-free-tier"> <a href="https://www.oracle.com/cloud/free/?source=:ow:o:s:nav::DevoGetStarted&intcmp=:ow:o:s:nav::DevoGetStarted" class="u28contact" data-lbl="free-tier" title="Get Started For Free"><span>Get Started For Free</span></a> </div> </div> </div> </div> <div class="u28w4" id="u28w4"> <div class="u28w1a u28w5 clstrgt"> <div class="u28w6"> <!-- Search Results --> <div class="u28w8 u28trgt"></div> <div class="u28w9"> <div class="u28result u28noresults"> <div class="u28rw1"> <div class="u28rw2"> <h4>No results found</h4> <p>Your search did not match any results.</p> <p>We suggest you try the following to help find what you're looking for:</p> <ul class="u28w7a"> <li>Check the spelling of your keyword search.</li> <li>Use synonyms for the keyword you typed, for example, try "application" instead of "software."</li> <li>Try one of the popular searches shown below.</li> <li>Start a new search.</li> </ul> <h5>Trending Questions</h5> </div> </div> </div> </div> </div> </div> </div> <nav id="u28nav" class="u28nav" data-trackas="menu"> <a href="#close" class="mnavback u28back icn-close">Close</a> </nav> <a id="maincontent">&nbsp;</a> </section> <!-- /U28v1 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- end Common/Header -->
+
+<!-- U03v5 -->
+
+	<nav class="u03 u03v5 u03bttns" data-trackas="breadcrumb" data-ocomid="u03">
+		<div class="cwidth">
+			<div class="u03w1">
+				<ul>
+					
+						<li><a href="/">Developer</a></li>
+						
+				</ul>
+				<h1>Oracle Developer Virtual Webcasts and Workshops </h1>
+			</div>
+			
+		</div>
+		<script type="text/javascript">
+			var pageData = pageData || {};
+			//page info
+			pageData.pageInfo = pageData.pageInfo || {};
+			pageData.pageInfo.breadCrumbs = "Developer";
+		</script>
+	</nav>	
+	
+<!-- _Raw-HTML -->
+<!-- CH12v0 -->
+<section class="ch12 ch12v0 pghero bgvdarkblue txtlight" data-ocomid="ch12" data-trackas="ch12" style="background-image:url(/a/devo/images/cw22-lg-transform-data-mgmt.jpg );">
+<div class="ch12w1 cwidth">
+<div class="ch12w2">
+<h2>Developer Virtual Events<br />
+<meta name="Generator" content="Cocoa HTML Writer" /><meta name="CocoaVersion" content="1671.6" />
+<style type="text/css">p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Helvetica Neue'}
+</style>
+</h2>
+
+<p>Enhance your developer skills with our technical, educational and interactive virtual events.&nbsp;</p>
+</div>
+</div>
+</section>
+<!-- /CH12v0 -->
+
+
+<!-- / _Raw-HTML -->
+
+<!-- _Raw-Text -->
+<!-- CC01v0 -->
+
+<section class="cc01 cc01v0 cpad" style="padding-bottom: 0px;">
+
+	<div class="cc01w1 cwidth">
+
+		<!--<p>Enhance your developer skills with our technical, educational and interactive virtual events. </p>-->
+
+	</div>
+
+</section>
+
+<!-- /CC01v0 -->
+
+<!-- CN26v1 -->
+
+<div class="cn26 cn26v1" data-trackas="cn26" style="padding-top: 0px;" data-ocomid="cn26">
+
+  <div class="cn26w1 cn26col3 mwidth">
+
+    <nav data-selectlabel="Jump to category:">
+
+      <ul>
+
+        <li><a href="#category-1"><span class="cn26w2"><span>Upcoming</span></span></a></li>
+        <li><a href="#category-2"><span class="cn26w2"><span>On Demand</span></span></a></li>
+        <li><a href="#category-3"><span class="cn26w2"><span>Self-Guided Labs</span></span></a></li>
+
+      </ul>
+
+    </nav>
+
+  </div>
+
+</div>
+
+<!-- /CN26v1 -->
+
+
+
+
+<!-- CC01v0 -->
+
+<section class="cc01 cc01v0 cpad crule" id="category-1">
+
+	<div class="cc01w1 cwidth">
+
+		<h2>Upcoming</h2><br />Register for an upcoming live webcasts or workshop.
+
+	</div>
+
+
+
+
+</section>
+
+<!-- /CC01v0 -->
+
+<!-- CB137v0 -->
+
+<section class="cb137 cb137v0 cpad" data-trackas="cb137" data-ocomid="cb137" >
+
+	<div class="cb137w1 cwidth">
+
+		<div class="cb137w2 col-framework col4 col-multi col-smallgutters col-justified">
+
+			<div class="col-w1">
+
+					
+
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>DEVELOPER LIVE: March 30, 2021<br />8:30 a.m. IST<br />Asia Pacific</strong>
+
+							<h5>Oracle Developer Live - Java Innovations</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>DEVELOPER LIVE: March 30, 2021<br />8:30 a.m. IST<br />Asia Pacific</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Oracle Developer Live - Java Innovations</strong><br/>Learn how Java can help you create the next generation of rich, scalable, secure, and modern applications for a variety of targeted deployment environments. Gain insight into innovations within the Java 16 release that improve the performance, stability, and security of application development.</p></div>
+
+								<a class="cta-lnk o1" href="https://developer.oracle.com/developer-live/java-innovations/" target="_blank">Register</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>WEBCAST: March 30, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<h5>Best practices in designing JSON document model in Autonomous JSON Database</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>WEBCAST: March 30, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Best practices in designing JSON document model in Autonomous JSON Database</strong><br/>This session focuses on JSON design, modeling questions and best practices to support your application development. We will share our top 10 tips for processing JSON in a database and give a live demonstration of Autonomous JSON Database Cloud Service.</p></div>
+
+								<a class="cta-lnk o1" href="https://go.oracle.com/LP=106967?elqCampaignId=276941" target="_blank">Register</a>
+
+							</div>
+						</div>
+					</div>
+				</div>				
+
+			    <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>AUTONOMOUS DATABASE OFFICE HOURS: April 6, 2021<br />9:00 a.m. PT / 12:00 p.m. ET<br />Americas</strong>
+
+							<h5>Auto-Scaling Configuration and Monitoring</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>AUTONOMOUS DATABASE OFFICE HOURS: April 6, 2021<br />9:00 a.m. PT / 12:00 p.m. ET<br />Americas</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Auto-Scaling Configuration and Monitoring</strong><br/>Learn how to establish your Auto-Scaling base line allocations, how to monitor its actions over time and correlate to billing reports, and when to consider augmenting with manual scaling activities.</p></div>
+
+								<a class="cta-lnk o1" href="https://asktom.oracle.com/pls/apex/asktom.search?oh=12701,P551_INVITED=Y" target="_blank">Register</a>
+
+							</div>
+						</div>
+					</div>
+				</div>	
+
+
+			    <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>CLOUD COACH OFFICE HOURS: April 12, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<h5>Container Engine for Kubernetes</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>CLOUD COACH OFFICE HOURS: April 12, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Container Engine for Kubernetes</strong><br/>Learn about Oracle Kubernetes Engine, how to spin up highly-available clusters in minutes and some use cases for simplifying your dev ops life cycle..</p></div>
+
+								<a class="cta-lnk o1" href="https://asktom.oracle.com/pls/apex/asktom.search?oh=12698,P551_INVITED=Y" target="_blank">Register</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>WEBCAST: April 15, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<h5>Transform your WLS Java Apps to Microservices on Oracle Cloud Infrastructure with vFunction</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>WEBCAST: April 15, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Transform your WLS Java Apps to Microservices on Oracle Cloud Infrastructure with vFunction</strong><br/>Learn how vFunction automates and accelerates the application modernization process on Oracle Cloud Infrastructure.</p></div>
+
+								<a class="cta-lnk o1" href="https://go.oracle.com/LP=108249?elqCampaignId=276942" target="_blank">Register</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+			    <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>VISUAL BUILDER OFFICE HOURS: April 19, 2021<br />12:00 p.m. PT / 3:00 p.m. ET<br />Americas</strong>
+
+							<h5>Team Development and Lifecycle Management for Visual Apps</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>VISUAL BUILDER OFFICE HOURS: April 19, 2021<br />12:00 p.m. PT / 3:00 p.m. ET<br />Americas</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Team Development and Lifecycle Management for Visual Apps</strong><br/>Explore how development teams can improve their development process with Visual Builder Studio. Learn how to improve code version management, packaging, and deployment across environments.</p></div>
+
+								<a class="cta-lnk o1" href="https://asktom.oracle.com/pls/apex/asktom.search?oh=12695,P551_INVITED=Y" target="_blank">Register</a>
+
+							</div>
+						</div>
+					</div>
+				</div>				
+
+		    <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>WEBCAST: April 21, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<h5>Migrate Your Oracle Forms Applications to Oracle APEX</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>WEBCAST: April 21, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Migrate Your Oracle Forms Applications to Oracle APEX</strong><br/>Learn about the key reasons to modernize and when it's the right moment to start this type of project. We'll also show you how to convert a sample Oracle Forms application to Oracle APEX.</p></div>
+
+								<a class="cta-lnk o1" href="https://go.oracle.com/LP=108701?elqCampaignId=289228" target="_blank">Register</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+			    <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>WEBCAST: April 27, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<h5>Accelerate Application Development with Autonomous JSON Database</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>WEBCAST: April 27, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Accelerate Application Development with Autonomous JSON Database</strong><br/>Learn about the JSON capabilities in Oracle Database and how it can help with application development. Software engineer Josh Spiegel will cover functionality, architecture, and best practices for accessing JSON from a Java program.</p></div>
+
+								<a class="cta-lnk o1" href="https://go.oracle.com/LP=105252?elqCampaignId=276940" target="_blank">Register</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+			    <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>WORKSHOP: April 29, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<h5>Choose your Own JSON Adventure: Relational or Document Store</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>WORKSHOP: April 29, 2021<br />10:00 a.m. PT / 1:00 p.m. ET<br />Americas</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Choose your Own JSON Adventure: Relational or Document Store</strong><br/>Learn how the Oracle Database can not only store, index and have transactional consistency (ACID) with JSON documents, but how you can leverage all the power of the database for advanced security, application development and a whole suite of Simple Oracle Document Access (SODA) APIs.</p></div>
+
+								<a class="cta-lnk o1" href="https://go.oracle.com/LP=108444?elqCampaignId=287950" target="_blank">Register</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+
+</section>
+
+<!-- /CB137v0 -->
+
+
+
+<!-- CC01v0 -->
+
+<section class="cc01 cc01v0 cpad crule" id="category-2">
+
+	<div class="cc01w1 cwidth">
+
+		<h2>On Demand</h2><br />Couldn’t attend a live event, no problem! Watch it on demand anytime.
+
+
+	</div>
+
+</section>
+
+<!-- /CC01v0 -->
+
+<!-- CB137v0 -->
+
+<section class="cb137 cb137v0 cpad" data-trackas="cb137" data-ocomid="cb137" >
+
+	<div class="cb137w1 cwidth">
+
+		<div class="cb137w2 col-framework col4 col-multi col-smallgutters col-justified">
+
+			<div class="col-w1">
+				<!--
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<h5>Build Applications Faster with Low-Code</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Build Applications Faster with Low-Code</strong><br/>Learn about the latest APEX offerings. Discover how customers and partners like MineSense and Insum are succeeding with APEX. Join a Hands-on Lab to convert a spreadsheet into a multi-user Web application in minutes. Listen to what Forrester has to say about emerging Low-Code Industry</p></div>
+
+								<a class="cta-lnk o1" href="https://www.oracle.com/events/virtual-summits/cloud-platform/build-applications-with-low-code/" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<h5>Oracle Developer Live - AI and ML for Your Enterprise</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Oracle Developer Live - AI and ML for Your Enterprise</strong><br/>Put AI to work for your business and IT operations. AI can accelerate automation, reduce human errors, and enhance business insights. Join Oracle executives and product experts as they discuss how to eliminate the development roadblocks to building an AI-powered enterprise. Because data is the foundation for AI, you'll also learn how to access, prepare, and process it with speed and agility.</p></div>
+
+								<a class="cta-lnk o1" href="https://developer.oracle.com/developer-live/ai-ml-enterprise/" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-02.jpg">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<h5>Oracle Developer Live - Cloud Native</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Oracle Developer Live - Cloud Native</strong><br/>Engage with experts to learn how you can build open, cloud native technologies into your stack to gain speed and agility without compromising security and reliability.</p></div>
+
+								<a class="cta-lnk o1" href="https://developer.oracle.com/developer-live/cloud-native/" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-04.jpg">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<h5>Developer Live - MySQL</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Developer Live - MySQL</strong><br/>MySQL is the world’s leading open source database. During Oracle Developer Live—Oracle MySQL, developers had the opportunity to learn about the latest developments in MySQL 8.0 directly from the MySQL engineering team.</p></div>
+
+								<a class="cta-lnk o1" href="https://developer.oracle.com/developer-live/mysql/" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-04.jpg">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<h5>Developer Live - Java</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Developer Live - Java</strong><br/>Learn about Java 15 and how to improve your Java skills to address modern application development
+								</p></div>
+
+								<a class="cta-lnk o1" href="https://developer.oracle.com/developer-live/java/" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-04.jpg">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<h5>Developer Live - Database</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCASTS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Developer Live - Database</strong><br/>Learn how to harness the power of Oracle Database to build data-driven applications
+								</p></div>
+
+								<a class="cta-lnk o1" href="https://developer.oracle.com/developer-live/database/" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				-->
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Microservices Distributed Tracing: from traces to operational insights</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Microservices Distributed Tracing: from traces to operational insights</strong><br/>Learn how to implement Opentracing in your microservices deployment, how to extend the coverage to older legacy java components, and how to use the trace data for diagnostics, monitoring, planning and reporting.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/LAqOMixtAZE" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WORKSHOP</strong>
+
+							<h5>Build a Fully Functional APEX App from a Spreadsheet in 45 Minutes!</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WORKSHOP</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Build a Fully Functional APEX App from a Spreadsheet in 45 Minutes!</strong><br/>Get hands on experience learning how the new APEX Service works to build a fully functional APEX app in less than an hour. In this lab, you'll learn how to create an APEX App from a Spreadsheet and navigate and make changes to the APEX Application</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/XUHA0P3yikY" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Application Continuity for Developers</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Application Continuity for Developers</strong><br/>Application Continuity hides interruptions from applications and users. Learn how application developers and owners can easily take advantage of this functionality to add this resiliency transparently to the user experience without making changes to the application code.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/vpAhtWjDTwE" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND APEX OFFICE HOURS</strong>
+
+							<h5>APEX + Server-side JavaScript = Awesome!</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND APEX OFFICE HOURS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>APEX + Server-side JavaScript = Awesome!</strong><br/>Starting with Oracle Database 21c, developers can now execute JavaScript within the database. This functionality is enabled by the Multilingual Engine (MLE), powered by GraalVM. And APEX 20.2 is the first (and only) low code framework on the planet which natively supports server-side JavaScript, out of the box!</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/voolgTBoPyE" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+                <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Developing Serverless Applications on Oracle Cloud Infrastructure</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Developing Serverless Applications on Oracle Cloud Infrastructure</strong><br/>Learn how easy it is to build and deploy a serverless applications on Oracle Cloud Infrastructure.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/LGJm5hUR8Jc" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+                <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND VISUAL BUILDER OFFICE HOURS</strong>
+
+							<h5>Performance Optimization for Visual Builder Apps</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND VISUAL BUILDER OFFICE HOURS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Performance Optimization for Visual Builder Apps</strong><br/>Learn how to optimize your Visual Builder apps to run faster with new tips, techniques, and architectural and development considerations.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/VlxRs4kQxDc" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>				
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Message Driven Microservices & Monoliths with Micronaut</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Message Driven Microservices & Monoliths with Micronaut</strong><br/>Learn how to get started implementing messaging in your applications using open source tools such as Apache Kafka and RabbitMQ, as well as a managed Oracle Cloud-based option that can be plugged into your service with very little setup and configuration.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/yOPIv3G8uSI" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Build Cloud Native Applications on Oracle Cloud Infrastructure</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Build Cloud Native Applications on Oracle Cloud Infrastructure</strong><br/>Learn how you can build and deploy a microservice-based application on Oracle Cloud Infrastructure using Oracle Cloud Infrastructure Container Engine for Kubernetes (OKE).</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/bUZTuJ8_YsY" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND CLOUD COACHING OFFICE HOURS</strong>
+
+							<h5>Autonomous Database vs. Classic</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND CLOUD COACHING OFFICE HOURS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Autonomous Database vs. Classic</strong><br/> Learn about Oracle's Database Services as we compare use cases for Autonomous Database vs. Classic and demonstrate how to provision each.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/VlxRs4kQxDc" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND ADB OFFICE HOURS</strong>
+
+							<h5>Auto-Indexing Deep Dive</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND ADB OFFICE HOURS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Auto-Indexing Deep Dive</strong><br/>Learn some Auto-Indexing best practices and how to monitor the dynamic changes made over time.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/bAsyrEjjlNA" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>		
+				
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Why developers choose NoSQL Database for application development?</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Why developers choose NoSQL Database for application development?</strong><br/>Learn the technical drivers and business rationale for choosing to use NoSQL technology, use cases and deployment patterns developers use when choosing NoSQL technology, and design tradeoffs commonly made by app developers in choosing between relational and non-relational data stores</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/Wpr16pap704" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND VISUAL BUILDER OFFICE HOURS</strong>
+
+							<h5>Visual Builder - New Features for February 2021</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND VISUAL BUILDER OFFICE HOURS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Visual Builder - New Features for February 2021</strong><br/>The February version of Visual Builder will offer many new features. In this session, we'll review the key features in the areas of coding environment, services and backends, Git integration, and more.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/rQkxbPA9KpA" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND APEX OFFICE HOURS</strong>
+
+							<h5>Real-world Low Code: Four partners show how they deliver solutions using Oracle APEX!</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND APEX OFFICE HOURS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Real-world Low Code: Four partners show how they deliver solutions using Oracle APEX!</strong><br/>In this special edition of APEX Office Hours, we will be joined by four different Oracle partners who will share real-world solutions they've developed using Oracle APEX, across numerous industries and use cases. It's a great opportunity to see what is possible with low code and APEX, and also understand why these professional developers choose APEX.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/8ZQ-F9VjmXw" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Incorporating DevSecOps into Oracle Container Engine for Kubernetes with Check Point's CloudGuard</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Incorporating DevSecOps into Oracle Container Engine for Kubernetes with Check Point's CloudGuard</strong><br/>This webinar will present options using Terraform and Helm for integrating Check Point's CloudGuard Posture Management for Kubernetes in OKE and deployment of Check Point's CloudGuard AppSec protection for Kubernetes applications.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/aOmpGX5ykGU" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND CLOUD COACHING</strong>
+
+							<h5>Storage Services</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND CLOUD COACHING</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Storage Services</strong><br/>Learn how Oracle Cloud Storage delivers consistent high performance and scalability. We’ll introduce local, object, file, block and archive storage services and address key storage workload requirements and use cases.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/ykTegdzStwg" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WORKSHOP</strong>
+
+							<h5>Creating an App based on Existing Tables for Oracle Autonomous Cloud Service</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WORKSHOP</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Creating an App based on Existing Tables for Oracle Autonomous Cloud Service</strong><br/>This workshop walks you through creating an APEX application based on existing tables in your Oracle Database. You will build the first cut of an app based on existing table, reload an app and regenerate, add and link pages, manipulate regions and items, and define client-side interactivity declaratively.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/oLCrbQb62-A" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>How Autonomous Database accelerates developer productivity</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>How Autonomous Database accelerates developer productivity</strong><br/>A kick-off of a new monthly Autonomous Database deep dive developer series. The series will be dedicated to technical deep dive on how to use specific autonomous database capabilities, each month covering a different feature. This kick-off webcast will give an overview of the latest autonomous database capabilities with a snapshot of the features we will be covering in deep dive sessions in the coming months. We will cover the ways in which Autonomous Database automates developer activities, streamlines development of critical business applications, review autonomous features and review of the developer facing tools and 3rd party integrations with IDE's, SDKs, orchestration technology.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/2gh3oBKuEFM" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WORKSHOP</strong>
+
+							<h5>Explore the converged functionality of Oracle Autonomous Database</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WORKSHOP</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Explore the converged functionality of Oracle Autonomous Database</strong><br/>Explore Oracle's converged Autonomous Database, a multi-model, multitenant, multi-workload database. In this hands on workshop, you'll learn ways to consolidate and isolate a shared data model across multiple development teams and using all workload.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/OcdRN4tDYgI" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Terraforming the Cloud with Oracle Cloud Infrastructure Resource Manager</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Terraforming the Cloud with Oracle Cloud Infrastructure Resource Manager</strong><br/>Learn how to script a web application with Terraform and use Resource Manager to deploy to Oracle Cloud Infrastructure (OCI). Join this webcast to discover practical, in-the-field techniques of infra as a code. We demonstrate how to use best practices methodologies of automation while introducing the Oracle Cloud Infrastructure Resource Manager framework for using Terraform on OCI to codify infrastructure.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/7iAZeOzcAjY" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WORKSHOP</strong>
+
+							<h5>Build a Fully Functional APEX App from a Spreadsheet in 45 minutes!</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WORKSHOP</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Build a Fully Functional APEX App from a Spreadsheet in 45 minutes!</strong><br/>Get your feet wet learning how the new APEX Service works to build a fully functional APEX app in less than an hour. In this lab, you'll learn how to create an APEX App from a Spreadsheet and navigate and make changes to the APEX Application</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/H5YthwsOZKg" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Faster and safer application deployments on Kubernetes with Shipa and Oracle Kubernetes Engine (OKE)</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Faster and safer application deployments on Kubernetes with Shipa and Oracle Kubernetes Engine (OKE)</strong><br/>In this webcast we will show you how Shipa and OKE provide developers an application-centric view they need so they never have to think about Kubernetes objects again, allow platform engineers to put up guardrails and centrally control deployments across multiple clusters, monitor application performance, and implement network policies and security configurations from a centralized dashboard and eliminate the need for custom Helm charts, Terraform scripts and YAML, reducing months of work that has to be done before pushing your first application into production.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/NagfRoJWwkY4" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>	
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Cloud Coaching Office Hours: Computing Fundamentals</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Cloud Coaching Office Hours: Computing Fundamentals</strong><br/>In this session, learn how to set up Bare Metal, Virtual Machine, and Dedicated Hosts instances and hear about the advanced features and performance OCI compute provides, with a variety of image and shape options.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/OnD3mB0ZfFc" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Visual Builder - What’s New</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Visual Builder - What’s New</strong><br/>Learn about the new features added to Oracle Visual Builder in the latest release and how they benefit you. We’ll demonstrate Redwood UI and Oracle JET 9 updates, Improved development experience, and Visual Builder Studio integration for team development and CI/CD. We’ll also discuss what you need to know about upgrades, and the latest learning resources published for developers.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/zzqZAGLRp8s" target="_blank">Watch</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Flows for APEX - Model & run process flows within APEX!</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Flows for APEX - Model & run process flows within APEX!</strong><br/>Flows for APEX is an open source solution enabling you to design and run process flows within your APEX application. This was developed by expert members of the Oracle APEX community, and it has quickly evolved into a functionally rich process modeling solution. In this special edition of Oracle APEX Office Hours, we will be joined by the creators of Flows for APEX, where they will present and demonstrate the latest version 5 of Flows for APEX.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/q77HqPuVN7s" target="_blank">Watch</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Oracle Cloud Coaching: Networking and Connectivity</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Oracle Cloud Coaching: Networking and Connectivity</strong><br/>Learn how to set up a virtual cloud network with firewall rules and communication gateways that you can choose. Highly skilled solution engineers will show you how to define public or private subnets within your VCN, add virtual routers to control traffic flow to outside destinations and secure your cloud network and compute instances.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/2mf9KhSSBEw" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Accelerate development of data driven applications with Oracle’s Database Tools</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Accelerate development of data driven applications with Oracle’s Database Tools</strong><br/>Learn how you can load different types of data from multiple sources in a few simple steps using Oracle's free database tools.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/zovvC-yXn18" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>What's New in Oracle APEX 20.2 with Printing!</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>What's New in Oracle APEX 20.2 with Printing!</strong><br/>Join APEX development team as they explorer the new printing capabilities in APEX 20.2</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/7CoHu2PAHTE" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>		
+					
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-02.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Cloud Coaching Office Hours: Identity and Access Management</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Cloud Coaching Office Hours: Identity and Access Management</strong><br/>Learn how to set up consistent identity enforcement and manage employee, partner, and consumer access to cloud resources with Oracle Identity and Access Management. </p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/iumOidkVw10" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>				
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-02.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Accelerate & Simplify Blockchain Application Development</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Accelerate & Simplify Blockchain Application Development</strong><br/>Learn about Oracle&#8217;s new developer enhancements designed to reduce the time spent developing and coding blockchain apps.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/frG6VX9eERI" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Spend Less Time Debugging Code with ML-based Log Analytics</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Spend Less Time Debugging Code with ML-based Log Analytics</strong><br/>Let’s face it. You love to code but debugging pesky problems is always in the way. Join us in this session to learn how to identify business flows that are behaving abnormally and use machine learning techniques, including pattern recognition, trend analysis, cluster compare and links, among others, to quickly troubleshoot code defects and application performance issues.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/Nfl6IbeNneM" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>What's new in APEX 20.2</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>What's new in APEX 20.2</strong><br/>There are many new features coming in APEX 20.2.  In this session, we will present and demonstrate the marquee features of this latest release.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/fYq-6Jd_4No" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>	
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Developer Focus on Converged Database</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Developer Focus on Converged Database2</strong><br/>Oracle’s Converged Database offers a robust set of application development tools that empower developers to create fully integrated business applications. This webcast will discuss the different ways developers can leverage the wide variety of tools, workloads, data types, analytics and data management functionality supported by Oracle’s Converged Database platform.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/_QLDHtJ-TGE" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>	
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Getting Started with JSON Document Collections in the Autonomous JSON Database</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Getting Started with JSON Document Collections in the Autonomous JSON Database</strong><br/>Todd Sharp introduces you to the Autonomous JSON Database (AJD). AJD is exciting because it represents the very first time Oracle is offering a dedicated solution for JSON document collection persistence in the Oracle Cloud. It represents Oracle's commitment to offering developers tools and solutions that help them solve the problems they face when developing microservices and applications instead of trying to convince them to use a tool that might not be the best fit for them.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/ggkzN_OHPJs" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-03.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Ingest, Analyze, and Manage Your Logs with OCI Logging</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Ingest, Analyze, and Manage Your Logs with OCI Logging</strong><br/>Learn how to use the powerful analytics engine to search and analyze logs, and use the intuitive rules engine to act in near real-time on any log event.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/ED2AbHESD5k" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-03.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Moving Logs with Oracle Service Connector Hub</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Moving Logs with Oracle Service Connector Hub</strong><br/>Learn how to move logs from the Logging Service to Oracle Cloud Infrastructure services such as Object Storage, Streaming, Monitoring, Functions and Notifications.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/i0dz3mziyg8" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-03.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>RackWare Enables Container Migration to Oracle Cloud Container Engine for Kubernetes</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>RackWare Enables Container Migration to Oracle Cloud Container Engine for Kubernetes</strong><br/>Learn how RackWare Enables Container Migration to the Oracle Kubernetes Engine</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/20VFatXMKwM" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-03.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Advanced Chatbot Development - the Art of What's Possible</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Advanced Chatbot Development - the Art of What's Possible</strong><br />Learn how Oracle Digital Assistant is pushing beyond the wall of what’s possible in enterprise chatbot development.</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/YhSjlXXrc2c" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+                               <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Location matters! Map Visualization for APEX Developers</h5>
+
+						</div>
+
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Location matters! Map Visualization for APEX Developers</strong><br/>Learn everything about the Oracle Maps technology and how to use it in APEX applications.</p><p>Carsten Czarski, Consulting Member of Technical Staff<br />Honglei.x.Zhu, Principal Member of Technical Staff</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/GRUU9eO2zKo" target="_blank">Watch now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+				<div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-04.jpg">
+<strong>ON DEMAND WORKSHOP</strong>
+
+							<h5>Getting Started with Serverless Apps on Oracle Cloud Infrastructure</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Getting Started with Serverless Apps on Oracle Cloud Infrastructure</strong><br>Serverless Computing is now available in the Oracle Cloud. Join us for an overview of Oracle Cloud's Functions-as-a-Service and learn how you can use Oracle Cloud’s serverless building blocks - Functions, Events, and API Gateway - to build modern, event-driven microservices.</p><p>Greg Verstraeten, Senior Principal Product Manager<br />Sachin Pikle, Product Strategy Director</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/7gox7EAq5o8" target="_blank">Watch Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+                                <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>The Top 12 New Features in APEX 20.1 that Everyone Should Know!</h5>
+
+						</div>
+
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>The Top 12 New Features in APEX 20.1 that Everyone Should Know!</strong><br>Learn what the top 10 features of 20.1 are and how you can enhance your APEX applications.</p><p>Joel Kallman, Senior Director, Software Development</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/b9MEa5Idd1s" target="_blank">Watch now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+                                <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Hidden Gems in the Cloud</h5>
+
+						</div>
+
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Hidden Gems in the Cloud</strong><br>Learn where to find and how to use these lesser-known features. You’ll be sure to learn a few tips for saving money on your cloud bill, ensuring compliance, manage your database instances, monitor performance and even some tips for writing more efficient code in your applications.</p><p>Todd Sharp, Oracle Developer Advocate</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/q2Bly_6L65s" target="_blank">Watch now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+                                <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Headless CMS: Creating Modern Digital Experience</h5>
+
+						</div>
+
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Headless CMS: Creating Modern Digital Experience</strong><br>Learn how to utilize Oracle Content and Experience as an enterprise-grade CMS and intelligent content platform suited to serve a variety of content and architecture needs.</p><p>Preston So, Senior Director, Product Strategy<br />Lee Ribeiro, Product Marketing Manager</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/vB6BsdC6kjk" target="_blank">Watch now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+                                <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Managing Kubernetes Applications on Oracle Cloud with Nirmata</h5>
+
+						</div>
+
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Managing Kubernetes Applications on Oracle Cloud with Nirmata</strong><br>Learn how Nirmata can be used to provision and manage OKE clusters. We will explore how Nirmata addresses Day 2 operations challenges for OKE clusters and discuss how Nirmata simplifies application deployment and management of cloud-native applications.</p><p>Ritesh Patel, VP, Product, Nirmata<br />Gilson Melo, Director of Product Management, Oracle</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/yT-V2fJPg6E" target="_blank">Watch now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+                                <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Optimizing grocery delivery routes using Oracle APEX, Oracle Autonomous Database and Google Maps APIs</h5>
+
+						</div>
+
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Optimizing grocery delivery routes using Oracle APEX, Oracle Autonomous Database and Google Maps APIs</strong><br>Learn how Santhosh Jose, a Principal Applications Engineer in the Oracle HCM product development organization discovered Oracle APEX to solve a specific problem during the Pandemic. He built a RouteBuilder app that optimizes grocery delivery routes.</p><p>
+Santhosh Jose, Principal Applications Engineer<br />Joel Kallman, Senior Director, Software Development</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/ZqIASbnd6n4" target="_blank">Watch now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+                               <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Beginner's Guide to Oracle APEX</h5>
+
+						</div>
+
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Beginner's Guide to Oracle APEX</strong><br>You've heard about Oracle APEX, you're keen to learn more and see what it can do.</p><p>
+Anthony Rayner, Principal Member of Technical Staff - APEX Team</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/_KqHwVUzGOQ" target="_blank">Watch now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+                                <div class="col-item">
+
+					<div class="col-item-w1">
+
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-01.jpg">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<h5>Introduction to JavaScript for APEX Developers</h5>
+
+						</div>
+
+
+						<div class="cb137w4">
+
+							<strong>ON DEMAND WEBCAST</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p><strong>Introduction to JavaScript for APEX Developers</strong><br>Learn how to write essential JavaScript code, add it to APEX apps, and work with jQuery and the DOM.</p><p>
+Dan McGhan, Developer Advocate</p></div>
+
+								<a class="cta-lnk o1" href="https://youtu.be/_lzurjl5Vm0" target="_blank">Watch now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+
+
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- /CB137v0 -->	
+
+
+<!-- CC01v0 -->
+
+<section class="cc01 cc01v0 cpad crule" id="category-3">
+
+	<div class="cc01w1 cwidth">
+
+		<h2>Self-Guided Labs</h2><br />Get hands on experience performing a self guided lab at your own pace.
+
+	</div>
+
+</section>
+
+<!-- /CC01v0 -->
+
+<!-- CB137v0 -->
+
+<section class="cb137 cb137v0 cpad" data-trackas="cb137" data-ocomid="cb137" >
+
+	<div class="cb137w1 cwidth">
+		<div class="cb137w2 col-framework col4 col-multi col-smallgutters col-justified">
+			<div class="col-w1">
+				<div class="col-item">
+					<div class="col-item-w1">
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-05.jpg">
+
+							<strong>ALL SELF-GUIDED LABS</strong>
+
+							<h5>Get Hands on Experience Developing in the Oracle Cloud</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>ALL SELF-GUIDED LABS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p>Get Hands on Experience Developing in the Oracle Cloud at your own pace. See a list of the hands on workshops using Oracle Cloud services.</p></div>
+
+								<a class="cta-lnk o1" href="https://go.oracle.com/hols" target="_blank">Access Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-item">
+					<div class="col-item-w1">
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-05.jpg">
+
+							<strong>DATABASE SELF-GUIDED LABS</strong>
+
+							<h5>Get Hands on Experience Developing with Oracle Database in the Oracle Cloud</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>DATABASE SELF-GUIDED LABS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p>Get Hands on Experience Developing with Oracle Database in the Oracle Cloud at your own pace.</p></div>
+
+								<a class="cta-lnk o1" href="https://go.oracle.com/dbhols" target="_blank">Access Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>		
+
+				<div class="col-item">
+					<div class="col-item-w1">
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-05.jpg">
+
+							<strong>JAVA SELF-GUIDED LABS</strong>
+
+							<h5>Get Hands on Experience Developing Java Applications in the Oracle Cloud</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>JAVA SELF-GUIDED LABS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p>Get Hands on Experience Developing Java Applications in the Oracle Cloud at your own pace.</p></div>
+
+								<a class="cta-lnk o1" href="https://go.oracle.com/javahols" target="_blank">Access Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-item">
+					<div class="col-item-w1">
+						<div class="cb137w3 o-bgimg" data-bgimg="https://www.oracle.com/a/ocom/img/cb137-event-pillar-05.jpg">
+
+							<strong>MYSQL SELF-GUIDED LABS</strong>
+
+							<h5>Get Hands on Experience Developing Apps with MySQL Database Service</h5>
+
+						</div>
+
+						<div class="cb137w4">
+
+							<strong>MYSQL SELF-GUIDED LABS</strong>
+
+							<div class="cb137w5">
+
+								<div class="cb137w6"><p>Get Hands on Experience Developing Apps with MySQL Database Service at your own pace.</p></div>
+
+								<a class="cta-lnk o1" href="https://go.oracle.com/mysqlhols" target="_blank">Access Now</a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+<!-- /CB137v0 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- / _Raw-Text -->
+
+<!-- U10v0 -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U10v0 -->
+<div id="u10" class="u10 u10v6" data-trackas="ffooter" data-ocomid="u10">
+	<div class="u10w1">
+		
+<div class="u10w2">
+<div class="u10w3">
+<h5>Resources for</h5>
+<ul>
+<li><a data-lbl="resources-for:developers" href="https://developer.oracle.com/">Developers</a></li>
+<li><a data-lbl="resources-for:startups" href="//www.oracle.com/startup/">Startups</a></li>
+<li><a data-lbl="resources-for:students-educators" href="https://academy.oracle.com/en/oa-web-overview.html">Students and Educators</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>Partners</h5>
+<ul>
+<li><a data-lbl="partners:become-a-partner" href="//www.oracle.com/partners/en/partner-with-oracle/">Oracle Partner Network</a></li>
+<li><a data-lbl="partners:find-a-partner" href="https://partner-finder.oracle.com/">Find a Partner</a></li>
+<li><a data-lbl="partners:login-opn" href="//www.oracle.com/partners/">Log in to OPN</a></li>
+</ul>
+</div>
+</div>	
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>Emerging Technologies</h5>
+<ul>
+<li><a data-lbl="emerging-technlogy:artificial-intelligence" href="//www.oracle.com/artificial-intelligence/">Artificial Intelligence</a></li>
+<li><a data-lbl="emerging-technlogy:blockchain" href="//www.oracle.com/internet-of-things/">Internet of Things (IoT)</a></li>
+<li><a data-lbl="emerging-technlogy:solutions" href="//www.oracle.com/emerging-technologies/">More Solutions</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>How We Operate</h5>
+<ul>
+<li><a data-lbl="how-we-operate:cloud-security" href="//www.oracle.com/corporate/security-practices/cloud/">Cloud Security</a></li>
+<li><a data-lbl="doing-business-with-oracle" href="//www.oracle.com/corporate/doing-business.html">Doing Business with Oracle</a></li>
+<li><a data-lbl="how-we-operate:oracle-at-oracle" href="//www.oracle.com/cloud/oracle-at-oracle/">Oracle@Oracle</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w2">
+<div class="u10w3">
+<h5>Contact Us</h5>
+<ul>
+<li><a href="tel:18006330738">US Sales: +1.800.633.0738</a></li>
+<li><a data-lbl="contact-us:global-contacts" href="//www.oracle.com/corporate/contact/global.html">Global Contacts</a></li>
+<!--<li><a data-lbl="contact-us:support-directory" href="/support/contact.html">Support Directory</a></li>-->
+<li><a data-lbl="contact-us:subscribe-to-emails" href="https://go.oracle.com/subscriptions">Subscribe to emails</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w4">
+<hr />
+</div>
+<div class="u10w5" data-trackas="footer">
+<ul class="scl-icons">
+<li class="scl-facebook"><a data-lbl="scl-icon:facebook" href="https://www.facebook.com/Oracle/" title="Oracle on Facebook">Facebook</a></li>
+<li class="scl-twitter"><a data-lbl="scl-icon:twitter" href="https://twitter.com/oracle" title="Follow Oracle on Twitter">Twitter</a></li>
+<li class="scl-linkedin"><a data-lbl="scl-icon:linkedin" href="https://www.linkedin.com/company/oracle/" title="Oracle on LinkedIn">LinkedIn</a></li>
+<li class="scl-youtube"><a data-lbl="scl-icon:you-tube" href="http://www.youtube.com/oracle/" title="Watch Oracle on YouTube">YouTube</a></li>
+</ul>
+
+<div class="u10-ologo"><a data-lbl="integrated-cloud-applications-and-platform-services" href="//www.oracle.com/">Oracle</a></div>
+<h3>Integrated Cloud Applications &amp; Platform Services</h3>
+
+<ul class="u10-links">
+<li><a data-lbl="copyright" href="//www.oracle.com/legal/copyright.html">&copy; 2021 Oracle</a></li>
+<li><a data-lbl="site-map" href="//www.oracle.com/sitemap.html">Site Map</a></li>
+<li><a data-lbl="privacy" href="//www.oracle.com/legal/privacy/">Privacy</a><span>/</span><a data-lbl="do-not-sell-my-info" href="//www.oracle.com/legal/privacy/privacy-choices.html">Do Not Sell My Info</a></li>
+<li class="u10mtool" id="u10cmenu"><a data-lbl="country-region" class="u10ticon u10regn" href="/devo-menucontent.html#u10countrymenu">Country/Region</a></li>
+<li><div id="teconsent"></div></li>
+<li><a data-lbl="ad-choices" href="//www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html#adchoices">Ad Choices</a></li>
+</ul>
+
+</div>
+</div>
+</div>
+<!-- /U10v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- /U10v0 -->
+
+		</div>
+		
+<!-- Container/Display Start -->
+
+<!-- _Raw-Text -->
+<!-- www-us EndBodyAdminContainer -->
+<!-- Start SiteCatalyst code -->
+<script language="JavaScript" src="https://www.oracleimg.com/us/assets/metrics/ora_ocom.js"></script>
+<!-- End SiteCatalyst code -->
+
+ <!--DTM embed code - Footer -->
+ <script type="text/javascript">_satellite.pageBottom();</script>
+ <!--End-->
+<!-- www-us EndBodyAdminContainer -->
+
+<!-- / _Raw-Text -->
+
+<!-- Container/Display end -->
+
+	</body>
+</html>

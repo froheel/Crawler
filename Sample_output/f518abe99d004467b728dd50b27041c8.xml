@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html xml:lang="en-us" lang="en-us" class="md letter-style learn">
+<head>
+    
+
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta property="og:site_name" content="Oracle Help Center">
+    <meta name="generator" content="Oracle Markdown Generation 1.0: Jekyll 3.9.0">
+
+    <!-- The title values -->
+    <title>Introduction to Terraform with Oracle Linux</title>
+    <meta property="og:title" content="Introduction to Terraform with Oracle Linux">
+    <meta name="application-name" content="Introduction to Terraform with Oracle Linux">
+    <meta name="dcterms.title" content="Introduction to Terraform with Oracle Linux">
+    <!-- The description values -->
+    
+    <meta property="og:description" content="Learn how to install, configure, and create an Oracle Linux instance with Terraform.">
+    <meta name="description" content="Learn how to install, configure, and create an Oracle Linux instance with Terraform.">
+    
+    
+    <!-- sets the footer copyright -->
+    <meta name="dcterms.dateCopyrighted" content="2021">
+    
+    
+    <meta name="dcterms.created" content="2021-03-26T21:29:19+00:00">
+    <meta name="dcterms.category" content="learn">
+    <meta name="dcterms.identifier" content="F40571-03">
+    <meta name="dcterms.product" content="en/learn;en/operating-systems/oracle-linux/8">
+    
+    <!-- Additional metadata for Learn -->
+    <meta name="dcterms.extent" content="PT1H0M0S">
+    <meta name="dcterms.educationLevel" content="Beginner">
+    <meta name="dcterms.audience" content="DevOps Engineer;Developer;IT Administrator">
+    <meta name="keywords" content="Oracle Linux,Terraform">
+    
+
+    
+    
+    <link rel="first" href="/en/learn/intro_terraform_linux/index.html" title="First Page" type="text/html">
+    <link rel="contents" href="/en/learn/intro_terraform_linux/toc.htm" title="Table of Contents" type="text/html">
+    <link rel="self" href="/en/learn/intro_terraform_linux/" title="Current Page" type="text/html">
+
+    <link rel="stylesheet" href="/sp_common/book-template/ohc-book-template/css/book.css">
+    <link rel="shortcut icon" href="/sp_common/book-template/ohc-common/img/favicon.ico">
+    <meta name="robots" content="all">
+    <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+    <script>
+        document.write('<style type="text/css">');
+        document.write('body > .noscript, body > .noscript ~ * { opacity: 0; }');
+        document.write('</style>');
+    </script>
+    <script data-main="/sp_common/book-template/ohc-book-template/js/book-config" src="/sp_common/book-template/requirejs/require.js"></script>
+    <script>
+        if (window.require === undefined) {
+            document.write('<script data-main="./sp_common/book-template/ohc-book-template/js/book-config" src="./sp_common/book-template/requirejs/require.js"><\/script>');
+            document.write('<link href="./sp_common/book-template/ohc-book-template/css/book.css" rel="stylesheet">');
+        }
+    </script>
+
+    <meta name="dcterms.isVersionOf" content="INTRO_TERRAFORM_LINUX">
+  <script id="ssot-metadata" type="application/json"> {"primary":{"category":{"short_name":"learn","element_name":"Learn","display_in_url":true},"suite":{"short_name":"not-applicable","element_name":"Not Applicable","display_in_url":false},"product_group":{"short_name":"not-applicable","element_name":"Not Applicable","display_in_url":false},"product":{"short_name":"not-applicable","element_name":"Not Applicable","display_in_url":false}}} </script>
+    <script>window.ohcglobal || document.write('<script src="/en/dcommon/js/global.js">\x3C/script>')</script></head>
+<body>
+<div class="noscript alert alert-danger text-center" role="alert">
+    
+    
+    <span class="fa fa-exclamation-triangle" aria-hidden="true"></span> JavaScript must be enabled to correctly display this content
+</div>
+<article>
+    
+    <div class="infoboximportant">
+        <p class="notep1">Note:</p>
+        <ul style="list-style-type: disc;">
+            
+            <li>This tutorial requires access to Oracle Cloud. To sign up for a free account, see <a href=" https://www.oracle.com/cloud/free/">Oracle Cloud Free Tier</a>.</li>
+            
+            <li>It uses example values for Oracle Cloud Infrastructure credentials, tenancy, and compartments. When completing your lab, substitute these values with ones specific to your cloud environment. </li>
+        </ul>
+    </div>
+    
+    <h1 id="introduction-to-terraform-with-oracle-linux">Introduction to Terraform with Oracle Linux</h1>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>This lab exercise introduces you to Terraform in Oracle Cloud Infrastructure, and shows you how to do a simple deployment of an Oracle Linux instance. By following instructions, copying commands and code you can work through this simple exercise as an introduction to Terraform in Oracle Cloud Infrastructure.</p>
+
+<h3 id="objectives">Objectives</h3>
+
+<p>In this tutorial, you will:</p>
+<ul>
+  <li>Configure an <strong>Oracle Linux 7</strong> instance to run Terraform and communicate over the Oracle Cloud Infrastructure API</li>
+  <li>Organize your Terraform files to take advantage of working in different environments</li>
+  <li>Collect required configuration data such as OCID values</li>
+  <li>Create a cloud-init user data configuration script</li>
+  <li>Create, then destroy the instance using Terraform</li>
+</ul>
+
+<h2 id="what-you-need">What you Need</h2>
+<ol>
+  <li>
+    <p>An <strong>Oracle Linux 7</strong> instance, with Terraform packages, and Oracle Cloud Infrastructure CLI installed.</p>
+  </li>
+  <li>
+    <p>Access to an Oracle Cloud Infrastructure compartment with permissions to create instances and access to an Oracle Cloud Infrastructure virtual cloud network (VCN).</p>
+  </li>
+</ol>
+
+<h2 id="create-the-terraform-variable-shell-script">Create the Terraform Variable Shell Script</h2>
+<p>This exercise requires you to collect and decide several values for Terraform to create the Oracle Linux instance. This exercise uses a Terraform variable shell script to set these values for processing. This approach allows you to re-use the Terraform code independently of the environment in which it runs. This approach also simplifies the process of organizing the code because you can paste necessary values right into the shell script as you collect them.</p>
+
+<p><strong>Note:</strong> Environment variables that have names starting with the token <code class="language-plaintext highlighter-rouge">TF_VAR_</code> are interpreted for use by Terraform. The Terraform variable name is appended to the token <code class="language-plaintext highlighter-rouge">TF_VAR_</code>. For example the environment variable <code class="language-plaintext highlighter-rouge">TF_VAR_user_ocid</code> associates the value of that environment variable to the Terraform variable <code class="language-plaintext highlighter-rouge">user_ocid</code>.</p>
+
+<ol>
+  <li>
+    <p>Make a directory named <code class="language-plaintext highlighter-rouge">~/tfLab</code> for this exercise, and change to make that the working directory.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">mkdir</span> ~/tfLab
+<span class="nb">cd</span> ~/tfLab
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>In this and following steps throughout the exercise, environment variables are added to a file named <code class="language-plaintext highlighter-rouge">tfVars.sh</code> using the echo command.  Keep this terminal clear for this purpose.</p>
+
+    <p>Start the first value in the script file by inserting a portion of the environment variable assignment for <code class="language-plaintext highlighter-rouge">user_ocid</code>. Input the user OCID variable assignment with the <code class="language-plaintext highlighter-rouge">echo</code> command, then review with the <code class="language-plaintext highlighter-rouge">cat</code> command.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="nt">-n</span> <span class="s2">"export TF_VAR_user_ocid="</span> <span class="o">&gt;&gt;</span> tfVars.sh
+<span class="nb">cat </span>tfVars.sh
+</code></pre></div>    </div>
+
+    <p><strong>Note:</strong> Use the <code class="language-plaintext highlighter-rouge">-n</code> option to prevent the echo command from writing a newline character. The following insertion will append directly to the assignment that was previously provided. Press enter to present a clean prompt.</p>
+
+    <p><img src="./images/first_tf_var.jpg" alt="first tf var" title=" "></p>
+  </li>
+</ol>
+
+<h2 id="collect-user-and-tenancy-ocid-values">Collect User and Tenancy OCID Values</h2>
+<p>To complete the CLI configuration, you will gather user and tenancy OCID values. These values are two of five configuration settings you make that allow the Oracle Cloud Infrastructure to authenticate calls to the API through Terraform, which runs on the instance. These values are also used within the Terraform code for the Oracle Cloud Infrastructure provider.</p>
+
+<p><strong>Note:</strong> You are given environment variable assignments to copy at the end of this step. If you use them, replace the OCID value placeholders with your OCID values.</p>
+
+<ol>
+  <li>
+    <p>Find the user OCID by clicking on the Oracle Cloud Infrastructure console profile icon, then clicking the user name to display user details.</p>
+
+    <p><img src="./images/user_profile.jpg" alt="get user profile" title=" "></p>
+
+    <p>From the user details page, click the <strong>Copy</strong> link next to the OCID value, which shows only the trailing few characters.</p>
+  </li>
+  <li>
+    <p>Use the <code class="language-plaintext highlighter-rouge">echo</code> command to append the OCID value to the assignment. Use the <code class="language-plaintext highlighter-rouge">cat</code> command to review it.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"ocid1.user.oc1..[your user OCID]"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+<span class="nb">cat </span>tfVars.sh
+</code></pre></div>    </div>
+
+    <p><img src="./images/user_ocid_env_var.jpg" alt="user env var" title=" "></p>
+  </li>
+  <li>
+    <p>Empty the display with the <code class="language-plaintext highlighter-rouge">clear</code> command.</p>
+  </li>
+  <li>
+    <p>Get the tenancy OCID by clicking on the console profile icon, then clicking the tenancy name to display tenancy details.<br></p>
+
+    <p><img src="./images/tenancy_profile.jpg" alt="get tenancy profile" title=" "></p>
+  </li>
+  <li>
+    <p>From the tenancy details page, click the <strong>Copy</strong> link next to the OCID value, which shows only the trailing few characters.</p>
+  </li>
+  <li>
+    <p>Input the tenancy OCID variable assignment with the <code class="language-plaintext highlighter-rouge">echo</code> command and include the tenancy OCID value. Use the <code class="language-plaintext highlighter-rouge">cat</code> command to review.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_tenancy_ocid=ocid1.tenancy.oci1..[your tenancy ocid]"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+<span class="nb">cat </span>tfVars.sh
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Paste the value into the <code class="language-plaintext highlighter-rouge">tfVars.sh</code> file as the assigned value for the variable <code class="language-plaintext highlighter-rouge">TF_VAR_tenancy_ocid</code>.<br></p>
+
+    <p><img src="./images/tenancy_ocid_env_var.jpg" alt="user env var" title=" "></p>
+  </li>
+  <li>
+    <p>Leave this terminal display open and available so you can copy the user and tenancy OCID values for the next step in which configure the CLI.</p>
+  </li>
+</ol>
+
+<h2 id="set-up-the-oracle-cloud-infrastructure-cli-configuration">Set Up the Oracle Cloud Infrastructure CLI Configuration</h2>
+<p>In this step, open a second <code class="language-plaintext highlighter-rouge">ssh</code> session on another terminal and keep the other session active, with the <code class="language-plaintext highlighter-rouge">vi</code> editor open. Run the <code class="language-plaintext highlighter-rouge">oci setup config</code> command in the new terminal to create the <code class="language-plaintext highlighter-rouge">config</code> file on your instance. During this process API keys are created for you. After the command completes you will copy essential values from the <code class="language-plaintext highlighter-rouge">oci setup config</code> screen output, and paste them into the <code class="language-plaintext highlighter-rouge">tfVars.sh</code> file. You will also upload the public key for the API to your Oracle Cloud Infrastructure user profile.</p>
+
+<ol>
+  <li>Run the <code class="language-plaintext highlighter-rouge">oci setup config</code> command.
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>oci setup config
+</code></pre></div>    </div>
+
+    <p><img src="./images/oci_setup_config_01.jpg" alt="oci setup config" title=" "></p>
+  </li>
+  <li>
+    <p>The prompt asks for a location for the <code class="language-plaintext highlighter-rouge">config</code> file. The default location is <code class="language-plaintext highlighter-rouge">home/opc/.oci/config</code>. Press enter to accept the value.</p>
+
+    <p><img src="./images/oci_setup_config_02.jpg" alt="oci setup user ocid" title=" "></p>
+  </li>
+  <li>
+    <p>The prompt asks for the user OCID. Copy the value from the <code class="language-plaintext highlighter-rouge">TF_VAR_user_ocid</code> environment variable in the other terminal, which is displaying the <code class="language-plaintext highlighter-rouge">tfVars.sh</code> file, and paste it into the prompt. Press Enter if necessary.</p>
+
+    <p><img src="./images/oci_setup_config_03.jpg" alt="oci setup tenancy ocid" title=" "></p>
+  </li>
+  <li>
+    <p>The prompt asks for the tenancy OCID. Copy the value from the <code class="language-plaintext highlighter-rouge">TF_VAR_tenancy_ocid</code> environment variable in the other terminal, which is displaying the <code class="language-plaintext highlighter-rouge">tfVars.sh</code> file, and paste it into the prompt. Press Enter if necessary.</p>
+
+    <p><img src="./images/oci_setup_config_04.jpg" alt="oci setup region" title=" "></p>
+  </li>
+  <li>
+    <p>The prompt asks for the region, by index or name. Select your region from the list. The region where this exercise was developed is <code class="language-plaintext highlighter-rouge">us-ashburn-1</code>. Enter the region value or index, and press Enter.</p>
+
+    <p><img src="./images/oci_setup_config_05.jpg" alt="oci setup key" title=" "></p>
+  </li>
+  <li>
+    <p>The prompt asks you to generate a new API signing key pair. Respond with <code class="language-plaintext highlighter-rouge">Y</code>, and press Enter.</p>
+
+    <p><img src="./images/oci_setup_config_06.jpg" alt="oci setup key path" title=" "></p>
+  </li>
+  <li>
+    <p>The prompt asks you to enter a directory for the key pair. Accept the default location <code class="language-plaintext highlighter-rouge">/home/opc/.oci</code> by pressing Enter.</p>
+
+    <p><img src="./images/oci_setup_config_07.jpg" alt="oci setup key name" title=" "></p>
+  </li>
+  <li>
+    <p>The prompt asks you to enter a key name. Accept the default key name token <code class="language-plaintext highlighter-rouge">oci_api_key</code> by pressing Enter.</p>
+
+    <p><img src="./images/oci_setup_config_08.jpg" alt="oci setup key passphrase" title=" "></p>
+  </li>
+  <li>
+    <p>The prompt asks for a key passphrase. For this exercise, press Enter, which means there is no passphrase used.</p>
+
+    <p><img src="./images/oci_setup_config_09.jpg" alt="oci setup config done" title=" "></p>
+  </li>
+  <li>
+    <p>The <code class="language-plaintext highlighter-rouge">oci setup config</code> command has completed and has produced the API authentication key pair and also includes the region in which you are working. There are three more environment variables to assign with the results displayed in the terminal.</p>
+
+    <p>Clear the screen in the terminal where you will set these environment variables with values copied from the completed <code class="language-plaintext highlighter-rouge">oci setup config</code> command output display.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>clear
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>From the terminal screen displaying the <code class="language-plaintext highlighter-rouge">oci setup config</code> output, select and copy the region value. In the terminal screen displaying the file <code class="language-plaintext highlighter-rouge">tfVars.sh</code> enter the environment variable definition for the region.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_region=us-ashburn-1"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>From the terminal screen displaying the <code class="language-plaintext highlighter-rouge">oci setup config</code> output, select and copy the fingerprint value. In the terminal screen displaying the file <code class="language-plaintext highlighter-rouge">tfVars.sh</code> enter the environment variable definition for the fingerprint.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_fingerprint=[your fingerprint]"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>From the terminal screen displaying the <code class="language-plaintext highlighter-rouge">oci setup config</code> output, select and copy the key file value. In the terminal screen displaying the file <code class="language-plaintext highlighter-rouge">tfVars.sh</code> enter the environment variable definition for the key file. Then display the file with the <code class="language-plaintext highlighter-rouge">cat</code> command.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_api_private_key=/home/opc/.oci/oci_api_key.pem"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+<span class="nb">cat </span>tfVars.sh
+</code></pre></div>    </div>
+
+    <p><img src="./images/oci_provider_values.jpg" alt="oci provider values" title=" "></p>
+  </li>
+  <li>
+    <p>Open the Oracle Cloud Infrastructure console and navigate to your user profile by clicking on the profile icon, then your user name scroll down and select the <strong>API Keys</strong> option under the <strong>Resources</strong> menu.</p>
+
+    <p><img src="./images/add_api_key.jpg" alt="add api key" title=" "></p>
+  </li>
+  <li>
+    <p>Click <strong>Add API Key</strong>.</p>
+  </li>
+  <li>
+    <p>Select the <strong>Paste Public Key</strong> option.</p>
+
+    <p><img src="./images/paste_api_key_01.jpg" alt="paste api key" title=" "></p>
+  </li>
+  <li>
+    <p>Return to the terminal where <code class="language-plaintext highlighter-rouge">oci setup config</code> was run, clear the screen and display the contents of the public key file in the <code class="language-plaintext highlighter-rouge">.oci</code> directory.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>clear
+<span class="nb">cat</span> .oci/oci_api_key_public.pem
+</code></pre></div>    </div>
+
+    <p><img src="./images/cat_public_key.jpg" alt="cat public key" title=" "></p>
+  </li>
+  <li>
+    <p>Select and copy the content of the public key from the terminal display and return to <strong>Add API Key</strong> input and paste the value.</p>
+
+    <p><img src="./images/paste_api_key_02.jpg" alt="paste api key value" title=" "></p>
+  </li>
+  <li>
+    <p>Click <strong>Add</strong>.</p>
+  </li>
+  <li>
+    <p>Examine the <strong>Configuration File Preview</strong>. It should reflect the same values that are in the <code class="language-plaintext highlighter-rouge">~/.oci/config</code> file.</p>
+
+    <p><img src="./images/config_file_preview.jpg" alt="config file preview" title=" "></p>
+
+    <p>Click <strong>Close</strong>.</p>
+  </li>
+  <li>
+    <p>Review the API Key entry on the user details page.</p>
+
+    <p><img src="./images/api_key.jpg" alt="api key review" title=" "></p>
+  </li>
+</ol>
+
+<h2 id="gather-and-organize-values-in-the-shell-script">Gather and Organize Values in the Shell Script</h2>
+<p>In this step, you will collect the OCID and other Oracle Cloud Infrastructure values that are necessary to create and host an Oracle Linux server.</p>
+
+<ol>
+  <li>
+    <p>Reach the compartment OCID by navigating through the console main menu to the <strong>Identity</strong> option, then click <strong>Compartments</strong>.</p>
+
+    <p><img src="./images/identity_compartments.jpg" alt="identity compartments" title=" "></p>
+  </li>
+  <li>
+    <p>On the compartment list display that appears, bring up the record for your compartment. Hover the mouse over the OCID value and click the <strong>Copy</strong> link. The link changes to <strong>Copied</strong> when the value is ready.</p>
+
+    <p><img src="./images/copy_compartment_ocid.jpg" alt="copy copmartment ocid" title=" "></p>
+  </li>
+  <li>
+    <p>Return to the terminal session in which you are building the environment variable shell file. Clear the screen if necessary. Create an environment variable assignment for the <code class="language-plaintext highlighter-rouge">compartment_ocid</code> value, and paste the OCID value from the console.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_compartment_ocid=ocid1.compartment.oci1..[your compartment ocid]"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+</code></pre></div>    </div>
+
+    <p><img src="./images/compartment_ocid_env_var.jpg" alt="compartment ocid env var" title=" "></p>
+  </li>
+  <li>
+    <p>At the console, navigate through the console menu to the <strong>Instances</strong> list. On the <strong>Instances</strong> list, find the <strong>Availability domains</strong> displayed on the screen. Copy the name of the availability domain in which you want Terraform to create the instance.</p>
+
+    <p><img src="./images/availability_domains.jpg" alt="availability domain list" title=" "></p>
+  </li>
+  <li>
+    <p>Return to the terminal session. Create an environment variable assignment for the <code class="language-plaintext highlighter-rouge">selected_AD</code> value, and paste the name from the console.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_selected_AD=DSdu:US-ASHBURN-AD-3"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+</code></pre></div>    </div>
+
+    <p><img src="./images/selected_AD_env_var.jpg" alt="selected AD env var" title=" "></p>
+  </li>
+  <li>
+    <p>The instance will require a subnet, so navigate to the subnet on which you want the new server’s primary VNIC to be connected. Copy the subnet OCID value by clicking the <strong>Copy</strong> link. The link changes to <strong>Copied</strong> when ready.</p>
+
+    <p><img src="./images/subnet_ocid.jpg" alt="subnet ocid" title=" "></p>
+  </li>
+  <li>
+    <p>Return to the terminal session. Create an environment variable assignment for the <code class="language-plaintext highlighter-rouge">subnet_ocid</code> value, and paste the OCID value from the console.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_subnet_ocid=ocid1.subnet.oc1.[your subnet ocid]"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+</code></pre></div>    </div>
+
+    <p><img src="./images/subnet_ocid_env_var.jpg" alt="subnet ocid env var" title=" "></p>
+  </li>
+  <li>
+    <p>Oracle Cloud Infrastructure provides current and legacy versions of many different operating system images. Navigate to the page for <a href="https://docs.oracle.com/en-us/iaas/images/oracle-linux-8x/">All Oracle Linux 8.x Images</a>. Click the name of the most recent Oracle Linux 8 image to display the list of OCID values for the image in each region. Select and copy the image OCID for the region in which the instance will be created.</p>
+
+    <p><img src="./images/image_ocid.jpg" alt="image ocid" title=" "></p>
+  </li>
+  <li>
+    <p>Return to the terminal session. Create an environment variable assignment for the <code class="language-plaintext highlighter-rouge">iamge_ocid</code> value, and paste the OCID value from the <strong>Image OCIDs</strong> list.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_image_ocid=ocid1.image.[your image OCID]"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+</code></pre></div>    </div>
+
+    <p><img src="./images/image_ocid_env_var.jpg" alt="image ocid env var" title=" "></p>
+  </li>
+  <li>
+    <p>Select a compute shape name from the Oracle Cloud Infrastructure documentation page describing <a href="https://docs.oracle.com/en-us/iaas/Content/Compute/References/computeshapes.htm" title="Compute Shapes">Compute Shapes</a>. Click the <strong>Standard Shapes</strong> link on the page, then select and copy the name <strong>VM.Standard2.1</strong>.</p>
+
+    <p><img src="./images/standard_shapes.jpg" alt="stardard shapes" title=" "></p>
+  </li>
+  <li>
+    <p>Return to the terminal session. Create an environment variable assignment for the <code class="language-plaintext highlighter-rouge">instance_shape</code> value, and paste the name from the <strong>Standard Shapes</strong> list.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_instance_shape=VM.Standard2.1"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+<span class="nb">cat </span>tfVars.sh
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/instance_shape_env_var.jpg" alt="instance shape env var" title=" "></p>
+  </li>
+  <li>
+    <p>You will need a public key to access the instance you create with Terraform from this instance where the Terraform code is hosted.
+Create a key pair in the instance .ssh directory. Use the <code class="language-plaintext highlighter-rouge">ssh-keygen</code> command, and press enter twice to leave the passphrase empty.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh-keygen <span class="nt">-f</span> ~/.ssh/id_rsa
+</code></pre></div>    </div>
+
+    <p><img src="./images/ssh-keygen.jpg" alt="ssh-keygen" title=" "></p>
+  </li>
+  <li>
+    <p>Select and copy the location of the public key. Create an environment variable assignment for the <code class="language-plaintext highlighter-rouge">ssh_public_key</code> value, and paste the public key location. Then clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_ssh_public_key=/home/opc/.ssh/id_rsa.pub"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/ssh-keygen_env_var.jpg" alt="ssh-keygen_env_var" title=" "></p>
+  </li>
+  <li>
+    <p>Create three environment variables for instance, host, and VNIC names. Press enter, if necessary to invoke the <code class="language-plaintext highlighter-rouge">vnic_name</code> environment variable. Display the <code class="language-plaintext highlighter-rouge">tfVars.sh</code> file with the <code class="language-plaintext highlighter-rouge">cat</code> command to review. Then, clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"export TF_VAR_instance_name=tfInstance"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+<span class="nb">echo</span> <span class="s2">"export TF_VAR_hostname_label=tfHostname"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+<span class="nb">echo</span> <span class="s2">"export TF_VAR_vnic_name=tfVNIC"</span> <span class="o">&gt;&gt;</span> tfVars.sh
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/name_env_vars.jpg" alt="name env vars" title=" "></p>
+  </li>
+</ol>
+
+<h2 id="create-and-review-terraform-code">Create and Review Terraform Code</h2>
+<p>This step shows you how to organize the Terraform code in files that will allow you to easily deploy an instance from different environments. The first file contains Terraform variable declarations, the next file contains the Terraform code that describes the provider and the instance resource that will be created.</p>
+
+<ol>
+  <li>
+    <p>Create the Terraform variable declarations file named <code class="language-plaintext highlighter-rouge">tfVars.tf</code>. Then, clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"// Copyright (c) 2021 Oracle and/or its affiliates. All rights reserved.
+// Licensed under the Mozilla Public License v2.0
+variable </span><span class="se">\"</span><span class="s2">user_ocid</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">tenancy_ocid</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">region</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">fingerprint</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">api_private_key</span><span class="se">\"</span><span class="s2">{}
+variable </span><span class="se">\"</span><span class="s2">selected_AD</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">compartment_ocid</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">instance_shape</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">image_ocid</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">ssh_public_key</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">subnet_ocid</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">instance_name</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">hostname_label</span><span class="se">\"</span><span class="s2"> {}
+variable </span><span class="se">\"</span><span class="s2">vnic_name</span><span class="se">\"</span><span class="s2"> {}"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+clear
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Provide a short bash script in the <code class="language-plaintext highlighter-rouge">user_data</code> variable value, that will be used as cloud-init user data. This script shows that you can configure various features in the instance before you access it. This script adds <code class="language-plaintext highlighter-rouge">HTTPS</code> and <code class="language-plaintext highlighter-rouge">HTTP</code> services to the instance firewall and enables and starts the <code class="language-plaintext highlighter-rouge">ocid.service</code>. Then, clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"variable </span><span class="se">\"</span><span class="s2">user_data</span><span class="se">\"</span><span class="s2"> {"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s2">"  default = &lt;&lt;EOF"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s1">'#!'</span><span class="s2">"/bin/bash"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s2">"sudo systemctl stop firewalld"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s2">"sudo firewall-offline-cmd --add-service=https"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s2">"sudo firewall-offline-cmd --add-service=http"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s2">"sudo systemctl start firewalld"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s2">"sudo systemctl enable ocid.service"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s2">"sudo systemctl start ocid.service"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s2">"EOF"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+<span class="nb">echo</span> <span class="s2">"}"</span> <span class="o">&gt;&gt;</span> tfVars.tf
+clear
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Show the <code class="language-plaintext highlighter-rouge">user-data</code> variable. Then, clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cat </span>tfVars.tf
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/cat_user_data_var.jpg" alt="cat user data var" title=" "></p>
+  </li>
+  <li>
+    <p>Create the main Terraform code file named <code class="language-plaintext highlighter-rouge">main.tf</code>. This code includes the Terraform <code class="language-plaintext highlighter-rouge">provider</code> block which is applicable only to Oracle Cloud Infrastructure. Values in the provider block are the same as those in the <code class="language-plaintext highlighter-rouge">~/.oci/config</code> file.</p>
+
+    <p>After invoking the <code class="language-plaintext highlighter-rouge">echo</code> commands, clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"// Copyright (c) 2021 Oracle and/or its affiliates. All rights reserved."</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"// Licensed under the Mozilla Public License v2.0"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">""</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"provider </span><span class="se">\"</span><span class="s2">oci</span><span class="se">\"</span><span class="s2"> {"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  user_ocid    = var.user_ocid"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  tenancy_ocid = var.tenancy_ocid"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  region       = var.region"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  fingerprint  = var.fingerprint"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  private_key  = var.api_private_key"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"}"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">""</span> <span class="o">&gt;&gt;</span> main.tf
+clear
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>Start the Terraform <code class="language-plaintext highlighter-rouge">oci_core_instance</code> code block, and include the instance availability domain, compartment OCID, display name and shape. Press the enter key, if necessary to invoke the last command, then clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"resource </span><span class="se">\"</span><span class="s2">oci_core_instance</span><span class="se">\"</span><span class="s2"> </span><span class="se">\"</span><span class="s2">test_instance</span><span class="se">\"</span><span class="s2"> {"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  availability_domain = var.selected_AD"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  compartment_id      = var.compartment_ocid"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  display_name        = var.instance_name"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  shape               = var.instance_shape"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">""</span> <span class="o">&gt;&gt;</span> main.tf
+clear
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>The <code class="language-plaintext highlighter-rouge">metadata</code> code snippet includes the variable for the public key to be installed in the <code class="language-plaintext highlighter-rouge">~/.ssh/authorized_keys</code> file of the new instance, and the invocation of the <code class="language-plaintext highlighter-rouge">user_data</code> variable. Clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"  metadata = {"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"    ssh_authorized_keys = file (var.ssh_public_key)"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"    user_data = base64encode(var.user_data)"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  }"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">""</span> <span class="o">&gt;&gt;</span> main.tf
+clear
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>The network configuration is defined in the <code class="language-plaintext highlighter-rouge">create_vnic_details</code> block. The variables define the subnet for the instance primary VNIC, the display (for example, for the console) name, host name and public IP assignment.
+Clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"  create_vnic_details {"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"    subnet_id = var.subnet_ocid"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"    display_name = var.vnic_name"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"    hostname_label = var.hostname_label"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"    assign_public_ip = false"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  }"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">""</span> <span class="o">&gt;&gt;</span> main.tf
+clear
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p>The <code class="language-plaintext highlighter-rouge">source_details</code> identify the image to be used for the instance and the type of source, which is <code class="language-plaintext highlighter-rouge">image</code>. The closing brace for the <code class="language-plaintext highlighter-rouge">oci_core_instance</code> is also contained in this snippet. Clear the screen after invoking the commands.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s2">"  source_details {"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"    source_id = var.image_ocid"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"    source_type = </span><span class="se">\"</span><span class="s2">image</span><span class="se">\"</span><span class="s2">"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"  }"</span> <span class="o">&gt;&gt;</span> main.tf
+<span class="nb">echo</span> <span class="s2">"}"</span> <span class="o">&gt;&gt;</span> main.tf
+</code></pre></div>    </div>
+  </li>
+  <li>Display <code class="language-plaintext highlighter-rouge">main.tf</code>. Use the <code class="language-plaintext highlighter-rouge">f</code> and <code class="language-plaintext highlighter-rouge">b</code> keys to scroll the display.
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>less main.tf
+</code></pre></div>    </div>
+
+    <p><img src="./images/main.tf.jpg" alt="main.tf" title=" "></p>
+  </li>
+  <li>
+    <p>List the files in the <code class="language-plaintext highlighter-rouge">~/tfLab</code> directory. The shell script permissions must be set so that it can be invoked with the <code class="language-plaintext highlighter-rouge">source</code> command.
+Change permissions on the <code class="language-plaintext highlighter-rouge">tfVars.sh</code> file so that it can be invoked.
+List the files again.</p>
+
+    <p>After confirming the correct permissions for <code class="language-plaintext highlighter-rouge">tfVars.sh</code>, clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">ls</span> <span class="nt">-al</span>
+<span class="nb">chmod </span>764 tfVars.sh
+<span class="nb">ls</span> <span class="nt">-al</span>
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/shell_permissions.jpg" alt="shell permissions" title=" "></p>
+  </li>
+  <li>
+    <p>Invoke the <code class="language-plaintext highlighter-rouge">tfVars.sh</code> shell script and display the Terraform environment variables that were set. Clear the screen after reviewing the variables.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">source </span>tfVars.sh
+<span class="nb">env</span> | <span class="nb">grep </span>TF_VAR
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/env_vars.jpg" alt="env vars" title=" "></p>
+  </li>
+</ol>
+
+<h2 id="run-terraform">Run Terraform</h2>
+<p>This step shows you how to run Terraform commands to create the instance.</p>
+
+<ol>
+  <li>
+    <p>In the terminal, check the Terraform version, then clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>terraform <span class="nt">--version</span>
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/terraform_version.jpg" alt="terraform version" title=" "></p>
+  </li>
+  <li>
+    <p>Initialize Terraform on the instance. After reviewing the output, clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>terraform init
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/terraform_init.jpg" alt="terraform version" title=" "></p>
+  </li>
+  <li>
+    <p>Use the <code class="language-plaintext highlighter-rouge">plan</code> command to produce the deployment plan that will be used by the Oracle Cloud Infrastructure Terraform provider. Scroll the terminal screen to see the plan to deploy the instance. Clear the screen when ready to continue.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>terraform plan
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/terraform_plan.jpg" alt="terraform plan" title=" "></p>
+  </li>
+  <li>
+    <p>Use the <code class="language-plaintext highlighter-rouge">apply</code> command to execute the plan and create the instance. When prompted to perform the actions, respond with <code class="language-plaintext highlighter-rouge">yes</code>. After a short time, the process finishes. Clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>terraform apply
+<span class="nb">yes
+</span>clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/terraform_apply.jpg" alt="terraform apply" title=" "></p>
+  </li>
+  <li>
+    <p>Display the contents of the directory. Explore the <code class="language-plaintext highlighter-rouge">terraform.tfstate</code> file with the <code class="language-plaintext highlighter-rouge">less</code> command, then use <code class="language-plaintext highlighter-rouge">q</code> to exit. This file will be used by terraform to destroy the instance at the end of this lab. Clear the screen when you are satisfied with your review.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">ls</span> <span class="nt">-alt</span>
+less terraform.tfstate
+q
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/review_tfstate.jpg" alt="review tfstate" title=" "></p>
+  </li>
+</ol>
+
+<h2 id="examine-the-instance">Examine the Instance</h2>
+
+<ol>
+  <li>
+    <p>Login to the Oracle Cloud Infrastructure console, and find the instance named <code class="language-plaintext highlighter-rouge">tfInstance</code> on the list for your compartment. Click the name to display the instance details page.
+Select and copy the IP address.</p>
+
+    <p><img src="./images/copy_ip_address.jpg" alt="copy ip address" title=" "></p>
+  </li>
+  <li>
+    <p>Return to the terminal, change directory to <code class="language-plaintext highlighter-rouge">/home/opc</code>, clear the screen, then use the ip address from the console to connect to the Oracle Linux 8 instance that was just created.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> /home/opc
+clear
+ssh <span class="nt">-i</span> ./.ssh/id_rsa 198.51.100.7
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/ssh_to_ip.jpg" alt="ssh to ip" title=" "></p>
+  </li>
+  <li>
+    <p>The small cloud-init script that was provided as <code class="language-plaintext highlighter-rouge">user_data</code> was run after the instance was created. Check the status of the firewall settings to see that the <code class="language-plaintext highlighter-rouge">https</code> and <code class="language-plaintext highlighter-rouge">http</code> services are supported. Then clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>firewall-cmd <span class="nt">--info-zone</span><span class="o">=</span>public
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/firewall-cmd.jpg" alt="firewall-cmd" title=" "></p>
+  </li>
+  <li>
+    <p>Check the status of the <code class="language-plaintext highlighter-rouge">ocid.service</code>, which is disabled by default on a new instance. The script enabled and started this service. Clear the screen.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>systemctl status ocid.service
+clear
+</code></pre></div>    </div>
+
+    <p><img src="./images/status_ocid_service.jpg" alt="status ocid service" title=" "></p>
+  </li>
+  <li>
+    <p>Exit the session.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">exit</span>
+</code></pre></div>    </div>
+
+    <p><img src="./images/exit.jpg" alt="exit" title=" "></p>
+  </li>
+</ol>
+
+<h2 id="destroy-the-instance">Destroy the Instance</h2>
+<p>In this step, you destroy the instance with Terraform.</p>
+
+<p><strong>Note:</strong> Destroying the instance in your tenancy is optional.</p>
+
+<ol>
+  <li>
+    <p>Use the <code class="language-plaintext highlighter-rouge">destroy</code> command to terminate the instance. Enter <code class="language-plaintext highlighter-rouge">yes</code> when prompted.</p>
+
+    <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>terraform destroy
+<span class="nb">yes</span>
+</code></pre></div>    </div>
+
+    <p><img src="./images/terraform_destroy.jpg" alt="terraform destroy" title=" "></p>
+  </li>
+  <li>
+    <p>The instance has been destroyed.</p>
+
+    <p><img src="./images/instance_destroyed.jpg" alt="instance destroyed" title=" "></p>
+  </li>
+  <li>
+    <p>Check the Oracle Cloud Infrastructure console to verify the instance has been terminated.</p>
+
+    <p><img src="./images/instance_gone.jpg" alt="instance gone" title=" "></p>
+  </li>
+</ol>
+
+<p>In this exercise, you gathered essential information that enabled you to create an Oracle Linux 8 instance in Oracle Cloud Infrastructure using Terraform. The Terraform code is generic to Oracle Cloud Infrastructure, and your inputs were provided from your environment.</p>
+
+<h2 id="more-learning-resources">More Learning Resources</h2>
+
+<p>Explore other labs on <a href="https://docs.oracle.com/learn">docs.oracle.com/learn</a> or access more free learning content on the <a href="https://www.youtube.com/user/OracleLearning">Oracle Learning YouTube channel</a>. Additionally, visit <a href="https://education.oracle.com/learning-explorer">education.oracle.com/learning-explorer</a> to become an Oracle Learning Explorer.</p>
+
+<p>For product documentation, visit <a href="https://docs.oracle.com">Oracle Help Center</a>.</p>
+
+    
+    <hr>
+    <div class="notices">
+        <div><a href="#copyright-information" role="button" data-toggle="collapse" aria-expanded="false" class="collapsed" aria-controls="copyright-information" id="copyright-information-btn">Title and Copyright Information</a></div>
+        <div class="collapse" id="copyright-information" aria-expanded="false">
+            <p>Introduction to Terraform with Oracle Linux</p>
+            <p>F40571-03</p>
+            <p>March 2021</p>
+            <p>Copyright &copy; 2021, Oracle and/or its affiliates.</p>
+
+            <p>This software and related documentation are provided
+                under a license agreement containing restrictions on use and disclosure
+                and are protected by intellectual property laws. Except as expressly
+                permitted in your license agreement or allowed by law, you may not
+                use, copy, reproduce, translate, broadcast, modify, license, transmit,
+                distribute, exhibit, perform, publish, or display any part, in any
+                form, or by any means. Reverse engineering, disassembly, or decompilation
+                of this software, unless required by law for interoperability, is
+                prohibited.
+            </p>
+
+            <p>The information contained herein is subject to change
+                without notice and is not warranted to be error-free. If you find
+                any errors, please report them to us in writing.
+            </p>
+
+            <p>If this is software or related documentation that is delivered to the U.S. Government or anyone licensing it on behalf of
+                the U.S. Government, then the following notice is applicable:
+            </p>
+
+            <p>U.S. GOVERNMENT END USERS: Oracle programs, including any operating system, integrated software, any programs installed on
+                the hardware, and/or documentation, delivered to U.S. Government end users are "commercial computer software" pursuant to
+                the applicable Federal Acquisition Regulation and agency-specific supplemental regulations. As such, use, duplication, disclosure,
+                modification, and adaptation of the programs, including any operating system, integrated software, any programs installed
+                on the hardware, and/or documentation, shall be subject to license terms and license restrictions applicable to the programs.
+                No other rights are granted to the U.S. Government.
+            </p>
+
+            <p>This software or hardware is developed for general
+                use in a variety of information management applications. It is not
+                developed or intended for use in any inherently dangerous applications,
+                including applications that may create a risk of personal injury.
+                If you use this software or hardware in dangerous applications, then
+                you shall be responsible to take all appropriate fail-safe, backup,
+                redundancy, and other measures to ensure its safe use. Oracle Corporation
+                and its affiliates disclaim any liability for any damages caused by
+                use of this software or hardware in dangerous applications.
+            </p>
+
+            <p>Oracle and Java are registered trademarks of Oracle
+                and/or its affiliates. Other names may be trademarks of their respective
+                owners.
+            </p>
+
+            <p>Intel and Intel Xeon are trademarks or registered
+                trademarks of Intel Corporation. All SPARC trademarks are used under
+                license and are trademarks or registered trademarks of SPARC International,
+                Inc. AMD, Opteron, the AMD logo, and the AMD Opteron logo are trademarks
+                or registered trademarks of Advanced Micro Devices. UNIX is a registered
+                trademark of The Open Group.
+            </p>
+
+            <p>This software or hardware and documentation may provide access to or information about content, products, and services from
+                third parties. Oracle Corporation and its affiliates are not responsible for and expressly disclaim all warranties of any
+                kind with respect to third-party content, products, and services unless otherwise set forth in an applicable agreement between
+                you and Oracle. Oracle Corporation and its affiliates will not be responsible for any loss, costs, or damages incurred due
+                to your access to or use of third-party content, products, or services, except as set forth in an applicable agreement between
+                you and Oracle.
+            </p>
+        </div>
+    </div>
+    
+</article>
+</body>
+</html>

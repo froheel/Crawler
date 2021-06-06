@@ -1,0 +1,283 @@
+<html>
+ <head>
+			<title>Data Mining: Practical Machine Learning Tools and Techniques</title>
+            <meta charset="utf-8" />
+             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+			 <link rel="stylesheet" href="assets/css/main.css" />
+			 <link rel="shortcut icon" href="weka/favicon.ico" />
+		</head>
+		
+
+<body class="is-preload">
+
+<!-- Nav -->
+<nav id="nav">
+	<ul class="container">
+		<li><a href="./index.html">Weka</a></li>
+		<li><a href="./book.html">Book</a></li>
+		<li><a href="./courses.html">Courses</a></li>
+		<li><a href="https://waikato.github.io/weka-blog/">Blog</a></li>
+		<li><a href="https://waikato.github.io/weka-wiki/">Wiki</a></li>
+	</ul>
+</nav>
+
+<!-- Home -->
+<article id="top" class="wrapper style1">
+	<div class="container">
+		<div class="row">
+			<div class="col-4 col-5-large col-12-medium">
+			  <span><img name="book cover" alt="The 4th edition of the data mining book." width="85%" src="https://waikato.github.io/weka-site/images/Book4thEd.jpg" /><a href="http://www.amazon.com/exec/obidos/ASIN/0128042915/departmofcompute" target="_blank"><br>
+			    Click here to order from Amazon.com</a></span>
+			</div>
+			<div class="col-8 col-7-large col-12-medium">
+				<header>
+					<h1>DATA MINING </h1>
+					<h3>Practical Machine Learning Tools and Techniques</h3>
+				</header>
+				<p>
+	  Machine learning provides practical tools for analyzing data
+	  and making predictions but also powers the latest advances
+	  in artificial intelligence. Our book provides a highly
+	  accessible introduction to the area and also caters for
+	  readers who want to delve into modern probabilistic modeling and
+	  deep learning
+	  approaches. <a href="https://mila.quebec/en/person/pal-christopher/">Chris
+	  Pal</a> has
+	  joined <a href="https://www.cs.waikato.ac.nz/~ihw">Ian
+	  Witten</a>, <a href="https://www.cs.waikato.ac.nz/~eibe">Eibe
+	  Frank</a>,
+	  and <a href="https://www.linkedin.com/in/mahall">Mark
+	  Hall</a> for the fourth edition of the book,
+	  and his expertise in these techniques has greatly extended
+	  its coverage. The
+	  book's <a href="https://www.cs.waikato.ac.nz/ml/weka/Witten_et_al_2016_appendix.pdf">online
+	  appendix</a> provides a reference for the Weka software.</p>
+				
+				<a href="#Slides" class="button">Slides</a>
+				<a href="#Contents" class="button">Table of Contents</a>
+
+
+		<p></p>
+		
+			<blockquote>"If you have data that you want to analyze and understand, this book and the associated Weka toolkit are an excellent way to start.</br>
+				-Jim Gray, Microsoft Research</blockquote>
+
+				<blockquote>"The authors provide enough theory to enable practical application, and it is this practical focus that separates this book from most, if not all, other books on this subject."</br>
+				-Dorian Pyle, Director of Modeling at Numetrics</blockquote>
+
+				<blockquote>"This book would be a strong contender for a technical data mining course. It is one of the best of its kind."</br>
+				-Herb Edelstein, Principal, Data Mining Consultant, Two Crows Consulting</blockquote>
+
+				<blockquote>"It is certainly one of my favourite data mining books in my library."</br>
+				-Tom Breur, Principal, XLNT Consulting, Tiburg, Netherlands</blockquote>
+				 
+<p></p>
+				
+				<h2>Highlights</h2>
+				<ul>
+				  <li>Explains how machine learning algorithms for data mining work.</li>
+				  <li>Helps you compare and evaluate the results of different techniques.</li>
+				  <li>Covers performance improvement techniques, including input
+					preprocessing and combining output from different methods. </li>
+					  <li>Features in-depth information on probabilistic models and deep learning.</li>
+				  <li>Provides an introduction to the Weka machine learning workbench and links to algorithm implementations in the software.</li>
+				</ul>
+				
+				<h2>Translations</h2>
+				
+				<P>The book has been translated into German (first edition), Chinese (second and third edition) and Korean (third edition).</P>
+				
+				<h2>Online appendix</h2>
+				<P>Click <a href="https://www.cs.waikato.ac.nz/ml/weka/Witten_et_al_2016_appendix.pdf">here</a> to download the online appendix on Weka, an extended version of Appendix B in the book.</P>
+				
+				<h2>Errata</h2>
+				<P>Click <a href="https://www.cs.waikato.ac.nz/ml/weka/errata.html">here</a> to get to a list of errata.</P>
+				
+				<h2><a name="Slides" id="Slides"></a>Slides</h2> 
+			
+				<p>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter1.pptx">Chapter1.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter2.pptx">Chapter2.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter3.pptx">Chapter3.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter4.pptx">Chapter4.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter5.pptx">Chapter5.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter6.pptx">Chapter6.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter7.pptx">Chapter7.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter8.pptx">Chapter8.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter9.pptx">Chapter9.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter10.pptx">Chapter10.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter11.pptx">Chapter11.pptx</a><br>
+				<a href="https://www.cs.waikato.ac.nz/ml/weka/slides/Chapter12.pptx">Chapter12.pptx</a><br>
+				</p>
+			
+				<h2>Reviews of the first edition</h2> 
+				<P><a href="https://sigmodrecord.org/publications/sigmodRecord/0203/bookreview2-geller.pdf" target="_blank">Review by J. Geller</a> (SIGMOD Record, Vol. 31:1, March 2002).<br>
+				  <a href="https://www.sciencedirect.com/science/article/pii/S0004370201001242" target="_blank">Review by E. Davis</a> (AI Journal, Vol. 131:1-2, September 2001).<br>
+				  <a href="https://www.sciencedirect.com/science/article/pii/S0004370201001254" target="_blank">Review by P.A. Flach</a> (AI Journal, Vol. 131:1-2, September 2001).</P>
+				
+				<h2><a name="Contents" id="Contents"></a>Table of Contents of the 4th Edition:</h2>
+				  <p>Sections and chapters with new material are marked in <font color=red>red</font>.</p>
+				
+				<P>Preface<br>
+				  <br>
+				  <b>1. What&#8217;s it all about?</b><br>
+				  1.1 Data Mining and Machine Learning<br>
+				  1.2 Simple Examples: The Weather Problem and Others<br>
+				  1.3 Fielded Applications<br>
+				  <font color=red>1.4 The Data Mining Process</font><br>
+				  1.5 Machine Learning and Statistics<br>
+				  1.6 Generalization as Search<br>
+				  1.7 Data Mining and Ethics</font><br>
+				  <font color=red>1.8 Further Reading and Bibliographic Notes</font><br>
+				  <br>
+				  <b>2. Input: concepts, instances, attributes</b><br>
+				  2.1 What&#8217;s a Concept?<br>
+				  2.2 What&#8217;s in an Example?<br>
+				  2.3 What&#8217;s in an Attribute?<br>
+				  <font color=red>2.4 Preparing the Input</font><br>
+				  2.5 Further Reading and Bibliographic Notes<br>
+				  <br>
+				  <b>3. Output: Knowledge representation</b><br>
+				  3.1 Tables<br>
+				  3.2 Linear Models<br>
+				  3.3 Trees<br>
+				  3.4 Rules<br>
+				  3.5 Instance-Based Representation<br>
+				  3.6 Clusters<br>
+				  3.7 Further Reading and Bibliographic Notes<br>
+				  <br>
+				  <b>4. Algorithms: the basic methods</b><br>
+				  4.1 Inferring Rudimentary Rules<br>
+				  4.2 Simple Probabilistic Modeling<br>
+				  4.3 Divide-and-Conquer: Constructing Decision Trees<br>
+				  4.4 Covering Algorithms: Constructing Rules<br>
+				  <font color=red>4.5 Mining Association Rules</font><br>
+				  4.6 Linear Models<br>
+				  4.7 Instance-Based Learning<br>
+				  <font color=red>4.8 Clustering</font><br>
+				  4.9 Multi-Instance Learning<br>
+				  4.10 Further Reading and Bibliographic Notes<br>
+				  <font color=red>4.11 WEKA Implementations</font><br>
+				  <br>
+				  <b>5. Credibility: Evaluating what&#8217;s been learned</b><br>
+				  5.1 Training and Testing<br>
+				  5.2 Predicting Performance<br>
+				  5.3 Cross-Validation<br>
+				  5.4 Other Estimates<br>
+				  <font color=red>5.5 Hyperparameter Selection</font><br>
+				  5.6 Comparing Data Mining Schemes<br>
+				  5.7 Predicting Probabilities<br>
+				  5.8 Counting the Cost<br>
+				  5.9 Evaluating Numeric Prediction<br>
+				  5.10 The Minimum Description Length Principle<br>
+				  5.11 Applying MDL to Clustering<br>
+				  <font color=red>5.12 Using a Validation Set for Model Selection</font><br>
+				  5.13 Further Reading and Bibliographic Notes<br><br>
+				  <b>6. Trees and rules</b><br>
+				  6.1 Decision Trees<br>
+				  6.2 Classification Rules<br>
+				  6.3 Association Rules<br>
+				  <font color=red>6.4 WEKA Implementations</font><br><br>
+				  <b>7. Extending instance-based and linear models</b><br>
+				  7.1 Instance-Based Learning<br>
+				  7.2 Extending Linear Models<br>
+				  7.3 Numeric Prediction with Local Linear Models<br>
+				  <font color=red>7.4 WEKA Implementations</font><br><br>
+				  <b>8. Data transformations</b><br>
+				  8.1 Attribute Selection<br>
+				  8.2 Discretizing Numeric Attributes<br>
+				  <font color=red>8.3 Projections</font><br>
+				  8.4 Sampling<br>
+				  8.5 Cleansing<br>
+				  8.6 Transforming Multiple Classes to Binary Ones<br>
+				  8.7 Calibrating Class Probabilities<br>
+				  <font color=red>8.8 Further Reading and Biblographic Notes</font><br>
+				  <font color=red>8.9 WEKA Implementations</font><br><br>
+				  <font color=red><b>9. Probabilistic methods</b><br>
+				  9.1 Foundations<br>
+				  9.2 Bayesian Networks<br>
+				  9.3 Clustering and Probability Density Estimation<br>
+				  9.4 Hidden Variable Models<br>
+				  9.5 Bayesian Estimation and Prediction<br>
+				  9.6 Graphical Models and Factor Graphs<br>
+				  9.7 Conditional Probability Models<br>
+				  9.8 Sequential and Temporal Models<br>
+				  9.9 Further Reading and Bibliographic Notes<br>
+				  9.10 WEKA Implementations<br><br>
+				  <b>10. Deep learning</b><br>
+				  10.1 Deep Feedforward Networks<br>
+				  10.2 Training and Evaluating Deep Networks<br>
+				  10.3 Convolutional Neural Networks<br>
+				  10.4 Autoencoders<br>
+				  10.5 Stochastic Deep Networks<br>
+				  10.6 Recurrent Neural Networks<br>
+				  10.7 Further Reading and Bibliographic Notes<br>
+				  10.8 Deep Learning Software and Network Implementations<br>
+				  <font color=red>10.9 WEKA implementations</font><br><br></font>
+				  <b>11. Beyond supervised and unsupervised learning</b><br>
+				  <font color=red>11.1 Semi-supervised learning</font><br>
+				  11.2 Multi-instance Learning<br>
+				  <font color=red>11.3 Further Reading and Bibliographic Notes</font><br>
+				  <font color=red>11.4 WEKA Implementations</font><br><br>
+				  <b>12. Ensemble Learning</b><br>
+				  12.1 Combining Multiple Models<br>
+				  12.2 Bagging<br>
+				  12.3 Randomization<br>
+				  12.4 Boosting<br>
+				  12.5 Additive Regression<br>
+				  12.6 Interpretable Ensembles<br>
+				  12.7 Stacking<br>
+				  12.8 Further Reading and Bibliographic Notes<br>
+				  <font color=red>12.9 WEKA Implementations</font><br>	  
+				  <br>
+				  <b>13. Moving on: Applications and Beyond</b><br>
+				  13.1 Applying Data Mining<br>
+				  13.2 Learning from Massive Datasets<br>
+				  13.3 Data Stream Learning<br>
+				  13.4 Incorporating Domain Knowledge<br>
+				  <font color=red>13.5 Text Mining</font><br>
+				  13.6 Web Mining<br>
+				  <font color=red>13.7 Images and Speech</font><br>
+				  13.8 Adversarial Situations<br>
+				  13.9 Ubiquitous Data Mining <br>
+				  <font color=red>13.10 Further Reading and Bibliographic Notes</font><br>	  
+				  <font color=red>13.11 WEKA Implementations</font><br>	  
+				  <br>
+				  <font color=red>Appendix A: Theoretical foundations</font><br>
+				  <font color=red>Appendix B: The WEKA workbench</font><br>
+				  References<br>
+				  Index</P>
+				  <footer>
+		</footer>
+	</div>	</div>	</div>
+</article>
+
+			<!-- Contact -->
+			<article id="contact" class="wrapper style4">
+					<div class="container medium">
+					<header>
+						Weka is proudly brought to you by the <a href="https://www.cs.waikato.ac.nz/ml/index.html" target="_blank">Machine Learning Group</a> at the <a href="https://waikato.ac.nz" target="_blank">University of Waikato.
+					</header>
+					<a href="https://www.cs.waikato.ac.nz/ml/index.html" class="button scrolly">UoW Machine Learning Group</a>
+					<footer>
+					  Design: <a href="https://html5up.net">HTML5 UP</a>
+					  </footer>
+					</div>
+				</article>
+
+  <!-- Scripts -->
+  <script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-20518282-3']);
+		_gaq.push(['_trackPageview']);
+  
+		  (function() {
+			  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+						})();
+  
+						</script>
+</body>
+</html>

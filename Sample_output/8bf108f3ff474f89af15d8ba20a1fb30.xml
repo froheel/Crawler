@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      
+      
+<meta name="robots" content="noindex, nofollow">
+<meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <title>Subscribe to Oracle Communications</title>
+      <link id="CSS001" type="text/css" href="https://www.oracle.com/webfolder/s/dm/templates/responsive-cb-v2.css" rel="stylesheet">
+      <script src="https://www.oracle.com/webfolder/s/dm/st/js/jquery-1113-internal.min.js"></script>
+      <link href="https://www.oracle.com/webfolder/s/delivery_production/docs/FY16h1/doc30/styles-form-frame-demo4.css" rel="stylesheet">
+      <script type="text/javascript" src="https://www.oracle.com/webfolder/s/dm/templates/responsive-tb-footer.js"></script>
+     <!-- https://www-sites.oracle.com/a/ocom/docs/eloqua/js/elq.pc.bundle.js -->
+     <script id="JS004" type="text/javascript" src="
+https://www.oracle.com/asset/web/dc/eloqua/js/pc/elq.pc.bundle.js"></script>
+      <script type="text/javascript">
+      	var languageCode="en-us";
+      	var countryCode = "ww";
+        var LPid = "37297";
+              var serverEmail = '';
+            var serverCountry = '';
+            var serverFirst = '';
+            var serverLast = '';
+        var serverJobRole = '';
+            var serverOptin = '';
+            var serverPreference = '';
+      </script>
+   </head>
+   <body>
+      <div id="pc-form"></div>
+     
+     
+     
+     
+     <!--Start Landing Page SiteCatalyst code --> 
+  <script language="javascript" type="text/javascript">var s_pageName = "Welcome Page"</script> 
+  <script type="text/javascript" src="https://www.oracleimg.com/us/assets/metrics/ora_eloqua.js"></script> 
+  <!--End Landing Page SiteCatalyst code -->
+     
+</body>
+</html><img style="display:none" src="https://s1973398186.t.eloqua.com/visitor/v200/svrGP?pps=60&siteid=1973398186&PURLSiteID=3&optin=disabled&PURLSiteAlternateDNSID=0&LandingPageID=37297&PURLRecordID=0&PURLGUID=183F9995854A49EB8AC85522C1E1DB1A&UseRelativePath=True&elq={00000000-0000-0000-0000-000000000000}&firstPartyCookieDomain=go.oracle.com&elqGUID=183f9995-854a-49eb-8ac8-5522c1e1db1a&elq_ck=0" border=0 width=1 height=1 alt="">

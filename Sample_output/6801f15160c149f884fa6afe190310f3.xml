@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="uk" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Weka — Вікіпедія</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","січень","лютий","березень","квітень","травень","червень","липень","серпень","вересень","жовтень","листопад","грудень"],"wgRequestId":"b24c2af6-a2de-45b5-90b6-0e71a03ba376","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Weka","wgTitle":"Weka","wgCurRevisionId":27730523,"wgRevisionId":27730523,"wgArticleId":1287688,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Модуль:InfoboxImage:застарілий синтаксис зображень","Вікіпедія:P373:використовується",
+"Незавершені статті про програмне забезпечення","Програмне забезпечення за алфавітом","Програмне забезпечення добування даних та машинного навчання","Наукове ВПЗ","Вільне програмне забезпечення на Java","Безплатне програмне забезпечення аналізу даних"],"wgPageContentLanguage":"uk","wgPageContentModel":"wikitext","wgRelevantPageName":"Weka","wgRelevantArticleId":1287688,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3}}},"wgStableRevisionId":27730523,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"uk","pageLanguageDir":"ltr","pageVariantFallbacks":"uk"},"wgMFDisplayWikibaseDescriptions":{
+"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"українська","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgGENewcomerTasksGuidanceEnabled":!0,"wgGEAskQuestionEnabled":!0,"wgGELinkRecommendationsFrontendEnabled":!1,"wgWikibaseItemId":"Q115494"};RLSTATE={"ext.gadget.showContributorContent":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":
+"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.CurIDLink","ext.gadget.collapserefs","ext.gadget.ReferenceTooltips","ext.gadget.edittop","ext.gadget.new-section","ext.gadget.newTopicOnTop","ext.gadget.MonobookToolbarStandard","ext.gadget.ProtectionIndicator","ext.gadget.Statistics","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"uk"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=uk&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=ext.gadget.showContributorContent&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png"/>
+<meta property="og:title" content="Weka — Вікіпедія"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//uk.m.wikipedia.org/wiki/Weka"/>
+<link rel="alternate" type="application/x-wiki" title="Редагувати" href="/w/index.php?title=Weka&amp;action=edit"/>
+<link rel="edit" title="Редагувати" href="/w/index.php?title=Weka&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Вікіпедія (uk)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//uk.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://uk.wikipedia.org/wiki/Weka"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Weka rootpage-Weka skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Weka</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Матеріал з Вікіпедії — вільної енциклопедії.</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти до навігації</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти до пошуку</a>
+		<div id="mw-content-text" lang="uk" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" cellspacing="2" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em;"><caption class="summary" style="font-size: 125%; font-weight: bold;">Weka</caption><tbody><tr class=""><td colspan="2" class="" style="text-align:center;">
+<div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Weka_(software)_logo.png" class="image"><img alt="Weka (software) logo.png" src="//upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png" decoding="async" width="198" height="104" data-file-width="198" data-file-height="104" /></a></div></td></tr><tr class=""><td colspan="2" class="" style="text-align:center;">
+<a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Weka-3.5.5.png" class="image"><img alt="Weka-3.5.5.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/250px-Weka-3.5.5.png" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/375px-Weka-3.5.5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/500px-Weka-3.5.5.png 2x" data-file-width="768" data-file-height="576" /></a><div style="display:block;">Weka 3.5.5 у режимі Explorer аналізує <i><a href="/wiki/%D0%86%D1%80%D0%B8%D1%81%D0%B8_%D0%A4%D1%96%D1%88%D0%B5%D1%80%D0%B0" title="Іриси Фішера">Іриси Фішера</a></i></div></td></tr><tr class=""><th style="text-align:left; white-space: nowrap;">Тип</th>
+    <td class="" style="">
+<a href="/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%B5_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F" title="Машинне навчання">Машинне навчання</a></td></tr><tr class=""><th style="text-align:left; white-space: nowrap;">Розробник</th>
+    <td class="" style="">
+<a href="/w/index.php?title=%D0%A3%D0%BD%D1%96%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%92%D0%B0%D1%97%D0%BA%D0%B0%D1%82%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Університет Ваїкато (ще не написана)">Університет Ваїкато</a></td></tr><tr class=""><th style="text-align:left; white-space: nowrap;">Стабільний випуск</th>
+    <td class="" style="">
+3.8.3 (stable)      &#32;(<a href="/wiki/4_%D0%B2%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D1%8F" title="4 вересня">4&#160;вересня</a> <a href="/wiki/2018" title="2018">2018</a><span class="noprint">&#59;&#32;2 роки&#32;тому</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2018-09-04</span>)</span>)</td></tr><tr class=""><th style="text-align:left; white-space: nowrap;"><a href="/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BA%D0%B5%D1%80%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D1%96%D1%8F%D0%BC%D0%B8" title="Система керування версіями">Репозиторій</a></th>
+    <td class="" style="">
+<span class="url"><a rel="nofollow" class="external text" href="https://svn.cms.waikato.ac.nz/svn/weka/">svn.cms.waikato.ac.nz/svn/weka/</a></span></td></tr><tr class=""><th style="text-align:left; white-space: nowrap;">Нестабільний випуск</th>
+    <td class="" style="">
+3.9.3&#160;(<a href="/wiki/22_%D0%B3%D1%80%D1%83%D0%B4%D0%BD%D1%8F" title="22 грудня">22&#160;грудня</a> <a href="/wiki/2017" title="2017">2017</a><span class="noprint">&#59;&#32;3 роки&#32;тому</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2017-12-22</span>)</span>)</td></tr><tr class=""><th style="text-align:left; white-space: nowrap;"><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%B0" title="Комп&#39;ютерна платформа">Платформа</a></th>
+    <td class="" style="">
+<a href="/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Багатоплатформність">Багатоплатформність</a></td></tr><tr class=""><th style="text-align:left; white-space: nowrap;"><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Операційна система">Операційна система</a></th>
+    <td class="" style="">
+<span class="wikidata-claim" data-wikidata-property-id="P306" data-wikidata-claim-id="Q115494$10AA97A8-E054-41A5-88FA-EBE0F09B3182"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a></span></span>&#32;і&#32;<span class="wikidata-claim" data-wikidata-property-id="P306" data-wikidata-claim-id="Q115494$83b652a9-42ee-cfda-cec6-9e824a77dc15"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Багатоплатформність">крос-платформова програма</a></span></span></td></tr><tr class=""><th style="text-align:left; white-space: nowrap;"><a href="/wiki/%D0%9C%D0%BE%D0%B2%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Мова програмування">Мова програмування</a></th>
+    <td class="" style="">
+Java</td></tr><tr class=""><th style="text-align:left; white-space: nowrap;">Доступні мови</th>
+    <td class="" style="">
+Англійська</td></tr><tr class=""><th style="text-align:left; white-space: nowrap;"><a href="/wiki/%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%8F_%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Ліцензія на програмне забезпечення">Ліцензія</a></th>
+    <td class="" style="">
+<a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GPL</a></td></tr><tr class=""><th style="text-align:left; white-space: nowrap;"><a href="/wiki/%D0%92%D0%B5%D0%B1%D1%81%D0%B0%D0%B9%D1%82" title="Вебсайт">Вебсайт</a></th>
+    <td class="" style="">
+<a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/weka/">www.cs.waikato.ac.nz/~ml/weka/</a></td></tr><tr><td colspan="2" style="text-align:center;"><hr /><span class="wikidata-claim" data-wikidata-property-id="P373" data-wikidata-claim-id="q115494$17F419A7-8E8D-4FDA-9B2D-11CBBF271178"><span class="wikidata-snak wikidata-main-snak"><b> <a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" title="commons:Category:Weka (machine learning)"><img alt="CMNS:" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" class="extiw" title="commons:Category:Weka (machine learning)">Weka</a> </b> у <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D1%85%D0%BE%D0%B2%D0%B8%D1%89%D0%B5" title="Вікісховище">Вікісховищі</a></span></span></td></tr>
+</tbody></table>
+<p><b>Weka</b> (Waikato Environment for Knowledge Analysis)&#160;— <a href="/wiki/%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Вільне програмне забезпечення">вільне програмне забезпечення</a> для <a href="/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D1%96%D0%B7_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85" title="Аналіз даних">аналізу даних</a> та <a href="/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%B5_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F" title="Машинне навчання">машинного навчання</a>, написане на <a href="/wiki/Java" title="Java">Java</a> в університеті Ваїкато (<a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0_%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D1%96%D1%8F" title="Нова Зеландія">Нова Зеландія</a>), розповсюджується за ліцензією <a href="/wiki/GNU_GPL" class="mw-redirect" title="GNU GPL">GNU GPL</a>.
+</p>
+<h2><span id=".D0.9E.D0.BF.D0.B8.D1.81"></span><span class="mw-headline" id="Опис">Опис</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редагувати розділ: Опис">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka&amp;action=edit&amp;section=1" title="Редагувати розділ: Опис">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Weka</i> — це набір засобів візуалізації та алгоритмів для аналізу даних і вирішення <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Прогнозування">задач прогнозування</a>, разом з графічною оболонкою для доступу до них.
+</p><p><i>Weka</i> дозволяє виконувати такі завдання аналізу даних, як підготовку даних (preprocessing), відбір ознак (feature selection), <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D1%96%D1%8F" class="mw-redirect" title="Кластеризація">кластеризацію</a>, <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%8F" title="Класифікація">класифікацію</a>, <a href="/wiki/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7" title="Регресійний аналіз">регресійний аналіз</a> та візуалізацію результатів.
+</p><p>Основним інтерфейсом користувача є Explorer, хоча ті ж функціональні можливості підтримуються з командного рядка та інтерфейсу Knowledge Flow. Для систематичного порівняння різних алгоритмів машинного навчання використовується інтерфейс Experimenter. Він дозволяє порівнювати результати не лише різних алгоритмів на одному наборі даних, а й одного алгоритму на різних наборах даних. 
+</p><p>Інтерфейс <i>Explorer</i> містить наступні панелі:
+</p>
+<ul><li><b>Панель попереднього опрацювання</b> уможливлює імпорт даних з бази даних, текстових файлів у форматі CSV, а також попереднє опрацювання цих даних за допомогою різноманітних алгоритмів (фільтрів). Ці фільтри використовуються для трансформування даних, а також для видалення певних атрибутів.</li>
+<li><b>Панель класифікації</b> надає можливість застосувати алгоритми <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%8F" title="Класифікація">класифікації</a> та <a href="/wiki/%D0%A0%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7" title="Регресійний аналіз">регресійного аналізу</a> до обраного набору даних, візуалізувати та оцінити результати, відобразити <a href="/wiki/ROC-%D0%BA%D1%80%D0%B8%D0%B2%D0%B0" title="ROC-крива">ROC криві</a> тощо.</li>
+<li><b>Панель асоціації</b> надає доступ до методів, які дозволяють оцінити взаємозв'язки між атрибутами.</li>
+<li><b>Панель кластеризації</b> містить різноманітні методи <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D1%96%D1%8F" class="mw-redirect" title="Кластеризація">кластеризації</a>, наприклад метод <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D1%96%D1%8F_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BC_%D0%BA%E2%80%93%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%96%D1%85" title="Кластеризація методом к–середніх">кластеризації методом k-середніх</a>, <a href="/wiki/%D0%95%D0%9C-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" class="mw-redirect" title="ЕМ-алгоритм">EM-алгоритм</a> тощо.</li>
+<li><b>Панель вибору атрибутів</b> дозволяє ідентифікувати атрибути, які найбільш впливають на якість прогнозування.</li>
+<li><b>Панель візуалізації</b> відображає <a href="/wiki/%D0%A2%D0%BE%D1%87%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" title="Точкова діаграма">точкові діаграми</a>.</li></ul>
+<h2><span id=".D0.86.D1.81.D1.82.D0.BE.D1.80.D1.96.D1.8F"></span><span class="mw-headline" id="Історія">Історія</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редагувати розділ: Історія">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka&amp;action=edit&amp;section=2" title="Редагувати розділ: Історія">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/1993" title="1993">1993</a> рік. В університеті Ваїкато розпочато розробку першої версії Weka на <a href="/wiki/Tcl" title="Tcl">Tcl</a>/Tk та <a href="/wiki/C_(%D0%BC%D0%BE%D0%B2%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F)" title="C (мова програмування)">C</a>.</li>
+<li><a href="/wiki/1997" title="1997">1997</a> рік. Прийнято рішення переписати весь код з нуля на мові <a href="/wiki/Java" title="Java">Java</a>.</li>
+<li><a href="/wiki/2005" title="2005">2005</a> рік. Weka отримала нагороду <i>Data Mining and Knowledge Discovery Service Award</i> від <a href="/w/index.php?title=SIGKDD&amp;action=edit&amp;redlink=1" class="new" title="SIGKDD (ще не написана)">SIGKDD</a>.</li>
+<li><a href="/wiki/2006" title="2006">2006</a> рік. <a href="/wiki/Pentaho" title="Pentaho">Pentaho Corporation</a> придбала ексклюзивну ліцензію на використання Weka в своїх продуктах для аналізу даних.</li></ul>
+<h2><span id=".D0.9F.D0.BE.D1.81.D0.B8.D0.BB.D0.B0.D0.BD.D0.BD.D1.8F"></span><span class="mw-headline" id="Посилання">Посилання</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редагувати розділ: Посилання">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Weka&amp;action=edit&amp;section=3" title="Редагувати розділ: Посилання">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/ml/weka/">Сторінка проекту на сервері університету Ваїкато</a></li>
+<li><a rel="nofollow" class="external text" href="http://sourceforge.net/projects/weka/">Сторінка проекту на sourceforge.net</a></li>
+<li><a rel="nofollow" class="external text" href="http://weka.wikispaces.com/">Вікі проекту</a></li></ul>
+<p><br />
+</p>
+<table class="metadata" align="center" border="0" cellpadding="0" cellspacing="4">
+<tbody><tr>
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:System-installer.svg" class="image" title="Програмне забезпечення"><img alt="Програмне забезпечення" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/System-installer.svg/50px-System-installer.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/System-installer.svg/75px-System-installer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/System-installer.svg/100px-System-installer.svg.png 2x" data-file-width="48" data-file-height="48" /></a>
+</td>
+<td><i>Це незавершена стаття про <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Програмне забезпечення">програмне забезпечення</a>.<br />Ви можете <a href="/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%AF%D0%BA_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D1%82%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8E" title="Довідка:Як редагувати статтю">допомогти</a> проекту, <span class="plainlinks"><a class="external text" href="https://uk.wikipedia.org/w/index.php?title=Weka&amp;action=edit">виправивши або дописавши її</a>.</span></i>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20210328233244
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.436 seconds
+Real time usage: 0.620 seconds
+Preprocessor visited node count: 3017/1000000
+Post‐expand include size: 33901/2097152 bytes
+Template argument size: 11465/2097152 bytes
+Highest expansion depth: 25/40
+Expensive parser function count: 11/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.255/10.000 seconds
+Lua memory usage: 4689158/52428800 bytes
+Number of Wikibase entities loaded: 14/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  555.212      1 -total
+ 98.69%  547.922      1 Шаблон:Infobox_software
+ 85.43%  474.314      1 Шаблон:Картка
+ 69.25%  384.504     15 Шаблон:Wikidata
+ 24.41%  135.549     10 Шаблон:If1
+  7.89%   43.804      2 Шаблон:Start_date_and_age
+  5.95%   33.060      2 Шаблон:InfoboxImage
+  3.44%   19.111      1 Шаблон:Wikidata/p373
+  2.85%   15.809      1 Шаблон:Checkwd
+  2.41%   13.403      2 Шаблон:Time_ago
+-->
+
+<!-- Saved in parser cache with key ukwiki:pcache:idhash:1287688-0!canonical and timestamp 20210328233244 and revision id 27730523. Serialized with JSON.
+ -->
+</div><noscript><img src="//uk.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Отримано з <a dir="ltr" href="https://uk.wikipedia.org/w/index.php?title=Weka&amp;oldid=27730523">https://uk.wikipedia.org/w/index.php?title=Weka&amp;oldid=27730523</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%97" title="Спеціальна:Категорії">Категорії</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B7%D0%B0_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D1%96%D1%82%D0%BE%D0%BC" title="Категорія:Програмне забезпечення за алфавітом">Програмне забезпечення за алфавітом</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B4%D0%BE%D0%B1%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85_%D1%82%D0%B0_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F" title="Категорія:Програмне забезпечення добування даних та машинного навчання">Програмне забезпечення добування даних та машинного навчання</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9D%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B5_%D0%92%D0%9F%D0%97" title="Категорія:Наукове ВПЗ">Наукове ВПЗ</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F_%D0%BD%D0%B0_Java" title="Категорія:Вільне програмне забезпечення на Java">Вільне програмне забезпечення на Java</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%91%D0%B5%D0%B7%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7%D1%83_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85" title="Категорія:Безплатне програмне забезпечення аналізу даних">Безплатне програмне забезпечення аналізу даних</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Приховані категорії: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C:InfoboxImage:%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D1%80%D1%96%D0%BB%D0%B8%D0%B9_%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%81_%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%8C" title="Категорія:Модуль:InfoboxImage:застарілий синтаксис зображень">Модуль:InfoboxImage:застарілий синтаксис зображень</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:P373:%D0%B2%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D1%83%D1%94%D1%82%D1%8C%D1%81%D1%8F" title="Категорія:Вікіпедія:P373:використовується">Вікіпедія:P373:використовується</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96_%D0%BF%D1%80%D0%BE_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B5_%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Категорія:Незавершені статті про програмне забезпечення">Незавершені статті про програмне забезпечення</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навігаційне меню</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Особисті інструменти</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Ви не увійшли до системи</li><li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D0%BE%D1%94_%D0%BE%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F" title="Обговорення редагувань з цієї IP-адреси [n]" accesskey="n">Обговорення</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D1%96%D0%B9_%D0%B2%D0%BD%D0%B5%D1%81%D0%BE%D0%BA" title="Список редагувань, зроблених з цієї IP-адреси [y]" accesskey="y">Внесок</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B8_%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81&amp;returnto=Weka" title="Пропонуємо створити обліковий запис і увійти в систему; однак, це не обов&#039;язково">Створити обліковий запис</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D1%85%D1%96%D0%B4&amp;returnto=Weka" title="Заохочуємо Вас увійти в систему, але це необов&#039;язково. [o]" accesskey="o">Увійти</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Простори назв</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Weka" title="Вміст статті [c]" accesskey="c">Стаття</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=%D0%9E%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F:Weka&amp;action=edit&amp;redlink=1" rel="discussion" title="Обговорення змісту сторінки (ще не написана) [t]" accesskey="t">Обговорення</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Варіанти</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Перегляди</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Weka">Читати</a></li><li id="ca-ve-edit"><a href="/w/index.php?title=Weka&amp;veaction=edit" title="Редагувати цю сторінку [v]" accesskey="v">Редагувати</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Weka&amp;action=edit" title="Редагувати цю сторінку [e]" accesskey="e">Редагувати код</a></li><li id="ca-history"><a href="/w/index.php?title=Weka&amp;action=history" title="Журнал змін сторінки [h]" accesskey="h">Переглянути історію</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>Більше</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Пошук</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Пошук у Вікіпедії" autocapitalize="sentences" title="Шукати у Вікіпедії [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Спеціальна:Пошук"/>
+			<input type="submit" name="fulltext" value="Знайти" title="Знайти сторінки, що містять зазначений текст" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Перейти" title="Перейти до сторінки, що має точно таку назву (якщо вона існує)" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0"
+			title="Перейти на головну сторінку"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Навігація</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Перейти на головну сторінку [z]" accesskey="z">Головна сторінка</a></li><li id="n-currentevents"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%96_%D0%BF%D0%BE%D0%B4%D1%96%D1%97" title="Список поточних подій">Поточні події</a></li><li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Список останніх змін у цій вікі [r]" accesskey="r">Нові редагування</a></li><li id="n-newpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8">Нові сторінки</a></li><li id="n-randompage"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D0%B8%D0%BF%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Переглянути випадкову сторінку [x]" accesskey="x">Випадкова стаття</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-Участь" class="mw-portlet mw-portlet-Участь vector-menu vector-menu-portal portal" aria-labelledby="p-Участь-label" role="navigation" 
+	 >
+	<h3 id="p-Участь-label" class="vector-menu-heading">
+		<span>Участь</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-portal"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%82%D0%B8" title="Про проєкт, про те, що Ви можете зробити, і що де шукати">Портал спільноти</a></li><li id="n-tavern"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9A%D0%BD%D0%B0%D0%B9%D0%BF%D0%B0" title="Місце для обговорення більшості питань">Кнайпа</a></li><li id="n-help"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0" title="Довідка з проекту">Довідка</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_uk.wikipedia.org&amp;uselang=uk" title="Підтримайте проєкт">Пожертвувати</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Інструменти</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F_%D1%81%D1%8E%D0%B4%D0%B8/Weka" title="Перелік усіх сторінок, які посилаються на цю сторінку [j]" accesskey="j">Посилання сюди</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D0%B2%27%D1%8F%D0%B7%D0%B0%D0%BD%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/Weka" rel="nofollow" title="Останні зміни на сторінках, на які посилається ця сторінка [k]" accesskey="k">Пов'язані редагування</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8" title="Перелік спеціальних сторінок [q]" accesskey="q">Спеціальні сторінки</a></li><li id="t-permalink"><a href="/w/index.php?title=Weka&amp;oldid=27730523" title="Постійне посилання на цю версію сторінки">Постійне посилання</a></li><li id="t-info"><a href="/w/index.php?title=Weka&amp;action=info" title="Додаткові відомості про цю сторінку">Інформація про сторінку</a></li><li id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Weka&amp;id=27730523&amp;wpFormIdentifier=titleform" title="Інформація про те, як цитувати цю сторінку">Цитувати сторінку</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494" title="Посилання на пов’язаний елемент сховища даних [g]" accesskey="g">Елемент Вікіданих</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Друк/експорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0&amp;bookcmd=book_creator&amp;referer=Weka">Створити книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:DownloadAsPdf&amp;page=Weka&amp;action=show-download-screen">Завантажити як PDF</a></li><li id="t-print"><a href="/w/index.php?title=Weka&amp;printable=yes" title="Версія цієї сторінки для друку [p]" accesskey="p">Версія до друку</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>В інших проєктах</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" hreflang="en">Вікісховище</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>Іншими мовами</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Weka_(aprenentatge_autom%C3%A0tic)" title="Weka (aprenentatge automàtic) — каталонська" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Weka" title="Weka — чеська" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Waikato_Environment_for_Knowledge_Analysis" title="Waikato Environment for Knowledge Analysis — німецька" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Weka_(%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7)" title="Weka (μηχανική μάθηση) — грецька" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Weka_(machine_learning)" title="Weka (machine learning) — англійська" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico)" title="Weka (aprendizaje automático) — іспанська" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Weka_(ikasketa_automatikoa)" title="Weka (ikasketa automatikoa) — баскська" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" title="وکا (یادگیری ماشینی) — перська" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Weka_(informatique)" title="Weka (informatique) — французька" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Weka_(%D7%9C%D7%9E%D7%99%D7%93%D7%AA_%D7%9E%D7%9B%D7%95%D7%A0%D7%94)" title="Weka (למידת מכונה) — іврит" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Weka_(pembelajaran_mesin)" title="Weka (pembelajaran mesin) — індонезійська" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Weka" title="Weka — італійська" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Weka" title="Weka — японська" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%B9%B4_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)" title="웨카 (기계 학습) — корейська" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Weka_(software)" title="Weka (software) — нідерландська" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Weka" title="Weka — португальська" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Weka" title="Weka — російська" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%99%E0%B6%9A%E0%B7%8F_%E0%B6%B8%E0%B7%98%E0%B6%AF%E0%B7%94%E0%B6%9A%E0%B7%8F%E0%B6%82%E0%B6%9C%E0%B6%BA" title="වෙකා මෘදුකාංගය — сингальська" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Weka_(strojno_u%C4%8Denje)" title="Weka (strojno učenje) — словенська" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%B2" title="เวกา — тайська" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Weka" title="Weka — турецька" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Weka_(h%E1%BB%8Dc_m%C3%A1y)" title="Weka (học máy) — вʼєтнамська" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Weka" title="Weka — китайська" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494#sitelinks-wikipedia" title="Редагувати міжмовні посилання" class="wbc-editpage">Редагувати посилання</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> Цю сторінку востаннє відредаговано о 19:17, 18 квітня 2020.</li>
+	<li id="footer-info-copyright">Текст доступний на умовах ліцензії <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a>;
+також можуть діяти додаткові умови.
+Детальніше див. <a href="https://foundation.wikimedia.org/wiki/Умови_використання">Умови використання</a>.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Політика конфіденційності</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE" title="Вікіпедія:Про">Про Вікіпедію</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%92%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%B0_%D0%B2%D1%96%D0%B4_%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96" title="Вікіпедія:Відмова від відповідальності">Відмова від відповідальності</a></li>
+	<li id="footer-places-contact"><a href="//uk.wikipedia.org/wiki/Вікіпедія:Зворотний_зв%27язок">Зворотний зв'язок</a></li>
+	<li id="footer-places-mobileview"><a href="//uk.m.wikipedia.org/w/index.php?title=Weka&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобільний вигляд</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Розробники</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/uk.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.436","walltime":"0.620","ppvisitednodes":{"value":3017,"limit":1000000},"postexpandincludesize":{"value":33901,"limit":2097152},"templateargumentsize":{"value":11465,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":14,"limit":400},"timingprofile":["100.00%  555.212      1 -total"," 98.69%  547.922      1 Шаблон:Infobox_software"," 85.43%  474.314      1 Шаблон:Картка"," 69.25%  384.504     15 Шаблон:Wikidata"," 24.41%  135.549     10 Шаблон:If1","  7.89%   43.804      2 Шаблон:Start_date_and_age","  5.95%   33.060      2 Шаблон:InfoboxImage","  3.44%   19.111      1 Шаблон:Wikidata/p373","  2.85%   15.809      1 Шаблон:Checkwd","  2.41%   13.403      2 Шаблон:Time_ago"]},"scribunto":{"limitreport-timeusage":{"value":"0.255","limit":"10.000"},"limitreport-memusage":{"value":4689158,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P170 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P112 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P178 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P178 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P348 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P348 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P400 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P306 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1414 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P277 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P275 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype url of P2078 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1332","timestamp":"20210328233244","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Weka","url":"https:\/\/uk.wikipedia.org\/wiki\/Weka","sameAs":"http:\/\/www.wikidata.org\/entity\/Q115494","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q115494","author":{"@type":"Organization","name":"\u0423\u0447\u0430\u0441\u043d\u0438\u043a\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0456\u0432 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-04-03T12:27:12Z","dateModified":"2020-04-18T19:17:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Weka_%28software%29_logo.png"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":169,"wgHostname":"mw1320"});});</script>
+</body></html>

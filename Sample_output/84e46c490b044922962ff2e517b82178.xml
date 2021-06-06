@@ -1,0 +1,1502 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<!-- start : Framework/Redwood2 -->
+	<!-- start : ocom/common/global/components/framework/head -->
+<head>
+	<!-- start : ocom/common/global/components/head -->
+		<title>Database 19c and 21c | Oracle</title>
+		<meta name="Title" content="Database 19c and 21c | Oracle">
+	
+			<meta name="Description" content="Scale your business strategy and achieve greater performance for all data workloads running on premise or in the cloud with Database 19c and the newly released Database 21c.">
+		
+	<meta name="Keywords" content="database 19c, database 21c, database technology, database, converged database">
+	
+	<meta name="siteid" content="us">
+	<meta name="countryid" content="US">
+	<meta name="robots" content="index, follow">
+	<meta name="country" content="United States">
+	<meta name="Language" content="en">
+	<meta name="Updated Date" content="2021-03-10T17:08:04Z">
+	
+	<script type="text/javascript">
+		var pageData = pageData || {};
+		//page info
+		pageData.pageInfo = pageData.pageInfo || {};
+		pageData.pageInfo.language = "en";
+		pageData.pageInfo.country = "United States";
+		pageData.pageInfo.pageTitle = "Database 19c and 21c | Oracle";
+		pageData.pageInfo.description = "Scale your business strategy and achieve greater performance for all data workloads running on premise or in the cloud with Database 19c and the newly released Database 21c.";
+		pageData.pageInfo.keywords = "database 19c, database 21c, database technology, database, converged database";
+		pageData.pageInfo.siteId = "us";
+		pageData.pageInfo.countryId = "US";
+		pageData.pageInfo.updatedDate = "2021-03-10T17:08:04Z";
+	</script>
+	<!-- start : ocom/common/global/components/seo-taxonomy-meta-data-->
+	
+	<script type="text/javascript">
+		var pageData = pageData || {};
+		//taxonmy
+		pageData.taxonomy = pageData.taxonomy || {};
+		pageData.taxonomy.productServices = [];
+		pageData.taxonomy.industry = [];
+		pageData.taxonomy.region = [];
+		pageData.taxonomy.contentType = ["WM147085"];
+		pageData.taxonomy.buyersJourney = [];
+		pageData.taxonomy.revenue = [];
+		pageData.taxonomy.title = [];
+		pageData.taxonomy.audience = [];
+		pageData.taxonomy.persona = [];
+	</script>
+<!-- end : ocom/common/global/components/seo-taxonomy-meta-data-->
+<!-- start : ocom/common/global/components/social-media-meta-tags --><!-- F13v0 -->
+		<meta property="og:title" content="Learn About the Latest Oracle Database"/>
+			<meta property="og:description" content="Scale your business strategy and achieve greater performance for all data workloads running on premise or in the cloud with Database 19c. Also, learn about the new capabilities of the newly released database 21c."/>
+		
+			<meta property="og:image" content="https://www.oracle.com/a/ocom/img/oracle-social-share-fb.jpg"/>
+		
+		<!-- /F13v0 -->
+		<!-- F13v1 -->
+		<meta name="twitter:card" content="summary">
+		
+			<meta name="twitter:title" content="Learn About the Latest Oracle Database">
+		
+			<meta name="twitter:description" content="Scale your business strategy and achieve greater performance for all data workloads running on premise or in the cloud with Database 19c. Also, learn about the new capabilities of the newly released database 21c.">
+		
+			<meta name="twitter:image" content="https://www.oracle.com/a/ocom/img/oracle-social-share-fb.jpg">
+		
+	<!-- /F13v1 -->
+<!-- end : ocom/common/global/components/social-media-meta-tags -->
+<!-- start : ocom/common/global/components/seo-hreflang-meta-tags --><link rel="canonical" href="https://www.oracle.com/database/technologies/" />
+					<link rel="alternate" hreflang="en-AE" href="https://www.oracle.com/ae/database/technologies/" />
+					
+					<link rel="alternate" hreflang="ar-AE" href="https://www.oracle.com/ae-ar/database/technologies/" />
+					
+					<link rel="alternate" hreflang="es-AR" href="https://www.oracle.com/ar/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-AU" href="https://www.oracle.com/au/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-BE" href="https://www.oracle.com/be/database/technologies/" />
+					
+					<link rel="alternate" hreflang="pt-BR" href="https://www.oracle.com/br/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-CA" href="https://www.oracle.com/ca-en/database/technologies/" />
+					
+					<link rel="alternate" hreflang="fr-CA" href="https://www.oracle.com/ca-fr/database/technologies/" />
+					
+					<link rel="alternate" hreflang="de-CH" href="https://www.oracle.com/ch-de/database/technologies/" />
+					
+					<link rel="alternate" hreflang="fr-CH" href="https://www.oracle.com/ch-fr/database/technologies/" />
+					
+					<link rel="alternate" hreflang="es-CL" href="https://www.oracle.com/cl/database/technologies/" />
+					
+					<link rel="alternate" hreflang="zh-CN" href="https://www.oracle.com/cn/database/technologies/" />
+					
+					<link rel="alternate" hreflang="es-CO" href="https://www.oracle.com/co/database/technologies/" />
+					
+					<link rel="alternate" hreflang="cs-CZ" href="https://www.oracle.com/cz/database/technologies/" />
+					
+					<link rel="alternate" hreflang="de-DE" href="https://www.oracle.com/de/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-US" href="https://www.oracle.com/database/technologies/" />
+					
+					<link rel="alternate" hreflang="es-ES" href="https://www.oracle.com/es/database/technologies/" />
+					
+					<link rel="alternate" hreflang="fr-FR" href="https://www.oracle.com/fr/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-HK" href="https://www.oracle.com/hk/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-ID" href="https://www.oracle.com/id/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-IE" href="https://www.oracle.com/ie/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-IN" href="https://www.oracle.com/in/database/technologies/" />
+					
+					<link rel="alternate" hreflang="it-IT" href="https://www.oracle.com/it/database/technologies/" />
+					
+					<link rel="alternate" hreflang="ja-JP" href="https://www.oracle.com/jp/database/technologies/" />
+					
+					<link rel="alternate" hreflang="ko-KR" href="https://www.oracle.com/kr/database/technologies/" />
+					
+					<link rel="alternate" hreflang="es-MX" href="https://www.oracle.com/mx/database/technologies/" />
+					
+					<link rel="alternate" hreflang="nl-NL" href="https://www.oracle.com/nl/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-PH" href="https://www.oracle.com/ph/database/technologies/" />
+					
+					<link rel="alternate" hreflang="pl-PL" href="https://www.oracle.com/pl/database/technologies/" />
+					
+					<link rel="alternate" hreflang="pt-PT" href="https://www.oracle.com/pt/database/technologies/" />
+					
+					<link rel="alternate" hreflang="ro-RO" href="https://www.oracle.com/ro/database/technologies/" />
+					
+					<link rel="alternate" hreflang="ru-RU" href="https://www.oracle.com/ru/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-SA" href="https://www.oracle.com/sa/database/technologies/" />
+					
+					<link rel="alternate" hreflang="ar-SA" href="https://www.oracle.com/sa-ar/database/technologies/" />
+					
+					<link rel="alternate" hreflang="sv-SE" href="https://www.oracle.com/se/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-SG" href="https://www.oracle.com/sg/database/technologies/" />
+					
+					<link rel="alternate" hreflang="sk-SK" href="https://www.oracle.com/sk/database/technologies/" />
+					
+					<link rel="alternate" hreflang="tr-TR" href="https://www.oracle.com/tr/database/technologies/" />
+					
+					<link rel="alternate" hreflang="zh-TW" href="https://www.oracle.com/tw/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-GB" href="https://www.oracle.com/uk/database/technologies/" />
+					
+					<link rel="alternate" hreflang="en-ZA" href="https://www.oracle.com/za/database/technologies/" />
+					
+					<meta name="altpages" content="ae,ae-ar,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,pt,ro,ru,sa,sa-ar,se,sg,sk,tr,tw,uk,za">
+					<script type="text/javascript">
+						var pageData = pageData || {};
+						//page info
+						pageData.pageInfo = pageData.pageInfo || {};
+						pageData.pageInfo.altPages = "ae,ae-ar,ar,au,be,br,ca-en,ca-fr,ch-de,ch-fr,cl,cn,co,cz,de,es,fr,hk,id,ie,in,it,jp,kr,mx,nl,ph,pl,pt,ro,ru,sa,sa-ar,se,sg,sk,tr,tw,uk,za";
+					</script>
+				<!-- end : ocom/common/global/components/seo-hreflang-meta-tags -->
+
+	<!-- end : ocom/common/global/components/head -->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<!-- start : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+<!-- Container/Display Start -->
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+	<!-- BEGIN CSS/JS -->
+	<script>
+		!function(){
+			var d=document.documentElement;d.className=d.className.replace(/no-js/,'js');
+			if(document.location.href.indexOf('betamode=') > -1) document.write('<script src="/asset/web/js/ocom-betamode.js"><\/script>');
+		}();
+	</script>
+
+	<link data-wscss href="/asset/web/css/redwood-base.css" rel="preload" as="style" onload="this.rel='stylesheet';" onerror="this.rel='stylesheet'">
+	<link data-wscss href="/asset/web/css/redwood-styles.css" rel="preload" as="style" onload="this.rel='stylesheet';" onerror="this.rel='stylesheet'">
+
+	<noscript>
+		<link href="/asset/web/css/redwood-base.css" rel="stylesheet">
+		<link href="/asset/web/css/redwood-styles.css" rel="stylesheet">
+	</noscript>
+
+	<link data-wsjs data-reqjq href="/asset/web/js/redwood-base.js" rel="preload" as="script">
+	<link data-wsjs data-reqjq href="/asset/web/js/redwood-lib.js" rel="preload" as="script">
+	<script data-wsjs src="/asset/web/js/jquery-min.js" async onload="$('head link[data-reqjq][rel=preload]').each(function(){var a = document.createElement('script');a.async=false;a.src=$(this).attr('href');this.parentNode.insertBefore(a, this);});$(function(){$('script[data-reqjq][data-src]').each(function(){this.async=true;this.src=$(this).data('src');});});"></script>
+    <!-- END CSS/JS -->		
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- Container/Display end -->
+
+<!-- Container/Display Start -->
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+ <!-- www-us HeadAdminContainer -->
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-32.png" sizes="32x32">
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-128.png" sizes="128x128">
+<link rel="icon" href="https://www.oracle.com/asset/web/favicons/favicon-192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-120.png" sizes="120x120">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-152.png" sizes="152x152">
+<link rel="apple-touch-icon" href="https://www.oracle.com/asset/web/favicons/favicon-180.png" sizes="180x180">
+<meta name="msapplication-TileColor" content="#fcfbfa"/>
+<meta name="msapplication-square70x70logo" content="favicon-128.png"/>
+<meta name="msapplication-square150x150logo" content="favicon-270.png"/>
+<meta name="msapplication-TileImage" content="favicon-270.png"/>
+<meta name="msapplication-config" content="none"/>
+  <style>
+  #oReactiveChatContainer1 { display:none;}
+  </style>
+  <!--DTM embed code - Header -->
+  <script src="//assets.adobedtm.com/6f37a0dc9cdbe818dc4979828b58b88e3f060ea4/satelliteLib-e598c5b61e39a10b402e048e87dd27b0f1cd2d4c.js"></script>
+ 
+ <!--End-->
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- Container/Display end -->
+
+
+<!-- end : ocom/common/global/components/framework/layoutAssetHeadInfo -->
+
+
+
+  <script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"","rua.texp":""}]);</script>
+                          <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DXNLE-YBWWY-AR74T-WMD99-77VRA",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(c){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"DXNLE-YBWWY-AR74T-WMD99-77VRA";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="n533wkixy6l7aydufczq-f-923460c2c-clientnsv4-s.akamaihd.net",i={"ak.v":"31","ak.cp":"82485","ak.ai":parseInt("604074",10),"ak.ol":"0","ak.cr":167,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"c3bc09c","ak.r":29649,"ak.a2":n,"ak.m":"dscx","ak.n":"essl","ak.bpcip":"111.119.187.0","ak.cport":23337,"ak.gh":"23.45.232.111","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1618225331","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==WkERls53y6WmuRW3R53FNEnm1RLoOqUcAK+oCElxutbYsGpzxZzASiaY6rDuIVf4pUxGFao1oakOWtFrt2Qi7zx4fgzL7PJON4lnBsZp6X+saVZ1Oaejbn5lBpnHUszIiuH4EzTeTe149x7MuELs7BQDGaIVXR+3KHczu4lJTCW7KCAo0+bUFh0VPDW/w/1frumqBfZm0qVViW+fNlZpqWhfV0yCC/NxOXiIeRaqsp9pdSQN9rW5U4fPyZgqglVzsHAq2Yor+tUMxunVmk3M6X+2eEFAUmi4Fp4E3BowHSZLhiEy4kYV47ziKjq5B8YnAASSiTXEMp/F1eFBULxlUDFqaH5anA/NirTg3EDTYarQxwuYb0FDasXRd/SQQt1R5/hB0HpXCxVs5h3wKXQbsDnIlBIaIA8Lhon06RzT0ng=","ak.pv":"211","ak.dpoabenc":""};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!o.i){var e=BOOMR.subscribe;e("before_beacon",o.av,null,null),e("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><!-- end : ocom/common/global/components/framework/head --><!-- start : ocom/common/global/components/redwood/layoutAssetStartBodyInfo -->
+	<body class="f20 f20v0 rwtheme-slate" style="opacity:0">
+
+		
+<!-- Container/Display Start -->
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- www-us StartBodyAdminContainer -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- Container/Display end -->
+
+
+		<div class="f20w1">
+
+			
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U28v1 -->
+<section class="u28 u28v1 u28adj" id="u28" data-trackas="header">
+	<div id="u28skip2content" aria-expanded="false" tabindex="-1">
+		<ul>
+			<li><a id="u28acc" href="https://www.oracle.com/corporate/accessibility/">Click to view our Accessibility Policy</a></li>
+			<li><a id="u28skip2c" href="#maincontent">Skip to content</a></li>
+		</ul>
+	</div>
+	<div class="u28w1">
+		<div class="cwidth">
+			<div class="u28s1" id="u28s1">
+				<a class="u28home rw-logo" href="/" data-lbl="logo">home</a>
+				<a class="u28ham" href="/universal-menu/" data-lbl="menu">nav</a>
+			</div>
+			<div class="u28s2">
+				<div class="u28w2">
+					<form name="askoracle" id="askoracle" class="askoracle" data-contentpaths="/content/Web/Shared/Auto-Suggest Panel Event" method="get" action="/search/results" data-resultsclose="Close" data-resultscloselabel="Exit Search Results">
+						<input type="hidden" name="Nty" value="1">
+						<input type="hidden" name="Dy" value="1">
+						<input type="hidden" name="Ntk" value="SI-ALL5">
+						<input type="hidden" name="cty" value="us">
+						<input type="hidden" name="lang" value="en">
+						<div class="u28w3">
+							<div class="u28logo rw-logo">
+								<span>Oracle</span>
+							</div>
+							<a class="u28-back rw-cv-left" href="#back" title="Close Search Field">
+								<span>Close</span>
+							</a>
+							<a class="u28-searchicon" href="#search">
+								<span>Search</span>
+							</a>
+							<span class="u28input">
+								<input id="askoracleinput" name="Ntt" value="" data-prefix="Ask" placeholder="Ask" autocomplete="off" role="combobox" aria-label="Search Oracle.com">
+								<span class="u28submit">
+									<input class="u28searchbttn" type="submit" value="Submit Search">
+								</span>
+							</span>
+						</div>
+					</form>
+				</div>
+
+			</div>
+
+			<nav class="u28s4">
+				<a class="u28search u28navitm" id="u28search" aria-label="Open Search Field" href="#search"><span>Search</span></a>
+				<a href="#products" data-target="products" class="u28navitm">Products</a>
+				<a href="#industries" data-target="industries" class="u28navitm">Industries</a>
+				<a href="#resources" data-target="resources" class="u28navitm">Resources</a>
+				<a href="#support" data-target="support" class="u28navitm">Support</a>
+				<a href="#events" data-target="events" class="u28navitm">Events</a>
+				<a href="#developer" data-target="developer" class="u28navitm">Developer</a>
+			</nav>
+
+			<div class="u28s3" id="u28s3">
+
+				<div class="u28-profile">
+					<a href="#" class="u28prof" data-lbl="sign-in-account" title="View Accounts"><div class="acttxt">View Accounts</div><span>Sign In</span></a>
+					<div class="u28-profilew1">
+					<span class="u28actbck u28back">Back</span>
+						<span class="u28acttitle">Oracle Account</span>
+						<div class="u28-profilew2">
+							<span class="u28acttitle">Cloud Account</span>
+							<a href="/cloud/sign-in.html" class="u28cloudbg" data-lbl="go-to-cloud-website" aria-label="Sign in to Cloud">Sign in to Cloud</a>
+							<a href="/cloud/free/?source=:ow:o:h:nav:OHP0625ViewAccountsButton&intcmp=:ow:o:h:nav:OHP0625ViewAccountsButton" class="u28btn2" data-lbl="cta-0625-nav-header-accounts-free-tier-oci" aria-label="Sign Up for Free Cloud Tier">Sign Up for Free Cloud Tier</a></li>
+						</div>
+						<ul class="u28l-out">
+							<li><a href="https://www.oracle.com/webapps/redirect/signon?nexturl=" data-lbl="profile:sign-in-account" class="u28btn1">Sign-In</a></li>
+							<li><a href="https://profile.oracle.com/myprofile/account/create-account.jspx" data-lbl="profile:create-account" class="u28btn2">Create an Account</a></li>
+						</ul>
+						<ul class="u28l-in">
+							<li><a href="/corporate/contact/help.html" data-lbl="help">Help</a></li>
+							<li><a href="javascript:sso_sign_out();" id="u28pfile-sout" data-lbl="signout">Sign Out</a></li>
+						</ul>
+					</div>
+				</div>
+
+				<div class="u28-contact">
+					<a href="/corporate/contact/" class="u28contact" data-lbl="contact-sales" title="Contact Sales"><span>Contact Sales</span></a>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="u28w4" id="u28w4">
+		<div class="u28w1a u28w5 clstrgt">
+			<div class="u28w6">
+
+				<!-- Search Results -->
+				<div class="u28w8 u28trgt"></div>
+				<div class="u28w9">
+					<div class="u28result u28noresults">
+						<div class="u28rw1">
+							<div class="u28rw2">
+								<h4>No results found</h4>
+								<p>Your search did not match any results.</p>
+								<p>We suggest you try the following to help find what you&rsquo;re looking for:</p>
+								<ul class="u28w7a">
+									<li>Check the spelling of your keyword search.</li>
+									<li>Use synonyms for the keyword you typed, for example, try &ldquo;application&rdquo; instead of &ldquo;software.&rdquo;</li>
+									<li>Try one of the popular searches shown below.</li>
+									<li>Start a new search.</li>
+								</ul>
+								<h5>Trending Questions</h5>
+							</div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+	</div>
+
+	<nav id="u28nav" class="u28nav" data-trackas="menu">
+		<a href="#close" class="mnavback u28back icn-close">Close</a>
+	</nav>
+	<a id="maincontent">&nbsp;</a>
+</section>
+<!-- /U28v1 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+<!-- end : ocom/common/global/components/redwood/layoutAssetStartBodyInfo -->
+
+
+<!-- widgetType = PageTitleBanner -->
+<!-- ptbWidget = true -->
+		
+
+<!-- ptbWidget = true -->
+		
+
+<!-- BEGIN:  oWidget_C/PageTitleBanner/Display -->
+
+
+
+<!-- RH03v1 -->
+<section class="rh03 rh03v1 rw-theme-150bg" data-trackas="rh03" data-ocomid="rh03" data-bgimg="/a/ocom/img/bgimg02-bgsw-overlay-03.png,/a/ocom/img/bgimg02-bgne-overlay-03.png">
+  <div class="rh03w1 cwidth">
+
+	
+	<div class="rh03bc">
+			<!--BREADCRUMBS-->
+			<div class="rh03bc1">
+				<ol>
+					
+								<li><a href="/database/">Database</a></li>
+								
+				</ol>
+			</div>
+
+			
+
+				<!--Call to action-->
+				<div class="rh03bc2">
+
+				
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!--Call to action-->
+<div class="rh03bc2"> <div class="obttns"> <div> <a href="/cloud/free/" data-cxdtrack=":ow:o:p:nav:070220DatabaseHero" data-adbtrack=":ow:o:p:nav:070220DatabaseHero" data-lbl="hero-cta:try-oracle-cloud-free-tier">Try Oracle Cloud Free Tier</a> </div> </div> </div> 
+<!--Call to action-->
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+				</div>
+
+			
+
+	</div>
+		
+
+    <div class="herotitle">
+      <h1 class="rwaccent">Oracle Database Technologies</h1>
+      <p>Oracle Database offers market-leading performance, scalability, reliability, and security, both on-premises and in the cloud. Oracle Database 19c is the current <a href="https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=479091091880618&parent=WIDGET_RECENTLY_VIEWED&sourceId=551141.1&id=742060.1&_afrWindowMode=0&_adf.ctrl-state=7hajq4ayu_4#aref_section14" data-lbl="long-term-release">long term release</a>, and it provides the highest level of release stability and longest time-frame for support and bug fixes.
+</br></br>
+Oracle Database 21c, also available for production use today as an  <a href="https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=479091091880618&parent=WIDGET_RECENTLY_VIEWED&sourceId=551141.1&id=742060.1&_afrWindowMode=0&_adf.ctrl-state=7hajq4ayu_4#aref_section14" data-lbl="innovation-release">innovation release</a>, provides an early insight into the many enhancements and new capabilities. These include improved multimodel support through in-database Javascript and native blockchain tables, and multiworkload improvements such as AutoML and sharding enhancements that will be incorporated into future long term releases.</p>
+    </div>
+    
+        <img class="rh03img1" src="/a/ocom/img/rh03-database-technologies.png" alt="Database">
+      
+  </div>
+
+	
+
+</section>
+<!-- /RH03v1 -->
+
+<!-- END:  oWidget_C/PageTitleBanner/Display -->
+
+<!-- start : ocom/common/global/components/compass/related-widgets -->
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC59v0 -->
+<section class="rc59 rc59v0" data-trackas="rc59" data-ocomid="rc59">
+	<div class="rc59w1 cwidth">
+		<div class="rc59w2">
+
+			<div class="rc59w3">
+                <strong>Download Oracle Database 19c</strong>
+				<p>Get the best performance for your most demanding analytical and operational workloads. <a href="https://go.oracle.com/LP=104972?elqCampaignId=282652">Learn more about upgrading to Oracle Database 19c</a>.</p>
+				<div class="obttns">
+					<div class="obttn2">
+						<a href="/database/technologies/oracle-database-software-downloads.html#19c" data-lbl="card-1:download-database-19c">Download Oracle Database 19c</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="rc59w3">
+				<strong>Oracle Database 21c</strong>
+				<p>A range of multimodel, multiworkload, and multitenant enhancements such as support for binary JSON for 10X faster scans and AutoML give nonexpert users access to machine learning in the database.</p>
+				<div class="obttns">
+					<div class="obttn2">
+						<a href="https://docs.oracle.com/en/database/oracle/oracle-database/21/whats-new.html" data-lbl="card-2:learn-more">Learn more</a>
+					</div>
+				</div>
+			</div>
+
+			<div class="rc59w3">
+				<strong>Report: Oracle Database 21c moves ML forward </strong>
+				<p>Oracle democratizes machine learning with Database 21c release. </p>
+				<div class="obttns">
+					<div class="obttn2">
+						<a href="https://explore.oracle.com/converged-database-ocom/democratize-ml-with-database-21c/?source=:ow:pf:cta::::RC_WWMK201104P00092:Omdiareport&intcmp=:ow:pf:cta::::RC_WWMK201104P00092:Omdiareport&lb-mode=overlay" rel="lightbox" title="Read the report" id="preview" data-iframe="true" data-theme="pathfactory" data-width="1800" data-height="800" tabindex="0" data-lbl="Cta-read-the-report-pdf-button3">Read the report (PDF)</a>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+<!-- /RC59v0 -->
+
+
+
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC13v0 -->
+<section class="rc13 rc13v0 cpad rw-neutral-10bg rw-pattern4 rw-pattern-20p" data-trackas="rc13" data-ocomid="rc13" data-lbl="differentiators:">
+    <div class="rc13w1 cwidth">
+        <div class="rc13w2">
+            <div class="rc13w3">
+                <h3 class="rwaccent-2">Why choose Oracle Database for all your data needs?</h3>
+            </div>
+        </div>
+        <div class="rc13w5 col-framework col-justified col4 col-gutters">
+            <div class="col-w1">
+                <div class="col-item">
+                    <div class="col-item-w1">
+                        <h4>Reduce operational costs by up to 90%</h4>
+                        <p>Reduce the costs of managing, securing, and maintaining your Oracle databases with machine learning-driven automation. Provision, scale and tune, protect and patch, and repair the database—all automatically without user intervention.</p>
+                        <a href="/autonomous-database/" data-lbl="adb">Learn more about Oracle Autonomous Database</a><br/>
+                        <br/>
+                        <a href="https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=582" data-lbl="abd-workshop">Try it&mdash;Autonomous Database Quick Start Workshop</a> </div>
+                </div>
+                <div class="col-item">
+                    <div class="col-item-w1">
+                        <h4>Guard against data breaches</h4>
+                        <p>Assess, detect, and prevent data security threats with Oracle database security solutions for encryption, key management, data masking, privileged user access controls, activity monitoring, and auditing. Reduce the risk of a data breach and simplify and accelerate compliance.</p>
+                        <a href="/a/ocom/docs/corporate/analystrelations/idc-oracle-autonomous-database.pdf" data-lbl="latest-analyst-research" target="_blank">IDC: Security benefits of Oracle Autonomous Database (PDF)</a><br/>
+                        <br/>
+                        <a href="/a/ocom/docs/database=and-big-data-security.pdf" data-lbl="kuppingercole" target="_blank">KuppingerCole: Oracle leads in Database and Big Data Security (PDF)</a><br/>
+                        <br/>
+                        <a href="https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=698" data-lbl="db-security-workshop">Try it&mdash;Database Security Basics Workshop</a></div>
+                </div>
+                <div class="col-item">
+                    <div class="col-item-w1">
+                        <h4>Use a single database for all data types</h4>
+                        <p>Free application developers from complex transformations and redundant data with Oracle’s converged database.</p>
+                        <a href="?ytid=yBWgb_oh39U" rel="vbox" data-trackas="rc13-lightbox" data-lbl="oracles-converged-database-video">Watch the video (2:49)</a><br/>
+                        <br/>
+                        <a href="https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=670" data-lbl="develop-apps-workshop">Try it&mdash;Develop Apps Using JSON, XML, Spatial and Graph Workshop</a> </div>
+                </div>
+                <div class="col-item">
+                    <div class="col-item-w1">
+                        <h4>Deploy where you need to</h4>
+                        <p>Deploy Oracle Database wherever required—in your data center, public cloud, or private cloud. This offers the flexibility between deployment in your data center when residency or latency are critical, or in the cloud when you want to take advantage of scalability and the broadest set of capabilities.</p>
+                        <a href="/a/ocom/docs/engineered-systems/exadata/idc-adb-on-exac-at-cloud.pdf" data-lbl="bring-cloud-to-you"  target="_blank">Oracle brings the Oracle Cloud to you (PDF)</a><br/>
+                        <br/>
+                        <a href="https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=714" data-lbl="cont-dev-docker-workshop">Try it&mdash;Containerized Development with Docker on Autonomous Database Workshop</a> </div>
+                </div>
+               
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /RC13v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC30v1 -->
+<section class="rc30 rc30v1 cpad rw-theme-130bg rw-pattern-theme1w rw-pattern-8p" data-trackas="rc30" data-ocomid="rc30" data-lbl="database-services-solutions-features:">
+    <div class="rc30w1 cwidth">
+        <h2 class="rwaccent">Database services, solutions, and features</h2>
+        <div class="rc30w2">
+            <form class="oform rc30mobnav">
+                <span class="oform-w1">
+                    <span class="oselect">
+                        <select name="f4">
+                            <option value="#rc30p1">Analytics and data warehousing</option>
+                            <option value="#rc30p2">Application development</option>
+                            <option value="#rc30p3">High availability</option>
+                            <option value="#rc30p4">Machine learning</option>
+                            <option value="#rc30p5">Database manageability</option>
+                            <option value="#rc30p6">Performance and scalability</option>
+                            <option value="#rc30p7">Database security</option>
+                            <option value="#rc30p8">Database cloud services</option>
+                            <option value="#rc30p9">Other database products</option>
+                        </select>
+                    </span>
+                </span>
+            </form>
+        </div>
+        <div class="rc30w3">
+
+            <div class="rc30w4 rc30pane rc30pane-bleed rw-neutral-30bg" id="rc30p1" data-lbl="analytics and data warehouse:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <h4>Utilize data warehousing on-premises or in the cloud</h4>
+                                    <p>Advanced data warehousing and analytics technologies, such as Oracle Database In-Memory and Oracle Multitenant, enable analytics teams to complete more in-depth analyses of scalable data warehouses in less time. Customers  develop deeper, data-driven insights using Oracle Database technologies on-premises or in Oracle Cloud Infrastructure.</p>
+
+                                    <div class="rc30cta">
+                                        <div class="obttns">
+                                            <div>
+                                                <a href="/database/technologies/datawarehouse-bigdata.html" data-lbl="explore-data-warehouseing-technologies">Explore data warehousing technologies </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <ul class="odlist">
+                                        <li><a href="/database/technologies/datawarehouse-bigdata/partitioning.html">Oracle Partitioning</a></li>
+                                        <li><a href="/database/technologies/in-memory.html">Oracle Database In-Memory</a></li>
+                                        <li><a href="/database/technologies/spatialandgraph.html">Spatial and Graph</a></li>
+                                        <li><a href="/database/technologies/datawarehouse-bigdata/big-data-connectors.html">Oracle Big Data Connectors</a></li>
+                                        <li><a href="/database/technologies/multitenant.html">Oracle Multitenant</a></li>
+                                        <li><a href="/engineered-systems/exadata/">Oracle Exadata</a></li>                   
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w11">
+                               <div data-bgimg="/a/ocom/img/rc30v1-apex.png?foo1"><br /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rc30w4 rc30pane rc30pane-bleed rw-neutral-30bg" id="rc30p2" data-lbl="application-development:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <h4>Comprehensive, scalable app development</h4>
+                                    <p>Developers can quickly create scalable, high-performance applications using SQL, JSON, XML, and a range of procedural languages. Oracle Database 19c offers a range of built-in development tools, such as APEX, and converged database capabilities.</p>
+
+                                    <div class="rc30cta">
+                                        <div class="obttns">
+                                            <div>
+                                                <a href="/database/technologies/application-development.html" data-lbl="explore-application-development">Explore application development technologies</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                     <ul class="odlist">
+                                        <li><a href="https://apex.oracle.com/en/">Oracle Application Express (APEX)</a></li>
+                                        <li><a href="/database/technologies/appdev/sqldeveloper-landing.html">Oracle SQL Developer</a></li>
+                                        <li><a href="/database/technologies/datawarehouse-bigdata/machine-learning.html">Machine Learning</a></li>
+                                        <li><a href="/database/technologies/appdev/json.html">Oracle JSON Document Database</a></li>
+                                        <li><a href="/database/technologies/spatialandgraph.html">Spatial and Graph features</a></li>
+                                        <li><a href="/database/technologies/appdev/sql.html">SQL</a></li>
+                                        <li><a href="/database/technologies/appdev/jdbc.html">Java</a></li>
+                                        <li><a href="/database/technologies/appdev/python.html">Python</a></li>
+                                        <li><a href="/database/technologies/appdev/nodejs.html">Node.js</a></li>
+                                        <li><a href="/database/technologies/appdev/dotnet.html">.Net</a></li>                   
+                                     </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w11">
+                               <div data-bgimg="/a/ocom/img/rc30v1-application-development.png?foo2"><br /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rc30w4 rc30pane rc30pane-bleed rw-neutral-30bg" id="rc30p3" data-lbl="high-availability-and-scalability">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <h4>Comprehensive, high availability capabilities</h4>
+                                    <p>Oracle Database 19c includes built-in capabilities and options, including Oracle Active Data Guard and Oracle Real Application Clusters, that enable efficient, scaling and consolidation of customer databases. IT teams use the same capabilities on-premises and in Oracle Cloud Infrastructure to run protect crucial customer databases and maximize their availability.</p>
+
+                                    <div class="rc30cta">
+                                        <div class="obttns">
+                                            <div>
+                                                <a href="/database/technologies/high-availability.html" data-lbl="explore-high-availability-technologies">Explore high-availability technologies</a>
+                                            </div>
+                                            <div>
+                                                <a href="/database/technologies/high-availability/maa.html" data-lbl="explore-oracle-maximum-availability-architecture">Explore Oracle Maximum Availability Architecture</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <ul class="odlist">
+                                        <li><a href="/database/technologies/rac.html">Oracle Real Application Clusters (RAC)</a></li>
+                                        <li><a href="/database/technologies/rac/racone.html">Oracle RAC One Node</a></li>
+                                        <li><a href="/database/technologies/high-availability/dataguard.html">Active Data Guard</a></li>
+                                        <li><a href="/middleware/technologies/goldengate.html">Oracle GoldenGate</a></li>
+                                        <li><a href="/database/technologies/multitenant.html">Oracle Multitenant</a></li>
+                                        <li><a href="/database/technologies/high-availability/sharding.html">Oracle Sharding</a></li>
+                                        <li><a href="/database/technologies/high-availability/site-guard.html">Oracle Site Guard</a></li>
+                                        <li><a href="/engineered-systems/exadata/">Oracle Exadata</a></li>
+                                        <li><a href="/engineered-systems/zero-data-loss-recovery-appliance/x8m/">Oracle’s Zero Data Loss Recovery Appliance</a></li>
+                                    </ul>                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w11">
+                               <div data-bgimg="/a/ocom/img/rc30v1-data-warehousing.png?foo3"><br /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rc30w4 rc30pane rc30pane-bleed rw-neutral-30bg" id="rc30p4" data-lbl="machine-learning:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <h4>Faster, better data-driven decisions</h4>
+                                    <p>Oracle Database accelerates machine learning (ML) with powerful algorithms that run inside the database so customers can build and run ML models without having to move or reformat data. Data scientists leverage Python, R, SQL, and other tools to integrate ML capabilities into database applications and deliver analytics results in easy-to-use dashboards.</p>
+
+                                    <div class="rc30cta">
+                                        <div class="obttns">
+                                            <div>
+                                                <a href="/machine-learning" data-lbl="machine-learning">Explore machine learning technologies</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <ul class="odlist">
+                                        <li><a href="/database/technologies/datawarehouse-bigdata/dataminer.html">Oracle Data Miner</a></li>
+                                        <li><a href="/database/technologies/datawarehouse-bigdata/oml-notebooks.html">Oracle Machine learning notebooks</a></li>
+                                        <li><a href="/database/technologies/datawarehouse-bigdata/oml4sql.html">Oracle Machine Learning for SQL</a></li>
+                                        <li><a href="/database/technologies/datawarehouse-bigdata/oml4r.html ">Oracle Machine Learning for R</a></li>
+                                        <li><a href="/database/technologies/datawarehouse-bigdata/oml4spark.html ">Oracle Machine Learning for Spark</a></li>
+                                        <li><a href="https://www.oracle.com/business-analytics/analytics-cloud.html">Oracle Analytics Cloud</a></li>
+                                        <li><a href="/database/technologies/high-availability/site-guard.html">Oracle Site Guard</a></li>
+                                     </ul>
+
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w11">
+                               <div data-bgimg="/a/ocom/img/rc30v1-database-in-memory.png?foo4"><br /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rc30w4 rc30pane rc30pane-bleed rw-neutral-30bg" id="rc30p5" data-lbl="database-management:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <h4>Integrated, enterprise-wide Oracle Database management</h4>
+                                    <p>Increase enterprise-wide database performance and availability with consistent management processes via a single-pane-of-glass management dashboard. DBAs reduce their workloads by consolidating the monitoring and management of databases running on premises, in Oracle Cloud Infrastructure, and in third-party clouds with Oracle database management solutions.</p>
+
+                                    <div class="rc30cta">
+                                        <div class="obttns">
+                                            <div>
+                                                <a href="/enterprise-manager/" data-lbl="explore-oracle-enterprise-manager">Explore Oracle Enterprise Manager</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                     <ul class="odlist">
+                                        <li><a href="/enterprise-manager/technologies/">Enterprise Manager Cloud Control</a></li>
+                                     </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w11">
+                               <div data-bgimg="/a/ocom/img/rc30v1-high-availability.png?foo5"><br /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rc30w4 rc30pane rc30pane-bleed rw-neutral-30bg" id="rc30p6" data-lbl="performance:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <h4>Optimized database performance throughout the enterprise</h4>
+                                    <p>Meet stringent performance requirements in real-time environments and data center deployments, with a range of capabilities designed for optimized low-latency and high-throughput.</p>
+
+                                     <div class="rc30cta">
+                                        <div class="obttns">
+                                            <div>
+                                                <a href="https://blogs.oracle.com/database/oracle-a-leader-in-2019-gartner-magic-quadrant-for-operational-dbms-v2" data-lbl="eoracle-leadership">Oracle leadership</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <ul class="odlist">
+                                        <li><a href="/database/technologies/in-memory.html">Database In Memory</a></li>
+                                        <li><a href="/database/technologies/related/timesten.html">Times Ten</a></li>
+                                        <li><a href="/database/technologies/advanced-compression.html">Advanced Compression</a></li>
+                                        <li><a href="/database/technologies/partitioning.html">Partitioning</a></li>
+                                        <li><a href="/manageability/enterprise-manager/technologies/real-application-testing.html">Real Application Testing</a></li>
+                                        <li><a href="/engineered-systems/exadata/">Exadata</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w11">
+                               <div data-bgimg="/a/ocom/img/rc30v1-machine-learning.png?foo6"><br /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+              <div class="rc30w4 rc30pane rc30pane-bleed rw-neutral-30bg" id="rc30p7" data-lbl="database-technologies:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <h4>Protect crucial data</h4>
+                                    <p>Oracle’s database security solutions reduce the risk of data breaches and make it easier for customers to meet compliance requirements. Encryption, data masking, privileged user access controls, activity monitoring, and auditing enable IT teams to strongly secure Oracle Database environments and understand potential vulnerabilities.</p>
+
+                                    <div class="rc30cta">
+                                        <div class="obttns">
+                                            <div>
+                                                <a href="/security/database-security/" data-lbl="explore-database-security-technologies">Explore database security technologies</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <ul class="odlist">
+                                        <li><a href="/security/database-security/advanced-security/">Oracle Advanced Security</a></li>
+                                        <li><a href="/security/database-security/audit-vault-database-firewall/">Oracle Audit Vault and Database Firewall</a></li>
+                                        <li><a href="/security/database-security/data-masking-subsetting/">Oracle Data Masking and Subsetting</a></li>
+                                        <li><a href="/security/database-security/data-safe/">Oracle Data Safe</a></li>
+                                        <li><a href="/security/database-security/assessment-tool/">Oracle Database Security Assessment Tool</a></li>
+                                        <li><a href="/security/database-security/database-vault/">Oracle Database Vault</a></li>
+                                        <li><a href="/security/database-security/key-vault/">Oracle Key Vault</a></li>
+                                        <li><a href="/security/database-security/label-security/">Oracle Label Security</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w11">
+                               <div data-bgimg="/a/ocom/img/rc30v1-data-safe-audit-vault.png?foo7"><br /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rc30w4 rc30pane rc30pane-bleed rw-neutral-30bg" id="rc30p8" data-lbl="database-cloud-services:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <h4>Agile, flexible, and secure database management</h4>
+                                    <p>Oracle Cloud Infrastructure’s suite of optimized database capabilities enable customers to operate efficiently and at low cost, by closely aligning resources to their specific needs. Companies implement digital transformation with a combination of fully-managed Autonomous Database capabilities, the performance and control of Exadata Cloud services, and the low cost of Oracle Database, MySQL database, and NoSQL database cloud services.</p>
+
+                                    <div class="rc30cta">
+                                        <div class="obttns">
+                                            <div>
+                                                <a href="/database/" data-lbl="explore-oracle-database-cloud">Explore Oracle Database Cloud technologies</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <ul class="odlist">
+                                        <li><a href="/autonomous-database/autonomous-data-warehouse/">Autonomous Data Warehouse</a></li>
+                                        <li><a href="/autonomous-database/autonomous-transaction-processing/">Autonomous Transaction Processing</a></li>
+                                        <li><a href="/autonomous-database/autonomous-json-database/">Autonomous JSON Database</a></li>
+                                        <li><a href="/engineered-systems/exadata/cloud-service/">Oracle Exadata Cloud Service</a></li>
+                                        <li><a href="/engineered-systems/exadata/cloud-at-customer/">Oracle Exadata Cloud@Customer solutions</a></li>
+                                        <li><a href="/database/vm-cloud.html">Oracle Database Cloud Services on Virtual Machines</a></li>
+                                        <li><a href="/database/bare-metal-cloud.html">Oracle Database Cloud Services on Bare Metal</a></li>
+                                        <li><a href="/mysql/">Oracle MySQL Database Service</a></li>
+                                        <li><a href="/database/nosql-cloud.html">Oracle NoSQL Database Cloud Service</a></li>
+                                     </ul>                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w11">
+                               <div data-bgimg="/a/ocom/img/rc30v1-rac.png?foo8"><br /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rc30w4 rc30pane rc30pane-bleed rw-neutral-30bg" id="rc30p9" data-lbl="other-database-products:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <h4>Other database products</h4>
+                                    <p>Oracle’s wide range of industry-leading data management solutions make it easier for customers to meet diverse on premises and cloud requirements. Enterprises of all sizes innovate with the world’s most advanced database, the most popular open source database, and high-performance in-memory and NoSQL solutions.</p>
+
+                                    <div class="rc30cta">
+                                        <div class="obttns">
+                                            <div>
+                                                <a href="/database/products-a-z.html" data-lbl="see-products-a-z-list">See products a-z list</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <ul class="odlist">
+                                        <li><a href="/database/technologies/related/berkeleydb.html">Berkeley DB</a></li>
+                                        <li><a href="/database/technologies/blockchain-platform-enterprise-edition.html">Blockchain Platform Enterprise Edition</a></li>
+                                        <li><a href="/database/technologies/related/mobile-server.html">Database Mobile Server</a></li>
+                                        <li><a href="/database/technologies/appdev/xe.html">Database Express Edition (XE)</a></li>
+                                        <li><a href="/mysql/">MySQL Database Service</a></li>
+                                        <li><a href="/database/nosql-cloud.html">NoSQL Database</a></li>
+                                        <li><a href="/database/technologies/related/rdb.html">Rdb</a></li>
+                                        <li><a href="/database/technologies/related/timesten.html">TimesTen In-Memory Database</a></li>
+                                     </ul>                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item">
+                            <div class="col-item-w1 rc30w11">
+                               <div data-bgimg="/a/ocom/img/rc30v1-database-product-listing-all.png?foo9"><br /></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          </div>
+    </div>
+</section>
+<!-- /RC30v1 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC11v1 -->
+<section class="rc11 rc11v1 rw-neutral-30bg" data-trackas="rc11" data-ocomid="rc11" data-lbl="upgrade-or-migrate-your-database:">
+    <div class="rc11w1 cwidth">
+        <div class="rc11w2 rc11bttns">
+        	<div class="rc11w3">
+          		<h3>Upgrade and/or migrate your database today</h3>
+                <p>Upgrade to the latest Oracle Database technology to benefit from market-leading performance, availability, and security. Migrate your database to Oracle Cloud Infrastructure to combine low cost with high performance.</p>
+			</div>
+			<div class="obttns">
+				<div>
+					<a href="/database/technologies/upgrades.html" data-lbl="learn-more">Learn more about upgrades and migrations</a>		
+                </div>
+                <div class="obttn1">
+                    <a href="https://go.oracle.com/LP=104972?elqCampaignId=282652" data-lbl="webcast">Webcasts: Upgrade to Oracle Database 19c</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /RC11v1 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC34v1 -->
+<section class="rc34 rc34v1 cpad rw-theme-120bg rw-pattern-theme1w rw-pattern-8p" data-trackas="rc34" data-ocomid="rc34" data-lbl="deployment-options:">
+    <div class="rc34w1 cwidth">
+        <h2 class="rw-ptitle">Choose the deployment option that works best for you</h2>
+        <div class="col-framework col4 col-multi col-gutters">
+            <div class="col-w1">
+                <div class="col-item">
+                    <div class="col-item-w1 rw-neutral-00bg">
+                        <div class="col-item-w2">
+                            <h4>Oracle Database at your location</h4>
+                            <p>Run Oracle Database at your own location on your own hardware. Or, use Oracle Exadata in your data center for best performance, flexibility, and robustness.</p>
+                        </div>
+                        <div class="col-item-w3">
+                            <div class="obttns">
+                                <div>
+                                    <a href="/engineered-systems/exadata/" data-lbl="oracle-exadata">Oracle Exadata</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-item">
+                    <div class="col-item-w1 rw-neutral-00bg">
+                        <div class="col-item-w2">
+                            <h4>Oracle Cloud technology at your location</h4>
+                            <p>The best platform for Oracle Database, delivered securely behind your firewall and managed by Oracle.</p>
+                        </div>
+                        <div class="col-item-w3">
+                            <div class="obttns">
+                                <div>
+                                    <a href="/cloud/cloud-at-customer/" data-lbl="oracle-cloud@customer">Cloud@Customer</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-item">
+                    <div class="col-item-w1 rw-neutral-00bg">
+                        <div class="col-item-w2">
+                            <h4>Oracle Database on Oracle Cloud Infrastructure</h4>
+                            <p>Benefit from the computing power, physical storage, and tooling that simplify routine database management operations as well as Oracle&rsquo;s highest-performance engineered system, designed specifically for running enterprise-scale cloud databases.</p>
+                        </div>
+                        <div class="col-item-w3">
+                            <div class="obttns">
+                                <div>
+                                    <a href="/database/" data-lbl="database-cloud-services">Database Cloud Services</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-item">
+                    <div class="col-item-w1 rw-neutral-00bg">
+                        <div class="col-item-w2">
+                            <h4>Oracle Autonomous Database</h4>
+                            <p>Run analytics in seconds, to deploy or move existing data marts, data lakes, and data warehouses to the cloud. Build high-performance, mission-critical databases and run mixed workloads with millions of transactions per second.</p>
+                        </div>
+                        <div class="col-item-w3">
+                            <div class="obttns">
+                                <div>
+                                    <a href="/autonomous-database/" data-lbl="autonomous-database">Autonomous Database</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /RC34v1 -->
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC28v0 -->
+<section class="rc28 rc28v0 rw-neutral-150bg cpad cmp-overlap" data-ocomid="rc28" data-trackas="rc28" data-lbl="database-customer-successes:">
+    <div class="rc28w1 cwidth">
+        <!--<strong><a href="/database/technologies/customers/" data-lbl="view-all-customers-successes">View all customer successes</a></strong>-->
+        <h2 class="rw-ptitle">Database customer successes</h2>
+        <p class="rw-intro">See how customers are using Oracle Database to transform their business and engage their customers in new and better ways.</p>
+        <div class="col-framework col4 col-2upmobile col-multi col-gutters">
+           <div class="col-w1">
+                <div class="col-item">
+                   <img data-src="/a/ocom/img/customerlogo-cern.svg" alt="CERN logo">
+                </div>
+                <div class="col-item">
+                   <img data-src="/a/ocom/img/customerlogo-citi-white.png" alt="citibank logo">
+                </div>
+                <div class="col-item">
+                   <img data-src="/a/ocom/img/customerlogo-droptank-white.png" alt="droptank logo">
+                </div>
+                <div class="col-item">
+                    <img data-src="/a/ocom/img/customerlogo-panasonic.svg" alt="Panasonic logo">
+                </div>
+            </div>
+        </div>
+        <div class="rc28w2 rw-neutral-180bg rw-pattern6w rw-pattern-20p" data-lbl="featured-customer-paysafe:">
+            <div class="rc28w3" data-bgimg="/a/ocom/img/rc28-paysafe.png" alt="Paysafe image"></div>
+            <div class="rc28w4">
+                <img data-src="/a/ocom/img/customerlogo-paysafe-white.png" alt="Paysafe logo">
+                <h3>Paysafe identifies fraud and minimizes risk with Oracle&rsquo;s graph analytics and database solutions</h3>
+                <div class="obttns">
+                    <div>
+                        <a href="?bcid=6131940377001" class="icn-play" rel="vbox" data-trackas="rc28-lightbox:" data-lbl="watch-the-video">Watch the video (1:17)</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /RC28v0 -->
+
+
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC29v0 -->
+<section class="rc29 rc29v0"
+    data-lbl="blogs:"
+    data-feedsrc="/compendium/api/database.json"
+    data-template="rc29-blogfeed"
+    data-trackas="rc29"
+    data-ocomid="rc29">
+
+    <div class="rc29w1">
+        <div class="col-framework col2">
+            <div class="col-w1">
+                <div class="col-item cpad cwidth rw-neutral-10bg" data-bgimg="/a/ocom/img/bgimg02-bgsw-blogs-01.png" data-lbl="featured-blog-post:">
+                    <strong class="rc29sub">December 8, 2020</strong>
+                    <h3>Introducing Oracle Database 21c</h3>
+                    <em>William Hardie, Vice President, Oracle</em>
+                    <p>The latest Innovation release of Oracle Database 21c, the world's most popular database, is now generally available "cloud first" in the Oracle Cloud Database Service Virtual Machine (for RAC and single instance) and Bare Metal Service (single instance). It's also available in the Oracle Autonomous Database Free Tier Service in Ashburn (IAD), Phoenix (PHX), Frankfurt (FRA), and London (LHR) regions. General availability of Oracle Database 21c for on-premises platforms, (including Oracle Exadata, Linux, and Windows) will follow in 2021.</p>
+                    <div class="rc29lnk">
+                        <a class="rc29lnk" href="https://blogs.oracle.com/database/introducing-oracle-database-21c" data-lbl="introducing-oracle-db-21c:read-the-complete-post">Read the complete post</a> | <a href="https://go.oracle.com/LP=25600?elqCampaignId=109966&bn=db">Subscribe to the blog</a>
+                    </div>
+                </div>
+                <div class="col-item cpad cwidth rw-neutral-20bg" data-bgimg="/a/ocom/img/bgimg02-bgne-blogs-02.png" data-lbl="featured-blogs-feed:">
+                    <h4>Featured blogs</h4>
+
+                    <div class="rfeed">
+                        <!-- data-feedsrc items -->
+                    </div>
+
+                    <a class="rc29lnk" href="https://blogs.oracle.com/database/" data-lbl="view-all">View all</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /RC29v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC30v0 -->
+<section class="rc30 rc30v0 cpad o-bgimg" data-trackas="rc30" data-ocomid="rc30" data-bgimg="/a/ocom/img/bgimg02-bgsw-50opacity-resources-01.png,/a/ocom/img/bgimg02-bgne-50opacity-resources-01.png" data-lbl="resources:">
+    <div class="rc30w1 cwidth">
+        <h3>Resources</h3>
+        <div class="rc30w2">
+            <form class="oform rc30mobnav">
+                <span class="oform-w1">
+                    <span class="oselect">
+                        <select name="f4">
+                            <option value="#rc30documentation">Documentation</option>
+                            <option value="#rc30learning">Learning</option>
+                            <option value="#rc30customer">Customer community</option>
+                            <option value="#rc30related">Related content</option>
+                        </select>
+                    </span>
+                </span>
+            </form>
+        </div>
+        <div class="rc30w3">
+
+            <div class="rc30w4 rc30pane" id="rc30documentation" data-lbl="documentation:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item rw-neutral-30bg">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <div class="rc30w6"><img data-src="/a/ocom/img/rc30v0-documentation-sm-r1.jpg" alt="documentation" /></div>
+                                </div>
+                                <div class="rc30w5">
+                                    <h4>Access the database documentation library</h4>
+                                    <p>Access the full suite of documentation for the latest Oracle Database release.</p>
+                                    <div><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html" data-lbl="oracle-database-19c">Oracle Database 19c</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item rw-neutral-40bg">
+                            <div class="col-item-w1 rc30w11">
+                                <h4>Additional information</h4>
+                                <ul class="icn-ulist">
+                                     <li class="icn-chevronright"><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/whats-new.html" data-lbl="whats-new-in-database-19c">What&rsquo;s new in Oracle Database 19c</a></li>
+                                     <li class="icn-chevronright"><a href="https://docs.oracle.com/en/database/oracle/oracle-database/21/whats-new.html" data-lbl="whats-new-in-database-21c">What&rsquo;s new in Oracle Database 21c</a></li>
+                                     <li class="icn-chevronright"><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/cncpt/introduction-to-oracle-database.html#GUID-A42A6EF0-20F8-4F4B-AFF7-09C100AE581E" data-lbl="intro-to-oracle-database">Introduction to Oracle Database</a></li>
+                                    <li class="icn-chevronright"><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/cncpt/sql.html#GUID-CBD8FE77-BA6F-4241-A71C-2ADDDF43EA7F" data-lbl="intro-to-sql">Introduction to SQL</a></li>
+                                    <li class="icn-file-pdf"><a href="/a/ocom/docs/database/why-choose-oracle-database-infographic.pdf" data-lbl="why-choose-oracle-info">Why choose Oracle Database for all your data needs? (PDF)</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+            
+            <div class="rc30w4 rc30pane" id="rc30learning" data-lbl="learn:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item rw-neutral-30bg" data-lbl="skills:">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <div class="rc30w6"><img data-src="/a/ocom/img/rc30v0-learning-sm-r1.jpg" alt="Cloud learning" /></div>
+                                </div>
+                                <div class="rc30w5">
+                                    <h4>Develop your Database skills</h4>
+                                    <p>Oracle University provides learning solutions to help build skills and validate expertise. Learn more about training and certification you can rely on to ensure your organization's success.</p>
+                                    <div><a href="https://education.oracle.com" data-lbl="db-skills-learn-more">Learn more</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item rw-neutral-40bg" data-lbl="resources:">
+                            <div class="col-item-w1 rc30w11">
+                               <h4>Learning resources</h4> 
+                               <ul class="icn-ulist">
+                                   <li class="icn-chevronright"><a href="https://education.oracle.com/oracle-data-management-cloud-services-learning-subscription/ls_35573" data-lbl="auto-db-learning-subscription">Autonomous Database Learning Subscription</a></li>
+                                   <li class="icn-chevronright"><a href="https://education.oracle.com/oracle-database-learning-subscription/ls_38560" data-lbl="oracle-db-learning-subscription">Oracle Database Learning Subscription</a></li>
+                                   <li class="icn-chevronright"><a href="https://education.oracle.com/oracle-certification-path/pPillar_2" data-lbl="db-certification">Database Certification</a></li>
+                                   <li class="icn-chevronright"><a href="https://education.oracle.com/learning-explorer" data-lbl="free-db-training">Free Database training</a></li>
+                               </ul>
+                           </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="rc30w4 rc30pane" id="rc30customer" data-lbl="customer-community:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item rw-neutral-30bg">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5">
+                                    <div class="rc30w6"><img data-src="/a/ocom/img/rc30v0-community-sm-r1.jpg" alt="customer community" /></div>
+                                </div>
+                                <div class="rc30w5">
+                                    <h4>Ask TOM Office Hours</h4>
+
+                                    <p>Take advantage of free training, how-to's, and Q&amp;A with Oracle experts every month.</p>
+
+                                    <div><a href="https://asktom.oracle.com/pls/apex/f?p=100:500" data-lbl="office-hours-series">Office Hours series</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item rw-neutral-40bg">
+                            <div class="col-item-w1 rc30w11">
+                                <h4>Additional information</h4>
+                                <ul class="icn-ulist">
+                                     <li class="icn-chevronright"><a href="https://community.oracle.com/community/groundbreakers/database/general_questions" data-lbl="database-discussion-forum">Database discussion forum</a></li>
+                                     <li class="icn-chevronright"><a href="https://community.oracle.com/community/groundbreakers/database/general_questions/database_-_upgrade/" data-lbl="database-upgrades-forum">Database upgrades forum</a></li>
+                                    <li class="icn-chevronright"><a href="https://www.youtube.com/channel/UCr6mzwq_gcdsefQWBI72wIQ" data-lbl="database-youtube-channel">Database YouTube channel</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="rc30w4 rc30pane" id="rc30related" data-lbl="related-content:">
+                <div class="col-framework col2">
+                    <div class="col-w1">
+                        <div class="col-item rw-neutral-30bg">
+                            <div class="col-item-w1 rc30w10">
+                                <div class="rc30w5" data-lbl="videos:">
+                                    <h4>Videos</h4>
+                                    <ul>
+                                        <li><a href="?ytid=XSmcT6dnW90" rel="vbox" data-trackas="rc30-lightbox" data-lbl="get-started-free-autonomous-db">Get started with free Autonomous Database (4:27)</a></li>
+                                        <li><a href="?ytid=EGn472YqMFU" rel="vbox" data-trackas="rc30-lightbox" data-lbl="build-apps-with-autonomous-db">Build apps with free Autonomous Database (5:27)</a></li>
+                                    </ul>
+                                </div>
+                                <div class="rc30w5" data-lbl="trending:">
+                                    <h4>Trending</h4>
+                                    <ul>
+                                        <li><a href="/database/technologies/oaa-osg-licensing-change-faq.html" data-lbl="faq-adv-analytics">FAQ: Oracle Advanced Analytics and Oracle Spatial and Graph licensing change</a></li>
+                                        <li><a href="/a/tech/docs/multimodel19c-wp.pdf" data-lbl="white-paper-multimodel">Technical brief: Multimodel Oracle Database 19c (PDF)</a></li>
+                                        <li><a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/admqs/toc.htm" data-lbl="tutorials-database-19c">Tutorials: Oracle Database 19c</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-item rw-neutral-40bg">
+                            <div class="col-item-w1 rc30w11">
+                                <h4>Learn more about how Oracle Database works and the latest enhancements</h4>
+                                <ul class="icn-ulist">
+                                    <li class="icn-filepdf"><a href="/a/tech/docs/database19c-wp.pdf" data-lbl="database-19c-whitepaper">Read the technical brief (PDF)</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- /RC30v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- RC31v0 -->
+<section class="rc31 rc31v0 cpad rw-neutral-10bg rw-pattern13 rw-pattern-20p" data-ocomid="rc31" data-trackas="rc31" data-lbl="get-started:">
+    <div class="rc31w1 cwidth">
+        <h2>Get started</h2>
+        <div class="col-framework col-justified col3 col-gutters">
+            <div class="col-w1">
+
+                <div class="col-item" data-lbl="try-it-on-livesql:">
+                    <div class="col-item-w1 rw-yellow-40bg">
+                        <div class="icn-img icn-select"><br /></div>
+                        <h3>Try it on LiveSQL.oracle.com</h3>
+                    </div>
+                    <div class="col-item-w2">
+                        <p>Read the latest guidance and start coding.</p>
+                        <div class="obttns">
+                            <div class="obttn1">
+                                <a href="https://livesql.oracle.com/" data-lbl="get-started-now">Get started now</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-item" data-lbl="try-oracle-cloud-free-tier:">
+                    <div class="col-item-w1 rw-yellow-40bg">
+                        <div class="icn-img icn-cloud"><br /></div>
+                        <h3>Try Oracle Cloud Free Tier</h3>
+                    </div>
+                    <div class="col-item-w2">
+                        <p>Build, test, and deploy applications on Oracle Cloud Infrastructure Platform.</p>
+                        <div class="obttns">
+                            <div class="obttn1">
+                                <a href="/cloud/free/" data-cxdtrack=":ow:o:p:gts:070220DatabaseGS" data-adbtrack=":ow:o:p:gts:070220DatabaseGS" data-lbl="try-it-for-free">Try it for free</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-item" data-lbl="contact-us:">
+                    <div class="col-item-w1 rw-yellow-40bg">
+                        <div class="icn-img icn-message"><br /></div>
+                        <h3>Contact us</h3>
+                    </div>
+                    <div class="col-item-w2">
+                        <p>Interested in learning more? Contact one of our industry-leading experts.</p>
+                        <div class="obttns">
+                            <div class="obttn1">
+                                <a href="/database/database-technologies-contact-form.html" data-width="640" rel="lightbox" title="Get in touch" data-lbl="get-in-touch" data-trackas="rc31-lightbox">Get in touch</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+        </div>
+    </div>
+</section>
+<!-- /RC31v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- end : ocom/common/global/components/compass/related-widgets -->
+<!-- start : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+	<!-- Dispatcher:null -->
+	
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- U10v0 -->
+<div id="u10" class="u10 u10v6" data-trackas="ffooter" data-ocomid="u10">
+	<div class="u10w1">
+		
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">Resources for</div>
+<ul>
+<li><a data-lbl="resources-for:developers" href="https://developer.oracle.com/">Developers</a></li>
+<li><a data-lbl="resources-for:startups" href="/startup/">Startups</a></li>
+<li><a data-lbl="resources-for:students-educators" href="https://academy.oracle.com/en/oa-web-overview.html">Students and Educators</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">Partners</div>
+<ul>
+<li><a data-lbl="partners:oracle-partnernetwork-ocom" href="/partnernetwork/">Oracle PartnerNetwork</a></li>
+<li><a data-lbl="partners:find-a-partner" href="https://partner-finder.oracle.com/">Find a Partner</a></li>
+<li><a data-lbl="partners:login-opn" href="/opn/index.html">Log in to OPN</a></li>
+</ul>
+</div>
+</div>	
+
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">Solutions</div>
+<ul>
+<li><a data-lbl="emerging-technlogy:artificial-intelligence" href="/artificial-intelligence/">Artificial Intelligence</a></li>
+<li><a data-lbl="emerging-technlogy:internet-of-things" href="/internet-of-things/">Internet of Things</a></li>
+<li><a data-lbl="emerging-technlogy:blockchain" href="/blockchain/">Blockchain</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">What&rsquo;s New</div>
+<ul>
+<li><a data-lbl="whatsnew:covid" href="/corporate/covid-19.html" data-cxdtrack=":ow:off:ot:::GFooter100220" data-adbtrack=":ow:off:ot:::GFooter100220">How we&rsquo;re taking on COVID-19</a></li>
+<li><a data-lbl="whatsnew:java-16-download" href="/javadownload">Java 16 download</a></li>
+<li><a data-lbl="whatsnew:cloud-trial" href="/cloud/free/?source=:ow:o:h:nav:050120SiteFooter&intcmp=:ow:o:h:nav:050120SiteFooter">Try Oracle Cloud Free Tier</a></li>
+
+
+</ul>
+</div>
+</div>
+
+
+<div class="u10w2">
+<div class="u10w3">
+<div class="u10ttl">Contact Us</div>
+<ul>
+<li><a href="tel:18006330738">US Sales: +1.800.633.0738</a></li>
+<li><a data-lbl="contact-us:how-can-we-help" href="/corporate/contact/">How can we help?</a></li>
+<!--<li><a data-lbl="contact-us:support-directory" href="/support/contact.html">Support Directory</a></li>-->
+<li><a data-lbl="contact-us:subscribe-to-emails" href="https://go.oracle.com/subscriptions">Subscribe to emails</a></li>
+</ul>
+</div>
+</div>
+
+<div class="u10w4">
+<hr />
+</div>
+<div class="u10w5 u10w10" data-trackas="footer">
+	<ul class="u10-cr">
+  <li class="u10mtool" id="u10cmenu">
+     <a data-lbl="country-region" class="u10ticon u10regn" href="/universal-menu/index.html#u10countrymenu">Country/Region</a>
+  </li>
+</ul>
+
+
+<ul class="u10-links">
+<li><a data-lbl="copyright" href="/legal/copyright.html">&copy; 2021 Oracle</a></li>
+<li><a data-lbl="site-map" href="/sitemap.html">Site Map</a></li>
+<li><a data-lbl="privacy" href="/legal/privacy/">Privacy</a><span>/</span><a data-lbl="do-not-sell-my-info" href="/legal/privacy/privacy-choices.html">Do Not Sell My Info</a></li>
+<li><div id="teconsent"></div></li>
+<li><a data-lbl="ad-choices" href="/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html#adchoices">Ad Choices</a></li>
+<li><a data-lbl="careers" href="/corporate/careers/">Careers</a></li>
+</ul>
+
+<ul class="scl-icons">
+<li class="scl-facebook"><a data-lbl="scl-icon:facebook" href="https://www.facebook.com/Oracle/" title="Oracle on Facebook">Facebook</a></li>
+<li class="scl-twitter"><a data-lbl="scl-icon:twitter" href="https://twitter.com/oracle" title="Follow Oracle on Twitter">Twitter</a></li>
+<li class="scl-linkedin"><a data-lbl="scl-icon:linkedin" href="https://www.linkedin.com/company/oracle/" title="Oracle on LinkedIn">LinkedIn</a></li>
+<li class="scl-youtube"><a data-lbl="scl-icon:you-tube" href="https://www.youtube.com/oracle/" title="Watch Oracle on YouTube">YouTube</a></li>
+</ul>
+	
+</div>
+</div>
+</div>
+<!-- /U10v0 -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+
+	</div>
+
+	
+<!-- Container/Display Start -->
+
+<!-- BEGIN: oWidget_C/_Raw-Text/Display -->
+<!-- Start - End Body Admin Container -->
+<!-- Start SiteCatalyst code -->
+<script language="JavaScript" src="https://www.oracleimg.com/us/assets/metrics/ora_ocom.js"></script>
+<!-- End SiteCatalyst code -->
+<!--DTM embed code - Footer -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<!--End-->
+<!-- End - End Body Admin Container -->
+
+
+
+<!-- END: oWidget_C/_Raw-Text/Display -->
+
+<!-- Container/Display end -->
+
+
+<!-- end : ocom/common/global/components/framework/layoutAssetEndBodyInfo -->
+
+
+	</body>
+<!-- end : Framework/Redwood2 -->
+</html>

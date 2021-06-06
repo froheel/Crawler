@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ca" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Weka (aprenentatge automàtic) - Viquipèdia, l'enciclopèdia lliure</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","gener","febrer","març","abril","maig","juny","juliol","agost","setembre","octubre","novembre","desembre"],"wgRequestId":"ed4138c8-e5ab-491b-8e1d-8a656e90e01d","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Weka_(aprenentatge_automàtic)","wgTitle":"Weka (aprenentatge automàtic)","wgCurRevisionId":26765666,"wgRevisionId":26765666,"wgArticleId":1737176,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pàgines amb etiquetes de Wikidata sense traducció","Programari","Aprenentatge automàtic"],"wgPageContentLanguage":"ca","wgPageContentModel":"wikitext","wgRelevantPageName":"Weka_(aprenentatge_automàtic)","wgRelevantArticleId":1737176,"wgIsProbablyEditable":
+!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"ca","pageLanguageDir":"ltr","pageVariantFallbacks":"ca"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"català","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q115494"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready",
+"ext.wikimediaBadges":"ready","wikibase.client.init":"ready","wikibase.client.data-bridge.externalModifiers":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.UkensKonkurranse","ext.gadget.refToolbar","ext.gadget.charinsert","ext.gadget.AltresViccionari","ext.gadget.purgetab","ext.gadget.DocTabs","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","wikibase.client.data-bridge.init"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"ca"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ca&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.data-bridge.externalModifiers%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ca&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ca&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png"/>
+<meta property="og:title" content="Weka (aprenentatge automàtic) - Viquipèdia, l&#039;enciclopèdia lliure"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ca.m.wikipedia.org/wiki/Weka_(aprenentatge_autom%C3%A0tic)"/>
+<link rel="alternate" type="application/x-wiki" title="Modifica" href="/w/index.php?title=Weka_(aprenentatge_autom%C3%A0tic)&amp;action=edit"/>
+<link rel="edit" title="Modifica" href="/w/index.php?title=Weka_(aprenentatge_autom%C3%A0tic)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Viquipèdia (ca)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ca.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ca.wikipedia.org/wiki/Weka_(aprenentatge_autom%C3%A0tic)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Weka_aprenentatge_automàtic rootpage-Weka_aprenentatge_automàtic skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Weka (aprenentatge automàtic)</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Viquipèdia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Salta a la navegació</a>
+		<a class="mw-jump-link" href="#searchInput">Salta a la cerca</a>
+		<div id="mw-content-text" lang="ca" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="font-size:90%;width:25em"><caption style="font-weight:bold;background:Moccasin;"><span style="float:left; margin-left: 3px;"><a href="/wiki/Fitxer:Crystal_Clear_app_winprops_bw.png" class="image"><img alt="Crystal Clear app winprops bw.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crystal_Clear_app_winprops_bw.png/28px-Crystal_Clear_app_winprops_bw.png" decoding="async" width="28" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crystal_Clear_app_winprops_bw.png/42px-Crystal_Clear_app_winprops_bw.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crystal_Clear_app_winprops_bw.png/56px-Crystal_Clear_app_winprops_bw.png 2x" data-file-width="128" data-file-height="128" /></a></span>Weka</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/Fitxer:Weka_(software)_logo.png" class="image"><img alt="Weka (software) logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weka_%28software%29_logo.png/150px-Weka_%28software%29_logo.png" decoding="async" width="150" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png 1.5x" data-file-width="198" data-file-height="104" /></a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P154" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/Fitxer:Weka-3.5.5.png" class="image"><img alt="Weka-3.5.5.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/300px-Weka-3.5.5.png" decoding="async" width="300" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/450px-Weka-3.5.5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/600px-Weka-3.5.5.png 2x" data-file-width="768" data-file-height="576" /></a>  <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P18" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span> <hr /></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%"><a href="/wiki/Categoria:Programari_per_tipus" title="Categoria:Programari per tipus">Tipus</a></th><td><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21169670" class="extiw" title="d:Special:EntityPage/Q21169670"><span style="color:#5f9cbb;">machine learning Framework</span></a> <sup>(en)</sup> <a href="https://www.wikidata.org/wiki/Q21169670?uselang=ca" title="Tradueix"><img alt="Tradueix" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/10px-Noun_Project_label_icon_1116097_cc_mirror.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/15px-Noun_Project_label_icon_1116097_cc_mirror.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/20px-Noun_Project_label_icon_1116097_cc_mirror.svg.png 2x" data-file-width="158" data-file-height="161" /></a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P31" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%"><a href="/wiki/Versi%C3%B3_de_programari_de_cicle_de_vida" class="mw-redirect" title="Versió de programari de cicle de vida">Versió estable</a></th><td>5.15.1
+                            / 17 d'abril del 2017</td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%"><a href="/wiki/Llic%C3%A8ncia_de_programari" title="Llicència de programari">Llicència</a></th><td><span lang="it">GNU GPL v3 <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P275" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></span></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background:Moccasin">Característiques tècniques</th></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%;"><a href="/wiki/Sistema_operatiu" title="Sistema operatiu">Sistema operatiu</a></th><td><a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> i <a href="/wiki/Multiplataforma" title="Multiplataforma">multiplataforma</a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P306" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%;"><a href="/wiki/Plataforma_(inform%C3%A0tica)" title="Plataforma (informàtica)">Plataforma</a></th><td><a href="/wiki/M%C3%A0quina_virtual_Java" title="Màquina virtual Java">Màquina Virtual Java</a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P400" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%;"><a href="/wiki/Llenguatge_de_programaci%C3%B3" title="Llenguatge de programació">Escrit en</a></th><td><a href="/wiki/Java_(llenguatge_de_programaci%C3%B3)" title="Java (llenguatge de programació)">Java</a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P277" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%;">Format d'arxiu d'escriptura</th><td><div class="mw-collapsible mw-collapsed" style="border:none; padding: 0;"><div style="width:100%; background:transparent" align="left"></div><div class="mw-collapsible-content" style="text-align:left;"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28600412" class="extiw" title="d:Special:EntityPage/Q28600412"><span style="color:#5f9cbb;">Attribute-Relation File Format</span></a> <sup>(en)</sup> <a href="https://www.wikidata.org/wiki/Q28600412?uselang=ca" title="Tradueix"><img alt="Tradueix" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/10px-Noun_Project_label_icon_1116097_cc_mirror.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/15px-Noun_Project_label_icon_1116097_cc_mirror.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Noun_Project_label_icon_1116097_cc_mirror.svg/20px-Noun_Project_label_icon_1116097_cc_mirror.svg.png 2x" data-file-width="158" data-file-height="161" /></a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P1072" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span>
+</div></div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background:Moccasin">Equip</th></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%;"><a href="/wiki/Desenvolupador_de_programari" title="Desenvolupador de programari">Desenvolupador(s)</a></th><td><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q606140" class="extiw" title="d:Special:EntityPage/Q606140"><span style="color:#5f9cbb;">Universitat de Waikato</span></a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P178" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><td colspan="2" style="text-align:center"><div class="NavFrame collapsed" style="border:none;"><div class="NavHead" style="background:transparent; text-align:left; text-align:center; background:Moccasin"> Fonts de codi&#160;</div><div class="NavContent" style="background:transparent; text-align:left;">
+  <table style="padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent"><tbody><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%"><a href="/wiki/Codi_font" title="Codi font">Codi font</a></th><td><a rel="nofollow" class="external text" href="https://svn.cms.waikato.ac.nz/svn/weka/">Codi font</a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P1324" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%"><a href="/wiki/Debian" title="Debian">Debian</a></th><td><a rel="nofollow" class="external text" href="https://packages.debian.org/stable/weka">weka</a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P3442" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%"><a href="/wiki/Ubuntu" title="Ubuntu">Ubuntu</a></th><td><a rel="nofollow" class="external text" href="https://packages.ubuntu.com/weka">weka</a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P3473" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%"><a href="/wiki/Gentoo" title="Gentoo">Gentoo</a></th><td><a rel="nofollow" class="external text" href="https://packages.gentoo.org/packages/dev-util/weka">dev-util/weka</a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P3499" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%"><a href="/wiki/Fedora_(distribuci%C3%B3_Linux)" title="Fedora (distribució Linux)">Fedora</a></th><td><a rel="nofollow" class="external text" href="https://apps.fedoraproject.org/packages/weka">weka</a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P3463" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr></tbody></table><hr /></div></div></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background:Moccasin">Més informació</th></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%;"><a href="/wiki/Lloc_web" title="Lloc web">Lloc web</a></th><td><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/weka/">Web oficial</a>  <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P856" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><th scope="row" style="text-align:left;background:#eeeeee; white-space: pre-line; width:33%;"><a href="/wiki/SourceForge" title="SourceForge">SourceForge</a></th><td><a rel="nofollow" class="external text" href="https://sourceforge.net/projects/weka/">weka</a> <span class="penicon" data-bridge-edit-flow="single-best-value"><a href="https://www.wikidata.org/wiki/Q115494?uselang=ca#P2209" title="Modifica el valor a Wikidata"><img alt="Modifica el valor a Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/10px-Arbcom_ru_editing.svg.png" decoding="async" width="10" height="10" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/15px-Arbcom_ru_editing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arbcom_ru_editing.svg/20px-Arbcom_ru_editing.svg.png 2x" data-file-width="600" data-file-height="600" /></a></span></td></tr><tr><td colspan="2">
+ <hr /></td></tr><tr><td colspan="2" style="text-align:center"><div style="float: left;">                                          </div></td></tr></tbody></table> 
+<p><b>Weka</b> (acrònim anglès de <i><b>Waikato Environment for Knowledge Analysis</b></i>) és una plataforma de programari que integra tot un seguit d'eines en l'àmbit de l'<a href="/wiki/Aprenentatge_autom%C3%A0tic" title="Aprenentatge automàtic">Aprenentatge automàtic</a> i la <a href="/wiki/Mineria_de_dades" title="Mineria de dades">Mineria de dades</a>. Weka es va començar a desenvolupar l'any 1993 a la <a href="/w/index.php?title=Universitat_de_Waikato&amp;action=edit&amp;redlink=1" class="new" title="Universitat de Waikato (encara no existeix)">Universitat de Waikato</a> (<a href="/wiki/Nova_Zelanda" title="Nova Zelanda">Nova Zelanda</a>), està codificada en <a href="/wiki/Java_(llenguatge_de_programaci%C3%B3)" title="Java (llenguatge de programació)">llenguatge Java</a> i es distribueix com a <a href="/wiki/Programari_lliure" title="Programari lliure">programari lliure</a> sota la llicència <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a>. Weka està format per una col·lecció d'eines de visualització i algorismes per a l'<a href="/w/index.php?title=%C3%80n%C3%A0lisi_de_dades&amp;action=edit&amp;redlink=1" class="new" title="Ànàlisi de dades (encara no existeix)">ànàlisi de dades</a> i <a href="/w/index.php?title=Modelat_predictiu&amp;action=edit&amp;redlink=1" class="new" title="Modelat predictiu (encara no existeix)">modelat predictiu</a>, juntament amb una <a href="/wiki/Interf%C3%ADcie_d%27usuari" title="Interfície d&#39;usuari">interfície d'usuari</a> gràfica i fàcil d'emprar.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span id="Refer.C3.A8ncies"></span><span class="mw-headline" id="Referències">Referències</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weka_(aprenentatge_autom%C3%A0tic)&amp;action=edit&amp;section=1" title="Modifica la secció: Referències">modifica</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist &#123;&#123;#if: &#124; references-column-count references-column-count-&#123;&#123;&#123;col&#125;&#125;&#125;" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation" style="font-style:normal" id="CITEREFBadr2019-02-01"><span style="font-variant: small-caps;">Badr</span>, Will.&#32;«<a rel="nofollow" class="external text" href="https://towardsdatascience.com/getting-started-with-weka-3-machine-learning-on-gui-7c58ab684513">Getting Started With Weka 3 — Machine Learning on GUI</a>»&#32;(en anglès).&#32;  <a rel="nofollow" class="external free" href="https://towardsdatascience.com,+01-02-2019.+">https://towardsdatascience.com,+01-02-2019.+</a>[Consulta: 17 febrer 2020].</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation" style="font-style:normal" id="CITEREF&#123;&#123;&#123;last&#125;&#125;&#125;17-02-2020">«<a rel="nofollow" class="external text" href="https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/weka-gui-learn-machine-learning/">Weka – Graphical User Interference Way To Learn Machine Learning</a>»&#32;(en anglès).&#32;  <a rel="nofollow" class="external free" href="https://www.analyticsvidhya.com,+17-02-2020.+">https://www.analyticsvidhya.com,+17-02-2020.+</a>[Consulta: 17 febrer 2020].</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation" style="font-style:normal" id="CITEREF&#123;&#123;&#123;last&#125;&#125;&#125;18-02-20">«<a rel="nofollow" class="external text" href="https://www.cs.auckland.ac.nz/courses/compsci367s1c/tutorials/IntroductionToWeka.pdf">Introduction to Weka</a>»&#32;(en anglès).&#32;  <a rel="nofollow" class="external free" href="https://www.cs.auckland.ac.nz,+20-02-2018.+">https://www.cs.auckland.ac.nz,+20-02-2018.+</a>[Consulta: <a rel="nofollow" class="external free" href="https://www.cs.auckland.ac.nz/courses/compsci367s1c/tutorials/IntroductionToWeka.pdf">https://www.cs.auckland.ac.nz/courses/compsci367s1c/tutorials/IntroductionToWeka.pdf</a>].</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation" style="font-style:normal" id="CITEREFShah2017-01-10"><span style="font-variant: small-caps;">Shah</span>, Palak.&#32;«<a rel="nofollow" class="external text" href="https://opensourceforu.com/2017/01/an-introduction-to-weka/">An Introduction to Weka</a>»&#32;(en anglès).&#32;  <a rel="nofollow" class="external free" href="https://opensourceforu.com,+10-01-2017.+">https://opensourceforu.com,+10-01-2017.+</a>[Consulta: 18 febrer 2020].</span></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20210407130920
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.668 seconds
+Real time usage: 0.826 seconds
+Preprocessor visited node count: 3012/1000000
+Post‐expand include size: 59464/2097152 bytes
+Template argument size: 4823/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3190/5000000 bytes
+Lua time usage: 0.353/10.000 seconds
+Lua memory usage: 3243415/52428800 bytes
+Number of Wikibase entities loaded: 2/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+111.06%  840.378      5 Plantilla:Infotaula
+100.00%  756.661      1 -total
+ 88.25%  667.785      1 Plantilla:Infotaula_de_programari
+ 10.90%   82.476      1 Plantilla:Align
+ 10.31%   78.041      1 Plantilla:Identifiers
+  9.03%   68.331      1 Plantilla:Referències
+  8.78%   66.467      7 Plantilla:If_empty
+  7.76%   58.704      4 Plantilla:Ref-web
+  6.39%   48.317      4 Plantilla:Llista_desplegable_condicional
+  5.73%   43.345      4 Plantilla:Collapsible_conditional_list
+-->
+
+<!-- Saved in parser cache with key cawiki:pcache:idhash:1737176-0!canonical and timestamp 20210407130919 and revision id 26765666. Serialized with JSON.
+ -->
+</div><noscript><img src="//ca.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Obtingut de «<a dir="ltr" href="https://ca.wikipedia.org/w/index.php?title=Weka_(aprenentatge_automàtic)&amp;oldid=26765666">https://ca.wikipedia.org/w/index.php?title=Weka_(aprenentatge_automàtic)&amp;oldid=26765666</a>»</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categories</a>: <ul><li><a href="/wiki/Categoria:Programari" title="Categoria:Programari">Programari</a></li><li><a href="/wiki/Categoria:Aprenentatge_autom%C3%A0tic" title="Categoria:Aprenentatge automàtic">Aprenentatge automàtic</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categoria oculta: <ul><li><a href="/wiki/Categoria:P%C3%A0gines_amb_etiquetes_de_Wikidata_sense_traducci%C3%B3" title="Categoria:Pàgines amb etiquetes de Wikidata sense traducció">Pàgines amb etiquetes de Wikidata sense traducció</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Menú de navegació</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Eines personals</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Sense sessió iniciada</li><li id="pt-anontalk"><a href="/wiki/Especial:Discussi%C3%B3_personal" title="Discussió sobre les edicions per aquesta adreça ip. [n]" accesskey="n">Discussió per aquest IP</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Contribucions_pr%C3%B2pies" title="Una llista de les modificacions fetes des d&#039;aquesta adreça IP [y]" accesskey="y">Contribucions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crea_compte&amp;returnto=Weka+%28aprenentatge+autom%C3%A0tic%29" title="Us animem a què creeu un compte i inicieu una sessió, encara que no és obligatori">Crea un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Registre_i_entrada&amp;returnto=Weka+%28aprenentatge+autom%C3%A0tic%29" title="Us animem a registrar-vos, però no és obligatori [o]" accesskey="o">Inicia la sessió</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Espais de noms</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Weka_(aprenentatge_autom%C3%A0tic)" title="Vegeu el contingut de la pàgina [c]" accesskey="c">Pàgina</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Discussi%C3%B3:Weka_(aprenentatge_autom%C3%A0tic)&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussió sobre el contingut d&#039;aquesta pàgina (encara no existeix) [t]" accesskey="t">Discussió</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Vistes</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Weka_(aprenentatge_autom%C3%A0tic)">Mostra</a></li><li id="ca-edit"><a href="/w/index.php?title=Weka_(aprenentatge_autom%C3%A0tic)&amp;action=edit" title="Modifica aquesta pàgina [e]" accesskey="e">Modifica</a></li><li id="ca-history"><a href="/w/index.php?title=Weka_(aprenentatge_autom%C3%A0tic)&amp;action=history" title="Versions antigues d&#039;aquesta pàgina [h]" accesskey="h">Mostra l'historial</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>Més</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Cerca</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Cerca a Viquipèdia" autocapitalize="sentences" title="Cerca a la Viquipèdia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Especial:Cerca"/>
+			<input type="submit" name="fulltext" value="Cerca" title="Cerca aquest text a les pàgines" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Anar" title="Vés a una pàgina amb aquest nom exacte si existeix" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Portada"
+			title="Visiteu la pàgina principal"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navegació</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Portada" title="Visiteu la pàgina principal [z]" accesskey="z">Portada</a></li><li id="n-randompage"><a href="/wiki/Especial:Article_aleatori" title="Carrega una pàgina a l’atzar [x]" accesskey="x">Article a l'atzar</a></li><li id="n-Articles-de-qualitat"><a href="/wiki/Viquip%C3%A8dia:Articles_de_qualitat">Articles de qualitat</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-Comunitat" class="mw-portlet mw-portlet-Comunitat vector-menu vector-menu-portal portal" aria-labelledby="p-Comunitat-label" role="navigation" 
+	 >
+	<h3 id="p-Comunitat-label" class="vector-menu-heading">
+		<span>Comunitat</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-portal"><a href="/wiki/Viquip%C3%A8dia:Portal" title="Sobre el projecte, què podeu fer, on trobareu les coses">Portal viquipedista</a></li><li id="n-Agenda-d&#039;actes"><a href="/wiki/Viquip%C3%A8dia:Trobades">Agenda d'actes</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Canvis_recents" title="Una llista dels canvis recents al wiki [r]" accesskey="r">Canvis recents</a></li><li id="n-La-taverna"><a href="/wiki/Viquip%C3%A8dia:La_taverna">La taverna</a></li><li id="n-contactpage"><a href="/wiki/Viquip%C3%A8dia:Contacte">Contacte</a></li><li id="n-Xat"><a href="/wiki/Viquip%C3%A8dia:Canals_IRC">Xat</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ca.wikipedia.org&amp;uselang=ca" title="Ajudeu-nos">Donatius</a></li><li id="n-help"><a href="/wiki/Viquip%C3%A8dia:Ajuda" title="El lloc per a saber més coses">Ajuda</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Eines</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Especial:Enlla%C3%A7os/Weka_(aprenentatge_autom%C3%A0tic)" title="Una llista de totes les pàgines wiki que enllacen amb aquesta [j]" accesskey="j">Què hi enllaça</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Seguiment/Weka_(aprenentatge_autom%C3%A0tic)" rel="nofollow" title="Canvis recents a pàgines enllaçades des d&#039;aquesta pàgina [k]" accesskey="k">Canvis relacionats</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A0gines_especials" title="Llista totes les pàgines especials [q]" accesskey="q">Pàgines especials</a></li><li id="t-permalink"><a href="/w/index.php?title=Weka_(aprenentatge_autom%C3%A0tic)&amp;oldid=26765666" title="Enllaç permanent a aquesta versió de la pàgina">Enllaç permanent</a></li><li id="t-info"><a href="/w/index.php?title=Weka_(aprenentatge_autom%C3%A0tic)&amp;action=info" title="Més informació sobre aquesta pàgina">Informació de la pàgina</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citau&amp;page=Weka_%28aprenentatge_autom%C3%A0tic%29&amp;id=26765666&amp;wpFormIdentifier=titleform" title="Informació sobre com citar aquesta pàgina">Citau aquest article</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494" title="Enllaç a l&#039;element del repositori de dades connectat [g]" accesskey="g">Element a Wikidata</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Imprimeix/exporta</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Llibre&amp;bookcmd=book_creator&amp;referer=Weka+%28aprenentatge+autom%C3%A0tic%29">Crear un llibre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Weka_%28aprenentatge_autom%C3%A0tic%29&amp;action=show-download-screen">Baixa com a PDF</a></li><li id="t-print"><a href="/w/index.php?title=Weka_(aprenentatge_autom%C3%A0tic)&amp;printable=yes" title="Versió per a impressió d&#039;aquesta pàgina [p]" accesskey="p">Versió per a impressora</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>En altres projectes</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" hreflang="en">Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>En altres idiomes</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Weka" title="Weka - txec" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Waikato_Environment_for_Knowledge_Analysis" title="Waikato Environment for Knowledge Analysis - alemany" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Weka_(%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7)" title="Weka (μηχανική μάθηση) - grec" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Weka_(machine_learning)" title="Weka (machine learning) - anglès" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico)" title="Weka (aprendizaje automático) - espanyol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Weka_(ikasketa_automatikoa)" title="Weka (ikasketa automatikoa) - basc" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" title="وکا (یادگیری ماشینی) - persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Weka_(informatique)" title="Weka (informatique) - francès" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Weka_(%D7%9C%D7%9E%D7%99%D7%93%D7%AA_%D7%9E%D7%9B%D7%95%D7%A0%D7%94)" title="Weka (למידת מכונה) - hebreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Weka_(pembelajaran_mesin)" title="Weka (pembelajaran mesin) - indonesi" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Weka" title="Weka - italià" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Weka" title="Weka - japonès" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%B9%B4_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)" title="웨카 (기계 학습) - coreà" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Weka_(software)" title="Weka (software) - neerlandès" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Weka" title="Weka - portuguès" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Weka" title="Weka - rus" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%99%E0%B6%9A%E0%B7%8F_%E0%B6%B8%E0%B7%98%E0%B6%AF%E0%B7%94%E0%B6%9A%E0%B7%8F%E0%B6%82%E0%B6%9C%E0%B6%BA" title="වෙකා මෘදුකාංගය - singalès" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Weka_(strojno_u%C4%8Denje)" title="Weka (strojno učenje) - eslovè" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%B2" title="เวกา - tai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Weka" title="Weka - turc" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Weka" title="Weka - ucraïnès" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Weka_(h%E1%BB%8Dc_m%C3%A1y)" title="Weka (học máy) - vietnamita" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Weka" title="Weka - xinès" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494#sitelinks-wikipedia" title="Modifica enllaços interlingües" class="wbc-editpage">Modifica els enllaços</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> La pàgina va ser modificada per darrera vegada el 26 març 2021 a les 01:56.</li>
+	<li id="footer-info-copyright">El text està disponible sota la <a href="//ca.wikipedia.org/wiki/Viquip%C3%A8dia:Text_de_la_llic%C3%A8ncia_de_Creative_Commons_Reconeixement-Compartir_Igual_3.0_No_adaptada"> Llicència de Creative Commons Reconeixement i Compartir-Igual</a>; es poden aplicar termes addicionals.
+Vegeu les <a href="//wikimediafoundation.org/wiki/Terms_of_Use/ca" title="Condicions d'ús">Condicions d'ús</a>.
+Wikipedia&reg; (Viquipèdia™) és una <a href="//ca.wikipedia.org/wiki/Marca_comercial">marca registrada</a> de <a href="http://www.wikimediafoundation.org">Wikimedia Foundation, Inc</a>.<br /></li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Política de privadesa</a></li>
+	<li id="footer-places-about"><a href="/wiki/Viquip%C3%A8dia:Quant_a_la_Viquip%C3%A8dia" title="Viquipèdia:Quant a la Viquipèdia">Quant al projecte Viquipèdia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Viquip%C3%A8dia:Av%C3%ADs_d%27exempci%C3%B3_de_responsabilitat" title="Viquipèdia:Avís d&#039;exempció de responsabilitat">Renúncies</a></li>
+	<li id="footer-places-mobileview"><a href="//ca.m.wikipedia.org/w/index.php?title=Weka_(aprenentatge_autom%C3%A0tic)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versió per a mòbils</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desenvolupadors</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ca.wikipedia.org">Estadístiques</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Declaració de cookies</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.668","walltime":"0.826","ppvisitednodes":{"value":3012,"limit":1000000},"postexpandincludesize":{"value":59464,"limit":2097152},"templateargumentsize":{"value":4823,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3190,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["111.06%  840.378      5 Plantilla:Infotaula","100.00%  756.661      1 -total"," 88.25%  667.785      1 Plantilla:Infotaula_de_programari"," 10.90%   82.476      1 Plantilla:Align"," 10.31%   78.041      1 Plantilla:Identifiers","  9.03%   68.331      1 Plantilla:Referències","  8.78%   66.467      7 Plantilla:If_empty","  7.76%   58.704      4 Plantilla:Ref-web","  6.39%   48.317      4 Plantilla:Llista_desplegable_condicional","  5.73%   43.345      4 Plantilla:Collapsible_conditional_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.353","limit":"10.000"},"limitreport-memusage":{"value":3243415,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20210407130920","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Weka (aprenentatge autom\u00e0tic)","url":"https:\/\/ca.wikipedia.org\/wiki\/Weka_(aprenentatge_autom%C3%A0tic)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q115494","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q115494","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-02-18T07:46:53Z","dateModified":"2021-03-25T23:56:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Weka_%28software%29_logo.png","headline":"plataforma d'aprenentatge profund"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":175,"wgHostname":"mw1371"});});</script>
+</body></html>

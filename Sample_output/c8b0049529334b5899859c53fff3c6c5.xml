@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Developer app guidelines - Wikimedia Foundation Governance Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d3b039bf-4a51-4cb7-9b6d-d6306782971e","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Developer_app_guidelines","wgTitle":"Developer app guidelines","wgCurRevisionId":103830,"wgRevisionId":103830,"wgArticleId":23838,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Governance wiki","Trademark policy","Pages with broken file links"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Developer_app_guidelines","wgRelevantArticleId":23838,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"personal"};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.pt":"ready","ext.discussionTools.init.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.collapsibleTables","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.uls.compactlinks","ext.uls.interface"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.discussionTools.init.styles%7Cext.uls.pt%7Cext.visualEditor.desktopArticleTarget.noscript%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:title" content="Developer app guidelines - Wikimedia Foundation Governance Wiki"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//foundation.m.wikimedia.org/wiki/Developer_app_guidelines"/>
+<link rel="shortcut icon" href="/static/favicon/wmf.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikimedia Foundation Governance Wiki (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//foundation.wikimedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://foundation.wikimedia.org/wiki/Developer_app_guidelines"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Developer_app_guidelines rootpage-Developer_app_guidelines skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Developer app guidelines</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From the Wikimedia Foundation Governance Wiki</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="plainlinks">
+<div class="divlang">
+<ul>
+<li class="firstlang"><a class="mw-selflink selflink">English</a></li> 
+<li><a href="https://meta.wikimedia.org/wiki/Developer_app_guidelines/es" class="extiw" title="m:Developer app guidelines/es">español</a></li> 
+</ul>
+</div>
+<center><b>Want to help translate? <a href="https://meta.wikimedia.org/wiki/Special:Translate/page-Developer_app_guidelines" class="extiw" title="m:Special:Translate/page-Developer app guidelines">Translate the missing messages</a>.</b></center>
+<div style="margin-top:10px; background: #231F20; background: -webkit-gradient(linear, left top, left bottom, from(#231F20), to(#FFFFFF)); background: -moz-linear-gradient(top, #231F20, #FFFFFF); padding: 4px;">
+<div style="background: #FFFFFF; padding: 1.5em" class="mobile-padding-reset; mobile-margin-reset">
+<p><span id="top"></span>
+</p>
+<h2><span class="mw-headline" id="Developer_Guidelines:_Using_Wikimedia_content_and_trademarks_in_apps"><span style="font-size: 2.5em"><b>Developer Guidelines:</b> Using Wikimedia content and trademarks in apps</span></span></h2>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>What is this guide for?</b> <br /> How to use Wikimedia logos or content in your app.
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>If you want to <a href="https://meta.wikimedia.org/wiki/Wikimedia_Apps/Developing_an_official_app" class="extiw" title="m:Wikimedia Apps/Developing an official app">build a new app</a> that uses <a href="/wiki/Wikimedia_trademarks" title="Wikimedia trademarks">Wikimedia marks</a> or Wikimedia content, we think that is great! The Wikimedia Foundation <a href="https://meta.wikimedia.org/wiki/Wikimedia_Apps/Developing_an_official_app" class="extiw" title="m:Wikimedia Apps/Developing an official app">supports</a> this type of reuse. For example, you may obtain reusable Wikimedia data from our <a href="https://www.mediawiki.org/wiki/API:Main_page" class="extiw" title="mw:API:Main page">API</a>  and the <a class="external text" href="https://dumps.wikimedia.org/">dumps page</a>.
+</p><p><br />
+We simply ask you comply with our <a href="/wiki/Trademark_policy" title="Trademark policy">Trademark Policy</a> and the applicable <a href="https://en.wikipedia.org/wiki/en:Creative_Commons_license" class="extiw" title="w:en:Creative Commons license">Creative Commons licenses</a>. Together, these rules protect the hard work of the Wikimedia community.
+</p><p><br />
+For your convenience, this guide offers helpful information on how to implement those rules to your app. Please use this guide on all apps you build for <a href="https://en.wikipedia.org/wiki/en:Smartphone" class="extiw" title="w:en:Smartphone">smartphones</a>, <a href="https://en.wikipedia.org/wiki/en:Tablet_computer" class="extiw" title="w:en:Tablet computer">tablets</a>, <a href="https://en.wikipedia.org/wiki/en:Wearable_computer" class="extiw" title="w:en:Wearable computer">wearable computers</a>, or any other <a href="https://en.wikipedia.org/wiki/en:Mobile_devices" class="extiw" title="w:en:Mobile devices">device</a>.
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>App title or description:</b> <br /> Use Wikimedia wordmarks in your app only to refer to Wikimedia projects or content. 
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>If you want to use Wikimedia wordmarks or the names of Wikimedia projects (i.e. “Wikipedia”) as the first word in your app title, you need to <a rel="nofollow" class="external text" href="mailto:trademarks@wikimedia.org">request a trademark license</a>.
+</p><p><br />
+If you want to use Wikimedia wordmarks or the names of Wikimedia projects to describe the content in your app, you do not need to request a trademark license. 
+</p><p><br />
+For example: an app may state “the encyclopedic content on this app is derived from Wikipedia.”
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>App icon:</b> <br /> Ask for a license to use a mark in your app icon.
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>If you want to use a Wikimedia wordmark or another Wikimedia mark in your app icon, please <a rel="nofollow" class="external text" href="mailto:trademarks@wikimedia.org">request a trademark license</a>.
+</p><p><br />
+If you use any Wikimedia mark, include a trademark symbol (™) on its first use. Also, include this notice in the documentation for your app: “[Wikimedia Wordmark / name of logo as listed on <a href="/wiki/Wikimedia_trademarks" title="Wikimedia trademarks">the trademark page</a>] is a trademark of the Wikimedia Foundation and is used with the permission of the Wikimedia Foundation. We are not endorsed by or affiliated with the Wikimedia Foundation.” 
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>Licenses of logos:</b> <br /> Identify the license and follow the rules.
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>The Wikimedia marks are released under different Creative Commons licenses. Please follow the different license requirements for each mark you want to use. To determine which license applies, please check this <a href="/wiki/Wikimedia_trademarks" title="Wikimedia trademarks">the trademark page</a> for the specifics on each Wikimedia mark.
+</p><p><br />
+For example, if the mark is licensed under <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/us/">CC BY-SA 3.0</a>, you must <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">credit</a> the designer, provide a link to the license, and <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">indicate if you modified the design</a>. You may not do so in a way that suggests the designer endorses your use. Also, if you build upon the original material, you have to distribute your content under the <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en">same license</a> as the original.
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>Reuse of content:</b> <br /> Make it available on the same terms to others and give credit.
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>Most Wikimedia text is licensed under the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" class="extiw" title="en:Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC BY-SA 3.0 Unported License</a> and the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" class="extiw" title="en:Wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License (GFDL)</a>, and photos may be under other free licenses. Please identify which license applies and follow the different license requirements. 
+</p><p><br />
+For example, Wikipedia’s text is licensed under the  <a href="https://en.wikipedia.org/wiki/en:Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" class="extiw" title="w:en:Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC BY-SA 3.0 Unported License</a> and can also be licensed under the terms of the <a href="https://en.wikipedia.org/wiki/en:Wikipedia:Text_of_the_GNU_Free_Documentation_License" class="extiw" title="w:en:Wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a>. To determine whether the text is available under the GFDL, review the page footer, page history, and discussion page. You may reuse Wikipedia text under the <a href="https://en.wikipedia.org/wiki/en:Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" class="extiw" title="w:en:Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC BY-SA 3.0 Unported License</a>, if you distribute your contributions under the same license, indicate any changes you made to the content, and credit the authors through a link back to the page you reused or a list of all the authors.  
+</p><p><br />
+For more information, please read the <a href="https://en.wikipedia.org/wiki/en:Wikipedia:Copyrights#Reusers.27_rights_and_obligations" class="extiw" title="w:en:Wikipedia:Copyrights">Reusers' rights and obligations</a>, <a href="/wiki/Terms_of_Use" class="mw-redirect" title="Terms of Use">Wikimedia Terms of Use</a>, the <a href="https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content" class="extiw" title="en:Wikipedia:Reusing Wikipedia content">Reusing Wikipedia content page</a>, and <a href="https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia" class="extiw" title="commons:Commons:Reusing content outside Wikimedia">Reusing Wikimedia Commons content page</a>.
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>Be careful of how you use logos:</b> <br /> Do not confuse users.
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>Unless you have obtained a license, you may not use logos that look like the Wikimedia marks. Your logos should not suggest that your app is related to the Wikimedia projects, the Wikimedia Foundation, or the Wikimedia <a href="/wiki/Mission_statement" title="Mission statement">mission</a>.
+</p><p><br />
+Here are some examples of logos that do not need a license because they are <i>not</i> confusing:
+</p>
+<table style="border: solid black 1px">
+
+<tbody><tr>
+<td><a href="/wiki/File:Mobile_App_Guidelines_-_not_confusing_logos_01.png" class="image"><img alt="Mobile App Guidelines - not confusing logos 01.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mobile_App_Guidelines_-_not_confusing_logos_01.png/118px-Mobile_App_Guidelines_-_not_confusing_logos_01.png" decoding="async" width="118" height="118" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mobile_App_Guidelines_-_not_confusing_logos_01.png/177px-Mobile_App_Guidelines_-_not_confusing_logos_01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mobile_App_Guidelines_-_not_confusing_logos_01.png/236px-Mobile_App_Guidelines_-_not_confusing_logos_01.png 2x" data-file-width="287" data-file-height="286" /></a>
+</td>
+<td><a href="/wiki/File:Mobile_App_Guidelines_-_not_confusing_logos_02.png" class="image"><img alt="Mobile App Guidelines - not confusing logos 02.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mobile_App_Guidelines_-_not_confusing_logos_02.png/118px-Mobile_App_Guidelines_-_not_confusing_logos_02.png" decoding="async" width="118" height="117" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mobile_App_Guidelines_-_not_confusing_logos_02.png/177px-Mobile_App_Guidelines_-_not_confusing_logos_02.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mobile_App_Guidelines_-_not_confusing_logos_02.png/236px-Mobile_App_Guidelines_-_not_confusing_logos_02.png 2x" data-file-width="319" data-file-height="316" /></a>
+</td>
+<td><a href="/w/index.php?title=Special:Upload&amp;wpDestFile=Mobile_App_Guidelines_-_not_confusing_logos_03.png" class="new" title="File:Mobile App Guidelines - not confusing logos 03.png">118px</a>
+</td></tr></tbody></table>
+<p>Here are some examples of logos that do need a license because they <i>are</i> confusing:
+</p>
+<table style="border: solid black 1px">
+
+<tbody><tr>
+<td><a href="/wiki/File:Mobile_App_Guidelines_-_confusing_logos_01.png" class="image"><img alt="Mobile App Guidelines - confusing logos 01.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mobile_App_Guidelines_-_confusing_logos_01.png/118px-Mobile_App_Guidelines_-_confusing_logos_01.png" decoding="async" width="118" height="118" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Mobile_App_Guidelines_-_confusing_logos_01.png/177px-Mobile_App_Guidelines_-_confusing_logos_01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/7/7f/Mobile_App_Guidelines_-_confusing_logos_01.png 2x" data-file-width="215" data-file-height="215" /></a>
+</td>
+<td><a href="/wiki/File:Mobile_App_Guidelines_-_confusing_logos_02.png" class="image"><img alt="Mobile App Guidelines - confusing logos 02.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mobile_App_Guidelines_-_confusing_logos_02.png/118px-Mobile_App_Guidelines_-_confusing_logos_02.png" decoding="async" width="118" height="118" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mobile_App_Guidelines_-_confusing_logos_02.png/177px-Mobile_App_Guidelines_-_confusing_logos_02.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/57/Mobile_App_Guidelines_-_confusing_logos_02.png 2x" data-file-width="188" data-file-height="188" /></a>
+</td>
+<td><a href="/wiki/File:Mobile_App_Guidelines_-_confusing_logos_03.png" class="image"><img alt="Mobile App Guidelines - confusing logos 03.png" src="//upload.wikimedia.org/wikipedia/commons/d/d8/Mobile_App_Guidelines_-_confusing_logos_03.png" decoding="async" width="118" height="118" data-file-width="118" data-file-height="118" /></a>
+</td></tr></tbody></table>
+<p><a rel="nofollow" class="external text" href="https://openclipart.org/image/800px/svg_to_png/171273/papillon.png">Butterfly image</a>, posted by <a rel="nofollow" class="external text" href="https://www.blogger.com/profile/15793594885891938322">Mitch Featherston</a>, in the <a rel="nofollow" class="external text" href="https://wiki.creativecommons.org/wiki/Public_domain">public domain</a>].
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>Partnerships:</b> <br /> Do not imply partnership if none exists.
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>Please do not suggest that you have a partnership with the Wikimedia Foundation, if you do not have a partnership agreement in place. 
+</p><p><br />
+For example, please do not say “we partnered with Wikipedia.” Instead, you can say “we developed this app to interact with Wikipedia” or “this app uses content from Wikipedia.”
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>Have clear attribution:</b> <br /> Take credit for your work.
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>You have worked hard to make your app. Please take credit for it! While attribution of content is important, it is also important that users can easily understand that the Wikimedia Foundation did not develop your app. 
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>Donations:</b> <br /> Be clear about how much you donate.
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>If you decide to donate a portion of the proceeds from your app to us ⏤ thank you! Please feel free to include that information in your app. Every contribution helps support our mission of making free knowledge available for all. 
+</p><p><br />
+If you choose not to donate to us, that is fine too, but please do not imply that you donate more than you actually do.
+</p><p><br />
+If you think an implication exists, please clarify that no proceeds of your app will be donated to the Wikimedia Foundation.
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+<div class="mobile-float-reset mobile-padding-reset" style="clear:both; float:left; margin:.75em 0 0; line-height:normal; width:22.5%; font-family: &#39;Linux Libertine&#39;, Georgia, Times, serif; font-size: 21px;">
+<p><b>Questions:</b> <br /> Read the Trademark Policy. Ask questions.
+</p>
+</div>
+<div style="float: right; margin: 1em 0 0 0; width: 75%;" class="mobile-float-reset mobile-padding-reset">
+<p>These guidelines do not include all information on the misuse of Wikimedia marks. They also do not cover all instances when you may need to obtain a license.
+</p><p><br />
+For more information on anything in this guide, please refer to our <a href="/wiki/Trademark_policy" title="Trademark policy">Trademark Policy</a>. Also, if you are not sure whether you are allowed to use the Wikimedia marks, please contact us at  <a rel="nofollow" class="external text" href="mailto:trademarks@wikimedia.org">trademarks@wikimedia.org</a>.
+</p>
+</div>
+<div style="clear:both"></div>
+<div style="margin: 2em 0 1.5em 0; width: 100%; border-bottom: 1px dotted #CCC;"></div>
+</div></div> 
+<div style="clear:both"></div>
+<div style="background: #347bff; background: -webkit-gradient(linear, left top, left bottom, from(#347bff), to(#FFFFFF)); background: -moz-linear-gradient(top, #347bff, #FFFFFF); padding: 4px;">
+<div style="background: #FFFFFF; padding: 1.5em">
+<p><span class="nomobile" style="font-size: 2.5em"><img alt="Trademark License FAQ.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Trademark_License_FAQ.svg/100px-Trademark_License_FAQ.svg.png" decoding="async" width="100" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Trademark_License_FAQ.svg/150px-Trademark_License_FAQ.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Trademark_License_FAQ.svg/200px-Trademark_License_FAQ.svg.png 2x" data-file-width="57" data-file-height="37" /> <b>FAQs for Trademark App Guidelines</b></span>
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="1._Purpose_of_the_guidelines">1. Purpose of the guidelines</span></h2>
+<h3><span id="1.1_What_is_the_function_of_the_guidelines.3F"></span><span class="mw-headline" id="1.1_What_is_the_function_of_the_guidelines?">1.1 What is the function of the guidelines?</span></h3>
+<p>These guidelines are aimed at app developers to explain how to use Wikimedia trademarks and Wikimedia content. 
+</p>
+<h3><span id="1.2_How_are_the_guidelines_different_from_the_Wikimedia_Trademark_Policy.3F"></span><span class="mw-headline" id="1.2_How_are_the_guidelines_different_from_the_Wikimedia_Trademark_Policy?">1.2 How are the guidelines different from the <a href="/wiki/Trademark_policy" title="Trademark policy">Wikimedia Trademark Policy</a>?</span></h3>
+<p>They are not! The guidelines explain how the Trademark Policy applies specifically in the context of apps. In addition, the guidelines also describe how to use Wikipedia content according to the applicable Creative Commons licenses.
+</p>
+<h3><span id="1.3_So_why_are_there_separate_guidelines_exclusively_aimed_at_apps.3F"></span><span class="mw-headline" id="1.3_So_why_are_there_separate_guidelines_exclusively_aimed_at_apps?">1.3 So why are there separate guidelines exclusively aimed at apps?</span></h3>
+<p>We have created these guidelines to address the specific trademark and content issues that app developers might face. As new devices, including smartphones, tablets, and wearable computers quickly become permanent fixtures in our lives, apps are also becoming more important sources of information. We want to support app developers who use Wikimedia trademarks and content while also ensuring that their apps comply with the Wikimedia <a href="/wiki/Mission_statement" title="Mission statement">mission</a> and accurately represent the Wikimedia community. 
+</p>
+<h2><span class="mw-headline" id="2._How_to_use_the_Wikimedia_marks_to_comply_with_the_Trademark_Policy">2. How to use the Wikimedia marks to comply with the Trademark Policy</span></h2>
+<h3><span id="2.1_What_are_the_Wikimedia_marks.3F"></span><span class="mw-headline" id="2.1_What_are_the_Wikimedia_marks?">2.1 What are the Wikimedia marks?</span></h3>
+<p>The Wikimedia marks are trademarks that represent the Wikimedia community. You can find a complete list of them <a href="/wiki/Wikimedia_trademarks" title="Wikimedia trademarks">on our trademarks page</a>. They include wordmarks, like the <a href="/wiki/File:Wikipedia_wordmark.svg" title="File:Wikipedia wordmark.svg">stylized “Wikipedia” mark</a> as well as more traditional logos like like the <a href="/wiki/File:Wikipedia-logo-v2.svg" title="File:Wikipedia-logo-v2.svg">puzzle globe</a> and the <a href="/wiki/File:Wikipedia%27s_W.svg" title="File:Wikipedia&#39;s W.svg">“W” logo</a>.
+</p>
+<h3><span id="2.2_Do_I_need_to_request_a_trademark_license_if_a_Wikimedia_wordmark_is_the_first_word_in_my_app_name.2C_even_if_it_is_obvious_that_my_app_is_not_affiliated_with_the_Wikimedia_Foundation.3F"></span><span class="mw-headline" id="2.2_Do_I_need_to_request_a_trademark_license_if_a_Wikimedia_wordmark_is_the_first_word_in_my_app_name,_even_if_it_is_obvious_that_my_app_is_not_affiliated_with_the_Wikimedia_Foundation?">2.2 Do I need to request a trademark license if a Wikimedia wordmark is the first word in my app name, even if it is obvious that my app is not affiliated with the Wikimedia Foundation?</span></h3>
+<p>Yes, because the wordmark will feature prominently in your app title and be searchable by that wordmark.  In those circumstances, we need to review your usage to ensure that your app appropriately represents the Wikimedia community. Please email <a rel="nofollow" class="external text" href="mailto:trademarks@wikimedia.org">trademarks@wikimedia.org</a> to request a trademark license.
+</p>
+<h3><span id="2.3_Can_I_use_a_Wikimedia_wordmark_to_reference_something_other_than_a_Wikimedia_site.3F"></span><span class="mw-headline" id="2.3_Can_I_use_a_Wikimedia_wordmark_to_reference_something_other_than_a_Wikimedia_site?">2.3 Can I use a Wikimedia wordmark to reference something other than a Wikimedia site?</span></h3>
+<p>Yes. Our wordmarks did not exist before our projects were created, so they do not have a primary meaning like “facebook” or “apple.” That said, if you reuse Wikimedia wordmarks to address something non-Wikimedia related, we will consider that “fair use.” 
+</p>
+<h3><span id="2.4_Where_do_I_include_a_notice_that_the_Wikimedia_mark_or_logo_I.E2.80.99ve_used_is_a_trademark_of_the_Wikimedia_Foundation.3F"></span><span class="mw-headline" id="2.4_Where_do_I_include_a_notice_that_the_Wikimedia_mark_or_logo_I’ve_used_is_a_trademark_of_the_Wikimedia_Foundation?">2.4 Where do I include a notice that the Wikimedia mark or logo I’ve used is a trademark of the Wikimedia Foundation?</span></h3>
+<p>You should include a trademark symbol (™) on its first use, and include this notice in the documentation for your app: "[Wikimedia Wordmark / name of logo as listed on <a href="/wiki/Wikimedia_trademarks" title="Wikimedia trademarks">the trademarks page</a>] is a trademark of the Wikimedia Foundation and is used with the permission of the Wikimedia Foundation. We are not endorsed by or affiliated with the Wikimedia Foundation." 
+</p>
+<h3><span id="2.5_How_do_I_know_if_my_logo_is_confusingly_similar_to_a_Wikimedia_logo.3F"></span><span class="mw-headline" id="2.5_How_do_I_know_if_my_logo_is_confusingly_similar_to_a_Wikimedia_logo?">2.5 How do I know if my logo is confusingly similar to a Wikimedia logo?</span></h3>
+<p>We have provided some examples of acceptable as well as confusingly similar logos in the <a href="/wiki/Developer_app_guidelines#top" title="Developer app guidelines">app guidelines</a>. In general, if somebody can easily think that your logo represents a Wikimedia project, then you must <a rel="nofollow" class="external text" href="mailto:trademarks@wikimedia.org">request a trademark license</a>. Similarly, if you include a Wikimedia mark in your app logo then you likely must <a rel="nofollow" class="external text" href="mailto:trademarks@wikimedia.org">request a trademark license</a>. 
+</p>
+<h3><span id="2.6_Why_do_I_have_to_be_clear_about_donations_made_to_the_Wikimedia_Foundation.2C_if_I_do_not_plan_to_donate.3F"></span><span class="mw-headline" id="2.6_Why_do_I_have_to_be_clear_about_donations_made_to_the_Wikimedia_Foundation,_if_I_do_not_plan_to_donate?">2.6 Why do I have to be clear about donations made to the Wikimedia Foundation, if I do not plan to donate?</span></h3>
+<p>We need to make sure that users do not think that they are financially supporting the Wikimedia projects when they pay for an app.
+</p>
+<h2><span class="mw-headline" id="3._What_licenses_apply_to_Wikimedia_content">3. What licenses apply to Wikimedia content</span></h2>
+<h3><span id="3.1_What_licenses_apply_to_the_Wikimedia_logos.3F"></span><span class="mw-headline" id="3.1_What_licenses_apply_to_the_Wikimedia_logos?">3.1 What licenses apply to the Wikimedia logos?</span></h3>
+<p>The Wikimedia marks are licensed under different Creative Commons licenses. To determine which applies, please check <a href="/wiki/Wikimedia_trademarks" title="Wikimedia trademarks">the trademarks page</a> and click on the specific mark to identify the correct license. Please then follow the instructions for the particular license.
+</p>
+<h3><span id="3.2_What_licenses_apply_to_Wikimedia_text.3F"></span><span class="mw-headline" id="3.2_What_licenses_apply_to_Wikimedia_text?">3.2 What licenses apply to Wikimedia text?</span></h3>
+<p>Most Wikimedia text is licensed under the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" class="extiw" title="en:Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC BY-SA 3.0 Unported License</a> and the <a href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" class="extiw" title="en:Wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License (GFDL)</a>. To determine whether the text is available under the GFDL review the page footer, page history, and discussion page. Under the <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0 Unported License</a>, you may reuse text, if you distribute your contributions under the same license, indicate any changes you made to the text, and provide a link back to the page you reused or a link that lists of all the authors. If you reuse text from Wikipedia, please review the <a href="https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content" class="extiw" title="en:Wikipedia:Reusing Wikipedia content">Reusing Wikipedia content page</a>.
+</p>
+<h3><span id="3.3_What_licenses_apply_to_Wikimedia_photos.3F"></span><span class="mw-headline" id="3.3_What_licenses_apply_to_Wikimedia_photos?">3.3 What licenses apply to Wikimedia photos?</span></h3>
+<p>Wikimedia photos are licensed under different licenses. If you are using an image from <a href="https://commons.wikimedia.org/wiki/Main_Page" class="extiw" title="commons:Main Page">Wikimedia Commons</a>, please look at the image’s page, identify which license applies, and follow the different requirements. You may also use the <a href="https://www.mediawiki.org/wiki/API:Imageinfo" class="extiw" title="mw:API:Imageinfo">Imageinfo API</a> to get extmetadata, which includes the license name. Please make sure to also review the <a href="https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia" class="extiw" title="commons:Commons:Reusing content outside Wikimedia">Reusing Wikimedia Commons content page</a>. 
+</p>
+<h3><span id="3.4_What_about_material_made_available_under_fair_use.3F"></span><span class="mw-headline" id="3.4_What_about_material_made_available_under_fair_use?">3.4 What about material made available under fair use?</span></h3>
+<p>Some Wikimedia images, sounds, or text is used under the "<a href="https://en.wikipedia.org/wiki/Fair_use" class="extiw" title="en:Fair use">fair use</a>" doctrine of United States law. In those circumstances, you must ensure that your reuse of the content also qualifies as fair use. For example, if the content is being reused for commercial purposes, it will likely not be considered fair use. Please review the <a href="https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content" class="extiw" title="en:Wikipedia:Reusing Wikipedia content">Reusing Wikipedia content page</a> for more information.
+</p>
+</div></div>
+</div>
+<p><br />
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20210406184946
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.098 seconds
+Real time usage: 0.203 seconds
+Preprocessor visited node count: 214/1000000
+Post‐expand include size: 13069/2097152 bytes
+Template argument size: 7/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  113.313      1 -total
+ 28.81%   32.647      1 FAQ_for_developer_app_guidelines
+ 24.37%   27.617      1 Template:DevAppGuidelinesLang
+ 16.91%   19.165     10 Template:TrademarkAppGuidelines/Section/Title/Start
+  7.57%    8.576     10 Template:Trademark/Section/End
+  7.47%    8.463      1 Template:Developer_app_guidelines-translations
+  6.35%    7.201      1 Template:Dir
+  3.47%    3.929      1 Template:Anchor
+  2.96%    3.356      1 Template:Pagelang
+  2.50%    2.834     10 Template:Trademark/Section/Title/End
+-->
+
+<!-- Saved in parser cache with key foundationwiki:pcache:idhash:23838-0!canonical and timestamp 20210406184946 and revision id 103830. Serialized with JSON.
+ -->
+</div>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://foundation.wikimedia.org/w/index.php?title=Developer_app_guidelines&amp;oldid=103830">https://foundation.wikimedia.org/w/index.php?title=Developer_app_guidelines&amp;oldid=103830</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Trademark_policy" title="Category:Trademark policy">Trademark policy</a></li><li><a href="/wiki/Category:Pages_with_broken_file_links" title="Category:Pages with broken file links">Pages with broken file links</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden category: <ul><li><a href="/wiki/Category:Governance_wiki" title="Category:Governance wiki">Governance wiki</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-uls" class="active"><a href="#" class="uls-trigger">English</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Developer+app+guidelines" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Developer_app_guidelines" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:Developer_app_guidelines&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Variants</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Developer_app_guidelines">Read</a></li><li id="ca-viewsource"><a href="/w/index.php?title=Developer_app_guidelines&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">Feedback</a></li><li id="ca-history"><a href="/w/index.php?title=Developer_app_guidelines&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>More</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Search Wikimedia Foundation Governance Wiki" autocapitalize="sentences" title="Search Wikimedia Foundation Governance Wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Home"
+			title="Visit the main page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-aboutwikimedia" class="mw-portlet mw-portlet-aboutwikimedia vector-menu vector-menu-portal portal" aria-labelledby="p-aboutwikimedia-label" role="navigation" 
+	 >
+	<h3 id="p-aboutwikimedia-label" class="vector-menu-heading">
+		<span>About Wikimedia</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Home" title="Visit the main page [z]" accesskey="z">Home</a></li><li id="n-corp-text"><a href="//wikimediafoundation.org/" rel="nofollow">Official website</a></li><li id="n-contactus"><a href="//wikimediafoundation.org/about/contact/" rel="nofollow">Contact us</a></li><li id="n-blog-text"><a href="//wikimediafoundation.org/news/" rel="nofollow">Wikimedia Blog</a></li><li id="n-answers"><a href="//meta.wikimedia.org/wiki/Answers">Questions for Wikimedia?</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-support" class="mw-portlet mw-portlet-support vector-menu vector-menu-portal portal" aria-labelledby="p-support-label" role="navigation" 
+	 >
+	<h3 id="p-support-label" class="vector-menu-heading">
+		<span>Support</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_wikimediafoundation.org" title="Support us">Donate</a></li><li id="n-volunteering"><a href="//wikimediafoundation.org/participate/" rel="nofollow">Volunteering</a></li><li id="n-shop-text"><a href="https://store.wikimedia.org">Wikimedia Shop</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-corporate" class="mw-portlet mw-portlet-corporate vector-menu vector-menu-portal portal" aria-labelledby="p-corporate-label" role="navigation" 
+	 >
+	<h3 id="p-corporate-label" class="vector-menu-heading">
+		<span>Corporate</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-bylaws"><a href="/wiki/Bylaws">Bylaws</a></li><li id="n-values"><a href="/wiki/Values">Values</a></li><li id="n-policies"><a href="/wiki/Policies">Policies</a></li><li id="n-resolutions"><a href="/wiki/Resolutions">Resolutions</a></li><li id="n-annualreport"><a href="//annual.wikimedia.org/">Annual Report</a></li><li id="n-financialreports"><a href="//wikimediafoundation.org/about/financial-reports/" rel="nofollow">Financial reports and Form 990</a></li><li id="n-fundraisingreports"><a href="/wiki/Fundraising_reports">Fundraising reports</a></li><li id="n-affiliates"><a href="//meta.wikimedia.org/wiki/Wikimedia_movement_affiliates">Movement affiliates</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-sidebar-wiki" class="mw-portlet mw-portlet-sidebar-wiki vector-menu vector-menu-portal portal" aria-labelledby="p-sidebar-wiki-label" role="navigation" 
+	 >
+	<h3 id="p-sidebar-wiki-label" class="vector-menu-heading">
+		<span>Wiki</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-Give-feedback"><a href="/wiki/Give_feedback">Give feedback</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Developer_app_guidelines" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Developer_app_guidelines" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Developer_app_guidelines&amp;oldid=103830" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Developer_app_guidelines&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Developer_app_guidelines&amp;id=103830&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Developer+app+guidelines">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Developer_app_guidelines&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Developer_app_guidelines&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> This page was last edited on 22 October 2015, at 16:48.</li>
+	<li id="footer-info-copyright">Text is available under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>;
+additional terms may apply.
+See <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> for details.</li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="/wiki/Privacy_policy" title="Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Home" title="Home">About Wikimedia Foundation Governance Wiki</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikimedia:General_disclaimer" title="Wikimedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-mobileview"><a href="//foundation.m.wikimedia.org/w/index.php?title=Developer_app_guidelines&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/foundation.wikimedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.098","walltime":"0.203","ppvisitednodes":{"value":214,"limit":1000000},"postexpandincludesize":{"value":13069,"limit":2097152},"templateargumentsize":{"value":7,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  113.313      1 -total"," 28.81%   32.647      1 FAQ_for_developer_app_guidelines"," 24.37%   27.617      1 Template:DevAppGuidelinesLang"," 16.91%   19.165     10 Template:TrademarkAppGuidelines/Section/Title/Start","  7.57%    8.576     10 Template:Trademark/Section/End","  7.47%    8.463      1 Template:Developer_app_guidelines-translations","  6.35%    7.201      1 Template:Dir","  3.47%    3.929      1 Template:Anchor","  2.96%    3.356      1 Template:Pagelang","  2.50%    2.834     10 Template:Trademark/Section/Title/End"]},"cachereport":{"origin":"mw1319","timestamp":"20210406184946","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1268"});});</script>
+</body></html>

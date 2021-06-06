@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="de" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Waikato Environment for Knowledge Analysis – Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgRequestId":"61416792-bd51-40ed-a64a-cb35eea67883","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Waikato_Environment_for_Knowledge_Analysis","wgTitle":"Waikato Environment for Knowledge Analysis","wgCurRevisionId":202905916,"wgRevisionId":202905916,"wgArticleId":5382110,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Data-Mining","Freie Software","Java-Bibliothek","Klassifizierung","Maschinelles Lernen"],"wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgRelevantPageName":"Waikato_Environment_for_Knowledge_Analysis",
+"wgRelevantArticleId":5382110,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":202905916,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsFlags":8,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"Deutsch","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q115494"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready",
+"oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.editMenus","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"de"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=de&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.38"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png"/>
+<meta property="og:title" content="Waikato Environment for Knowledge Analysis – Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//de.m.wikipedia.org/wiki/Waikato_Environment_for_Knowledge_Analysis"/>
+<link rel="alternate" type="application/x-wiki" title="Seite bearbeiten" href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;action=edit"/>
+<link rel="edit" title="Seite bearbeiten" href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (de)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//de.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://de.wikipedia.org/wiki/Waikato_Environment_for_Knowledge_Analysis"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr capitalize-all-nouns mw-hide-empty-elt ns-0 ns-subject mw-editable page-Waikato_Environment_for_Knowledge_Analysis rootpage-Waikato_Environment_for_Knowledge_Analysis skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Waikato Environment for Knowledge Analysis</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">aus Wikipedia, der freien Enzyklopädie</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Zur Navigation springen</a>
+		<a class="mw-jump-link" href="#searchInput">Zur Suche springen</a>
+		<div id="mw-content-text" lang="de" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="float-right infobox toccolours toptextcells" style="border-spacing:5px; font-size:90%; text-align:left; width:21em;">
+
+<tbody><tr>
+<th colspan="2" class="hintergrundfarbe6" style="font-size:105%; text-align:center;">Weka
+<p class="mw-empty-elt">
+</p>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/Datei:Weka_(software)_logo.png" class="image"><img alt="Weka (software) logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weka_%28software%29_logo.png/150px-Weka_%28software%29_logo.png" decoding="async" width="150" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/0/07/Weka_%28software%29_logo.png 1.5x" data-file-width="198" data-file-height="104" /></a>
+</td></tr>
+<tr>
+<td colspan="2" style="text-align:center;"><a href="/wiki/Datei:Weka-3.5.5.png" class="image" title="Ein Bildschirmfoto von Weka 3.5.5."><img alt="Ein Bildschirmfoto von Weka 3.5.5." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/300px-Weka-3.5.5.png" decoding="async" width="300" height="225" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/450px-Weka-3.5.5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Weka-3.5.5.png/600px-Weka-3.5.5.png 2x" data-file-width="768" data-file-height="576" /></a><br /> Bildschirmfoto von Weka
+</td></tr>
+<tr>
+<th colspan="2" class="hintergrundfarbe5" style="font-size:105%; text-align:center;">Basisdaten
+<p class="mw-empty-elt">
+</p>
+</th></tr>
+<tr>
+<td><b><a href="/wiki/Softwareentwickler" title="Softwareentwickler">Entwickler</a></b>
+</td>
+<td><a href="/wiki/University_of_Waikato" title="University of Waikato">University of Waikato</a>
+</td></tr>
+<tr>
+<td><b>Aktuelle&#160;<a href="/wiki/Version_(Software)" title="Version (Software)">Version</a></b>
+</td>
+<td><span class="wikidata-content">3.8.3<sup id="cite_ref-_db5a4d301dc26991_1-0" class="reference"><a href="#cite_note-_db5a4d301dc26991-1">&#91;1&#93;</a></sup></span> <br /> (<span class="wikidata-content">22. Dezember 2017</span>)
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Betriebssystem" title="Betriebssystem">Betriebssystem</a></b>
+</td>
+<td><a href="/wiki/Plattformunabh%C3%A4ngigkeit" title="Plattformunabhängigkeit">Plattformunabhängig</a>
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Programmiersprache" title="Programmiersprache">Programmiersprache</a></b>
+</td>
+<td><a href="/wiki/Java_(Programmiersprache)" title="Java (Programmiersprache)">Java</a>
+</td></tr>
+<tr>
+<td><b>Kategorie</b>
+</td>
+<td><a href="/wiki/Maschinelles_Lernen" title="Maschinelles Lernen">Maschinelles Lernen</a>
+</td></tr>
+<tr>
+<td><b>Lizenz</b>
+</td>
+<td><a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GPL</a>, proprietär
+</td></tr>
+<tr>
+<td><b><a href="/wiki/Lokalisierung_(Softwareentwicklung)" title="Lokalisierung (Softwareentwicklung)">deutschsprachig</a></b>
+</td>
+<td>nein
+</td></tr>
+<tr>
+<td class="hintergrundfarbe5" colspan="2" style="text-align:center;"><a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/ml/weka/">cs.waikato.ac.nz/ml/weka</a>
+</td></tr></tbody></table>
+<p><b>Weka (Waikato Environment for Knowledge Analysis)</b> ist eine <a href="/wiki/Software" title="Software">Software</a>, die verschiedene Techniken aus den Bereichen <a href="/wiki/Maschinelles_Lernen" title="Maschinelles Lernen">Maschinelles Lernen</a> und <a href="/wiki/Data-Mining" title="Data-Mining">Data-Mining</a> bereitstellt. Das Programm wurde an der <a href="/wiki/University_of_Waikato" title="University of Waikato">University of Waikato</a> entwickelt und ist in <a href="/wiki/Java_(Programmiersprache)" title="Java (Programmiersprache)">Java</a> geschrieben. Es handelt sich um eine frei verfügbare Software, die unter der <a href="/wiki/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a> steht.
+</p><p>Die Software ist integraler Bestandteil des Buches <i>Data Mining: Practical Machine Learning Tools and Techniques</i> von Ian H. Witten, Eibe Frank und Mark A. Hall,<sup id="cite_ref-Witten_2-0" class="reference"><a href="#cite_note-Witten-2">&#91;2&#93;</a></sup> des englischsprachigen Standardwerkes zum Thema Maschinelles Lernen. Die Software wurde von der <a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a> 2005 mit dem „SIGKDD Service Award“ ausgezeichnet<sup id="cite_ref-KDD_3-0" class="reference"><a href="#cite_note-KDD-3">&#91;3&#93;</a></sup> für den hohen Beitrag zur Forschung unter anderem durch Bereitstellung der Quelltexte als <a href="/wiki/Open_Source" title="Open Source">Open Source</a>.<sup id="cite_ref-kdnuggets_4-0" class="reference"><a href="#cite_note-kdnuggets-4">&#91;4&#93;</a></sup>
+</p><p>Weka ist bekannt für seine Vielzahl von <a href="/wiki/Klassifikationsverfahren" title="Klassifikationsverfahren">Klassifikatoren</a> wie <a href="/wiki/Bayes-Klassifikator" title="Bayes-Klassifikator">Bayes-Klassifikatoren</a>, <a href="/wiki/K%C3%BCnstliches_neuronales_Netz" title="Künstliches neuronales Netz">künstliche neuronale Netze</a>, <a href="/wiki/Support-Vector-Maschine" class="mw-redirect" title="Support-Vector-Maschine">Support-Vector-Maschinen</a>, <a href="/wiki/Entscheidungsbaum" title="Entscheidungsbaum">Entscheidungsbäume</a>, <a href="/wiki/Iterative_Dichotomiser_3" title="Iterative Dichotomiser 3">ID3</a>-, <a href="/wiki/C4.5" title="C4.5">C4.5</a>- aber auch Meta-Klassifikatoren, <a href="/wiki/Boosting" title="Boosting">Boosting</a> und Ensembles. In anderen <a href="/wiki/Data-Mining" title="Data-Mining">Data-Mining</a>-Bereichen wie der <a href="/wiki/Clusteranalyse" title="Clusteranalyse">Clusteranalyse</a> werden nur die grundlegendsten Verfahren wie der <a href="/wiki/K-Means-Algorithmus" title="K-Means-Algorithmus">k-Means-Algorithmus</a> und der <a href="/wiki/EM-Algorithmus" title="EM-Algorithmus">EM-Algorithmus</a> angeboten.
+</p>
+<h2><span class="mw-headline" id="Beschreibung">Beschreibung</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Beschreibung">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;action=edit&amp;section=1" title="Abschnitt bearbeiten: Beschreibung">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Die <a href="/wiki/Integrierte_Entwicklungsumgebung" title="Integrierte Entwicklungsumgebung">Workbench</a> von WEKA untergliedert sich in folgende Bereiche:
+</p>
+<ul><li><a href="/wiki/Datenbereinigung" title="Datenbereinigung">Vorverarbeitung</a>:<br />Erlaubt insbesondere die Auswahl der zu analysierenden Attribute</li>
+<li><a href="/wiki/Klassifikationsverfahren" title="Klassifikationsverfahren">Klassifikation</a></li>
+<li><a href="/wiki/Clusteranalyse" title="Clusteranalyse">Clusteranalyse</a></li>
+<li><a href="/wiki/Assoziationsanalyse" title="Assoziationsanalyse">Assoziationsanalyse</a></li>
+<li>Attributauswahl:<br />Ermittelt die zur Klassifikation hilfreichsten Attribute der Daten</li>
+<li><a href="/wiki/Visualisierung" title="Visualisierung">Visualisierung</a></li></ul>
+<h2><span class="mw-headline" id="Siehe_auch">Siehe auch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Siehe auch">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;action=edit&amp;section=2" title="Abschnitt bearbeiten: Siehe auch">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Environment_for_DeveLoping_KDD-Applications_Supported_by_Index-Structures" title="Environment for DeveLoping KDD-Applications Supported by Index-Structures">ELKI</a> – komplementäre Software mit Schwerpunkt Clusteranalyseverfahren, Ausreißererkennung und Indexstrukturen</li>
+<li><a href="/wiki/KNIME" title="KNIME">KNIME</a> (Konstanz Information Miner) Projekt der Universität Konstanz zur interaktiven Datenanalyse in Eclipse.</li>
+<li><a href="/wiki/RapidMiner" title="RapidMiner">RapidMiner</a> – kann Weka-Algorithmen verwenden.</li>
+<li><a href="/wiki/Scikit-learn" title="Scikit-learn">Scikit-learn</a> eine freie Software-Bibliothek zum maschinellen Lernen für die Programmiersprache <a href="/wiki/Python_(Programmiersprache)" title="Python (Programmiersprache)">Python</a></li></ul>
+<h2><span class="mw-headline" id="Einzelnachweise">Einzelnachweise</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Abschnitt bearbeiten: Einzelnachweise">Bearbeiten</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;action=edit&amp;section=3" title="Abschnitt bearbeiten: Einzelnachweise">Quelltext bearbeiten</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-_db5a4d301dc26991-1"><span class="mw-cite-backlink"><a href="#cite_ref-_db5a4d301dc26991_1-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cs.waikato.ac.nz/~ml/weka/CHANGELOG-3-8-3"><cite style="font-style:italic">www.cs.waikato.ac.nz</cite>.</a> (abgerufen am 24.&#160;September 2019).</span>
+</li>
+<li id="cite_note-Witten-2"><span class="mw-cite-backlink"><a href="#cite_ref-Witten_2-0">↑</a></span> <span class="reference-text">
+<span lang="en">Ian H. Witten, Eibe Frank, Mark A. Hall</span>: <cite style="font-style:italic"><span lang="en">Data Mining: Practical Machine Learning Tools and Techniques</span></cite>. 3. Auflage. Morgan Kaufmann, Burlington MA 2011, <a href="/wiki/Spezial:ISBN-Suche/9780123748560" class="internal mw-magiclink-isbn">ISBN 978-0-12-374856-0</a> (<a rel="nofollow" class="external text" href="http://www.cs.waikato.ac.nz/~ml/weka/book.html">cs.waikato.ac.nz</a>).<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rfr_id=info:sid/de.wikipedia.org:Waikato+Environment+for+Knowledge+Analysis&amp;rft.au=Ian+H.+Witten%2C+Eibe+Frank%2C+Mark+A.+Hall&amp;rft.btitle=Data+Mining%3A+Practical+Machine+Learning+Tools+and+Techniques&amp;rft.date=2011&amp;rft.edition=3&amp;rft.genre=book&amp;rft.isbn=9780123748560&amp;rft.place=Burlington+MA&amp;rft.pub=Morgan+Kaufmann" style="display:none">&#160;</span></span>
+</li>
+<li id="cite_note-KDD-3"><span class="mw-cite-backlink"><a href="#cite_ref-KDD_3-0">↑</a></span> <span class="reference-text">
+<span class="cite"><a rel="nofollow" class="external text" href="http://www.kdd.org/awards/view/2005-sigkdd-service-award-the-weka-team"><i><span lang="en">SIGKDD Service Awards</span>.</i></a>&#32;<span lang="en"><a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a></span>&#44;<span class="Abrufdatum">&#32;abgerufen am 21.&#160;Januar 2016</span>&#32;(englisch).</span><span style="display: none;" class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rfr_id=info%3Asid%2Fde.wikipedia.org%3AWaikato+Environment+for+Knowledge+Analysis&amp;rft.title=%3Cspan+lang%3D%22en%22%3ESIGKDD+Service+Awards%3C%2Fspan%3E&amp;rft.description=%3Cspan+lang%3D%22en%22%3ESIGKDD+Service+Awards%3C%2Fspan%3E&amp;rft.identifier=http%3A%2F%2Fwww.kdd.org%2Fawards%2Fview%2F2005-sigkdd-service-award-the-weka-team&amp;rft.publisher=%3Cspan+lang%3D%22en%22%3E%5B%5BAssociation+for+Computing+Machinery%5D%5D%3C%2Fspan%3E&amp;rft.language=en">&#160;</span></span>
+</li>
+<li id="cite_note-kdnuggets-4"><span class="mw-cite-backlink"><a href="#cite_ref-kdnuggets_4-0">↑</a></span> <span class="reference-text">
+<span class="cite"><a rel="nofollow" class="external text" href="http://www.kdnuggets.com/news/2005/n13/2i.html"><i>KDNuggets News 2005-13.</i></a>&#32;KDnuggets&#44;<span class="Abrufdatum">&#32;abgerufen am 15.&#160;April 2011</span>&#32;(englisch).</span><span style="display: none;" class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rfr_id=info%3Asid%2Fde.wikipedia.org%3AWaikato+Environment+for+Knowledge+Analysis&amp;rft.title=KDNuggets+News+2005-13&amp;rft.description=KDNuggets+News+2005-13&amp;rft.identifier=http%3A%2F%2Fwww.kdnuggets.com%2Fnews%2F2005%2Fn13%2F2i.html&amp;rft.publisher=KDnuggets&amp;rft.language=en">&#160;</span></span>
+</li>
+</ol>
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20210329232612
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.295 seconds
+Real time usage: 0.399 seconds
+Preprocessor visited node count: 896/1000000
+Post‐expand include size: 10035/2097152 bytes
+Template argument size: 2210/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3912/5000000 bytes
+Lua time usage: 0.190/10.000 seconds
+Lua memory usage: 4156907/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  371.486      1 -total
+ 42.64%  158.402      1 Vorlage:Infobox_Software
+ 29.47%  109.483      1 Vorlage:Literatur
+ 26.42%   98.145      2 Vorlage:Internetquelle
+ 12.58%   46.728      4 Vorlage:Lang
+  3.94%   14.631      2 Vorlage:Str_len
+-->
+
+<!-- Saved in parser cache with key dewiki:stable-pcache:idhash:5382110-0!canonical and timestamp 20210329232612 and revision id 202905916. Serialized with JSON.
+ -->
+</div><noscript><img src="//de.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Abgerufen von „<a dir="ltr" href="https://de.wikipedia.org/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;oldid=202905916">https://de.wikipedia.org/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;oldid=202905916</a>“</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Wikipedia:Kategorien" title="Wikipedia:Kategorien">Kategorien</a>: <ul><li><a href="/wiki/Kategorie:Data-Mining" title="Kategorie:Data-Mining">Data-Mining</a></li><li><a href="/wiki/Kategorie:Freie_Software" title="Kategorie:Freie Software">Freie Software</a></li><li><a href="/wiki/Kategorie:Java-Bibliothek" title="Kategorie:Java-Bibliothek">Java-Bibliothek</a></li><li><a href="/wiki/Kategorie:Klassifizierung" title="Kategorie:Klassifizierung">Klassifizierung</a></li><li><a href="/wiki/Kategorie:Maschinelles_Lernen" title="Kategorie:Maschinelles Lernen">Maschinelles Lernen</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigationsmenü</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" class="vector-menu-heading">
+		<span>Meine Werkzeuge</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Nicht angemeldet</li><li id="pt-anontalk"><a href="/wiki/Spezial:Meine_Diskussionsseite" title="Diskussion über Änderungen von dieser IP-Adresse [n]" accesskey="n">Diskussionsseite</a></li><li id="pt-anoncontribs"><a href="/wiki/Spezial:Meine_Beitr%C3%A4ge" title="Eine Liste der Bearbeitungen, die von dieser IP-Adresse gemacht wurden [y]" accesskey="y">Beiträge</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Spezial:Benutzerkonto_anlegen&amp;returnto=Waikato+Environment+for+Knowledge+Analysis" title="Wir ermutigen dich dazu, ein Benutzerkonto zu erstellen und dich anzumelden. Es ist jedoch nicht zwingend erforderlich.">Benutzerkonto erstellen</a></li><li id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Waikato+Environment+for+Knowledge+Analysis" title="Anmelden ist zwar keine Pflicht, wird aber gerne gesehen. [o]" accesskey="o">Anmelden</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" class="vector-menu-heading">
+		<span>Namensräume</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Waikato_Environment_for_Knowledge_Analysis" title="Seiteninhalt anzeigen [c]" accesskey="c">Artikel</a></li><li id="ca-talk"><a href="/wiki/Diskussion:Waikato_Environment_for_Knowledge_Analysis" rel="discussion" title="Diskussion zum Seiteninhalt [t]" accesskey="t">Diskussion</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" class="vector-menu-heading">
+		<span>Varianten</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" class="vector-menu-heading">
+		<span>Ansichten</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Waikato_Environment_for_Knowledge_Analysis">Lesen</a></li><li id="ca-ve-edit"><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;veaction=edit" title="Diese Seite mit dem VisualEditor bearbeiten [v]" accesskey="v">Bearbeiten</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;action=edit" title="Diese Seite bearbeiten [e]" accesskey="e">Quelltext bearbeiten</a></li><li id="ca-history"><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;action=history" title="Frühere Versionen dieser Seite [h]" accesskey="h">Versionsgeschichte</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" class="vector-menu-heading">
+		<span>Weitere</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" >
+	<h3 >
+		<label for="searchInput">Suche</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch" data-search-loc="header-navigation">
+			<input type="search" name="search" placeholder="Wikipedia durchsuchen" autocapitalize="sentences" title="Durchsuche die Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Spezial:Suche"/>
+			<input type="submit" name="fulltext" value="Suchen" title="Suche nach Seiten, die diesen Text enthalten" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Artikel" title="Gehe direkt zu der Seite mit genau diesem Namen, falls sie vorhanden ist." id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Wikipedia:Hauptseite"
+			title="Hauptseite"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" class="vector-menu-heading">
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Hauptseite" title="Hauptseite besuchen [z]" accesskey="z">Hauptseite</a></li><li id="n-topics"><a href="/wiki/Portal:Wikipedia_nach_Themen">Themenportale</a></li><li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite aufrufen [x]" accesskey="x">Zufälliger Artikel</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-Mitmachen" class="mw-portlet mw-portlet-Mitmachen vector-menu vector-menu-portal portal" aria-labelledby="p-Mitmachen-label" role="navigation" 
+	 >
+	<h3 id="p-Mitmachen-label" class="vector-menu-heading">
+		<span>Mitmachen</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="n-Artikel-verbessern"><a href="/wiki/Wikipedia:Beteiligen">Artikel verbessern</a></li><li id="n-Neuerartikel"><a href="/wiki/Hilfe:Neuen_Artikel_anlegen">Neuen Artikel anlegen</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Autorenportal" title="Info-Zentrum über Beteiligungsmöglichkeiten">Autorenportal</a></li><li id="n-help"><a href="/wiki/Hilfe:%C3%9Cbersicht" title="Übersicht über Hilfeseiten">Hilfe</a></li><li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikipedia [r]" accesskey="r">Letzte Änderungen</a></li><li id="n-contact"><a href="/wiki/Wikipedia:Kontakt" title="Kontaktmöglichkeiten">Kontakt</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_de.wikipedia.org&amp;uselang=de" title="Unterstütze uns">Spenden</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" class="vector-menu-heading">
+		<span>Werkzeuge</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Waikato_Environment_for_Knowledge_Analysis" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li><li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Waikato_Environment_for_Knowledge_Analysis" rel="nofollow" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li><li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li><li id="t-permalink"><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;oldid=202905916" title="Dauerhafter Link zu dieser Seitenversion">Permanenter Link</a></li><li id="t-info"><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;action=info" title="Weitere Informationen über diese Seite">Seiten­informationen</a></li><li id="t-cite"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Waikato_Environment_for_Knowledge_Analysis&amp;id=202905916&amp;wpFormIdentifier=titleform" title="Hinweise, wie diese Seite zitiert werden kann">Artikel zitieren</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494" title="Link zum verbundenen Objekt im Datenrepositorium [g]" accesskey="g">Wikidata-Datenobjekt</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" class="vector-menu-heading">
+		<span>Drucken/­exportieren</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Spezial:Buch&amp;bookcmd=book_creator&amp;referer=Waikato+Environment+for+Knowledge+Analysis">Buch erstellen</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Spezial:DownloadAsPdf&amp;page=Waikato_Environment_for_Knowledge_Analysis&amp;action=show-download-screen">Als PDF herunterladen</a></li><li id="t-print"><a href="/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p">Druckversion</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" class="vector-menu-heading">
+		<span>In anderen Projekten</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Weka_(machine_learning)" hreflang="en">Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" class="vector-menu-heading">
+		<span>In anderen Sprachen</span>
+	</h3>
+	<div class="vector-menu-content">
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Weka_(aprenentatge_autom%C3%A0tic)" title="Weka (aprenentatge automàtic) – Katalanisch" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Weka" title="Weka – Tschechisch" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Weka_(%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7)" title="Weka (μηχανική μάθηση) – Griechisch" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Weka_(machine_learning)" title="Weka (machine learning) – Englisch" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Weka_(aprendizaje_autom%C3%A1tico)" title="Weka (aprendizaje automático) – Spanisch" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Weka_(ikasketa_automatikoa)" title="Weka (ikasketa automatikoa) – Baskisch" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DA%A9%D8%A7_(%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C_%D9%85%D8%A7%D8%B4%DB%8C%D9%86%DB%8C)" title="وکا (یادگیری ماشینی) – Persisch" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Weka_(informatique)" title="Weka (informatique) – Französisch" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Weka_(%D7%9C%D7%9E%D7%99%D7%93%D7%AA_%D7%9E%D7%9B%D7%95%D7%A0%D7%94)" title="Weka (למידת מכונה) – Hebräisch" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Weka_(pembelajaran_mesin)" title="Weka (pembelajaran mesin) – Indonesisch" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Weka" title="Weka – Italienisch" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Weka" title="Weka – Japanisch" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%A8%EC%B9%B4_(%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)" title="웨카 (기계 학습) – Koreanisch" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Weka_(software)" title="Weka (software) – Niederländisch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Weka" title="Weka – Portugiesisch" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Weka" title="Weka – Russisch" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%99%E0%B6%9A%E0%B7%8F_%E0%B6%B8%E0%B7%98%E0%B6%AF%E0%B7%94%E0%B6%9A%E0%B7%8F%E0%B6%82%E0%B6%9C%E0%B6%BA" title="වෙකා මෘදුකාංගය – Singhalesisch" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Weka_(strojno_u%C4%8Denje)" title="Weka (strojno učenje) – Slowenisch" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%81%E0%B8%B2" title="เวกา – Thailändisch" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Weka" title="Weka – Türkisch" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Weka" title="Weka – Ukrainisch" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Weka_(h%E1%BB%8Dc_m%C3%A1y)" title="Weka (học máy) – Vietnamesisch" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Weka" title="Weka – Chinesisch" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q115494#sitelinks-wikipedia" title="Links auf Artikel in anderen Sprachen bearbeiten" class="wbc-editpage">Links bearbeiten</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 19. August 2020 um 07:52 Uhr bearbeitet.</li>
+	<li id="footer-info-copyright"><div id="footer-info-copyright-stats" class="noprint"><a class="external" href="https://pageviews.toolforge.org/?pages=Waikato_Environment_for_Knowledge_Analysis&amp;project=de.wikipedia.org" rel="nofollow">Abrufstatistik</a> · <a class="external" href=" https://xtools.wmflabs.org/articleinfo-authorship/de.wikipedia.org/Waikato_Environment_for_Knowledge_Analysis?uselang=de" rel="nofollow">Autoren</a> </div><div id="footer-info-copyright-separator"><br /></div><div id="footer-info-copyright-info">
+Der Text ist unter der Lizenz <a class="internal" href="https://de.wikipedia.org/wiki/Wikipedia:Lizenzbestimmungen_Commons_Attribution-ShareAlike_3.0_Unported">„Creative Commons Attribution/Share Alike“</a> verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den <a class="internal" href="https://foundation.wikimedia.org/wiki/Terms_of_Use/de">Nutzungsbedingungen</a> und der <a class="internal" href="https://meta.wikimedia.org/wiki/Privacy_policy/de">Datenschutzrichtlinie</a> einverstanden.<br />
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.</div></li>
+</ul>
+
+	<ul id="footer-places" >
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/de" class="extiw" title="m:Privacy policy/de">Datenschutz</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia" title="Wikipedia:Über Wikipedia">Über Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Impressum" title="Wikipedia:Impressum">Impressum</a></li>
+	<li id="footer-places-mobileview"><a href="//de.m.wikipedia.org/w/index.php?title=Waikato_Environment_for_Knowledge_Analysis&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile Ansicht</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Entwickler</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/de.wikipedia.org">Statistiken</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Stellungnahme zu Cookies</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.295","walltime":"0.399","ppvisitednodes":{"value":896,"limit":1000000},"postexpandincludesize":{"value":10035,"limit":2097152},"templateargumentsize":{"value":2210,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3912,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  371.486      1 -total"," 42.64%  158.402      1 Vorlage:Infobox_Software"," 29.47%  109.483      1 Vorlage:Literatur"," 26.42%   98.145      2 Vorlage:Internetquelle"," 12.58%   46.728      4 Vorlage:Lang","  3.94%   14.631      2 Vorlage:Str_len"]},"scribunto":{"limitreport-timeusage":{"value":"0.190","limit":"10.000"},"limitreport-memusage":{"value":4156907,"limit":52428800},"limitreport-logs":"\u003Cspan class=\"Zitationsfehler Zitationswartung\" style=\"display:none\"\u003E*** Parameterformat: \u0026#39;P813\u0026#39;\u0026#61;24. September 2019 soll sein: 2019-09-24\u003C/span\u003E[[Kategorie:Wikipedia:Vorlagenfehler/Parameter:Datum]]\n"},"cachereport":{"origin":"mw1323","timestamp":"20210329232612","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Waikato Environment for Knowledge Analysis","url":"https:\/\/de.wikipedia.org\/wiki\/Waikato_Environment_for_Knowledge_Analysis","sameAs":"http:\/\/www.wikidata.org\/entity\/Q115494","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q115494","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-05-13T11:38:25Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Weka_%28software%29_logo.png","headline":"Java-Bibliothek"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":138,"wgHostname":"mw1397"});});</script>
+</body></html>
