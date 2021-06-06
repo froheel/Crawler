@@ -19,3 +19,6 @@ Jupyter notebook has been used.
 1) Creates Threads and intializes limit documents.
 2) Implements the process_data function that each thread executes
 3) Saves the mapping of url to filename as "urlTodocid.txt".
+
+## Running Code
+![CodeImage](https://github.com/froheel/Crawler/blob/main/RunningCode.PNG)
