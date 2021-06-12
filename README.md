@@ -1,6 +1,13 @@
 # Crawler
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 A Web crawler designed to download .xml files from the urls it visits.
 Python along with Jupyter notebook is used and the relevant libraries are imported.
+
+## Run Code
+```
+jupyter Crawler_startercode.ipynb
+```
 
 ## URL Frontier 
 1) Takes in seed urls and implements front queue and back queues. 
